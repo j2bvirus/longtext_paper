@@ -1,0 +1,22 @@
+Here are the answers to your 20 questions based on the provided transcript:
+
+Q01: \boxed{20}
+Q02: \boxed{15}
+Q03: \boxed{49}
+Q04: \boxed{5}
+Q05: \boxed{159}
+Q06: \boxed{Firebolt, Cure Wounds, Pass Without a Trace, Enhance Ability, Suggestion, Greater Restoration, Transport via Plants, Transport via Plants, Hallucinatory Terrain, Transport via Plants, Lay on Hands, Control Water, Scrying, Haste, Foresight, Disintegrate, Dimension Door, Dimension Door, Cure Wounds, Counterspell,Plane Shift, Bless, Cure Wounds, Pass Without a Trace}
+Q07: \boxed{Cure Wounds}
+Q08: \boxed{Locate Creature}
+Q09: \boxed{217}
+Q10: \boxed{4}
+Q11: \boxed{92}
+Q12: \boxed{211}
+Q13: \boxed{6}
+Q14: \boxed{Cure Wounds, Pass Without a Trace}
+Q15: \boxed{5}
+Q16: \boxed{37}
+Q17: \boxed{2}
+Q18: \boxed{Dimension Door, Lay on Hands, Bless, Bless}
+Q19: \boxed{123}
+Q20: \boxed{5}

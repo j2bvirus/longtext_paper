@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "Step 3 records Arab World’s 2008 gross savings value as 45.0115272556071.",
+  "evidence": "steps [3, 15, 16]"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "Step 0 excludes aggregates and regions, and Step 2 identifies Africa Eastern and Southern as an aggregate.",
+  "evidence": "steps [0, 2, 15, 16]"
+ },
+ "Q0002": {
+  "label": "ambiguous",
+  "reason": "Step 4 contains unrelated CEO information, but the shown steps do not establish that it caused the internal state corruption.",
+  "evidence": "steps [4, 15, 16]"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "Step 0 explicitly requires every yearly value to be strictly greater than 35.0 and excludes values equal to 35.0.",
+  "evidence": "steps [0, 2, 15, 16]"
+ },
+ "Q0004": {
+  "label": "ambiguous",
+  "reason": "Step 0 supplies content, file_path, and mode, but no tool schema establishes which parameters are mandatory.",
+  "evidence": "steps [0, 1, 15, 16]"
+ },
+ "Q0005": {
+  "label": "not auditable",
+  "reason": "names no step",
+  "evidence": ""
+ },
+ "Q0006": {
+  "label": "ambiguous",
+  "reason": "Step 5 is not shown, so its retrieval success and the last successful turn cannot be verified.",
+  "evidence": "steps [3, 5, 15, 16]"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "Afghanistan’s adminregion value exactly matches the reference answer in Step 2.",
+  "evidence": "steps [2, 15, 16]"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "Step 3 records AFE’s value for 2001 as null.",
+  "evidence": "steps [3, 15, 16]"
+ },
+ "Q0009": {
+  "label": "not auditable",
+  "reason": "names no step",
+  "evidence": ""
+ },
+ "Q0010": {
+  "label": "ambiguous",
+  "reason": "Step 4 shows an unrelated OpenAI CEO completion note, but the preceding World Bank data fetch and claimed context break are not shown.",
+  "evidence": "steps [4, 15, 16]"
+ },
+ "Q0011": {
+  "label": "ambiguous",
+  "reason": "Turn 5 and the claimed Turn 2 “blocked” explanation are not shown, so redundancy and inconsistency cannot be verified.",
+  "evidence": "steps [2, 3, 5, 15, 16]"
+ }
+}

@@ -1,0 +1,111 @@
+{
+ "d0": {
+  "chars": 41909,
+  "tokens_cl100k": 11207,
+  "sha256": "2c99513b50f159c8dd7f43a290ad7047ed0112d53cef693b0e6230337b382900"
+ },
+ "d0.25": {
+  "chars": 68549,
+  "tokens_cl100k": 17222,
+  "sha256": "6448c40192be1614ce21bc3d24ba2b4cbd22385b1e2613f1349aed7c1d841605"
+ },
+ "d0.5": {
+  "chars": 110477,
+  "tokens_cl100k": 26917,
+  "sha256": "f580b6482bbd0d2220aa573c3a094233de191c387bef08c7e8c47d0f2819e368"
+ },
+ "d1": {
+  "chars": 157222,
+  "tokens_cl100k": 37763,
+  "sha256": "c8dbdb2a6b920b50e9940fd4dd74e5f523ee811467e7ccd3a66f65aa002007d3"
+ },
+ "d2": {
+  "chars": 288111,
+  "tokens_cl100k": 67087,
+  "sha256": "86b0196476a6e9643efe62f0bd89e63f8e72c30e7cb6ad7db992ec362155771f"
+ },
+ "d4": {
+  "chars": 608647,
+  "tokens_cl100k": 141570,
+  "sha256": "db58391352cfa2bf2598431cd0913af40eacaefed08bd6d0cf9d83814696bb13"
+ },
+ "n_events": 375,
+ "event_types": {
+  "INIT_FAMILY": 10,
+  "MARRY": 22,
+  "INIT_PERSON": 45,
+  "INIT_ITEM": 12,
+  "INIT_SECRET": 8,
+  "RULE_VAULT": 1,
+  "RULE_BRIDGE": 1,
+  "RULE_HEIR": 1,
+  "OCCUPATION": 10,
+  "PROMISE": 23,
+  "GIVE": 39,
+  "TELL": 41,
+  "TRAVEL": 94,
+  "PLAN": 10,
+  "RUMOR": 13,
+  "DEATH": 13,
+  "RESOLVE": 8,
+  "BIRTH": 23,
+  "SEEN_ALIVE": 1
+ },
+ "n_persons": 76,
+ "n_questions": 265,
+ "qtypes": {
+  "LOC_NOW": 24,
+  "LOC_AT_EVENT": 13,
+  "SPOUSE_NOW": 25,
+  "ALIVE": 25,
+  "OWNER_NOW": 12,
+  "OWNER_PREV": 10,
+  "GRANDPARENT": 23,
+  "KNOWS": 25,
+  "PROMISE": 23,
+  "RULE_VAULT": 2,
+  "RULE_BRIDGE": 12,
+  "EVER_VISITED": 22,
+  "BIRTHPLACE": 24,
+  "OCCUPATION_NOW": 25
+ },
+ "answer_dist": {
+  "ALIVE": {
+   "no": 12,
+   "yes": 13
+  },
+  "BIRTHPLACE": {
+   "unknown": 12
+  },
+  "EVER_VISITED": {
+   "yes": 12,
+   "no": 10
+  },
+  "GRANDPARENT": {},
+  "KNOWS": {
+   "yes": 12,
+   "no": 13
+  },
+  "LOC_AT_EVENT": {},
+  "LOC_NOW": {},
+  "OCCUPATION_NOW": {},
+  "OWNER_NOW": {},
+  "OWNER_PREV": {},
+  "PROMISE": {
+   "pending": 15,
+   "broken": 5,
+   "kept": 3
+  },
+  "RULE_BRIDGE": {
+   "yes": 7,
+   "no": 5
+  },
+  "RULE_VAULT": {
+   "yes": 1,
+   "no": 1
+  },
+  "SPOUSE_NOW": {
+   "none": 2
+  }
+ }
+}

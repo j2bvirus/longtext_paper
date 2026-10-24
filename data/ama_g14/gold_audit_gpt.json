@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ambiguous",
+  "reason": "Steps 8 and 9 record and confirm the 13-country list, but the shown steps do not establish which turn caused the search to narrow.",
+  "evidence": "steps [8, 9, 54, 55]"
+ },
+ "Q0001": {
+  "label": "ambiguous",
+  "reason": "The shown steps do not reveal the agent’s internal counting method or how it would handle the hypothetical sovereign port.",
+  "evidence": "steps [10, 54, 55]"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "Step 6 identifies Japan as a constitutional monarchy and the oldest continuous hereditary monarchy in the world.",
+  "evidence": "steps [5, 6, 7, 54, 55]"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "Step 8 saved quotations, source URLs, and the list of 13 Asian monarchy candidates with country-page URLs before the country fetch in Step 10.",
+  "evidence": "steps [8, 10, 54, 55]"
+ },
+ "Q0004": {
+  "label": "ambiguous",
+  "reason": "Steps 0 and 9 use integers, but no schema establishes the required data type for step_index.",
+  "evidence": "steps [0, 9, 54, 55]"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "Step 13 identifies Jordan’s Red Sea coastline and its shoreline on the Gulf of Aqaba.",
+  "evidence": "steps [13, 54, 55]"
+ },
+ "Q0006": {
+  "label": "ambiguous",
+  "reason": "Steps 9–14 are omitted, so a later successful file save before Turn 15 cannot be ruled out.",
+  "evidence": "steps [1, 8, 15, 54, 55]"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "Step 12 identifies Bahrain as an island country in the Persian Gulf and explicitly confirms its coastline, establishing sea access.",
+  "evidence": "steps [12, 54, 55]"
+ },
+ "Q0008": {
+  "label": "ambiguous",
+  "reason": "Step 5 is the last shown search, but omitted steps and no product-description searches prevent establishing the final query update.",
+  "evidence": "steps [1, 5, 6, 54, 55]"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "Step 0 defines this geographic scope, with an additional restriction to monarchies.",
+  "evidence": "steps [0, 1, 54, 55]"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "Step 1 returned fragmented historical and non-sovereign monarchy results; Step 6 provided the current sovereign monarchy list and the count of 13 in Asia.",
+  "evidence": "steps [1, 6, 54, 55]"
+ },
+ "Q0011": {
+  "label": "ambiguous",
+  "reason": "Steps 10 and 15 confirm Bhutan is landlocked and Cambodia has a coastline; intervening observations are omitted, and Jordan’s coastline appears in Step 54.",
+  "evidence": "steps [10, 15, 54, 55]"
+ }
+}

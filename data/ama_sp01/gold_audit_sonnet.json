@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "Step 2 ran exactly that `ls -la` on the CYBERSYN directory.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "Steps 11, 16, 17 and 18 match the reference; Step 18 is where IDDEPINR and ESTINS are surfaced.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "Step 22 values such as 0.5156 are fractions, so `(1 - v) * 100` is the right formula and Step 23's extra `/100` is wrong.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "Step 21 filters `IS_ACTIVE = TRUE` and `CATEGORY = 'Bank'` on the entities table.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "The join key, same-date, variable-code, scale and active-bank preconditions are all reasonable and tied to Step 22.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "The scale, NULL, date-alignment and filter conditions are valid for the Step 23 ranking.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "This is a reasonable strategic suggestion grounded in Steps 8–10 and 16–18.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "Step 18 is the last step that changes the agent's understanding of the variable code.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "The three timeouts share one 30-second error, while Steps 22 and 26 are lighter queries that succeed; the reference admits this is an inference.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "The stored values look like fractions, and both the `/100` in Step 23 and the `100 -` in Step 25 assume a 0–100 scale.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "The counts check out: 3 tables, 7 SQL successes and 3 timeouts, 15 bash calls (3 failed) and 10 SQL calls.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "The key observations, the minimal sequence and the redundant steps are consistent with the trajectory.",
+  "evidence": "whole trajectory"
+ }
+}

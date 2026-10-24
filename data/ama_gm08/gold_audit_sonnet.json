@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "North, North, East is correct. The \"3 steps at start of step 84\" detail is slightly off, since the table was 4 away after step 83.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "Move West at step 21 turned the agent to face the water so `Do` could work. The agent was already beside the water, so \"moved to the tile next to water\" is loose wording.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "Move East would have turned the agent to face the zombie, and `Do` would then attack it a turn earlier.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "Sleeping restores energy, which matches the observation text.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "Move North at steps 84 and 85 took the table from 3 to 2 steps, and step 86 then reached 1.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "Move West was the precondition for drinking at step 22.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "The table is stationary and only the agent's movement changed the observed distance.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "Drinking water replenishes the hidden thirst meter.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "Energy is the resource restored while sleeping.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "Steps 85 and 86 were the direct progress. Step 83 moved away, step 84 corrected it, and step 87 moved away again.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "Move West at step 21 turned the agent to face the water that `Do` needed. It was already adjacent, so \"positioned adjacent\" is slightly loose.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "Step 86 placed the agent adjacent to the table, while step 85 left it 2 steps away.",
+  "evidence": "whole trajectory"
+ }
+}

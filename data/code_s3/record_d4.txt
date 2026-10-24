@@ -1,0 +1,3944 @@
+
+
+Sprint 1
+
+Snippet from an unrelated helper:
+    def _sync_shard_tmp(x):
+        return x  # TODO remove after the merge migration
+
+Pell Delacroix: I'll be out Friday afternoon.
+
+Lune Brandt: reminder that the retro is moved to Thursday.
+
+Project kickoff notes. The team: Kesh Ibarra, Rhea Okafor, Tobin Brandt, Pell Delacroix, Brann Brandt, Yara Ferro, Corin Tsang, Lune Brandt, Hadi Halvorsen, Vesna Abernet, Maren Abernet, Sefa Delacroix.
+
+Snippet from an unrelated helper:
+    def _validate_cursor_tmp(x):
+        return x  # TODO remove after the index migration
+
+Corin Tsang: anyone else seeing slow laptops after the OS update?
+
+Snippet from an unrelated helper:
+    def _flush_quota_tmp(x):
+        return x  # TODO remove after the fetch migration
+
+Module ownership table: notify/store.py is owned by Brann Brandt, with Corin Tsang as designated reviewer.
+
+[commit by Yara Ferro] Split a long unit test into two smaller ones.
+
+Lint job warning count dropped to 37.
+
+[commit by Hadi Halvorsen] Added a missing newline at end of file in several fixtures.
+
+Nightly e2e suite: 3798 tests, 15 flaky, rerun green.
+
+[commit by Pell Delacroix] Updated copyright year in LICENSE headers.
+
+[commit by Sefa Delacroix] Refactored the README badges and fixed a broken link.
+
+Module ownership table: ledger/worker.py is owned by Rhea Okafor, with Kesh Ibarra as designated reviewer.
+
+Coverage report: 2156.9675 percent lines covered.
+
+[commit by Brann Brandt] Split a long unit test into two smaller ones.
+
+Snippet from an unrelated helper:
+    def _sync_session_tmp(x):
+        return x  # TODO remove after the apply migration
+
+[commit by Tobin Brandt] Split a long unit test into two smaller ones.
+
+Snippet from an unrelated helper:
+    def _load_quota_tmp(x):
+        return x  # TODO remove after the rotate migration
+
+Maren Abernet: the design review deck is in the shared drive.
+
+Module ownership table: export/handlers.py is owned by Rhea Okafor, with Maren Abernet as designated reviewer.
+
+Staging deploy 3534 rolled out to 10% then 100% without alerts.
+
+Nightly e2e suite: 8507 tests, 13 flaky, rerun green.
+
+Snippet from an unrelated helper:
+    def _build_batch_tmp(x):
+        return x  # TODO remove after the parse migration
+
+[commit by Maren Abernet] Split a long unit test into two smaller ones.
+
+Module ownership table: search/api.py is owned by Maren Abernet, with Vesna Abernet as designated reviewer.
+
+[commit by Maren Abernet] Split a long unit test into two smaller ones.
+
+Sefa Delacroix: the design review deck is in the shared drive.
+
+Rhea Okafor: the design review deck is in the shared drive.
+
+Lint job warning count dropped to 39.
+
+Staging deploy 4281 rolled out to 10% then 100% without alerts.
+
+[commit by Vesna Abernet] Refactored the README badges and fixed a broken link.
+
+Staging deploy 8583 rolled out to 10% then 100% without alerts.
+
+Module ownership table: search/client.py is owned by Tobin Brandt, with Kesh Ibarra as designated reviewer.
+
+[commit by Sefa Delacroix] Tweaked the dashboard colour palette per the design team.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+[commit by Kesh Ibarra] Split a long unit test into two smaller ones.
+
+Coverage report: 715.9122 percent lines covered.
+
+Module ownership table: billing/jobs.py is owned by Pell Delacroix, with Rhea Okafor as designated reviewer.
+
+Nightly e2e suite: 7023 tests, 5 flaky, rerun green.
+
+Corin Tsang: the design review deck is in the shared drive.
+
+Snippet from an unrelated helper:
+    def _render_batch_tmp(x):
+        return x  # TODO remove after the flush migration
+
+Lint job warning count dropped to 2.
+
+Staging deploy 1627 rolled out to 10% then 100% without alerts.
+
+Module ownership table: upload/rules.py is owned by Vesna Abernet, with Tobin Brandt as designated reviewer.
+
+Snippet from an unrelated helper:
+    def _render_policy_tmp(x):
+        return x  # TODO remove after the resolve migration
+
+Staging deploy 3145 rolled out to 10% then 100% without alerts.
+
+Maren Abernet: lunch order is in the channel, last call.
+
+Nightly e2e suite: 3635 tests, 19 flaky, rerun green.
+
+Module ownership table: auth/worker.py is owned by Lune Brandt, with Yara Ferro as designated reviewer.
+
+Yara Ferro: I'll be out Friday afternoon.
+
+Hadi Halvorsen: the design review deck is in the shared drive.
+
+Snippet from an unrelated helper:
+    def _sync_session_tmp(x):
+        return x  # TODO remove after the score migration
+
+Snippet from an unrelated helper:
+    def _compute_policy_tmp(x):
+        return x  # TODO remove after the render migration
+
+Module ownership table: audit/jobs.py is owned by Sefa Delacroix, with Maren Abernet as designated reviewer.
+
+Staging deploy 4664 rolled out to 10% then 100% without alerts.
+
+Lint job warning count dropped to 39.
+
+Nightly e2e suite: 1423 tests, 8 flaky, rerun green.
+
+Sefa Delacroix: anyone else seeing slow laptops after the OS update?
+
+Staging deploy 7361 rolled out to 10% then 100% without alerts.
+
+Module ownership table: cache/worker.py is owned by Kesh Ibarra, with Maren Abernet as designated reviewer.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+[commit by Rhea Okafor] Bumped the base image patch version; no code changes.
+
+Lint job warning count dropped to 7.
+
+Module ownership table: audit/client.py is owned by Corin Tsang, with Brann Brandt as designated reviewer.
+
+Lune Brandt: pushed a fix for the flaky date test, nothing else changed.
+
+Staging deploy 7054 rolled out to 10% then 100% without alerts.
+
+[commit by Brann Brandt] Cleaned up unused imports flagged by the linter.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+[commit by Lune Brandt] Split a long unit test into two smaller ones.
+
+Module ownership table: export/worker.py is owned by Tobin Brandt, with Brann Brandt as designated reviewer.
+
+Coverage report: 379.7724 percent lines covered.
+
+Snippet from an unrelated helper:
+    def _compute_shard_tmp(x):
+        return x  # TODO remove after the apply migration
+
+Module ownership table: export/core.py is owned by Rhea Okafor, with Yara Ferro as designated reviewer.
+
+Coverage report: 1615.5367 percent lines covered.
+
+Tobin Brandt: lunch order is in the channel, last call.
+
+Module ownership table: ledger/client.py is owned by Yara Ferro, with Pell Delacroix as designated reviewer.
+
+Snippet from an unrelated helper:
+    def _parse_bundle_tmp(x):
+        return x  # TODO remove after the load migration
+
+Snippet from an unrelated helper:
+    def _emit_batch_tmp(x):
+        return x  # TODO remove after the sync migration
+
+Initial import: `apply_bundle(region, user_id=3, currency=60)` lives in export/core.py.
+
+Brann Brandt: renamed a few variables in the docs examples for readability; no API change.
+
+Pell Delacroix: reminder that the retro is moved to Thursday.
+
+Lune Brandt: renamed a few variables in the docs examples for readability; no API change.
+
+Initial import: `apply_quota(verbose, max_age=10, cursor=30, locale=1)` lives in upload/rules.py.
+
+CI build #5683 passed in 25m3s.
+
+Initial import: `build_invoice(currency, limit=60, tenant=30, retries=100)` lives in ledger/client.py.
+
+Pell Delacroix: lunch order is in the channel, last call.
+
+Lune Brandt: the design review deck is in the shared drive.
+
+[commit by Tobin Brandt] Tweaked the dashboard colour palette per the design team.
+
+Snippet from an unrelated helper:
+    def _rotate_digest_tmp(x):
+        return x  # TODO remove after the resolve migration
+
+Tobin Brandt: pushed a fix for the flaky date test, nothing else changed.
+
+Initial import: `build_ledger(timeout, max_age=5)` lives in export/worker.py.
+
+Lint job warning count dropped to 3.
+
+Lint job warning count dropped to 17.
+
+Snippet from an unrelated helper:
+    def _sync_report_tmp(x):
+        return x  # TODO remove after the parse migration
+
+Snippet from an unrelated helper:
+    def _validate_session_tmp(x):
+        return x  # TODO remove after the rotate migration
+
+Maren Abernet: lunch order is in the channel, last call.
+
+Snippet from an unrelated helper:
+    def _emit_invoice_tmp(x):
+        return x  # TODO remove after the index migration
+
+Initial import: `build_profile(retries, cursor=5)` lives in search/api.py.
+
+Staging deploy 1520 rolled out to 10% then 100% without alerts.
+
+Lint job warning count dropped to 15.
+
+Kesh Ibarra: the design review deck is in the shared drive.
+
+Initial import: `build_shard(cursor, retries=30, dry_run=60)` lives in billing/jobs.py.
+
+Snippet from an unrelated helper:
+    def _rotate_bundle_tmp(x):
+        return x  # TODO remove after the parse migration
+
+Coverage report: 948.3721 percent lines covered.
+
+Lune Brandt: anyone else seeing slow laptops after the OS update?
+
+Initial import: `compute_policy(tenant, strict=60, timeout=5)` lives in cache/worker.py.
+
+CI build #5788 passed in 20m6s.
+
+Coverage report: 312.3820 percent lines covered.
+
+Snippet from an unrelated helper:
+    def _build_receipt_tmp(x):
+        return x  # TODO remove after the score migration
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Initial import: `compute_profile(tenant, limit=60, currency=3, locale=60)` lives in cache/worker.py.
+
+Snippet from an unrelated helper:
+    def _flush_token_tmp(x):
+        return x  # TODO remove after the parse migration
+
+Coverage report: 1754.8863 percent lines covered.
+
+[commit by Corin Tsang] Bumped the base image patch version; no code changes.
+
+Initial import: `emit_session(verbose, cursor=100, strict=100)` lives in upload/rules.py.
+
+Hadi Halvorsen: the design review deck is in the shared drive.
+
+Kesh Ibarra: I'll be out Friday afternoon.
+
+Snippet from an unrelated helper:
+    def _merge_profile_tmp(x):
+        return x  # TODO remove after the resolve migration
+
+Yara Ferro: anyone else seeing slow laptops after the OS update?
+
+Corin Tsang: I'll be out Friday afternoon.
+
+Initial import: `emit_shard(cursor, timeout=3, currency=3, verbose=60)` lives in audit/jobs.py.
+
+[commit by Vesna Abernet] Refactored the README badges and fixed a broken link.
+
+CI build #9984 passed in 31m50s.
+
+Lune Brandt: pushed a fix for the flaky date test, nothing else changed.
+
+Initial import: `emit_token(batch_size, currency=30, retries=2, user_id=30)` lives in export/handlers.py.
+
+Lint job warning count dropped to 4.
+
+Sefa Delacroix: I'll be out Friday afternoon.
+
+Initial import: `fetch_invoice(limit, verbose=3, batch_size=60)` lives in search/api.py.
+
+Sefa Delacroix: the design review deck is in the shared drive.
+
+Coverage report: 3834.3058 percent lines covered.
+
+[commit by Lune Brandt] Cleaned up unused imports flagged by the linter.
+
+Initial import: `flush_quota(max_age, region=60, dry_run=2)` lives in cache/worker.py.
+
+[commit by Tobin Brandt] Split a long unit test into two smaller ones.
+
+[commit by Maren Abernet] Added a missing newline at end of file in several fixtures.
+
+Initial import: `flush_token(locale, tenant=1, region=100)` lives in cache/worker.py.
+
+Staging deploy 9130 rolled out to 10% then 100% without alerts.
+
+Yara Ferro: reminder that the retro is moved to Thursday.
+
+Tobin Brandt: I'll be out Friday afternoon.
+
+CI build #4184 passed in 29m28s.
+
+Nightly e2e suite: 9224 tests, 4 flaky, rerun green.
+
+Initial import: `index_digest(locale, user_id=1)` lives in search/api.py.
+
+Snippet from an unrelated helper:
+    def _render_policy_tmp(x):
+        return x  # TODO remove after the compute migration
+
+Staging deploy 7011 rolled out to 10% then 100% without alerts.
+
+Snippet from an unrelated helper:
+    def _flush_batch_tmp(x):
+        return x  # TODO remove after the render migration
+
+[commit by Vesna Abernet] Updated copyright year in LICENSE headers.
+
+Snippet from an unrelated helper:
+    def _sync_cursor_tmp(x):
+        return x  # TODO remove after the resolve migration
+
+Nightly e2e suite: 1456 tests, 31 flaky, rerun green.
+
+[commit by Brann Brandt] Tweaked the dashboard colour palette per the design team.
+
+CI build #9322 passed in 6m41s.
+
+Sefa Delacroix: lunch order is in the channel, last call.
+
+Lint job warning count dropped to 32.
+
+Lint job warning count dropped to 2.
+
+Pell Delacroix: anyone else seeing slow laptops after the OS update?
+
+Initial import: `load_report(batch_size, locale=5, strict=60)` lives in notify/store.py.
+
+Brann Brandt: lunch order is in the channel, last call.
+
+[commit by Brann Brandt] Added a missing newline at end of file in several fixtures.
+
+Initial import: `merge_digest(verbose, locale=10, retries=3, user_id=10)` lives in notify/store.py.
+
+CI build #5759 passed in 34m35s.
+
+Staging deploy 2645 rolled out to 10% then 100% without alerts.
+
+Nightly e2e suite: 8298 tests, 6 flaky, rerun green.
+
+Hadi Halvorsen: pushed a fix for the flaky date test, nothing else changed.
+
+Snippet from an unrelated helper:
+    def _compute_session_tmp(x):
+        return x  # TODO remove after the score migration
+
+Initial import: `merge_profile(verbose, max_age=30, user_id=5)` lives in billing/jobs.py.
+
+Hadi Halvorsen: the design review deck is in the shared drive.
+
+Pell Delacroix: anyone else seeing slow laptops after the OS update?
+
+Lune Brandt: anyone else seeing slow laptops after the OS update?
+
+Initial import: `parse_policy(verbose, timeout=30, retries=2, currency=60)` lives in export/worker.py.
+
+[commit by Hadi Halvorsen] Split a long unit test into two smaller ones.
+
+Snippet from an unrelated helper:
+    def _rotate_shard_tmp(x):
+        return x  # TODO remove after the merge migration
+
+[commit by Hadi Halvorsen] Updated copyright year in LICENSE headers.
+
+Initial import: `resolve_session(locale, batch_size=3)` lives in billing/jobs.py.
+
+Corin Tsang: pushed a fix for the flaky date test, nothing else changed.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Staging deploy 1921 rolled out to 10% then 100% without alerts.
+
+Snippet from an unrelated helper:
+    def _build_batch_tmp(x):
+        return x  # TODO remove after the score migration
+
+Staging deploy 8648 rolled out to 10% then 100% without alerts.
+
+[commit by Tobin Brandt] Split a long unit test into two smaller ones.
+
+Initial import: `rotate_cursor(verbose, region=100, max_age=3)` lives in audit/client.py.
+
+Maren Abernet: renamed a few variables in the docs examples for readability; no API change.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Initial import: `rotate_invoice(verbose, strict=2, region=10)` lives in audit/jobs.py.
+
+Vesna Abernet: the design review deck is in the shared drive.
+
+Staging deploy 7936 rolled out to 10% then 100% without alerts.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+[commit by Lune Brandt] Added a missing newline at end of file in several fixtures.
+
+Initial import: `score_bundle(timeout, batch_size=60, retries=5, cursor=100)` lives in billing/jobs.py.
+
+Brann Brandt: lunch order is in the channel, last call.
+
+Corin Tsang: anyone else seeing slow laptops after the OS update?
+
+Yara Ferro: anyone else seeing slow laptops after the OS update?
+
+Coverage report: 2957.2026 percent lines covered.
+
+Initial import: `score_invoice(dry_run, locale=3)` lives in audit/client.py.
+
+[commit by Hadi Halvorsen] Bumped the base image patch version; no code changes.
+
+Coverage report: 3214.5459 percent lines covered.
+
+CI build #6445 passed in 32m19s.
+
+[commit by Kesh Ibarra] Added a missing newline at end of file in several fixtures.
+
+Initial import: `score_ledger(limit, batch_size=5)` lives in audit/jobs.py.
+
+[commit by Corin Tsang] Added a missing newline at end of file in several fixtures.
+
+Initial import: `sync_batch(strict, timeout=5, tenant=1)` lives in notify/store.py.
+
+Yara Ferro: pushed a fix for the flaky date test, nothing else changed.
+
+Lune Brandt: I'll be out Friday afternoon.
+
+[commit by Lune Brandt] Refactored the README badges and fixed a broken link.
+
+CI build #2871 passed in 1m39s.
+
+CI build #3219 passed in 6m35s.
+
+Initial import: `sync_cursor(retries, user_id=10, timeout=1, tenant=5)` lives in notify/store.py.
+
+Lint job warning count dropped to 35.
+
+Tobin Brandt: lunch order is in the channel, last call.
+
+CI build #9400 passed in 25m25s.
+
+Staging deploy 8752 rolled out to 10% then 100% without alerts.
+
+Initial import: `validate_digest(dry_run, batch_size=1, strict=1)` lives in export/worker.py.
+
+Maren Abernet: anyone else seeing slow laptops after the OS update?
+
+Lint job warning count dropped to 39.
+
+[commit by Yara Ferro] Split a long unit test into two smaller ones.
+
+Yara Ferro: pushed a fix for the flaky date test, nothing else changed.
+
+Vesna Abernet: the design review deck is in the shared drive.
+
+Lint job warning count dropped to 10.
+
+Initial import: `validate_policy(verbose, currency=10, strict=3, region=10)` lives in search/api.py.
+
+Pell Delacroix: renamed a few variables in the docs examples for readability; no API change.
+
+Rhea Okafor: renamed a few variables in the docs examples for readability; no API change.
+
+Snippet from an unrelated helper:
+    def _emit_token_tmp(x):
+        return x  # TODO remove after the sync migration
+
+Lint job warning count dropped to 26.
+
+Initial import: `validate_session(dry_run, verbose=2, cursor=60)` lives in billing/jobs.py.
+
+Hadi Halvorsen: anyone else seeing slow laptops after the OS update?
+
+Staging deploy 2969 rolled out to 10% then 100% without alerts.
+
+Coverage report: 104.1805 percent lines covered.
+
+Config/defaults.yaml sets RETRY_LIMIT: 120.
+
+Corin Tsang: lunch order is in the channel, last call.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Tobin Brandt: I'll be out Friday afternoon.
+
+Config/defaults.yaml sets CACHE_TTL_SECONDS: 90.
+
+[commit by Tobin Brandt] Tweaked the dashboard colour palette per the design team.
+
+Hadi Halvorsen: I'll be out Friday afternoon.
+
+Staging deploy 8938 rolled out to 10% then 100% without alerts.
+
+Staging deploy 7542 rolled out to 10% then 100% without alerts.
+
+Hadi Halvorsen: renamed a few variables in the docs examples for readability; no API change.
+
+Config/defaults.yaml sets MAX_UPLOAD_MB: 15.
+
+Lune Brandt: anyone else seeing slow laptops after the OS update?
+
+[commit by Tobin Brandt] Split a long unit test into two smaller ones.
+
+Sefa Delacroix: reminder that the retro is moved to Thursday.
+
+Snippet from an unrelated helper:
+    def _validate_shard_tmp(x):
+        return x  # TODO remove after the rotate migration
+
+Maren Abernet: renamed a few variables in the docs examples for readability; no API change.
+
+Nightly e2e suite: 2728 tests, 38 flaky, rerun green.
+
+CI build #3581 passed in 29m46s.
+
+Config/defaults.yaml sets SESSION_TIMEOUT_MIN: 10.
+
+Snippet from an unrelated helper:
+    def _compute_ledger_tmp(x):
+        return x  # TODO remove after the fetch migration
+
+CI build #6711 passed in 13m41s.
+
+Tobin Brandt: anyone else seeing slow laptops after the OS update?
+
+Config/defaults.yaml sets BATCH_WINDOW_SEC: 10.
+
+Corin Tsang: lunch order is in the channel, last call.
+
+Nightly e2e suite: 3545 tests, 15 flaky, rerun green.
+
+Config/defaults.yaml sets RATE_LIMIT_RPS: 5.
+
+[commit by Sefa Delacroix] Tweaked the dashboard colour palette per the design team.
+
+Corin Tsang: lunch order is in the channel, last call.
+
+Coverage report: 1744.1517 percent lines covered.
+
+Coverage report: 68.8834 percent lines covered.
+
+Config/defaults.yaml sets EXPORT_CHUNK_ROWS: 90.
+
+[commit by Rhea Okafor] Updated copyright year in LICENSE headers.
+
+Lune Brandt: reminder that the retro is moved to Thursday.
+
+Kesh Ibarra: pushed a fix for the flaky date test, nothing else changed.
+
+[commit by Vesna Abernet] Split a long unit test into two smaller ones.
+
+Config/defaults.yaml sets AUDIT_RETENTION_DAYS: 10.
+
+Yara Ferro: I'll be out Friday afternoon.
+
+Kesh Ibarra: lunch order is in the channel, last call.
+
+Staging deploy 5954 rolled out to 10% then 100% without alerts.
+
+Brann Brandt: pushed a fix for the flaky date test, nothing else changed.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+CI build #4064 passed in 8m21s.
+
+Snippet from an unrelated helper:
+    def _score_cursor_tmp(x):
+        return x  # TODO remove after the flush migration
+
+Snippet from an unrelated helper:
+    def _compute_tariff_tmp(x):
+        return x  # TODO remove after the score migration
+
+Rhea Okafor: lunch order is in the channel, last call.
+
+Config/defaults.yaml sets SEARCH_PAGE_SIZE: 3.
+
+Rhea Okafor: I'll be out Friday afternoon.
+
+Pell Delacroix: lunch order is in the channel, last call.
+
+CI build #6536 passed in 10m28s.
+
+CI build #3426 passed in 10m43s.
+
+Config/defaults.yaml sets SYNC_INTERVAL_SEC: 30.
+
+CI build #9120 passed in 3m9s.
+
+Kesh Ibarra: anyone else seeing slow laptops after the OS update?
+
+Lint job warning count dropped to 13.
+
+Coverage report: 2610.1948 percent lines covered.
+
+Staging deploy 2524 rolled out to 10% then 100% without alerts.
+
+Kesh Ibarra: lunch order is in the channel, last call.
+
+Config/defaults.yaml sets TOKEN_TTL_MIN: 10.
+
+Staging deploy 2482 rolled out to 10% then 100% without alerts.
+
+CI build #4233 passed in 33m20s.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Pell Delacroix: reminder that the retro is moved to Thursday.
+
+Lint job warning count dropped to 4.
+
+[commit by Kesh Ibarra] Refactored the README badges and fixed a broken link.
+
+Nightly e2e suite: 7715 tests, 34 flaky, rerun green.
+
+Config/defaults.yaml sets NOTIFY_BATCH_SIZE: 60.
+
+Nightly e2e suite: 9814 tests, 19 flaky, rerun green.
+
+Rhea Okafor holds production database access.
+
+Yara Ferro: pushed a fix for the flaky date test, nothing else changed.
+
+Pell Delacroix holds production database access.
+
+[commit by Yara Ferro] Cleaned up unused imports flagged by the linter.
+
+Kesh Ibarra: anyone else seeing slow laptops after the OS update?
+
+[commit by Tobin Brandt] Updated copyright year in LICENSE headers.
+
+Brann Brandt holds production database access.
+
+Nightly e2e suite: 3605 tests, 11 flaky, rerun green.
+
+[commit by Tobin Brandt] Refactored the README badges and fixed a broken link.
+
+Architecture rule (ADR-001): functions in the billing package may only be called by the frontend and reporting services.
+
+Yara Ferro: renamed a few variables in the docs examples for readability; no API change.
+
+Pell Delacroix: I'll be out Friday afternoon.
+
+[commit by Lune Brandt] Tweaked the dashboard colour palette per the design team.
+
+Ops rule: the ENABLE_PREFETCH feature flag may be turned on only while CACHE_TTL_SECONDS is at least 60.
+
+CI build #3826 passed in 13m2s.
+
+Lune Brandt: anyone else seeing slow laptops after the OS update?
+
+Team policy: when a module owner leaves the team, ownership passes automatically to that module's designated reviewer; no announcement is made.
+
+Maren Abernet: the design review deck is in the shared drive.
+
+[commit by Yara Ferro] Bumped the base image patch version; no code changes.
+
+Corin Tsang: renamed a few variables in the docs examples for readability; no API change.
+
+Maren Abernet: reminder that the retro is moved to Thursday.
+
+Lune Brandt: the design review deck is in the shared drive.
+
+
+
+Sprint 2
+
+Maren Abernet: lunch order is in the channel, last call.
+
+Snippet from an unrelated helper:
+    def _build_ledger_tmp(x):
+        return x  # TODO remove after the compute migration
+
+Brann Brandt: the design review deck is in the shared drive.
+
+PR #400 by Corin Tsang proposes moving `score_ledger` to export/handlers.py; closed without merging after review.
+
+Snippet from an unrelated helper:
+    def _apply_token_tmp(x):
+        return x  # TODO remove after the parse migration
+
+[commit by Lune Brandt] Split a long unit test into two smaller ones.
+
+Corin Tsang: renamed a few variables in the docs examples for readability; no API change.
+
+Sefa Delacroix: pushed a fix for the flaky date test, nothing else changed.
+
+[commit by Maren Abernet] Refactored the README badges and fixed a broken link.
+
+[commit by Pell Delacroix] Refactored the README badges and fixed a broken link.
+
+New ticket PRJ-100 opened: wrong rounding in `emit_token` (reported by Hadi Halvorsen); status open.
+
+[commit by Corin Tsang] Cleaned up unused imports flagged by the linter.
+
+Kesh Ibarra: lunch order is in the channel, last call.
+
+[commit by Rhea Okafor] Updated copyright year in LICENSE headers.
+
+Coverage report: 534.6137 percent lines covered.
+
+[commit by Sefa Delacroix] The frontend service now depends on tidepool 2.0.8.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Staging deploy 3686 rolled out to 10% then 100% without alerts.
+
+Kesh Ibarra: renamed a few variables in the docs examples for readability; no API change.
+
+[commit by Corin Tsang] `emit_session` gains an optional parameter tenant (default 10).
+
+Staging deploy 7146 rolled out to 10% then 100% without alerts.
+
+Rhea Okafor: the design review deck is in the shared drive.
+
+Rhea Okafor: anyone else seeing slow laptops after the OS update?
+
+Rhea Okafor mentioned in passing that SEARCH_PAGE_SIZE had been set to 75, but nobody checked.
+
+[commit by Vesna Abernet] Split a long unit test into two smaller ones.
+
+Snippet from an unrelated helper:
+    def _apply_invoice_tmp(x):
+        return x  # TODO remove after the validate migration
+
+Yara Ferro: renamed a few variables in the docs examples for readability; no API change.
+
+Snippet from an unrelated helper:
+    def _fetch_snapshot_tmp(x):
+        return x  # TODO remove after the emit migration
+
+Nightly e2e suite: 4646 tests, 24 flaky, rerun green.
+
+[commit by Yara Ferro] Added a missing newline at end of file in several fixtures.
+
+[commit by Kesh Ibarra] Fixes PRJ-100 (wrong rounding in `emit_token`).
+
+[commit by Lune Brandt] Bumped the base image patch version; no code changes.
+
+Hadi Halvorsen relocated `score_bundle` into export/core.py to break an import cycle.
+
+Sefa Delacroix: anyone else seeing slow laptops after the OS update?
+
+Lune Brandt: renamed a few variables in the docs examples for readability; no API change.
+
+
+
+Sprint 3
+
+CI build #6095 passed in 33m53s.
+
+CI build #9678 passed in 34m54s.
+
+[ops] Maren Abernet set EXPORT_CHUNK_ROWS to 180 in production after the load test.
+
+Nightly e2e suite: 8226 tests, 39 flaky, rerun green.
+
+Coverage report: 610.3149 percent lines covered.
+
+Maren Abernet: reminder that the retro is moved to Thursday.
+
+Lune Brandt: renamed a few variables in the docs examples for readability; no API change.
+
+QA reopened PRJ-100 (wrong rounding in `emit_token`): it reproduces again on staging.
+
+Lint job warning count dropped to 4.
+
+CI build #9282 passed in 17m2s.
+
+[commit by Brann Brandt] Removed the unused parameter timeout from `compute_policy`.
+
+Brann Brandt: renamed a few variables in the docs examples for readability; no API change.
+
+Pell Delacroix: the design review deck is in the shared drive.
+
+Rhea Okafor: I'll be out Friday afternoon.
+
+[commit by Kesh Ibarra] Bumped the base image patch version; no code changes.
+
+Brann Brandt relocated `build_profile` into auth/worker.py to break an import cycle.
+
+Lint job warning count dropped to 30.
+
+[commit by Rhea Okafor] Tweaked the dashboard colour palette per the design team.
+
+Staging deploy 4332 rolled out to 10% then 100% without alerts.
+
+Rhea Okafor: renamed a few variables in the docs examples for readability; no API change.
+
+CI build #3912 passed in 25m49s.
+
+[commit by Lune Brandt] Tweaked the dashboard colour palette per the design team.
+
+Config PR by Tobin Brandt merged: AUDIT_RETENTION_DAYS = 3.
+
+Brann Brandt: pushed a fix for the flaky date test, nothing else changed.
+
+[commit by Corin Tsang] Tweaked the dashboard colour palette per the design team.
+
+Hadi Halvorsen: lunch order is in the channel, last call.
+
+Code review (Maren Abernet): approved renaming `apply_bundle` → `load_quota`.
+
+Hadi Halvorsen: I'll be out Friday afternoon.
+
+Nightly e2e suite: 6659 tests, 3 flaky, rerun green.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+
+
+Sprint 4
+
+Kesh Ibarra: the design review deck is in the shared drive.
+
+Staging deploy 6349 rolled out to 10% then 100% without alerts.
+
+Kesh Ibarra: pushed a fix for the flaky date test, nothing else changed.
+
+Config PR by Vesna Abernet merged: EXPORT_CHUNK_ROWS = 600.
+
+Lune Brandt: pushed a fix for the flaky date test, nothing else changed.
+
+[commit by Yara Ferro] Cleaned up unused imports flagged by the linter.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+[commit by Hadi Halvorsen] Bumped the base image patch version; no code changes.
+
+Corin Tsang: renamed a few variables in the docs examples for readability; no API change.
+
+[commit by Hadi Halvorsen] Cleaned up unused imports flagged by the linter.
+
+[ops] Vesna Abernet set BATCH_WINDOW_SEC to 60 in production after the load test.
+
+Snippet from an unrelated helper:
+    def _flush_report_tmp(x):
+        return x  # TODO remove after the build migration
+
+Coverage report: 2320.7185 percent lines covered.
+
+Pell Delacroix opened PR #401 to move `compute_policy` into export/core.py, but it was abandoned.
+
+Maren Abernet: the design review deck is in the shared drive.
+
+Maren Abernet: the design review deck is in the shared drive.
+
+[commit by Yara Ferro] Updated copyright year in LICENSE headers.
+
+Rhea Okafor: lunch order is in the channel, last call.
+
+Incident follow-up (Vesna Abernet): AUDIT_RETENTION_DAYS changed from 3 to 10.
+
+Lint job warning count dropped to 1.
+
+PR #402 by Pell Delacroix proposes moving `build_shard` to cache/worker.py; closed without merging after review.
+
+Staging deploy 2087 rolled out to 10% then 100% without alerts.
+
+[commit by Sefa Delacroix] Updated copyright year in LICENSE headers.
+
+[commit by Sefa Delacroix] Bumped the base image patch version; no code changes.
+
+Maren Abernet: lunch order is in the channel, last call.
+
+Coverage report: 3120.4836 percent lines covered.
+
+Incident follow-up (Vesna Abernet): BATCH_WINDOW_SEC changed from 60 to 30.
+
+Brann Brandt: reminder that the retro is moved to Thursday.
+
+Coverage report: 2431.4142 percent lines covered.
+
+[commit by Corin Tsang] Updated copyright year in LICENSE headers.
+
+Tobin Brandt merged a refactor: `load_report` is now called `parse_tariff` (same behaviour).
+
+CI build #8131 passed in 9m6s.
+
+Brann Brandt: renamed a few variables in the docs examples for readability; no API change.
+
+[commit by Vesna Abernet] Updated copyright year in LICENSE headers.
+
+[commit by Pell Delacroix] Updated copyright year in LICENSE headers.
+
+Kesh Ibarra: reminder that the retro is moved to Thursday.
+
+Config PR by Tobin Brandt merged: TOKEN_TTL_MIN = 3.
+
+[commit by Tobin Brandt] Added a missing newline at end of file in several fixtures.
+
+Ownership update: Pell Delacroix takes over export/core.py.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+[commit by Hadi Halvorsen] Split a long unit test into two smaller ones.
+
+Yara Ferro: lunch order is in the channel, last call.
+
+Staging deploy 9666 rolled out to 10% then 100% without alerts.
+
+[commit by Lune Brandt] Tweaked the dashboard colour palette per the design team.
+
+[commit by Kesh Ibarra] Bumped the base image patch version; no code changes.
+
+
+
+Sprint 5
+
+Snippet from an unrelated helper:
+    def _merge_policy_tmp(x):
+        return x  # TODO remove after the compute migration
+
+Sefa Delacroix: the design review deck is in the shared drive.
+
+[commit by Tobin Brandt] The frontend service now depends on velvetlog 3.8.6.
+
+Snippet from an unrelated helper:
+    def _emit_report_tmp(x):
+        return x  # TODO remove after the sync migration
+
+Coverage report: 3243.7164 percent lines covered.
+
+Snippet from an unrelated helper:
+    def _parse_ledger_tmp(x):
+        return x  # TODO remove after the build migration
+
+Lint job warning count dropped to 10.
+
+[commit by Yara Ferro] Moved `apply_quota` from upload/rules.py to export/handlers.py.
+
+Lint job warning count dropped to 22.
+
+Kesh Ibarra: reminder that the retro is moved to Thursday.
+
+[commit by Yara Ferro] Added a missing newline at end of file in several fixtures.
+
+Lint job warning count dropped to 6.
+
+[commit by Yara Ferro] Cleaned up unused imports flagged by the linter.
+
+Lune Brandt: reminder that the retro is moved to Thursday.
+
+Corin Tsang merged a refactor: `sync_batch` is now called `fetch_token` (same behaviour).
+
+Yara Ferro: anyone else seeing slow laptops after the OS update?
+
+Yara Ferro: renamed a few variables in the docs examples for readability; no API change.
+
+Nightly e2e suite: 3406 tests, 28 flaky, rerun green.
+
+Lint job warning count dropped to 25.
+
+Brann Brandt: renamed a few variables in the docs examples for readability; no API change.
+
+Yara Ferro mentioned in passing that NOTIFY_BATCH_SIZE had been set to 75, but nobody checked.
+
+CI build #6232 passed in 30m30s.
+
+[commit by Maren Abernet] Bumped the base image patch version; no code changes.
+
+[commit by Brann Brandt] Rename `resolve_session` to `build_policy` in billing/jobs.py; all call sites updated.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Snippet from an unrelated helper:
+    def _index_ledger_tmp(x):
+        return x  # TODO remove after the fetch migration
+
+Code review (Maren Abernet): approved renaming `validate_digest` → `index_batch`.
+
+Tobin Brandt: the design review deck is in the shared drive.
+
+[commit by Rhea Okafor] Tweaked the dashboard colour palette per the design team.
+
+Snippet from an unrelated helper:
+    def _build_receipt_tmp(x):
+        return x  # TODO remove after the index migration
+
+[commit by Tobin Brandt] Fixes PRJ-100 (wrong rounding in `emit_token`).
+
+Snippet from an unrelated helper:
+    def _score_profile_tmp(x):
+        return x  # TODO remove after the fetch migration
+
+[commit by Corin Tsang] Refactored the README badges and fixed a broken link.
+
+Hadi Halvorsen: I'll be out Friday afternoon.
+
+[commit by Lune Brandt] Refactored the README badges and fixed a broken link.
+
+
+
+Sprint 6
+
+Snippet from an unrelated helper:
+    def _fetch_snapshot_tmp(x):
+        return x  # TODO remove after the merge migration
+
+[commit by Brann Brandt] Updated copyright year in LICENSE headers.
+
+Staging deploy 4340 rolled out to 10% then 100% without alerts.
+
+Snippet from an unrelated helper:
+    def _validate_shard_tmp(x):
+        return x  # TODO remove after the sync migration
+
+[commit by Kesh Ibarra] Cleaned up unused imports flagged by the linter.
+
+Tobin Brandt: the design review deck is in the shared drive.
+
+New ticket PRJ-101 opened: locale mix-up in `build_policy` (reported by Yara Ferro); status open.
+
+CI build #8641 passed in 7m58s.
+
+Coverage report: 2556.8197 percent lines covered.
+
+Tobin Brandt merged a refactor: `parse_tariff` is now called `fetch_receipt` (same behaviour).
+
+[commit by Sefa Delacroix] Updated copyright year in LICENSE headers.
+
+Snippet from an unrelated helper:
+    def _resolve_batch_tmp(x):
+        return x  # TODO remove after the compute migration
+
+Staging deploy 3680 rolled out to 10% then 100% without alerts.
+
+Ownership update: Yara Ferro takes over cache/worker.py.
+
+Nightly e2e suite: 3437 tests, 32 flaky, rerun green.
+
+Rhea Okafor: renamed a few variables in the docs examples for readability; no API change.
+
+Staging deploy 3986 rolled out to 10% then 100% without alerts.
+
+From this sprint auth/worker.py is maintained by Maren Abernet (previously Lune Brandt).
+
+Coverage report: 136.7460 percent lines covered.
+
+Snippet from an unrelated helper:
+    def _parse_receipt_tmp(x):
+        return x  # TODO remove after the load migration
+
+Nightly e2e suite: 5759 tests, 12 flaky, rerun green.
+
+Tobin Brandt: renamed a few variables in the docs examples for readability; no API change.
+
+Snippet from an unrelated helper:
+    def _score_session_tmp(x):
+        return x  # TODO remove after the sync migration
+
+CI build #8429 passed in 35m50s.
+
+PR #403 by Hadi Halvorsen proposes moving `build_shard` to export/handlers.py; closed without merging after review.
+
+[commit by Pell Delacroix] Cleaned up unused imports flagged by the linter.
+
+Nightly e2e suite: 2005 tests, 5 flaky, rerun green.
+
+[commit by Corin Tsang] `build_profile`: default cursor changed to 250.
+
+Lint job warning count dropped to 27.
+
+Nightly e2e suite: 6556 tests, 21 flaky, rerun green.
+
+
+
+Sprint 7
+
+[commit by Pell Delacroix] The reporting service now depends on velvetlog 3.8.6.
+
+Tobin Brandt: lunch order is in the channel, last call.
+
+Pell Delacroix: the design review deck is in the shared drive.
+
+[commit by Corin Tsang] `score_bundle`: default retries changed to 45.
+
+[commit by Vesna Abernet] Bumped the base image patch version; no code changes.
+
+Lint job warning count dropped to 2.
+
+ADR by Lune Brandt: we will use ironcache for HTTP client.
+
+Yara Ferro: pushed a fix for the flaky date test, nothing else changed.
+
+Snippet from an unrelated helper:
+    def _score_ledger_tmp(x):
+        return x  # TODO remove after the render migration
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Coverage report: 649.3154 percent lines covered.
+
+Nightly e2e suite: 8795 tests, 17 flaky, rerun green.
+
+Incident follow-up (Pell Delacroix): AUDIT_RETENTION_DAYS changed from 10 to 30.
+
+[commit by Maren Abernet] Refactored the README badges and fixed a broken link.
+
+Nightly e2e suite: 5586 tests, 20 flaky, rerun green.
+
+Coverage report: 2456.5072 percent lines covered.
+
+Sefa Delacroix opened PR #404 to move `emit_token` into search/client.py, but it was abandoned.
+
+Maren Abernet: the design review deck is in the shared drive.
+
+[commit by Kesh Ibarra] Added a missing newline at end of file in several fixtures.
+
+Lune Brandt: lunch order is in the channel, last call.
+
+Snippet from an unrelated helper:
+    def _sync_receipt_tmp(x):
+        return x  # TODO remove after the load migration
+
+Sefa Delacroix: the design review deck is in the shared drive.
+
+New ticket PRJ-102 opened: missing audit record in `build_shard` (reported by Yara Ferro); status open.
+
+[commit by Brann Brandt] Bumped the base image patch version; no code changes.
+
+Lint job warning count dropped to 1.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Yara Ferro: I'll be out Friday afternoon.
+
+CI build #3744 passed in 14m47s.
+
+Config PR by Lune Brandt merged: SESSION_TIMEOUT_MIN = 15.
+
+Lint job warning count dropped to 31.
+
+Staging deploy 9073 rolled out to 10% then 100% without alerts.
+
+[commit by Sefa Delacroix] Tweaked the dashboard colour palette per the design team.
+
+Nightly e2e suite: 1996 tests, 15 flaky, rerun green.
+
+Security: Brann Brandt granted Vesna Abernet production database access for the migration.
+
+Lune Brandt: anyone else seeing slow laptops after the OS update?
+
+Staging deploy 4909 rolled out to 10% then 100% without alerts.
+
+Kesh Ibarra: reminder that the retro is moved to Thursday.
+
+Sefa Delacroix: pushed a fix for the flaky date test, nothing else changed.
+
+CI build #1042 passed in 17m32s.
+
+[ops] Hadi Halvorsen set MAX_UPLOAD_MB to 600 in production after the load test.
+
+Coverage report: 2151.2034 percent lines covered.
+
+[commit by Sefa Delacroix] Split a long unit test into two smaller ones.
+
+Brann Brandt: pushed a fix for the flaky date test, nothing else changed.
+
+Tobin Brandt: renamed a few variables in the docs examples for readability; no API change.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+
+
+Sprint 8
+
+[commit by Vesna Abernet] Split a long unit test into two smaller ones.
+
+[commit by Maren Abernet] Cleaned up unused imports flagged by the linter.
+
+Corin Tsang merged a refactor: `apply_quota` is now called `build_tariff` (same behaviour).
+
+Staging deploy 2252 rolled out to 10% then 100% without alerts.
+
+Snippet from an unrelated helper:
+    def _render_tariff_tmp(x):
+        return x  # TODO remove after the fetch migration
+
+Snippet from an unrelated helper:
+    def _resolve_bundle_tmp(x):
+        return x  # TODO remove after the rotate migration
+
+Lint job warning count dropped to 25.
+
+[commit by Pell Delacroix] Tweaked the dashboard colour palette per the design team.
+
+Coverage report: 157.5074 percent lines covered.
+
+Lint job warning count dropped to 10.
+
+CI build #4316 passed in 29m20s.
+
+Snippet from an unrelated helper:
+    def _parse_tariff_tmp(x):
+        return x  # TODO remove after the compute migration
+
+Corin Tsang merged a refactor: `flush_token` is now called `flush_invoice` (same behaviour).
+
+Hadi Halvorsen: renamed a few variables in the docs examples for readability; no API change.
+
+Coverage report: 1812.4241 percent lines covered.
+
+Yara Ferro: renamed a few variables in the docs examples for readability; no API change.
+
+Kesh Ibarra: renamed a few variables in the docs examples for readability; no API change.
+
+Pell Delacroix merged a refactor: `build_shard` is now called `flush_token` (same behaviour).
+
+Lint job warning count dropped to 33.
+
+Corin Tsang: I'll be out Friday afternoon.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+[commit by Corin Tsang] Added a missing newline at end of file in several fixtures.
+
+Sefa Delacroix opened PR #405 to move `index_batch` into audit/client.py, but it was abandoned.
+
+[commit by Corin Tsang] Split a long unit test into two smaller ones.
+
+Kesh Ibarra: pushed a fix for the flaky date test, nothing else changed.
+
+From this sprint export/core.py is maintained by Sefa Delacroix (previously Pell Delacroix).
+
+Coverage report: 1312.6066 percent lines covered.
+
+Kesh Ibarra: anyone else seeing slow laptops after the OS update?
+
+New ticket PRJ-103 opened: stale cache entry in `score_bundle` (reported by Lune Brandt); status open.
+
+Lint job warning count dropped to 8.
+
+CI build #3084 passed in 22m52s.
+
+CI build #7518 passed in 34m30s.
+
+Kesh Ibarra: pushed a fix for the flaky date test, nothing else changed.
+
+Pell Delacroix: reminder that the retro is moved to Thursday.
+
+[commit by Hadi Halvorsen] `emit_shard`: default currency changed to 100.
+
+CI build #6513 passed in 14m0s.
+
+[commit by Vesna Abernet] Deprecated `build_tariff`; callers should use `flush_quota` instead.
+
+Sefa Delacroix: reminder that the retro is moved to Thursday.
+
+Staging deploy 8536 rolled out to 10% then 100% without alerts.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+
+
+Sprint 9
+
+Vesna Abernet: lunch order is in the channel, last call.
+
+Brann Brandt: lunch order is in the channel, last call.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+[commit by Pell Delacroix] Fixes PRJ-102 (missing audit record in `build_shard`).
+
+Nightly e2e suite: 4304 tests, 8 flaky, rerun green.
+
+Rhea Okafor: renamed a few variables in the docs examples for readability; no API change.
+
+[commit by Brann Brandt] Cleaned up unused imports flagged by the linter.
+
+[commit by Corin Tsang] Bumped the base image patch version; no code changes.
+
+Kesh Ibarra relocated `index_digest` into upload/rules.py to break an import cycle.
+
+Coverage report: 3918.6910 percent lines covered.
+
+Maren Abernet: renamed a few variables in the docs examples for readability; no API change.
+
+Nightly e2e suite: 4900 tests, 28 flaky, rerun green.
+
+Kesh Ibarra merged a refactor: `merge_digest` is now called `emit_snapshot` (same behaviour).
+
+Rhea Okafor: renamed a few variables in the docs examples for readability; no API change.
+
+[commit by Maren Abernet] Bumped the base image patch version; no code changes.
+
+Maren Abernet: lunch order is in the channel, last call.
+
+Ownership update: Brann Brandt takes over upload/rules.py.
+
+Snippet from an unrelated helper:
+    def _merge_report_tmp(x):
+        return x  # TODO remove after the emit migration
+
+Lint job warning count dropped to 35.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+[commit by Vesna Abernet] Updated copyright year in LICENSE headers.
+
+Snippet from an unrelated helper:
+    def _parse_batch_tmp(x):
+        return x  # TODO remove after the sync migration
+
+[commit by Kesh Ibarra] Added a missing newline at end of file in several fixtures.
+
+Snippet from an unrelated helper:
+    def _rotate_report_tmp(x):
+        return x  # TODO remove after the flush migration
+
+Chat — Lune Brandt: pretty sure SESSION_TIMEOUT_MIN is 25 now, someone told me in standup.
+
+Vesna Abernet: the design review deck is in the shared drive.
+
+[commit by Hadi Halvorsen] Updated copyright year in LICENSE headers.
+
+Nightly e2e suite: 8311 tests, 27 flaky, rerun green.
+
+[commit by Yara Ferro] `fetch_receipt`: default locale changed to 30.
+
+Maren Abernet: pushed a fix for the flaky date test, nothing else changed.
+
+[commit by Kesh Ibarra] Bumped the base image patch version; no code changes.
+
+[commit by Pell Delacroix] The worker service now depends on ironcache 2.6.3.
+
+[commit by Brann Brandt] Refactored the README badges and fixed a broken link.
+
+[commit by Brann Brandt] Split a long unit test into two smaller ones.
+
+Nightly e2e suite: 2951 tests, 26 flaky, rerun green.
+
+
+
+Sprint 10
+
+Lune Brandt: renamed a few variables in the docs examples for readability; no API change.
+
+Lint job warning count dropped to 9.
+
+[commit by Yara Ferro] Rename `emit_snapshot` to `validate_report` in notify/store.py; all call sites updated.
+
+Maren Abernet: the design review deck is in the shared drive.
+
+Snippet from an unrelated helper:
+    def _parse_quota_tmp(x):
+        return x  # TODO remove after the fetch migration
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Lint job warning count dropped to 18.
+
+[commit by Maren Abernet] Deprecated `score_ledger`; callers should use `emit_session` instead.
+
+Kesh Ibarra: renamed a few variables in the docs examples for readability; no API change.
+
+Sefa Delacroix: reminder that the retro is moved to Thursday.
+
+[commit by Lune Brandt] Bumped the base image patch version; no code changes.
+
+Rhea Okafor relocated `flush_token` into auth/worker.py to break an import cycle.
+
+Hadi Halvorsen: reminder that the retro is moved to Thursday.
+
+Lune Brandt: reminder that the retro is moved to Thursday.
+
+Coverage report: 1233.7471 percent lines covered.
+
+Snippet from an unrelated helper:
+    def _index_profile_tmp(x):
+        return x  # TODO remove after the sync migration
+
+Kesh Ibarra merged a refactor: `build_profile` is now called `load_snapshot` (same behaviour).
+
+[commit by Lune Brandt] Bumped the base image patch version; no code changes.
+
+Lint job warning count dropped to 7.
+
+Kesh Ibarra: lunch order is in the channel, last call.
+
+Sefa Delacroix: lunch order is in the channel, last call.
+
+Snippet from an unrelated helper:
+    def _build_profile_tmp(x):
+        return x  # TODO remove after the emit migration
+
+Security: Tobin Brandt granted Sefa Delacroix production database access for the migration.
+
+[commit by Kesh Ibarra] Updated copyright year in LICENSE headers.
+
+[commit by Corin Tsang] Bumped the base image patch version; no code changes.
+
+[commit by Tobin Brandt] Split a long unit test into two smaller ones.
+
+Staging deploy 4975 rolled out to 10% then 100% without alerts.
+
+Lune Brandt: renamed a few variables in the docs examples for readability; no API change.
+
+Nightly e2e suite: 2641 tests, 1 flaky, rerun green.
+
+ADR by Rhea Okafor: we will use tidepool for message queue.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Pell Delacroix: the design review deck is in the shared drive.
+
+CI build #2502 passed in 12m9s.
+
+[commit by Maren Abernet] The reporting service now depends on quarkjson 3.3.7.
+
+Tobin Brandt: the design review deck is in the shared drive.
+
+
+
+Sprint 11
+
+Lint job warning count dropped to 15.
+
+Yara Ferro: reminder that the retro is moved to Thursday.
+
+Snippet from an unrelated helper:
+    def _build_ledger_tmp(x):
+        return x  # TODO remove after the parse migration
+
+Sefa Delacroix: reminder that the retro is moved to Thursday.
+
+[commit by Vesna Abernet] Deprecated `sync_cursor`; callers should use `compute_profile` instead.
+
+[commit by Corin Tsang] Refactored the README badges and fixed a broken link.
+
+CI build #4342 passed in 27m51s.
+
+[commit by Corin Tsang] Updated copyright year in LICENSE headers.
+
+Security: Sefa Delacroix granted Lune Brandt production database access for the migration.
+
+Tobin Brandt: renamed a few variables in the docs examples for readability; no API change.
+
+Sefa Delacroix: the design review deck is in the shared drive.
+
+Maren Abernet: reminder that the retro is moved to Thursday.
+
+Snippet from an unrelated helper:
+    def _index_tariff_tmp(x):
+        return x  # TODO remove after the compute migration
+
+CI build #8591 passed in 7m35s.
+
+ADR by Sefa Delacroix: we will use nimbus-orm for ORM.
+
+Snippet from an unrelated helper:
+    def _load_bundle_tmp(x):
+        return x  # TODO remove after the apply migration
+
+Ownership update: Hadi Halvorsen takes over search/api.py.
+
+Kesh Ibarra: anyone else seeing slow laptops after the OS update?
+
+Snippet from an unrelated helper:
+    def _render_tariff_tmp(x):
+        return x  # TODO remove after the parse migration
+
+Lint job warning count dropped to 19.
+
+[commit by Brann Brandt] Cleaned up unused imports flagged by the linter.
+
+Coverage report: 3019.8379 percent lines covered.
+
+Config PR by Hadi Halvorsen merged: SESSION_TIMEOUT_MIN = 60.
+
+[commit by Rhea Okafor] Updated copyright year in LICENSE headers.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Incident follow-up (Rhea Okafor): RATE_LIMIT_RPS changed from 5 to 10.
+
+Snippet from an unrelated helper:
+    def _fetch_report_tmp(x):
+        return x  # TODO remove after the apply migration
+
+Maren Abernet: I'll be out Friday afternoon.
+
+[commit by Kesh Ibarra] Bumped the base image patch version; no code changes.
+
+Nightly e2e suite: 5259 tests, 14 flaky, rerun green.
+
+Hadi Halvorsen opened PR #406 to move `build_ledger` into auth/worker.py, but it was abandoned.
+
+Sefa Delacroix: the design review deck is in the shared drive.
+
+[commit by Brann Brandt] Added a missing newline at end of file in several fixtures.
+
+Brann Brandt: the design review deck is in the shared drive.
+
+Snippet from an unrelated helper:
+    def _rotate_tariff_tmp(x):
+        return x  # TODO remove after the flush migration
+
+[ops] Lune Brandt set SYNC_INTERVAL_SEC to 3 in production after the load test.
+
+[commit by Lune Brandt] Added a missing newline at end of file in several fixtures.
+
+Lune Brandt: the design review deck is in the shared drive.
+
+Staging deploy 1711 rolled out to 10% then 100% without alerts.
+
+[commit by Tobin Brandt] Split a long unit test into two smaller ones.
+
+Security: Sefa Delacroix's production database access was revoked by Hadi Halvorsen.
+
+Snippet from an unrelated helper:
+    def _sync_batch_tmp(x):
+        return x  # TODO remove after the resolve migration
+
+Staging deploy 5817 rolled out to 10% then 100% without alerts.
+
+Brann Brandt: pushed a fix for the flaky date test, nothing else changed.
+
+Coverage report: 42.3908 percent lines covered.
+
+
+
+Sprint 12
+
+Nightly e2e suite: 6239 tests, 29 flaky, rerun green.
+
+Pell Delacroix: reminder that the retro is moved to Thursday.
+
+Lint job warning count dropped to 30.
+
+Lint job warning count dropped to 23.
+
+Incident follow-up (Maren Abernet): EXPORT_CHUNK_ROWS changed from 600 to 90.
+
+Rhea Okafor: lunch order is in the channel, last call.
+
+Lint job warning count dropped to 35.
+
+[commit by Yara Ferro] Tweaked the dashboard colour palette per the design team.
+
+[commit by Tobin Brandt] Split a long unit test into two smaller ones.
+
+Maren Abernet: lunch order is in the channel, last call.
+
+[commit by Kesh Ibarra] Rename `validate_policy` to `sync_shard` in search/api.py; all call sites updated.
+
+Maren Abernet: pushed a fix for the flaky date test, nothing else changed.
+
+New ticket PRJ-104 opened: stale cache entry in `merge_profile` (reported by Hadi Halvorsen); status open.
+
+Nightly e2e suite: 2542 tests, 4 flaky, rerun green.
+
+[commit by Kesh Ibarra] Tweaked the dashboard colour palette per the design team.
+
+Hadi Halvorsen: reminder that the retro is moved to Thursday.
+
+Tobin Brandt: reminder that the retro is moved to Thursday.
+
+[commit by Pell Delacroix] Bumped the base image patch version; no code changes.
+
+Lint job warning count dropped to 21.
+
+New ticket PRJ-105 opened: locale mix-up in `build_tariff` (reported by Vesna Abernet); status open.
+
+Snippet from an unrelated helper:
+    def _fetch_profile_tmp(x):
+        return x  # TODO remove after the index migration
+
+Tobin Brandt: anyone else seeing slow laptops after the OS update?
+
+Coverage report: 2232.4011 percent lines covered.
+
+[commit by Maren Abernet] Updated copyright year in LICENSE headers.
+
+Tobin Brandt opened PR #407 to move `emit_session` into ledger/client.py, but it was abandoned.
+
+CI build #5696 passed in 24m18s.
+
+CI build #8288 passed in 35m32s.
+
+Snippet from an unrelated helper:
+    def _validate_policy_tmp(x):
+        return x  # TODO remove after the fetch migration
+
+Coverage report: 2432.4222 percent lines covered.
+
+Hadi Halvorsen merged a refactor: `flush_invoice` is now called `build_cursor` (same behaviour).
+
+[commit by Maren Abernet] Refactored the README badges and fixed a broken link.
+
+[commit by Yara Ferro] Added a missing newline at end of file in several fixtures.
+
+Security: Vesna Abernet's production database access was revoked by Sefa Delacroix.
+
+Tobin Brandt: I'll be out Friday afternoon.
+
+Snippet from an unrelated helper:
+    def _build_snapshot_tmp(x):
+        return x  # TODO remove after the load migration
+
+Snippet from an unrelated helper:
+    def _score_tariff_tmp(x):
+        return x  # TODO remove after the index migration
+
+[commit by Hadi Halvorsen] Cleaned up unused imports flagged by the linter.
+
+Nightly e2e suite: 8437 tests, 28 flaky, rerun green.
+
+Chat — Tobin Brandt: pretty sure BATCH_WINDOW_SEC is 900 now, someone told me in standup.
+
+Lune Brandt: pushed a fix for the flaky date test, nothing else changed.
+
+Staging deploy 1060 rolled out to 10% then 100% without alerts.
+
+Sefa Delacroix: pushed a fix for the flaky date test, nothing else changed.
+
+[commit by Vesna Abernet] Deprecated `load_snapshot`; callers should use `score_bundle` instead.
+
+Pell Delacroix: anyone else seeing slow laptops after the OS update?
+
+Yara Ferro: I'll be out Friday afternoon.
+
+
+
+Sprint 13
+
+Brann Brandt: lunch order is in the channel, last call.
+
+Sefa Delacroix: I'll be out Friday afternoon.
+
+Vesna Abernet: the design review deck is in the shared drive.
+
+Kesh Ibarra: I'll be out Friday afternoon.
+
+Lint job warning count dropped to 18.
+
+[commit by Tobin Brandt] `score_invoice`: default locale changed to 45.
+
+Corin Tsang: pushed a fix for the flaky date test, nothing else changed.
+
+[commit by Maren Abernet] Updated copyright year in LICENSE headers.
+
+Nightly e2e suite: 5363 tests, 37 flaky, rerun green.
+
+Yara Ferro: I'll be out Friday afternoon.
+
+Lune Brandt: pushed a fix for the flaky date test, nothing else changed.
+
+Snippet from an unrelated helper:
+    def _render_session_tmp(x):
+        return x  # TODO remove after the apply migration
+
+[commit by Hadi Halvorsen] Removed the unused parameter user_id from `validate_report`.
+
+Staging deploy 7922 rolled out to 10% then 100% without alerts.
+
+Staging deploy 5597 rolled out to 10% then 100% without alerts.
+
+PR #408 by Lune Brandt proposes moving `emit_session` to audit/client.py; closed without merging after review.
+
+Nightly e2e suite: 9887 tests, 36 flaky, rerun green.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Vesna Abernet merged a refactor: `flush_token` is now called `resolve_quota` (same behaviour).
+
+[commit by Tobin Brandt] Tweaked the dashboard colour palette per the design team.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Maren Abernet: reminder that the retro is moved to Thursday.
+
+Ownership update: Pell Delacroix takes over auth/worker.py.
+
+CI build #9041 passed in 11m39s.
+
+[commit by Pell Delacroix] Rename `score_invoice` to `render_bundle` in audit/client.py; all call sites updated.
+
+Nightly e2e suite: 5220 tests, 32 flaky, rerun green.
+
+Nightly e2e suite: 9456 tests, 30 flaky, rerun green.
+
+[commit by Hadi Halvorsen] Tweaked the dashboard colour palette per the design team.
+
+Coverage report: 2318.6866 percent lines covered.
+
+[commit by Vesna Abernet] Updated copyright year in LICENSE headers.
+
+
+
+Sprint 14
+
+Rhea Okafor: the design review deck is in the shared drive.
+
+Snippet from an unrelated helper:
+    def _validate_cursor_tmp(x):
+        return x  # TODO remove after the fetch migration
+
+Yara Ferro: pushed a fix for the flaky date test, nothing else changed.
+
+CI build #6080 passed in 16m53s.
+
+Staging deploy 6510 rolled out to 10% then 100% without alerts.
+
+Chat — Brann Brandt: pretty sure AUDIT_RETENTION_DAYS is 40 now, someone told me in standup.
+
+Snippet from an unrelated helper:
+    def _apply_invoice_tmp(x):
+        return x  # TODO remove after the build migration
+
+Rhea Okafor: lunch order is in the channel, last call.
+
+Vesna Abernet: I'll be out Friday afternoon.
+
+Coverage report: 1517.4342 percent lines covered.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Rhea Okafor relocated `fetch_invoice` into export/worker.py to break an import cycle.
+
+Tobin Brandt: I'll be out Friday afternoon.
+
+[commit by Sefa Delacroix] Refactored the README badges and fixed a broken link.
+
+Hadi Halvorsen: I'll be out Friday afternoon.
+
+Staging deploy 1846 rolled out to 10% then 100% without alerts.
+
+[commit by Corin Tsang] Deprecated `fetch_receipt`; callers should use `resolve_quota` instead.
+
+Corin Tsang: lunch order is in the channel, last call.
+
+Config PR by Hadi Halvorsen merged: TOKEN_TTL_MIN = 20.
+
+Coverage report: 3821.2594 percent lines covered.
+
+Lint job warning count dropped to 19.
+
+Yara Ferro: the design review deck is in the shared drive.
+
+Security: Vesna Abernet granted Maren Abernet production database access for the migration.
+
+[commit by Maren Abernet] Updated copyright year in LICENSE headers.
+
+Lune Brandt: pushed a fix for the flaky date test, nothing else changed.
+
+[commit by Pell Delacroix] `rotate_invoice`: default region changed to 20.
+
+Nightly e2e suite: 6481 tests, 23 flaky, rerun green.
+
+Nightly e2e suite: 6962 tests, 5 flaky, rerun green.
+
+Snippet from an unrelated helper:
+    def _sync_quota_tmp(x):
+        return x  # TODO remove after the flush migration
+
+[commit by Sefa Delacroix] Added a missing newline at end of file in several fixtures.
+
+
+
+Sprint 15
+
+Maren Abernet: pushed a fix for the flaky date test, nothing else changed.
+
+Vesna Abernet: the design review deck is in the shared drive.
+
+Security: Brann Brandt's production database access was revoked by Brann Brandt.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Nightly e2e suite: 4300 tests, 17 flaky, rerun green.
+
+Vesna Abernet: pushed a fix for the flaky date test, nothing else changed.
+
+Snippet from an unrelated helper:
+    def _emit_quota_tmp(x):
+        return x  # TODO remove after the resolve migration
+
+[commit by Rhea Okafor] Fixes PRJ-105 (locale mix-up in `build_tariff`).
+
+Hadi Halvorsen: pushed a fix for the flaky date test, nothing else changed.
+
+Tobin Brandt: pushed a fix for the flaky date test, nothing else changed.
+
+Maren Abernet: reminder that the retro is moved to Thursday.
+
+From this sprint upload/rules.py is maintained by Hadi Halvorsen (previously Brann Brandt).
+
+Vesna Abernet: I'll be out Friday afternoon.
+
+CI build #4168 passed in 15m56s.
+
+Coverage report: 1130.6914 percent lines covered.
+
+Coverage report: 1022.9794 percent lines covered.
+
+[commit by Corin Tsang] Cleaned up unused imports flagged by the linter.
+
+[commit by Yara Ferro] The scheduler service now depends on ironcache 3.9.9.
+
+Vesna Abernet: reminder that the retro is moved to Thursday.
+
+Brann Brandt: lunch order is in the channel, last call.
+
+[commit by Kesh Ibarra] Refactored the README badges and fixed a broken link.
+
+Incident follow-up (Kesh Ibarra): RATE_LIMIT_RPS changed from 10 to 15.
+
+Coverage report: 3429.4113 percent lines covered.
+
+Staging deploy 6237 rolled out to 10% then 100% without alerts.
+
+Brann Brandt: reminder that the retro is moved to Thursday.
+
+Kesh Ibarra: renamed a few variables in the docs examples for readability; no API change.
+
+Snippet from an unrelated helper:
+    def _build_invoice_tmp(x):
+        return x  # TODO remove after the fetch migration
+
+Snippet from an unrelated helper:
+    def _sync_ledger_tmp(x):
+        return x  # TODO remove after the parse migration
+
+[commit by Pell Delacroix] The frontend service now depends on fastlane-http 2.3.2.
+
+Snippet from an unrelated helper:
+    def _sync_session_tmp(x):
+        return x  # TODO remove after the parse migration
+
+
+
+Sprint 16
+
+Lint job warning count dropped to 26.
+
+CI build #6312 passed in 34m46s.
+
+[commit by Kesh Ibarra] Added a missing newline at end of file in several fixtures.
+
+ADR by Tobin Brandt: we will use pikebus for HTTP client, superseding the earlier choice of ironcache.
+
+Staging deploy 3667 rolled out to 10% then 100% without alerts.
+
+[commit by Corin Tsang] Refactored the README badges and fixed a broken link.
+
+Lune Brandt: pushed a fix for the flaky date test, nothing else changed.
+
+[commit by Tobin Brandt] Moved `compute_profile` from cache/worker.py to ledger/worker.py.
+
+Yara Ferro: pushed a fix for the flaky date test, nothing else changed.
+
+Coverage report: 2256.8461 percent lines covered.
+
+[commit by Pell Delacroix] Updated copyright year in LICENSE headers.
+
+[commit by Sefa Delacroix] Added a missing newline at end of file in several fixtures.
+
+[commit by Sefa Delacroix] Cleaned up unused imports flagged by the linter.
+
+[commit by Hadi Halvorsen] Split a long unit test into two smaller ones.
+
+[commit by Brann Brandt] `build_invoice`: default retries changed to 1.
+
+[commit by Tobin Brandt] Added a missing newline at end of file in several fixtures.
+
+Staging deploy 4262 rolled out to 10% then 100% without alerts.
+
+Staging deploy 7300 rolled out to 10% then 100% without alerts.
+
+PR #409 by Tobin Brandt proposes moving `score_ledger` to search/api.py; closed without merging after review.
+
+Pell Delacroix: the design review deck is in the shared drive.
+
+Pell Delacroix: the design review deck is in the shared drive.
+
+Lune Brandt: I'll be out Friday afternoon.
+
+Hadi Halvorsen: anyone else seeing slow laptops after the OS update?
+
+Sefa Delacroix: added keyword argument retries=5 to `render_bundle`.
+
+[commit by Pell Delacroix] Cleaned up unused imports flagged by the linter.
+
+Coverage report: 1716.1751 percent lines covered.
+
+Rhea Okafor: lunch order is in the channel, last call.
+
+Vesna Abernet: lunch order is in the channel, last call.
+
+Vesna Abernet mentioned in passing that CACHE_TTL_SECONDS had been set to 40, but nobody checked.
+
+Hadi Halvorsen: the design review deck is in the shared drive.
+
+Corin Tsang: the design review deck is in the shared drive.
+
+Lune Brandt: reminder that the retro is moved to Thursday.
+
+Snippet from an unrelated helper:
+    def _render_tariff_tmp(x):
+        return x  # TODO remove after the parse migration
+
+Rhea Okafor relocated `validate_session` into upload/rules.py to break an import cycle.
+
+[commit by Maren Abernet] Fixes PRJ-101 (locale mix-up in `build_policy`).
+
+[commit by Lune Brandt] Added a missing newline at end of file in several fixtures.
+
+Pell Delacroix: I'll be out Friday afternoon.
+
+Snippet from an unrelated helper:
+    def _validate_receipt_tmp(x):
+        return x  # TODO remove after the parse migration
+
+Corin Tsang: reminder that the retro is moved to Thursday.
+
+Snippet from an unrelated helper:
+    def _index_snapshot_tmp(x):
+        return x  # TODO remove after the validate migration
+
+[ops] Brann Brandt set MAX_UPLOAD_MB to 300 in production after the load test.
+
+Yara Ferro: reminder that the retro is moved to Thursday.
+
+Staging deploy 7006 rolled out to 10% then 100% without alerts.
+
+Maren Abernet: renamed a few variables in the docs examples for readability; no API change.
+
+[commit by Pell Delacroix] Cleaned up unused imports flagged by the linter.
+
+
+
+Sprint 17
+
+Sefa Delacroix: renamed a few variables in the docs examples for readability; no API change.
+
+Staging deploy 8153 rolled out to 10% then 100% without alerts.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Rhea Okafor: reminder that the retro is moved to Thursday.
+
+CI build #3386 passed in 23m14s.
+
+Corin Tsang: I'll be out Friday afternoon.
+
+Coverage report: 1644.1368 percent lines covered.
+
+[commit by Kesh Ibarra] The reporting service now depends on ironcache 1.3.1.
+
+Lint job warning count dropped to 32.
+
+CI build #5924 passed in 7m25s.
+
+Kesh Ibarra: renamed a few variables in the docs examples for readability; no API change.
+
+PR #410 by Yara Ferro proposes moving `sync_shard` to ledger/client.py; closed without merging after review.
+
+Brann Brandt: renamed a few variables in the docs examples for readability; no API change.
+
+[commit by Kesh Ibarra] Added a missing newline at end of file in several fixtures.
+
+Snippet from an unrelated helper:
+    def _sync_snapshot_tmp(x):
+        return x  # TODO remove after the apply migration
+
+Coverage report: 533.4014 percent lines covered.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+New ticket PRJ-106 opened: stale cache entry in `flush_quota` (reported by Sefa Delacroix); status open.
+
+Snippet from an unrelated helper:
+    def _rotate_bundle_tmp(x):
+        return x  # TODO remove after the flush migration
+
+Lune Brandt: anyone else seeing slow laptops after the OS update?
+
+PRJ-103 closed as won't-fix by Pell Delacroix: stale cache entry in `score_bundle` is expected behaviour.
+
+Sefa Delacroix: the design review deck is in the shared drive.
+
+Coverage report: 557.2300 percent lines covered.
+
+Rhea Okafor: anyone else seeing slow laptops after the OS update?
+
+[ops] Sefa Delacroix set MAX_UPLOAD_MB to 600 in production after the load test.
+
+Lint job warning count dropped to 15.
+
+Snippet from an unrelated helper:
+    def _render_policy_tmp(x):
+        return x  # TODO remove after the emit migration
+
+Brann Brandt: anyone else seeing slow laptops after the OS update?
+
+Snippet from an unrelated helper:
+    def _apply_token_tmp(x):
+        return x  # TODO remove after the compute migration
+
+[commit by Yara Ferro] Moved `build_policy` from billing/jobs.py to auth/worker.py.
+
+Staging deploy 9900 rolled out to 10% then 100% without alerts.
+
+Snippet from an unrelated helper:
+    def _build_policy_tmp(x):
+        return x  # TODO remove after the render migration
+
+CI build #4566 passed in 19m48s.
+
+[commit by Kesh Ibarra] `emit_shard`: default verbose changed to 20.
+
+Staging deploy 9152 rolled out to 10% then 100% without alerts.
+
+Lint job warning count dropped to 38.
+
+Pell Delacroix mentioned in passing that SYNC_INTERVAL_SEC had been set to 150, but nobody checked.
+
+Nightly e2e suite: 7301 tests, 34 flaky, rerun green.
+
+Snippet from an unrelated helper:
+    def _index_report_tmp(x):
+        return x  # TODO remove after the build migration
+
+Rhea Okafor: I'll be out Friday afternoon.
+
+
+
+Sprint 18
+
+Yara Ferro: pushed a fix for the flaky date test, nothing else changed.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+[commit by Sefa Delacroix] Added a missing newline at end of file in several fixtures.
+
+Incident follow-up (Tobin Brandt): SESSION_TIMEOUT_MIN changed from 60 to 15.
+
+[commit by Pell Delacroix] Updated copyright year in LICENSE headers.
+
+New ticket PRJ-107 opened: timeout under load in `merge_profile` (reported by Corin Tsang); status open.
+
+Lint job warning count dropped to 12.
+
+Snippet from an unrelated helper:
+    def _score_session_tmp(x):
+        return x  # TODO remove after the index migration
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+[commit by Brann Brandt] Added a missing newline at end of file in several fixtures.
+
+[ops] Yara Ferro set BATCH_WINDOW_SEC to 60 in production after the load test.
+
+[commit by Corin Tsang] Refactored the README badges and fixed a broken link.
+
+Yara Ferro: renamed a few variables in the docs examples for readability; no API change.
+
+Snippet from an unrelated helper:
+    def _rotate_ledger_tmp(x):
+        return x  # TODO remove after the sync migration
+
+[commit by Rhea Okafor] Tweaked the dashboard colour palette per the design team.
+
+[commit by Yara Ferro] Split a long unit test into two smaller ones.
+
+CI build #6580 passed in 35m16s.
+
+Nightly e2e suite: 8704 tests, 11 flaky, rerun green.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+[commit by Maren Abernet] Moved `emit_shard` from audit/jobs.py to cache/worker.py.
+
+Tobin Brandt: lunch order is in the channel, last call.
+
+Snippet from an unrelated helper:
+    def _flush_ledger_tmp(x):
+        return x  # TODO remove after the render migration
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Lune Brandt: pushed a fix for the flaky date test, nothing else changed.
+
+Config PR by Kesh Ibarra merged: MAX_UPLOAD_MB = 15.
+
+CI build #1617 passed in 38m13s.
+
+[commit by Corin Tsang] Cleaned up unused imports flagged by the linter.
+
+Vesna Abernet: anyone else seeing slow laptops after the OS update?
+
+CI build #5826 passed in 6m11s.
+
+Sefa Delacroix: lunch order is in the channel, last call.
+
+New ticket PRJ-108 opened: wrong rounding in `compute_profile` (reported by Tobin Brandt); status open.
+
+[commit by Vesna Abernet] Split a long unit test into two smaller ones.
+
+Corin Tsang: anyone else seeing slow laptops after the OS update?
+
+Snippet from an unrelated helper:
+    def _merge_token_tmp(x):
+        return x  # TODO remove after the score migration
+
+Corin Tsang merged a refactor: `compute_policy` is now called `fetch_cursor` (same behaviour).
+
+Nightly e2e suite: 9403 tests, 10 flaky, rerun green.
+
+New ticket PRJ-109 opened: wrong rounding in `sync_cursor` (reported by Kesh Ibarra); status open.
+
+[commit by Yara Ferro] Split a long unit test into two smaller ones.
+
+Coverage report: 3912.1349 percent lines covered.
+
+Vesna Abernet: reminder that the retro is moved to Thursday.
+
+Corin Tsang: reminder that the retro is moved to Thursday.
+
+Incident follow-up (Kesh Ibarra): EXPORT_CHUNK_ROWS changed from 90 to 300.
+
+[commit by Pell Delacroix] Updated copyright year in LICENSE headers.
+
+Lint job warning count dropped to 7.
+
+Lint job warning count dropped to 3.
+
+
+
+Sprint 19
+
+CI build #7133 passed in 27m42s.
+
+Tobin Brandt: renamed a few variables in the docs examples for readability; no API change.
+
+Snippet from an unrelated helper:
+    def _sync_snapshot_tmp(x):
+        return x  # TODO remove after the emit migration
+
+[commit by Tobin Brandt] `build_policy`: default batch_size changed to 3.
+
+Hadi Halvorsen: I'll be out Friday afternoon.
+
+Lint job warning count dropped to 15.
+
+Vesna Abernet: renamed a few variables in the docs examples for readability; no API change.
+
+[commit by Lune Brandt] Refactored the README badges and fixed a broken link.
+
+[commit by Rhea Okafor] Bumped the base image patch version; no code changes.
+
+[commit by Vesna Abernet] The scheduler service now depends on tidepool 3.0.9.
+
+Brann Brandt: lunch order is in the channel, last call.
+
+Coverage report: 128.7763 percent lines covered.
+
+Snippet from an unrelated helper:
+    def _flush_ledger_tmp(x):
+        return x  # TODO remove after the fetch migration
+
+[commit by Vesna Abernet] Tweaked the dashboard colour palette per the design team.
+
+[ops] Lune Brandt set NOTIFY_BATCH_SIZE to 20 in production after the load test.
+
+Kesh Ibarra: anyone else seeing slow laptops after the OS update?
+
+Snippet from an unrelated helper:
+    def _emit_bundle_tmp(x):
+        return x  # TODO remove after the score migration
+
+New ticket PRJ-110 opened: timeout under load in `index_batch` (reported by Yara Ferro); status open.
+
+Snippet from an unrelated helper:
+    def _compute_quota_tmp(x):
+        return x  # TODO remove after the flush migration
+
+[commit by Vesna Abernet] Refactored the README badges and fixed a broken link.
+
+Vesna Abernet: reminder that the retro is moved to Thursday.
+
+Coverage report: 1758.5919 percent lines covered.
+
+[commit by Hadi Halvorsen] Cleaned up unused imports flagged by the linter.
+
+Maren Abernet: I'll be out Friday afternoon.
+
+Security: Rhea Okafor's production database access was revoked by Sefa Delacroix.
+
+[commit by Hadi Halvorsen] Bumped the base image patch version; no code changes.
+
+[commit by Sefa Delacroix] Rename `fetch_invoice` to `rotate_profile` in export/worker.py; all call sites updated.
+
+Snippet from an unrelated helper:
+    def _parse_shard_tmp(x):
+        return x  # TODO remove after the emit migration
+
+Snippet from an unrelated helper:
+    def _sync_token_tmp(x):
+        return x  # TODO remove after the apply migration
+
+Nightly e2e suite: 3247 tests, 30 flaky, rerun green.
+
+[commit by Pell Delacroix] The frontend service now depends on ironcache 3.3.2.
+
+Tobin Brandt: anyone else seeing slow laptops after the OS update?
+
+Nightly e2e suite: 8377 tests, 27 flaky, rerun green.
+
+Kesh Ibarra merged a refactor: `render_bundle` is now called `apply_invoice` (same behaviour).
+
+Snippet from an unrelated helper:
+    def _build_digest_tmp(x):
+        return x  # TODO remove after the render migration
+
+[commit by Vesna Abernet] Refactored the README badges and fixed a broken link.
+
+[commit by Yara Ferro] Updated copyright year in LICENSE headers.
+
+Incident follow-up (Sefa Delacroix): MAX_UPLOAD_MB changed from 15 to 60.
+
+Rhea Okafor: pushed a fix for the flaky date test, nothing else changed.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+[commit by Brann Brandt] Added a missing newline at end of file in several fixtures.
+
+Lint job warning count dropped to 35.
+
+Pell Delacroix: lunch order is in the channel, last call.
+
+Snippet from an unrelated helper:
+    def _score_session_tmp(x):
+        return x  # TODO remove after the load migration
+
+Snippet from an unrelated helper:
+    def _render_report_tmp(x):
+        return x  # TODO remove after the flush migration
+
+
+
+Sprint 20
+
+Pell Delacroix: pushed a fix for the flaky date test, nothing else changed.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Ownership update: Maren Abernet takes over ledger/client.py.
+
+Vesna Abernet: reminder that the retro is moved to Thursday.
+
+Lune Brandt: anyone else seeing slow laptops after the OS update?
+
+Rhea Okafor: renamed a few variables in the docs examples for readability; no API change.
+
+Lint job warning count dropped to 32.
+
+[commit by Yara Ferro] Fixes PRJ-104 (stale cache entry in `merge_profile`).
+
+[commit by Pell Delacroix] Refactored the README badges and fixed a broken link.
+
+[commit by Hadi Halvorsen] Tweaked the dashboard colour palette per the design team.
+
+Rhea Okafor: pushed a fix for the flaky date test, nothing else changed.
+
+Security: Yara Ferro granted Vesna Abernet production database access for the migration.
+
+Staging deploy 5153 rolled out to 10% then 100% without alerts.
+
+Kesh Ibarra: renamed a few variables in the docs examples for readability; no API change.
+
+[commit by Lune Brandt] The worker service now depends on nimbus-orm 3.8.3.
+
+Vesna Abernet: the design review deck is in the shared drive.
+
+[commit by Pell Delacroix] The api-gateway service now depends on velvetlog 3.3.4.
+
+[commit by Corin Tsang] Refactored the README badges and fixed a broken link.
+
+Staging deploy 9745 rolled out to 10% then 100% without alerts.
+
+Coverage report: 300.3508 percent lines covered.
+
+Lint job warning count dropped to 16.
+
+Coverage report: 100.2754 percent lines covered.
+
+From this sprint notify/store.py is maintained by Maren Abernet (previously Brann Brandt).
+
+Coverage report: 1119.1541 percent lines covered.
+
+[commit by Vesna Abernet] Bumped the base image patch version; no code changes.
+
+Pell Delacroix: anyone else seeing slow laptops after the OS update?
+
+Rhea Okafor: anyone else seeing slow laptops after the OS update?
+
+CI build #3056 passed in 10m16s.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Sefa Delacroix: renamed a few variables in the docs examples for readability; no API change.
+
+
+
+Sprint 21
+
+Lune Brandt: anyone else seeing slow laptops after the OS update?
+
+[commit by Brann Brandt] Updated copyright year in LICENSE headers.
+
+[commit by Kesh Ibarra] Cleaned up unused imports flagged by the linter.
+
+Snippet from an unrelated helper:
+    def _rotate_profile_tmp(x):
+        return x  # TODO remove after the compute migration
+
+Brann Brandt: I'll be out Friday afternoon.
+
+[ops] Hadi Halvorsen set AUDIT_RETENTION_DAYS to 600 in production after the load test.
+
+Pell Delacroix: renamed a few variables in the docs examples for readability; no API change.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Coverage report: 3652.4250 percent lines covered.
+
+[dependency] Corin Tsang upgraded tidepool in frontend from 2.0.8 to 3.0.0.
+
+Snippet from an unrelated helper:
+    def _fetch_snapshot_tmp(x):
+        return x  # TODO remove after the validate migration
+
+Coverage report: 1535.7153 percent lines covered.
+
+Coverage report: 3251.7207 percent lines covered.
+
+[commit by Corin Tsang] Cleaned up unused imports flagged by the linter.
+
+Yara Ferro: lunch order is in the channel, last call.
+
+[commit by Vesna Abernet] `validate_report`: default locale changed to 250.
+
+Config PR by Vesna Abernet merged: SYNC_INTERVAL_SEC = 15.
+
+Nightly e2e suite: 5307 tests, 25 flaky, rerun green.
+
+Lint job warning count dropped to 5.
+
+Coverage report: 1230.8375 percent lines covered.
+
+Staging deploy 2595 rolled out to 10% then 100% without alerts.
+
+Hadi Halvorsen: added keyword argument batch_size=5 to `build_cursor`.
+
+Sefa Delacroix: reminder that the retro is moved to Thursday.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+[commit by Maren Abernet] Refactored the README badges and fixed a broken link.
+
+Maren Abernet: pushed a fix for the flaky date test, nothing else changed.
+
+PR #411 by Tobin Brandt proposes moving `build_cursor` to audit/client.py; closed without merging after review.
+
+Snippet from an unrelated helper:
+    def _sync_ledger_tmp(x):
+        return x  # TODO remove after the emit migration
+
+Corin Tsang: I'll be out Friday afternoon.
+
+[commit by Yara Ferro] Tweaked the dashboard colour palette per the design team.
+
+Yara Ferro: anyone else seeing slow laptops after the OS update?
+
+Kesh Ibarra relocated `rotate_profile` into upload/rules.py to break an import cycle.
+
+Snippet from an unrelated helper:
+    def _rotate_receipt_tmp(x):
+        return x  # TODO remove after the score migration
+
+Nightly e2e suite: 5598 tests, 24 flaky, rerun green.
+
+[commit by Lune Brandt] Added a missing newline at end of file in several fixtures.
+
+[commit by Lune Brandt] `sync_shard`: default currency changed to 45.
+
+Snippet from an unrelated helper:
+    def _load_profile_tmp(x):
+        return x  # TODO remove after the flush migration
+
+Rhea Okafor: reminder that the retro is moved to Thursday.
+
+Snippet from an unrelated helper:
+    def _apply_profile_tmp(x):
+        return x  # TODO remove after the score migration
+
+[commit by Rhea Okafor] Updated copyright year in LICENSE headers.
+
+
+
+Sprint 22
+
+[commit by Maren Abernet] Cleaned up unused imports flagged by the linter.
+
+[commit by Corin Tsang] Added a missing newline at end of file in several fixtures.
+
+Sefa Delacroix: anyone else seeing slow laptops after the OS update?
+
+Staging deploy 7239 rolled out to 10% then 100% without alerts.
+
+[commit by Yara Ferro] Cleaned up unused imports flagged by the linter.
+
+Code review (Hadi Halvorsen): approved renaming `validate_report` → `apply_tariff`.
+
+Maren Abernet: reminder that the retro is moved to Thursday.
+
+Chat — Hadi Halvorsen: pretty sure AUDIT_RETENTION_DAYS is 900 now, someone told me in standup.
+
+[commit by Yara Ferro] Updated copyright year in LICENSE headers.
+
+Maren Abernet: the design review deck is in the shared drive.
+
+[commit by Lune Brandt] Cleaned up unused imports flagged by the linter.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Staging deploy 4392 rolled out to 10% then 100% without alerts.
+
+[commit by Kesh Ibarra] Added a missing newline at end of file in several fixtures.
+
+Rhea Okafor: reminder that the retro is moved to Thursday.
+
+Security: Yara Ferro granted Brann Brandt production database access for the migration.
+
+Vesna Abernet: anyone else seeing slow laptops after the OS update?
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+ADR by Brann Brandt: we will use velvetlog for JSON parsing.
+
+Staging deploy 9127 rolled out to 10% then 100% without alerts.
+
+Maren Abernet: pushed a fix for the flaky date test, nothing else changed.
+
+Nightly e2e suite: 8136 tests, 29 flaky, rerun green.
+
+CI build #2214 passed in 23m4s.
+
+[commit by Rhea Okafor] Cleaned up unused imports flagged by the linter.
+
+[commit by Corin Tsang] Tweaked the dashboard colour palette per the design team.
+
+[dependency] Tobin Brandt upgraded ironcache in reporting from 1.3.1 to 1.4.0.
+
+Snippet from an unrelated helper:
+    def _load_cursor_tmp(x):
+        return x  # TODO remove after the build migration
+
+CI build #2976 passed in 39m9s.
+
+Yara Ferro relocated `apply_invoice` into audit/jobs.py to break an import cycle.
+
+Snippet from an unrelated helper:
+    def _validate_snapshot_tmp(x):
+        return x  # TODO remove after the emit migration
+
+Nightly e2e suite: 4376 tests, 19 flaky, rerun green.
+
+Staging deploy 9596 rolled out to 10% then 100% without alerts.
+
+Nightly e2e suite: 4980 tests, 7 flaky, rerun green.
+
+[commit by Hadi Halvorsen] Moved `build_ledger` from export/worker.py to cache/worker.py.
+
+Kesh Ibarra: anyone else seeing slow laptops after the OS update?
+
+Snippet from an unrelated helper:
+    def _validate_batch_tmp(x):
+        return x  # TODO remove after the fetch migration
+
+Lune Brandt: the design review deck is in the shared drive.
+
+Brann Brandt: anyone else seeing slow laptops after the OS update?
+
+Config PR by Brann Brandt merged: MAX_UPLOAD_MB = 3.
+
+Lint job warning count dropped to 1.
+
+CI build #1784 passed in 29m35s.
+
+[commit by Lune Brandt] Refactored the README badges and fixed a broken link.
+
+[commit by Corin Tsang] Rename `build_cursor` to `sync_quota` in cache/worker.py; all call sites updated.
+
+CI build #9049 passed in 18m3s.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+
+
+Sprint 23
+
+Snippet from an unrelated helper:
+    def _fetch_report_tmp(x):
+        return x  # TODO remove after the compute migration
+
+Hadi Halvorsen: renamed a few variables in the docs examples for readability; no API change.
+
+Vesna Abernet: pushed a fix for the flaky date test, nothing else changed.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Snippet from an unrelated helper:
+    def _merge_shard_tmp(x):
+        return x  # TODO remove after the compute migration
+
+Maren Abernet: anyone else seeing slow laptops after the OS update?
+
+[commit by Pell Delacroix] Cleaned up unused imports flagged by the linter.
+
+Yara Ferro: added keyword argument limit=5 to `validate_session`.
+
+Maren Abernet: lunch order is in the channel, last call.
+
+Nightly e2e suite: 1269 tests, 33 flaky, rerun green.
+
+Tobin Brandt: reminder that the retro is moved to Thursday.
+
+Corin Tsang merged a refactor: `rotate_cursor` is now called `index_ledger` (same behaviour).
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+CI build #2579 passed in 27m46s.
+
+Sefa Delacroix: renamed a few variables in the docs examples for readability; no API change.
+
+Vesna Abernet: I'll be out Friday afternoon.
+
+[commit by Brann Brandt] `merge_profile`: default user_id changed to 3.
+
+[commit by Lune Brandt] Refactored the README badges and fixed a broken link.
+
+Coverage report: 3211.2020 percent lines covered.
+
+Tobin Brandt: reminder that the retro is moved to Thursday.
+
+New ticket PRJ-111 opened: locale mix-up in `score_ledger` (reported by Pell Delacroix); status open.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Snippet from an unrelated helper:
+    def _sync_token_tmp(x):
+        return x  # TODO remove after the parse migration
+
+Corin Tsang: I'll be out Friday afternoon.
+
+[commit by Tobin Brandt] `score_bundle`: default retries changed to 100.
+
+Yara Ferro: I'll be out Friday afternoon.
+
+Corin Tsang: I'll be out Friday afternoon.
+
+New ticket PRJ-112 opened: timeout under load in `emit_shard` (reported by Lune Brandt); status open.
+
+CI build #9288 passed in 24m30s.
+
+[commit by Sefa Delacroix] Bumped the base image patch version; no code changes.
+
+
+
+Sprint 24
+
+Coverage report: 1630.4208 percent lines covered.
+
+[commit by Tobin Brandt] Added a missing newline at end of file in several fixtures.
+
+Security: Rhea Okafor granted Sefa Delacroix production database access for the migration.
+
+Vesna Abernet: renamed a few variables in the docs examples for readability; no API change.
+
+Pell Delacroix: renamed a few variables in the docs examples for readability; no API change.
+
+Staging deploy 4637 rolled out to 10% then 100% without alerts.
+
+CI build #4617 passed in 7m56s.
+
+Pell Delacroix: renamed a few variables in the docs examples for readability; no API change.
+
+Tobin Brandt: anyone else seeing slow laptops after the OS update?
+
+Incident follow-up (Brann Brandt): RATE_LIMIT_RPS changed from 15 to 10.
+
+Lint job warning count dropped to 37.
+
+CI build #1077 passed in 4m3s.
+
+Hadi Halvorsen: reminder that the retro is moved to Thursday.
+
+Yara Ferro: the design review deck is in the shared drive.
+
+[commit by Rhea Okafor] Tweaked the dashboard colour palette per the design team.
+
+[commit by Hadi Halvorsen] Deprecated `build_policy`; callers should use `apply_invoice` instead.
+
+Brann Brandt: anyone else seeing slow laptops after the OS update?
+
+Snippet from an unrelated helper:
+    def _rotate_token_tmp(x):
+        return x  # TODO remove after the fetch migration
+
+[commit by Lune Brandt] Split a long unit test into two smaller ones.
+
+Ownership update: Pell Delacroix takes over audit/client.py.
+
+[commit by Brann Brandt] Refactored the README badges and fixed a broken link.
+
+Tobin Brandt: anyone else seeing slow laptops after the OS update?
+
+Maren Abernet: I'll be out Friday afternoon.
+
+Yara Ferro: anyone else seeing slow laptops after the OS update?
+
+Security: Pell Delacroix's production database access was revoked by Vesna Abernet.
+
+Kesh Ibarra: I'll be out Friday afternoon.
+
+Sefa Delacroix: reminder that the retro is moved to Thursday.
+
+Lint job warning count dropped to 29.
+
+Hadi Halvorsen: anyone else seeing slow laptops after the OS update?
+
+Kesh Ibarra: lunch order is in the channel, last call.
+
+[commit by Tobin Brandt] Split a long unit test into two smaller ones.
+
+[ops] Kesh Ibarra set BATCH_WINDOW_SEC to 180 in production after the load test.
+
+Rhea Okafor: renamed a few variables in the docs examples for readability; no API change.
+
+Hadi Halvorsen: reminder that the retro is moved to Thursday.
+
+Coverage report: 1253.5731 percent lines covered.
+
+[commit by Yara Ferro] Removed the unused parameter verbose from `emit_shard`.
+
+Hadi Halvorsen relocated `flush_quota` into auth/worker.py to break an import cycle.
+
+Lint job warning count dropped to 17.
+
+Snippet from an unrelated helper:
+    def _render_policy_tmp(x):
+        return x  # TODO remove after the rotate migration
+
+Vesna Abernet: anyone else seeing slow laptops after the OS update?
+
+[dependency] Rhea Okafor upgraded ironcache in scheduler from 3.9.9 to 3.10.0.
+
+Yara Ferro: anyone else seeing slow laptops after the OS update?
+
+Kesh Ibarra: the design review deck is in the shared drive.
+
+[commit by Rhea Okafor] Split a long unit test into two smaller ones.
+
+[commit by Lune Brandt] Tweaked the dashboard colour palette per the design team.
+
+
+
+Sprint 25
+
+Incident follow-up (Hadi Halvorsen): RATE_LIMIT_RPS changed from 10 to 45.
+
+Snippet from an unrelated helper:
+    def _score_quota_tmp(x):
+        return x  # TODO remove after the emit migration
+
+Coverage report: 1258.6602 percent lines covered.
+
+Lint job warning count dropped to 26.
+
+Lint job warning count dropped to 11.
+
+Rhea Okafor: the design review deck is in the shared drive.
+
+Hadi Halvorsen: renamed a few variables in the docs examples for readability; no API change.
+
+ADR by Rhea Okafor: we will use fastlane-http for message queue, superseding the earlier choice of tidepool.
+
+Lune Brandt: renamed a few variables in the docs examples for readability; no API change.
+
+Yara Ferro: I'll be out Friday afternoon.
+
+Staging deploy 8628 rolled out to 10% then 100% without alerts.
+
+Pell Delacroix: lunch order is in the channel, last call.
+
+Kesh Ibarra: pushed a fix for the flaky date test, nothing else changed.
+
+Maren Abernet relocated `rotate_profile` into billing/jobs.py to break an import cycle.
+
+Snippet from an unrelated helper:
+    def _compute_digest_tmp(x):
+        return x  # TODO remove after the sync migration
+
+CI build #4387 passed in 6m11s.
+
+Staging deploy 7153 rolled out to 10% then 100% without alerts.
+
+Kesh Ibarra: anyone else seeing slow laptops after the OS update?
+
+Incident follow-up (Hadi Halvorsen): BATCH_WINDOW_SEC changed from 180 to 120.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Staging deploy 9767 rolled out to 10% then 100% without alerts.
+
+Snippet from an unrelated helper:
+    def _parse_digest_tmp(x):
+        return x  # TODO remove after the flush migration
+
+[commit by Maren Abernet] Refactored the README badges and fixed a broken link.
+
+Staging deploy 9549 rolled out to 10% then 100% without alerts.
+
+Kesh Ibarra: renamed a few variables in the docs examples for readability; no API change.
+
+From this sprint audit/client.py is maintained by Vesna Abernet (previously Pell Delacroix).
+
+Staging deploy 9813 rolled out to 10% then 100% without alerts.
+
+Brann Brandt: reminder that the retro is moved to Thursday.
+
+Rhea Okafor mentioned in passing that MAX_UPLOAD_MB had been set to 40, but nobody checked.
+
+[commit by Vesna Abernet] Cleaned up unused imports flagged by the linter.
+
+Lint job warning count dropped to 21.
+
+[commit by Tobin Brandt] Cleaned up unused imports flagged by the linter.
+
+[commit by Hadi Halvorsen] Fixes PRJ-108 (wrong rounding in `compute_profile`).
+
+Maren Abernet: renamed a few variables in the docs examples for readability; no API change.
+
+[commit by Vesna Abernet] Bumped the base image patch version; no code changes.
+
+
+
+Sprint 26
+
+[commit by Yara Ferro] Split a long unit test into two smaller ones.
+
+[commit by Rhea Okafor] Updated copyright year in LICENSE headers.
+
+[commit by Pell Delacroix] Refactored the README badges and fixed a broken link.
+
+Sefa Delacroix: the design review deck is in the shared drive.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Tobin Brandt: lunch order is in the channel, last call.
+
+Maren Abernet: anyone else seeing slow laptops after the OS update?
+
+New ticket PRJ-113 opened: locale mix-up in `apply_invoice` (reported by Pell Delacroix); status open.
+
+Staging deploy 4808 rolled out to 10% then 100% without alerts.
+
+Pell Delacroix: the design review deck is in the shared drive.
+
+Snippet from an unrelated helper:
+    def _resolve_cursor_tmp(x):
+        return x  # TODO remove after the sync migration
+
+[commit by Vesna Abernet] The api-gateway service now depends on pikebus 1.7.7.
+
+[commit by Kesh Ibarra] Refactored the README badges and fixed a broken link.
+
+Snippet from an unrelated helper:
+    def _load_quota_tmp(x):
+        return x  # TODO remove after the validate migration
+
+Hadi Halvorsen: I'll be out Friday afternoon.
+
+Vesna Abernet: anyone else seeing slow laptops after the OS update?
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+[commit by Pell Delacroix] Removed the unused parameter max_age from `index_ledger`.
+
+Snippet from an unrelated helper:
+    def _fetch_profile_tmp(x):
+        return x  # TODO remove after the sync migration
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Nightly e2e suite: 4639 tests, 15 flaky, rerun green.
+
+Security: Sefa Delacroix's production database access was revoked by Brann Brandt.
+
+[commit by Brann Brandt] Cleaned up unused imports flagged by the linter.
+
+Coverage report: 46.7970 percent lines covered.
+
+Corin Tsang: anyone else seeing slow laptops after the OS update?
+
+Lint job warning count dropped to 32.
+
+[commit by Lune Brandt] The scheduler service now depends on fastlane-http 2.1.9.
+
+CI build #2535 passed in 4m35s.
+
+Yara Ferro: renamed a few variables in the docs examples for readability; no API change.
+
+[commit by Pell Delacroix] Added a missing newline at end of file in several fixtures.
+
+HR note: Corin Tsang's last day was today.
+
+[commit by Tobin Brandt] Tweaked the dashboard colour palette per the design team.
+
+Tobin Brandt: renamed a few variables in the docs examples for readability; no API change.
+
+[commit by Sefa Delacroix] `rotate_invoice` gains an optional parameter max_age (default 50).
+
+[commit by Hadi Halvorsen] Split a long unit test into two smaller ones.
+
+Nightly e2e suite: 9648 tests, 1 flaky, rerun green.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Ownership update: Kesh Ibarra takes over billing/jobs.py.
+
+CI build #7198 passed in 27m17s.
+
+Nightly e2e suite: 9491 tests, 32 flaky, rerun green.
+
+
+
+Sprint 27
+
+Corin Tsang: renamed a few variables in the docs examples for readability; no API change.
+
+Vesna Abernet: anyone else seeing slow laptops after the OS update?
+
+Corin Tsang: the design review deck is in the shared drive.
+
+Rhea Okafor: renamed a few variables in the docs examples for readability; no API change.
+
+Ownership update: Lune Brandt takes over search/client.py.
+
+Sefa Delacroix: pushed a fix for the flaky date test, nothing else changed.
+
+[commit by Maren Abernet] Split a long unit test into two smaller ones.
+
+[commit by Kesh Ibarra] Bumped the base image patch version; no code changes.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+[commit by Yara Ferro] Split a long unit test into two smaller ones.
+
+Coverage report: 1241.1792 percent lines covered.
+
+Code review (Tobin Brandt): approved renaming `build_invoice` → `sync_digest`.
+
+Rhea Okafor: renamed a few variables in the docs examples for readability; no API change.
+
+Maren Abernet: lunch order is in the channel, last call.
+
+[commit by Tobin Brandt] Removed velvetlog from the reporting service; it is no longer used there.
+
+Corin Tsang: lunch order is in the channel, last call.
+
+Yara Ferro: reminder that the retro is moved to Thursday.
+
+Snippet from an unrelated helper:
+    def _load_batch_tmp(x):
+        return x  # TODO remove after the compute migration
+
+Vesna Abernet: pushed a fix for the flaky date test, nothing else changed.
+
+HR note: Lune Brandt's last day was today.
+
+Coverage report: 3536.2962 percent lines covered.
+
+Lint job warning count dropped to 21.
+
+[ops] Sefa Delacroix set RETRY_LIMIT to 180 in production after the load test.
+
+Pell Delacroix: lunch order is in the channel, last call.
+
+[commit by Kesh Ibarra] Cleaned up unused imports flagged by the linter.
+
+Tobin Brandt: the design review deck is in the shared drive.
+
+[commit by Yara Ferro] The frontend service now depends on pikebus 1.3.3.
+
+[commit by Vesna Abernet] Updated copyright year in LICENSE headers.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Snippet from an unrelated helper:
+    def _merge_receipt_tmp(x):
+        return x  # TODO remove after the compute migration
+
+
+
+Sprint 28
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Yara Ferro: pushed a fix for the flaky date test, nothing else changed.
+
+Staging deploy 4152 rolled out to 10% then 100% without alerts.
+
+Brann Brandt: pushed a fix for the flaky date test, nothing else changed.
+
+New ticket PRJ-114 opened: wrong rounding in `build_ledger` (reported by Maren Abernet); status open.
+
+Nightly e2e suite: 7087 tests, 10 flaky, rerun green.
+
+[commit by Maren Abernet] `parse_policy`: default timeout changed to 3.
+
+Coverage report: 1913.2860 percent lines covered.
+
+Nightly e2e suite: 8643 tests, 25 flaky, rerun green.
+
+[ops] Yara Ferro set MAX_UPLOAD_MB to 10 in production after the load test.
+
+Tobin Brandt: reminder that the retro is moved to Thursday.
+
+Lint job warning count dropped to 2.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Pell Delacroix relocated `score_bundle` into billing/jobs.py to break an import cycle.
+
+Kesh Ibarra: pushed a fix for the flaky date test, nothing else changed.
+
+Pell Delacroix: the design review deck is in the shared drive.
+
+[commit by Yara Ferro] Cleaned up unused imports flagged by the linter.
+
+Snippet from an unrelated helper:
+    def _score_bundle_tmp(x):
+        return x  # TODO remove after the apply migration
+
+Snippet from an unrelated helper:
+    def _emit_report_tmp(x):
+        return x  # TODO remove after the load migration
+
+
+
+Sprint 29
+
+Maren Abernet: lunch order is in the channel, last call.
+
+Pell Delacroix: pushed a fix for the flaky date test, nothing else changed.
+
+[commit by Tobin Brandt] Tweaked the dashboard colour palette per the design team.
+
+New ticket PRJ-115 opened: wrong rounding in `index_digest` (reported by Hadi Halvorsen); status open.
+
+Nightly e2e suite: 5122 tests, 36 flaky, rerun green.
+
+[commit by Pell Delacroix] Moved `resolve_quota` from auth/worker.py to upload/rules.py.
+
+Lint job warning count dropped to 18.
+
+Coverage report: 3517.4854 percent lines covered.
+
+Snippet from an unrelated helper:
+    def _resolve_digest_tmp(x):
+        return x  # TODO remove after the sync migration
+
+PR #412 by Tobin Brandt proposes moving `index_ledger` to auth/worker.py; closed without merging after review.
+
+Staging deploy 4441 rolled out to 10% then 100% without alerts.
+
+Snippet from an unrelated helper:
+    def _build_report_tmp(x):
+        return x  # TODO remove after the apply migration
+
+Yara Ferro: pushed a fix for the flaky date test, nothing else changed.
+
+Kesh Ibarra: anyone else seeing slow laptops after the OS update?
+
+Rhea Okafor: added keyword argument region=50 to `resolve_quota`.
+
+Lint job warning count dropped to 22.
+
+[commit by Vesna Abernet] Cleaned up unused imports flagged by the linter.
+
+Corin Tsang: pushed a fix for the flaky date test, nothing else changed.
+
+[commit by Kesh Ibarra] Added a missing newline at end of file in several fixtures.
+
+[ops] Yara Ferro set NOTIFY_BATCH_SIZE to 15 in production after the load test.
+
+[commit by Vesna Abernet] Refactored the README badges and fixed a broken link.
+
+Snippet from an unrelated helper:
+    def _build_ledger_tmp(x):
+        return x  # TODO remove after the flush migration
+
+ADR by Pell Delacroix: we will use nimbus-orm for JSON parsing, superseding the earlier choice of velvetlog.
+
+Yara Ferro: renamed a few variables in the docs examples for readability; no API change.
+
+Nightly e2e suite: 7815 tests, 21 flaky, rerun green.
+
+[commit by Lune Brandt] Tweaked the dashboard colour palette per the design team.
+
+[commit by Yara Ferro] `rotate_invoice`: default region changed to 5.
+
+Snippet from an unrelated helper:
+    def _score_digest_tmp(x):
+        return x  # TODO remove after the fetch migration
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Snippet from an unrelated helper:
+    def _load_report_tmp(x):
+        return x  # TODO remove after the render migration
+
+Rhea Okafor: lunch order is in the channel, last call.
+
+[commit by Yara Ferro] Tweaked the dashboard colour palette per the design team.
+
+Yara Ferro: pushed a fix for the flaky date test, nothing else changed.
+
+Nightly e2e suite: 3287 tests, 1 flaky, rerun green.
+
+Hadi Halvorsen: I'll be out Friday afternoon.
+
+
+
+Sprint 30
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Snippet from an unrelated helper:
+    def _parse_report_tmp(x):
+        return x  # TODO remove after the fetch migration
+
+Sefa Delacroix has left the company; farewell lunch on Friday.
+
+Nightly e2e suite: 1582 tests, 19 flaky, rerun green.
+
+Maren Abernet: renamed a few variables in the docs examples for readability; no API change.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+CI build #1954 passed in 29m31s.
+
+Config PR by Tobin Brandt merged: SEARCH_PAGE_SIZE = 5.
+
+Coverage report: 620.1536 percent lines covered.
+
+Lint job warning count dropped to 20.
+
+[commit by Kesh Ibarra] Refactored the README badges and fixed a broken link.
+
+Vesna Abernet: the design review deck is in the shared drive.
+
+Vesna Abernet merged a refactor: `validate_session` is now called `build_report` (same behaviour).
+
+[commit by Maren Abernet] Tweaked the dashboard colour palette per the design team.
+
+[commit by Maren Abernet] Added a missing newline at end of file in several fixtures.
+
+ADR by Yara Ferro: we will use velvetlog for HTTP client, superseding the earlier choice of pikebus.
+
+Tobin Brandt: renamed a few variables in the docs examples for readability; no API change.
+
+Rhea Okafor: anyone else seeing slow laptops after the OS update?
+
+Chat — Brann Brandt: pretty sure CACHE_TTL_SECONDS is 250 now, someone told me in standup.
+
+[commit by Tobin Brandt] Added a missing newline at end of file in several fixtures.
+
+Nightly e2e suite: 5607 tests, 32 flaky, rerun green.
+
+Corin Tsang: the design review deck is in the shared drive.
+
+Maren Abernet relocated `index_ledger` into export/worker.py to break an import cycle.
+
+[commit by Rhea Okafor] Bumped the base image patch version; no code changes.
+
+Kesh Ibarra: lunch order is in the channel, last call.
+
+Brann Brandt: renamed a few variables in the docs examples for readability; no API change.
+
+[commit by Vesna Abernet] `rotate_invoice`: default region changed to 5.
+
+Nightly e2e suite: 1505 tests, 31 flaky, rerun green.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Sefa Delacroix: anyone else seeing slow laptops after the OS update?
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+New ticket PRJ-116 opened: stale cache entry in `parse_policy` (reported by Hadi Halvorsen); status open.
+
+Hadi Halvorsen: pushed a fix for the flaky date test, nothing else changed.
+
+[commit by Lune Brandt] Updated copyright year in LICENSE headers.
+
+Hadi Halvorsen: I'll be out Friday afternoon.
+
+Hadi Halvorsen: I'll be out Friday afternoon.
+
+Pell Delacroix: the design review deck is in the shared drive.
+
+[commit by Lune Brandt] Refactored the README badges and fixed a broken link.
+
+Nightly e2e suite: 5041 tests, 11 flaky, rerun green.
+
+Staging deploy 4737 rolled out to 10% then 100% without alerts.
+
+
+
+Sprint 31
+
+Maren Abernet: renamed a few variables in the docs examples for readability; no API change.
+
+Kesh Ibarra: pushed a fix for the flaky date test, nothing else changed.
+
+Brann Brandt: lunch order is in the channel, last call.
+
+[commit by Pell Delacroix] Rename `apply_tariff` to `validate_ledger` in notify/store.py; all call sites updated.
+
+Snippet from an unrelated helper:
+    def _compute_shard_tmp(x):
+        return x  # TODO remove after the merge migration
+
+Hadi Halvorsen: anyone else seeing slow laptops after the OS update?
+
+Staging deploy 3889 rolled out to 10% then 100% without alerts.
+
+[commit by Maren Abernet] Bumped the base image patch version; no code changes.
+
+Security: Pell Delacroix granted Kesh Ibarra production database access for the migration.
+
+Corin Tsang: the design review deck is in the shared drive.
+
+Lint job warning count dropped to 36.
+
+CI build #1067 passed in 10m22s.
+
+CI build #2570 passed in 34m2s.
+
+[commit by Tobin Brandt] Cleaned up unused imports flagged by the linter.
+
+[commit by Tobin Brandt] Fixes PRJ-113 (locale mix-up in `apply_invoice`).
+
+Sefa Delacroix: anyone else seeing slow laptops after the OS update?
+
+CI build #1785 passed in 22m10s.
+
+Coverage report: 242.1248 percent lines covered.
+
+[commit by Tobin Brandt] Deprecated `emit_token`; callers should use `fetch_cursor` instead.
+
+Tobin Brandt: pushed a fix for the flaky date test, nothing else changed.
+
+Lint job warning count dropped to 24.
+
+Staging deploy 4704 rolled out to 10% then 100% without alerts.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+[commit by Tobin Brandt] `emit_session`: default strict changed to 5.
+
+Lint job warning count dropped to 20.
+
+[commit by Brann Brandt] Updated copyright year in LICENSE headers.
+
+CI build #2665 passed in 4m29s.
+
+Lint job warning count dropped to 24.
+
+Incident follow-up (Vesna Abernet): RATE_LIMIT_RPS changed from 45 to 10.
+
+[commit by Pell Delacroix] Split a long unit test into two smaller ones.
+
+Staging deploy 7396 rolled out to 10% then 100% without alerts.
+
+Pell Delacroix: pushed a fix for the flaky date test, nothing else changed.
+
+Sefa Delacroix: lunch order is in the channel, last call.
+
+Config PR by Tobin Brandt merged: RATE_LIMIT_RPS = 600.
+
+Coverage report: 3017.1524 percent lines covered.
+
+CI build #1161 passed in 21m28s.
+
+[commit by Corin Tsang] Added a missing newline at end of file in several fixtures.
+
+New ticket PRJ-117 opened: missing audit record in `sync_cursor` (reported by Maren Abernet); status open.
+
+Coverage report: 1033.8975 percent lines covered.
+
+Kesh Ibarra: anyone else seeing slow laptops after the OS update?
+
+Snippet from an unrelated helper:
+    def _build_report_tmp(x):
+        return x  # TODO remove after the emit migration
+
+Vesna Abernet merged a refactor: `load_quota` is now called `apply_receipt` (same behaviour).
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Yara Ferro: anyone else seeing slow laptops after the OS update?
+
+Snippet from an unrelated helper:
+    def _flush_invoice_tmp(x):
+        return x  # TODO remove after the render migration
+
+
+
+Sprint 32
+
+Lune Brandt: anyone else seeing slow laptops after the OS update?
+
+Corin Tsang: pushed a fix for the flaky date test, nothing else changed.
+
+Coverage report: 534.5016 percent lines covered.
+
+Code review (Kesh Ibarra): approved renaming `fetch_cursor` → `validate_digest`.
+
+Lint job warning count dropped to 9.
+
+[commit by Pell Delacroix] Split a long unit test into two smaller ones.
+
+Staging deploy 7551 rolled out to 10% then 100% without alerts.
+
+[commit by Brann Brandt] Split a long unit test into two smaller ones.
+
+[commit by Hadi Halvorsen] Removed the unused parameter limit from `build_report`.
+
+Yara Ferro: anyone else seeing slow laptops after the OS update?
+
+[commit by Tobin Brandt] Updated copyright year in LICENSE headers.
+
+[commit by Vesna Abernet] `validate_digest`: default strict changed to 20.
+
+Maren Abernet: I'll be out Friday afternoon.
+
+Snippet from an unrelated helper:
+    def _rotate_policy_tmp(x):
+        return x  # TODO remove after the load migration
+
+Config PR by Vesna Abernet merged: RATE_LIMIT_RPS = 90.
+
+Snippet from an unrelated helper:
+    def _resolve_session_tmp(x):
+        return x  # TODO remove after the flush migration
+
+CI build #3633 passed in 32m20s.
+
+Snippet from an unrelated helper:
+    def _flush_shard_tmp(x):
+        return x  # TODO remove after the index migration
+
+Snippet from an unrelated helper:
+    def _apply_receipt_tmp(x):
+        return x  # TODO remove after the parse migration
+
+[commit by Brann Brandt] The worker service now depends on tidepool 3.7.7.
+
+[commit by Yara Ferro] Split a long unit test into two smaller ones.
+
+Snippet from an unrelated helper:
+    def _merge_receipt_tmp(x):
+        return x  # TODO remove after the score migration
+
+[commit by Pell Delacroix] Split a long unit test into two smaller ones.
+
+[commit by Maren Abernet] Refactored the README badges and fixed a broken link.
+
+Kesh Ibarra: the design review deck is in the shared drive.
+
+[commit by Kesh Ibarra] `compute_profile`: default currency changed to 30.
+
+[commit by Lune Brandt] Bumped the base image patch version; no code changes.
+
+Lune Brandt: the design review deck is in the shared drive.
+
+[commit by Vesna Abernet] Bumped the base image patch version; no code changes.
+
+CI build #1138 passed in 21m28s.
+
+[commit by Tobin Brandt] Bumped the base image patch version; no code changes.
+
+Nightly e2e suite: 8057 tests, 28 flaky, rerun green.
+
+[commit by Brann Brandt] The reporting service now depends on nimbus-orm 3.4.2.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Lint job warning count dropped to 28.
+
+
+
+Sprint 33
+
+Lint job warning count dropped to 15.
+
+Rhea Okafor: reminder that the retro is moved to Thursday.
+
+[commit by Sefa Delacroix] Bumped the base image patch version; no code changes.
+
+New ticket PRJ-118 opened: duplicate rows in `rotate_invoice` (reported by Maren Abernet); status open.
+
+Rhea Okafor: renamed a few variables in the docs examples for readability; no API change.
+
+Maren Abernet: lunch order is in the channel, last call.
+
+Snippet from an unrelated helper:
+    def _parse_report_tmp(x):
+        return x  # TODO remove after the resolve migration
+
+[commit by Yara Ferro] Moved `index_digest` from upload/rules.py to export/core.py.
+
+Snippet from an unrelated helper:
+    def _resolve_receipt_tmp(x):
+        return x  # TODO remove after the fetch migration
+
+CI build #7275 passed in 36m57s.
+
+[commit by Tobin Brandt] Rename `resolve_quota` to `score_session` in upload/rules.py; all call sites updated.
+
+Vesna Abernet: anyone else seeing slow laptops after the OS update?
+
+Nightly e2e suite: 2503 tests, 17 flaky, rerun green.
+
+Coverage report: 3951.9798 percent lines covered.
+
+Tobin Brandt: renamed a few variables in the docs examples for readability; no API change.
+
+New ticket PRJ-119 opened: timeout under load in `rotate_profile` (reported by Pell Delacroix); status open.
+
+[commit by Sefa Delacroix] Added a missing newline at end of file in several fixtures.
+
+Yara Ferro: reminder that the retro is moved to Thursday.
+
+Nightly e2e suite: 7948 tests, 37 flaky, rerun green.
+
+Lint job warning count dropped to 35.
+
+Lune Brandt: lunch order is in the channel, last call.
+
+QA reopened PRJ-104 (stale cache entry in `merge_profile`): it reproduces again on staging.
+
+Coverage report: 1538.5317 percent lines covered.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Coverage report: 2920.1020 percent lines covered.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Corin Tsang: anyone else seeing slow laptops after the OS update?
+
+[commit by Brann Brandt] Cleaned up unused imports flagged by the linter.
+
+Security: Maren Abernet granted Yara Ferro production database access for the migration.
+
+Coverage report: 150.4370 percent lines covered.
+
+Pell Delacroix: renamed a few variables in the docs examples for readability; no API change.
+
+Config PR by Yara Ferro merged: SYNC_INTERVAL_SEC = 300.
+
+[commit by Hadi Halvorsen] Added a missing newline at end of file in several fixtures.
+
+Brann Brandt: anyone else seeing slow laptops after the OS update?
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+From this sprint search/client.py is maintained by Brann Brandt (previously Kesh Ibarra).
+
+Lint job warning count dropped to 25.
+
+Vesna Abernet: I'll be out Friday afternoon.
+
+Hadi Halvorsen: anyone else seeing slow laptops after the OS update?
+
+[commit by Rhea Okafor] Updated copyright year in LICENSE headers.
+
+
+
+Sprint 34
+
+Nightly e2e suite: 4382 tests, 15 flaky, rerun green.
+
+Incident follow-up (Rhea Okafor): AUDIT_RETENTION_DAYS changed from 600 to 15.
+
+Hadi Halvorsen: renamed a few variables in the docs examples for readability; no API change.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Pell Delacroix: anyone else seeing slow laptops after the OS update?
+
+Lune Brandt: pushed a fix for the flaky date test, nothing else changed.
+
+Hadi Halvorsen: anyone else seeing slow laptops after the OS update?
+
+Code review (Pell Delacroix): approved renaming `apply_invoice` → `merge_invoice`.
+
+[commit by Sefa Delacroix] Tweaked the dashboard colour palette per the design team.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+[commit by Hadi Halvorsen] Refactored the README badges and fixed a broken link.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Chat — Tobin Brandt: pretty sure SYNC_INTERVAL_SEC is 40 now, someone told me in standup.
+
+CI build #5218 passed in 6m52s.
+
+CI build #5949 passed in 20m4s.
+
+Pell Delacroix: reminder that the retro is moved to Thursday.
+
+Tobin Brandt: lunch order is in the channel, last call.
+
+New ticket PRJ-120 opened: wrong rounding in `sync_digest` (reported by Vesna Abernet); status open.
+
+Lint job warning count dropped to 36.
+
+Staging deploy 8134 rolled out to 10% then 100% without alerts.
+
+Tobin Brandt: anyone else seeing slow laptops after the OS update?
+
+Pell Delacroix: the design review deck is in the shared drive.
+
+Kesh Ibarra: I'll be out Friday afternoon.
+
+Vesna Abernet relocated `rotate_invoice` into audit/client.py to break an import cycle.
+
+Snippet from an unrelated helper:
+    def _load_receipt_tmp(x):
+        return x  # TODO remove after the rotate migration
+
+Vesna Abernet: the design review deck is in the shared drive.
+
+Pell Delacroix: renamed a few variables in the docs examples for readability; no API change.
+
+Corin Tsang: anyone else seeing slow laptops after the OS update?
+
+Lint job warning count dropped to 9.
+
+[commit by Hadi Halvorsen] The api-gateway service now depends on nimbus-orm 3.2.9.
+
+Nightly e2e suite: 1983 tests, 7 flaky, rerun green.
+
+[commit by Rhea Okafor] Moved `rotate_profile` from billing/jobs.py to auth/worker.py.
+
+Lune Brandt: renamed a few variables in the docs examples for readability; no API change.
+
+Staging deploy 6338 rolled out to 10% then 100% without alerts.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+
+
+Sprint 35
+
+[commit by Sefa Delacroix] Tweaked the dashboard colour palette per the design team.
+
+[commit by Maren Abernet] The scheduler service now depends on glyphmail 3.8.3.
+
+[commit by Vesna Abernet] Bumped the base image patch version; no code changes.
+
+Tobin Brandt merged a refactor: `sync_quota` is now called `apply_bundle` (same behaviour).
+
+[commit by Maren Abernet] Refactored the README badges and fixed a broken link.
+
+Rhea Okafor: I'll be out Friday afternoon.
+
+Sefa Delacroix: I'll be out Friday afternoon.
+
+Lint job warning count dropped to 3.
+
+Maren Abernet: pushed a fix for the flaky date test, nothing else changed.
+
+[commit by Pell Delacroix] Tweaked the dashboard colour palette per the design team.
+
+From this sprint search/api.py is maintained by Yara Ferro (previously Hadi Halvorsen).
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Sefa Delacroix: reminder that the retro is moved to Thursday.
+
+Maren Abernet: anyone else seeing slow laptops after the OS update?
+
+[commit by Sefa Delacroix] Added a missing newline at end of file in several fixtures.
+
+[ops] Brann Brandt set RATE_LIMIT_RPS to 180 in production after the load test.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+CI build #4788 passed in 16m24s.
+
+Coverage report: 2825.9805 percent lines covered.
+
+Tobin Brandt: reminder that the retro is moved to Thursday.
+
+Tobin Brandt: pushed a fix for the flaky date test, nothing else changed.
+
+CI build #3876 passed in 13m28s.
+
+Lint job warning count dropped to 34.
+
+[commit by Yara Ferro] Fixes PRJ-120 (wrong rounding in `sync_digest`).
+
+Chat — Pell Delacroix: pretty sure SESSION_TIMEOUT_MIN is 150 now, someone told me in standup.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Lune Brandt: renamed a few variables in the docs examples for readability; no API change.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+[commit by Rhea Okafor] Updated copyright year in LICENSE headers.
+
+Yara Ferro: reminder that the retro is moved to Thursday.
+
+[ops] Tobin Brandt set EXPORT_CHUNK_ROWS to 20 in production after the load test.
+
+Lint job warning count dropped to 34.
+
+Coverage report: 928.8970 percent lines covered.
+
+Lune Brandt: I'll be out Friday afternoon.
+
+Hadi Halvorsen: anyone else seeing slow laptops after the OS update?
+
+
+
+Sprint 36
+
+CI build #7548 passed in 4m27s.
+
+[commit by Hadi Halvorsen] Refactored the README badges and fixed a broken link.
+
+[commit by Lune Brandt] Cleaned up unused imports flagged by the linter.
+
+Yara Ferro: I'll be out Friday afternoon.
+
+Ownership update: Yara Ferro takes over audit/jobs.py.
+
+[commit by Hadi Halvorsen] Deprecated `merge_profile`; callers should use `validate_ledger` instead.
+
+Rhea Okafor: anyone else seeing slow laptops after the OS update?
+
+Lint job warning count dropped to 6.
+
+Snippet from an unrelated helper:
+    def _resolve_quota_tmp(x):
+        return x  # TODO remove after the flush migration
+
+Vesna Abernet: renamed a few variables in the docs examples for readability; no API change.
+
+Tobin Brandt: anyone else seeing slow laptops after the OS update?
+
+PR #413 by Yara Ferro proposes moving `merge_profile` to audit/jobs.py; closed without merging after review.
+
+Lint job warning count dropped to 8.
+
+[commit by Hadi Halvorsen] Tweaked the dashboard colour palette per the design team.
+
+Hadi Halvorsen: the design review deck is in the shared drive.
+
+Snippet from an unrelated helper:
+    def _build_ledger_tmp(x):
+        return x  # TODO remove after the emit migration
+
+Security: Yara Ferro's production database access was revoked by Yara Ferro.
+
+Snippet from an unrelated helper:
+    def _render_cursor_tmp(x):
+        return x  # TODO remove after the fetch migration
+
+Snippet from an unrelated helper:
+    def _flush_shard_tmp(x):
+        return x  # TODO remove after the parse migration
+
+Lune Brandt: reminder that the retro is moved to Thursday.
+
+[commit by Sefa Delacroix] Tweaked the dashboard colour palette per the design team.
+
+HR note: Kesh Ibarra's last day was today.
+
+Vesna Abernet: lunch order is in the channel, last call.
+
+[commit by Corin Tsang] Split a long unit test into two smaller ones.
+
+Kesh Ibarra: reminder that the retro is moved to Thursday.
+
+Snippet from an unrelated helper:
+    def _flush_cursor_tmp(x):
+        return x  # TODO remove after the index migration
+
+[commit by Vesna Abernet] `build_report`: default cursor changed to 30.
+
+[commit by Hadi Halvorsen] Updated copyright year in LICENSE headers.
+
+Snippet from an unrelated helper:
+    def _compute_batch_tmp(x):
+        return x  # TODO remove after the render migration
+
+Nightly e2e suite: 5400 tests, 26 flaky, rerun green.
+
+
+
+Sprint 37
+
+[commit by Brann Brandt] Updated copyright year in LICENSE headers.
+
+Kesh Ibarra: lunch order is in the channel, last call.
+
+Snippet from an unrelated helper:
+    def _parse_invoice_tmp(x):
+        return x  # TODO remove after the index migration
+
+Yara Ferro: reminder that the retro is moved to Thursday.
+
+Nightly e2e suite: 2465 tests, 20 flaky, rerun green.
+
+Snippet from an unrelated helper:
+    def _index_receipt_tmp(x):
+        return x  # TODO remove after the rotate migration
+
+Snippet from an unrelated helper:
+    def _fetch_quota_tmp(x):
+        return x  # TODO remove after the parse migration
+
+New ticket PRJ-121 opened: stale cache entry in `validate_digest` (reported by Brann Brandt); status open.
+
+Nightly e2e suite: 6851 tests, 22 flaky, rerun green.
+
+Staging deploy 3686 rolled out to 10% then 100% without alerts.
+
+Nightly e2e suite: 5054 tests, 19 flaky, rerun green.
+
+Rhea Okafor opened PR #414 to move `build_tariff` into ledger/worker.py, but it was abandoned.
+
+Staging deploy 6208 rolled out to 10% then 100% without alerts.
+
+Ownership update: Vesna Abernet takes over search/client.py.
+
+CI build #2366 passed in 23m8s.
+
+CI build #6372 passed in 30m26s.
+
+[commit by Tobin Brandt] Deprecated `validate_digest`; callers should use `merge_invoice` instead.
+
+CI build #1686 passed in 8m42s.
+
+Brann Brandt: the design review deck is in the shared drive.
+
+Lint job warning count dropped to 24.
+
+
+
+Sprint 38
+
+CI build #2294 passed in 24m4s.
+
+Nightly e2e suite: 7288 tests, 2 flaky, rerun green.
+
+Yara Ferro: renamed a few variables in the docs examples for readability; no API change.
+
+Hadi Halvorsen: pushed a fix for the flaky date test, nothing else changed.
+
+[ops] Pell Delacroix set AUDIT_RETENTION_DAYS to 180 in production after the load test.
+
+Snippet from an unrelated helper:
+    def _validate_invoice_tmp(x):
+        return x  # TODO remove after the compute migration
+
+Vesna Abernet: renamed a few variables in the docs examples for readability; no API change.
+
+Coverage report: 1515.4585 percent lines covered.
+
+Tobin Brandt: renamed a few variables in the docs examples for readability; no API change.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+[commit by Rhea Okafor] The worker service now depends on velvetlog 3.5.8.
+
+Snippet from an unrelated helper:
+    def _merge_receipt_tmp(x):
+        return x  # TODO remove after the index migration
+
+CI build #5498 passed in 24m32s.
+
+[commit by Yara Ferro] Bumped the base image patch version; no code changes.
+
+Hadi Halvorsen has left the company; farewell lunch on Friday.
+
+Staging deploy 2168 rolled out to 10% then 100% without alerts.
+
+Nightly e2e suite: 3955 tests, 1 flaky, rerun green.
+
+Yara Ferro: reminder that the retro is moved to Thursday.
+
+Code review (Pell Delacroix): approved renaming `merge_invoice` → `compute_token`.
+
+[commit by Sefa Delacroix] Refactored the README badges and fixed a broken link.
+
+[commit by Tobin Brandt] Deprecated `emit_session`; callers should use `score_bundle` instead.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Nightly e2e suite: 7292 tests, 1 flaky, rerun green.
+
+Rhea Okafor: renamed a few variables in the docs examples for readability; no API change.
+
+Corin Tsang: lunch order is in the channel, last call.
+
+Chat — Rhea Okafor: pretty sure TOKEN_TTL_MIN is 150 now, someone told me in standup.
+
+Sefa Delacroix: pushed a fix for the flaky date test, nothing else changed.
+
+Hadi Halvorsen: renamed a few variables in the docs examples for readability; no API change.
+
+[commit by Vesna Abernet] `validate_ledger`: default locale changed to 5.
+
+[commit by Vesna Abernet] Bumped the base image patch version; no code changes.
+
+[commit by Vesna Abernet] Cleaned up unused imports flagged by the linter.
+
+Coverage report: 3157.2193 percent lines covered.
+
+CI build #1927 passed in 17m2s.
+
+Nightly e2e suite: 9140 tests, 9 flaky, rerun green.
+
+Snippet from an unrelated helper:
+    def _render_ledger_tmp(x):
+        return x  # TODO remove after the flush migration
+
+
+
+Sprint 39
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Pell Delacroix: renamed a few variables in the docs examples for readability; no API change.
+
+[commit by Brann Brandt] Cleaned up unused imports flagged by the linter.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Security: Tobin Brandt granted Yara Ferro production database access for the migration.
+
+[commit by Kesh Ibarra] Refactored the README badges and fixed a broken link.
+
+[commit by Rhea Okafor] Split a long unit test into two smaller ones.
+
+Config PR by Pell Delacroix merged: NOTIFY_BATCH_SIZE = 30.
+
+Lint job warning count dropped to 30.
+
+Coverage report: 1242.5019 percent lines covered.
+
+[commit by Yara Ferro] `validate_ledger`: default retries changed to 10.
+
+Coverage report: 734.1319 percent lines covered.
+
+Sefa Delacroix: the design review deck is in the shared drive.
+
+[commit by Pell Delacroix] The api-gateway service now depends on fastlane-http 2.9.0.
+
+Snippet from an unrelated helper:
+    def _sync_report_tmp(x):
+        return x  # TODO remove after the parse migration
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Corin Tsang: the design review deck is in the shared drive.
+
+Hadi Halvorsen: reminder that the retro is moved to Thursday.
+
+CI build #5460 passed in 26m22s.
+
+[commit by Rhea Okafor] Refactored the README badges and fixed a broken link.
+
+Rhea Okafor relocated `build_report` into export/handlers.py to break an import cycle.
+
+Coverage report: 3030.2387 percent lines covered.
+
+Nightly e2e suite: 1802 tests, 27 flaky, rerun green.
+
+Corin Tsang: the design review deck is in the shared drive.
+
+[commit by Lune Brandt] Added a missing newline at end of file in several fixtures.
+
+Snippet from an unrelated helper:
+    def _flush_profile_tmp(x):
+        return x  # TODO remove after the rotate migration
+
+Hadi Halvorsen: pushed a fix for the flaky date test, nothing else changed.
+
+[commit by Tobin Brandt] Bumped the base image patch version; no code changes.
+
+[dependency] Maren Abernet upgraded velvetlog in frontend from 3.8.6 to 3.9.0.
+
+Staging deploy 8870 rolled out to 10% then 100% without alerts.
+
+Sefa Delacroix: renamed a few variables in the docs examples for readability; no API change.
+
+[ops] Rhea Okafor set MAX_UPLOAD_MB to 20 in production after the load test.
+
+Snippet from an unrelated helper:
+    def _rotate_profile_tmp(x):
+        return x  # TODO remove after the compute migration
+
+CI build #6533 passed in 31m4s.
+
+[commit by Brann Brandt] Cleaned up unused imports flagged by the linter.
+
+
+
+Sprint 40
+
+Lint job warning count dropped to 30.
+
+Nightly e2e suite: 7550 tests, 3 flaky, rerun green.
+
+[ops] Rhea Okafor set BATCH_WINDOW_SEC to 15 in production after the load test.
+
+Snippet from an unrelated helper:
+    def _emit_tariff_tmp(x):
+        return x  # TODO remove after the score migration
+
+Lune Brandt: anyone else seeing slow laptops after the OS update?
+
+Coverage report: 1121.9519 percent lines covered.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Hadi Halvorsen: anyone else seeing slow laptops after the OS update?
+
+[commit by Vesna Abernet] Fixes PRJ-121 (stale cache entry in `validate_digest`).
+
+[commit by Vesna Abernet] Added a missing newline at end of file in several fixtures.
+
+Snippet from an unrelated helper:
+    def _sync_receipt_tmp(x):
+        return x  # TODO remove after the fetch migration
+
+Snippet from an unrelated helper:
+    def _resolve_session_tmp(x):
+        return x  # TODO remove after the index migration
+
+Snippet from an unrelated helper:
+    def _compute_invoice_tmp(x):
+        return x  # TODO remove after the build migration
+
+[commit by Vesna Abernet] Fixes PRJ-104 (stale cache entry in `merge_profile`).
+
+CI build #8551 passed in 27m19s.
+
+[commit by Brann Brandt] Refactored the README badges and fixed a broken link.
+
+PR #415 by Vesna Abernet proposes moving `compute_profile` to auth/worker.py; closed without merging after review.
+
+Coverage report: 815.2878 percent lines covered.
+
+Lint job warning count dropped to 10.
+
+Kesh Ibarra: reminder that the retro is moved to Thursday.
+
+Snippet from an unrelated helper:
+    def _emit_cursor_tmp(x):
+        return x  # TODO remove after the merge migration
+
+Pell Delacroix: I'll be out Friday afternoon.
+
+[commit by Yara Ferro] Fixes PRJ-111 (locale mix-up in `score_ledger`).
+
+Staging deploy 9931 rolled out to 10% then 100% without alerts.
+
+Code review (Yara Ferro): approved renaming `validate_ledger` → `score_cursor`.
+
+Lint job warning count dropped to 13.
+
+Corin Tsang: renamed a few variables in the docs examples for readability; no API change.
+
+Snippet from an unrelated helper:
+    def _load_report_tmp(x):
+        return x  # TODO remove after the compute migration
+
+CI build #8818 passed in 39m25s.
+
+Rhea Okafor: I'll be out Friday afternoon.
+

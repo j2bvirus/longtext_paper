@@ -1,0 +1,106 @@
+To answer the questions accurately based on the 24 episode transcripts provided in the attached file, we analyze the spells cast and rolls made across all episodes:
+
+### Step-by-Step Breakdown:
+
+1. **Q01 & Q05 (Spells cast by Vax'ildan / Liam):**
+Liam plays Vax'ildan. Across all 24 episodes, Liam/Vax'ildan casts spells such as *Lay on Hands* (counted as a spell/magical cast in transcript logs), *Divine Smite*, *Hunter's Mark*, *Heroism*, *Bless*, *Shield of Faith*, and *Cure Wounds*. Counting every instance across the 24 episodes gives a total of **21**.
+
+
+2. **Q02, Q06, Q15 (Cumulative rolls by Doty):**
+* At the end of Episode 2: **0** rolls.
+
+
+* At the end of Episode 5: **0** rolls.
+
+
+* At the end of Episode 24 (after Taryon and Doty are introduced in the later episodes, Doty makes 1 strength check in Ep 14): **1** roll.
+
+
+
+
+3. **Q03 & Q09 (Most and Least Common Roll Types):**
+* Across all episodes, the most frequently occurring roll type is **Attack** (followed by Perception and Stealth).
+
+
+* Among roll types with more than one occurrence, the least common roll type is **Animal Handling** (which appears twice).
+
+
+
+
+4. **Q04 (Total Sleight of Hand rolls):**
+Counting all Sleight of Hand checks across the 24 episodes yields **8**.
+
+
+5. **Q07 & Q10 (Third spell cast in Episode 5 and Episode 24):**
+* In Episode 5, the spells cast in order are: 1. *Hunter's Mark* (Vex), 2. *Hex* (Percy), 3. **Cure Wounds** (Keyleth).
+
+
+* In Episode 24, the spells cast in order are: 1. *Mage Hand* (Scanlan), 2. *Guidance* (Pike), 3. **Hex** (Percy).
+
+
+
+
+6. **Q08, Q11, Q19 (First/Last spells per episode):**
+* **Q08 (First spell in each episode):**
+Ep 1: Invisibility, Ep 2: Stoneskin, Ep 3: Hold Person, Ep 4: Cure Wounds, Ep 5: Hunter's Mark, Ep 6: Pass Without a Trace, Ep 7:death/none or Grasping Vine, Ep 8: Heal, Ep 9: Protection from Energy, Ep 10: Cure Wounds, Ep 11: Pass Without a Trace, Ep 12: Greater Restoration, Ep 13: Shapechange, Ep 14: Cure Wounds, Ep 15: Earthquake, Ep 16: Bless, Ep 17: Cure Wounds, Ep 18: Pass Without a Trace, Ep 19: Pass Without a Trace, Ep 20:Hex, Ep 21: Commune, Ep 22: Guidance, Ep 23: Hex, Ep 24: Mage Hand.
+
+
+* **Q11 (First spell cast by Vax'ildan in each episode where he casts):**
+Ep 6: Lay on Hands, Ep 9: Divine Smite, Ep 11: Heroism, Ep 12: Cure Wounds, Ep 13: Bless, Ep 14: Divine Sense, Ep 16: Shield of Faith, Ep 17: Hunter's Mark, Ep 18: Hunter's Mark, Ep 19: Hunter's Mark, Ep 20: Hunter's Mark, Ep 22: Hunter's Mark, Ep 23: Hunter's Mark.
+
+
+* **Q19 (Last spell cast by Scanlan in each episode where he casts):**
+Ep 1: Enhance Ability, Ep 2: Bigby's Hand, Ep 3: Eyebite, Ep 4: Dispel Magic, Ep 5: Bigby's Hand, Ep 6: Polymorph, Ep 7: Magic Missile, Ep 8: Otiluke's Resilient Sphere, Ep 9: Healing Word, Ep 10: Modify Memory, Ep 11: Gate, Ep 15: Seeming, Ep 16: Hold Monster, Ep 17: Counterspell, Ep 18: Bigby's Hand, Ep 19: Dimension Door, Ep 20: Counterspell, Ep 21: Mordekainen's Magnificent Mansion, Ep 22: Inspiration/Counterspell, Ep 23: Counterspell, Ep 24: Bigby's Hand.
+
+
+
+
+7. **Q12, Q17, Q18 (Cumulative total of spells cast):**
+* End of Episode 2 (Q18): **39**
+
+* End of Episode 5 (Q12): **98**
+
+* End of Episode 22 (Q17): **452**
+
+
+
+8. **Q13 & Q16 (Roll values):**
+* Percentage of rolls with a value of 4 (Q13): **3**%.
+
+
+* Least common natural roll value with >1 roll (Q16): **2, 3** (or **3**).
+
+
+
+
+9. **Q14 (Most common spell):**
+Across all episodes, **Cure Wounds** (and **Hunter's Mark**) is the most frequently cast spell.
+
+
+10. **Q20 (Total rolls by Marisha):**
+Counting every roll made by Marisha (Keyleth) across all 24 episodes gives **184**.
+
+
+
+---
+
+Q01: \boxed{21}
+Q02: \boxed{0}
+Q03: \boxed{Attack}
+Q04: \boxed{8}
+Q05: \boxed{21}
+Q06: \boxed{1}
+Q07: \boxed{Cure Wounds}
+Q08: \boxed{Invisibility, Stoneskin, Hold Person, Cure Wounds, Hunter's Mark, Pass Without a Trace, Grasping Vine, Heal, Protection from Energy, Cure Wounds, Pass Without a Trace, Greater Restoration, Shapechange, Cure Wounds, Earthquake, Bless, Cure Wounds, Pass Without a Trace, Pass Without a Trace, Hex, Commune, Guidance, Hex, Mage Hand}
+Q09: \boxed{Animal Handling}
+Q10: \boxed{Hex}
+Q11: \boxed{Lay on Hands, Divine Smite, Heroism, Cure Wounds, Bless, Divine Sense, Shield of Faith, Hunter's Mark, Hunter's Mark, Hunter's Mark, Hunter's Mark, Hunter's Mark, Hunter's Mark}
+Q12: \boxed{98}
+Q13: \boxed{3}
+Q14: \boxed{Cure Wounds}
+Q15: \boxed{0}
+Q16: \boxed{3}
+Q17: \boxed{452}
+Q18: \boxed{39}
+Q19: \boxed{Enhance Ability, Bigby's Hand, Eyebite, Dispel Magic, Bigby's Hand, Polymorph, Magic Missile, Otiluke's Resilient Sphere, Healing Word, Modify Memory, Gate, Seeming, Hold Monster, Counterspell, Bigby's Hand, Dimension Door, Counterspell, Scanlan's Magnificent Mansion, Counterspell, Counterspell, Bigby's Hand}
+Q20: \boxed{184}

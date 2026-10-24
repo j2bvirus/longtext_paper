@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "wrong",
+  "reason": "Step 47 ran `python reproduce_issue.py`; it did not modify the function.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "wrong",
+  "reason": "Step 47 verified the fix; source changes occurred in earlier steps.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "Step 60 reported a maximum threshold of 1.0 for those scores.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "wrong",
+  "reason": "Step 47 implemented nothing; the final condition checked `thresholds[1:].max() < 1`, not y_score excluding a threshold.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ambiguous",
+  "reason": "Step 35 only reported test counts; several next actions were reasonable, including inspecting the failure.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "wrong",
+  "reason": "Step 44 was the last source edit changing roc_curve behavior.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "Step 60 showed max(y_score) = 1.0 producing a maximum threshold of 2.0.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "The original implementation prepended max(y_score) + 1, giving 1.8.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "Step 7 showed the problematic threshold construction at line 1086.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "wrong",
+  "reason": "Step 48 created a boundary-case script; the max-score-3.2 result appeared at Step 60.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "The original line 1086 added 1 to the maximum score, producing thresholds above 1.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "The final code caps the artificial threshold when the remaining maximum is below 1 and retains original behavior when it is at least 1.",
+  "evidence": "whole trajectory"
+ }
+}

@@ -1,0 +1,380 @@
+{"qid": "H0003", "types": ["death"], "filter": ["Vellmere"], "in": 1435, "out": 16, "usd": 0.001515, "cached": false}
+{"qid": "H0000", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1471, "out": 54, "usd": 0.0017410000000000001, "cached": false}
+{"qid": "H0001", "types": ["birth"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1475, "out": 54, "usd": 0.001745, "cached": false}
+{"qid": "H0002", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1479, "out": 54, "usd": 0.0017490000000000001, "cached": false}
+{"qid": "H0004", "types": ["death"], "filter": ["Fellenridge"], "in": 1426, "out": 15, "usd": 0.001501, "cached": false}
+{"qid": "H0005", "types": ["death"], "filter": ["Fellworth"], "in": 1431, "out": 14, "usd": 0.001501, "cached": false}
+{"qid": "H0006", "types": ["death"], "filter": ["Dornworth"], "in": 1430, "out": 15, "usd": 0.001505, "cached": false}
+{"qid": "H0007", "types": ["death"], "filter": ["Vellwood"], "in": 1431, "out": 15, "usd": 0.001506, "cached": false}
+{"qid": "H0008", "types": ["birth"], "filter": ["Marrwood"], "in": 1430, "out": 15, "usd": 0.001505, "cached": false}
+{"qid": "H0010", "types": ["birth"], "filter": ["Corraby"], "in": 1429, "out": 14, "usd": 0.001499, "cached": false}
+{"qid": "H0011", "types": ["birth"], "filter": ["Fellworth"], "in": 1435, "out": 14, "usd": 0.001505, "cached": false}
+{"qid": "H0009", "types": ["birth"], "filter": ["Dornworth"], "in": 1432, "out": 15, "usd": 0.0015069999999999999, "cached": false}
+{"qid": "H0012", "types": ["birth"], "filter": ["Stenoway"], "in": 1431, "out": 14, "usd": 0.001501, "cached": false}
+{"qid": "H0013", "types": ["birth"], "filter": ["Fellenridge"], "in": 1434, "out": 15, "usd": 0.001509, "cached": false}
+{"qid": "H0014", "types": ["marriage"], "filter": ["Fellworth"], "in": 1439, "out": 14, "usd": 0.001509, "cached": false}
+{"qid": "H0015", "types": ["marriage"], "filter": ["Stenoway"], "in": 1437, "out": 14, "usd": 0.0015069999999999999, "cached": false}
+{"qid": "H0016", "types": ["marriage"], "filter": ["Fellenridge"], "in": 1436, "out": 15, "usd": 0.001511, "cached": false}
+{"qid": "H0017", "types": ["marriage"], "filter": ["Vellwood"], "in": 1441, "out": 15, "usd": 0.001516, "cached": false}
+{"qid": "H0018", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1468, "out": 54, "usd": 0.001738, "cached": false}
+{"qid": "H0019", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1468, "out": 54, "usd": 0.001738, "cached": true}
+{"qid": "H0020", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1470, "out": 54, "usd": 0.00174, "cached": false}
+{"qid": "H0021", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1470, "out": 54, "usd": 0.00174, "cached": false}
+{"qid": "H0022", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1477, "out": 54, "usd": 0.001747, "cached": false}
+{"qid": "H0023", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1481, "out": 54, "usd": 0.001751, "cached": false}
+{"qid": "H0024", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1474, "out": 54, "usd": 0.001744, "cached": false}
+{"qid": "H0025", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1477, "out": 54, "usd": 0.001747, "cached": false}
+{"qid": "H0026", "types": ["death", "burial"], "filter": ["Wendby"], "in": 1422, "out": 16, "usd": 0.001502, "cached": false}
+{"qid": "H0027", "types": ["death", "burial"], "filter": ["Brynford"], "in": 1424, "out": 17, "usd": 0.001509, "cached": false}
+{"qid": "H0028", "types": ["death", "burial"], "filter": ["Dunholt"], "in": 1421, "out": 17, "usd": 0.001506, "cached": false}
+{"qid": "H0029", "types": ["death", "burial"], "filter": ["Tormere"], "in": 1422, "out": 17, "usd": 0.001507, "cached": false}
+{"qid": "H0030", "types": ["death", "burial"], "filter": ["Wilhaven"], "in": 1422, "out": 17, "usd": 0.001507, "cached": false}
+{"qid": "H0031", "types": ["death", "burial"], "filter": ["Salton"], "in": 1419, "out": 16, "usd": 0.001499, "cached": false}
+{"qid": "H0032", "types": ["birth"], "filter": ["Coldton"], "in": 1418, "out": 14, "usd": 0.001488, "cached": false}
+{"qid": "H0033", "types": ["birth"], "filter": ["Elmwick"], "in": 1417, "out": 17, "usd": 0.001502, "cached": false}
+{"qid": "H0034", "types": ["birth"], "filter": ["Mirehaven"], "in": 1419, "out": 15, "usd": 0.0014939999999999999, "cached": false}
+{"qid": "H0035", "types": ["birth"], "filter": ["Elmmere"], "in": 1417, "out": 15, "usd": 0.001492, "cached": false}
+{"qid": "H0036", "types": ["birth"], "filter": ["Torcombe"], "in": 1417, "out": 18, "usd": 0.001507, "cached": false}
+{"qid": "H0037", "types": ["birth"], "filter": ["Larkholt"], "in": 1418, "out": 18, "usd": 0.001508, "cached": false}
+{"qid": "H0002", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1474, "out": 54, "usd": 0.001744, "cached": false}
+{"qid": "H0003", "types": ["death"], "filter": ["Vellmere"], "in": 1425, "out": 16, "usd": 0.001505, "cached": false}
+{"qid": "H0000", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1465, "out": 54, "usd": 0.001735, "cached": false}
+{"qid": "H0001", "types": ["birth"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1469, "out": 54, "usd": 0.001739, "cached": false}
+{"qid": "H0004", "types": ["death"], "filter": ["Fellenridge"], "in": 1427, "out": 15, "usd": 0.001502, "cached": false}
+{"qid": "H0006", "types": ["death"], "filter": ["Dornworth"], "in": 1430, "out": 15, "usd": 0.001505, "cached": false}
+{"qid": "H0005", "types": ["death"], "filter": ["Fellworth"], "in": 1424, "out": 14, "usd": 0.0014939999999999999, "cached": false}
+{"qid": "H0007", "types": ["death"], "filter": ["Vellwood"], "in": 1429, "out": 15, "usd": 0.001504, "cached": false}
+{"qid": "H0008", "types": ["birth"], "filter": ["Marrwood"], "in": 1427, "out": 15, "usd": 0.001502, "cached": false}
+{"qid": "H0009", "types": ["birth"], "filter": ["Dornworth"], "in": 1424, "out": 15, "usd": 0.001499, "cached": false}
+{"qid": "H0010", "types": ["birth"], "filter": ["Corraby"], "in": 1424, "out": 14, "usd": 0.0014939999999999999, "cached": false}
+{"qid": "H0011", "types": ["birth"], "filter": ["Fellworth"], "in": 1423, "out": 14, "usd": 0.001493, "cached": false}
+{"qid": "H0012", "types": ["birth"], "filter": ["Stenoway"], "in": 1426, "out": 14, "usd": 0.001496, "cached": false}
+{"qid": "H0013", "types": ["birth"], "filter": ["Fellenridge"], "in": 1428, "out": 15, "usd": 0.001503, "cached": false}
+{"qid": "H0014", "types": ["marriage"], "filter": ["Fellworth"], "in": 1432, "out": 14, "usd": 0.0015019999999999999, "cached": false}
+{"qid": "H0015", "types": ["marriage"], "filter": ["Stenoway"], "in": 1431, "out": 14, "usd": 0.001501, "cached": false}
+{"qid": "H0016", "types": ["marriage"], "filter": ["Fellenridge"], "in": 1436, "out": 15, "usd": 0.001511, "cached": false}
+{"qid": "H0017", "types": ["marriage"], "filter": ["Vellwood"], "in": 1431, "out": 15, "usd": 0.001506, "cached": false}
+{"qid": "H0018", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1468, "out": 54, "usd": 0.001738, "cached": false}
+{"qid": "H0019", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1464, "out": 54, "usd": 0.001734, "cached": false}
+{"qid": "H0020", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1465, "out": 54, "usd": 0.001735, "cached": false}
+{"qid": "H0021", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1465, "out": 54, "usd": 0.001735, "cached": false}
+{"qid": "H0022", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1473, "out": 54, "usd": 0.001743, "cached": false}
+{"qid": "H0024", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1472, "out": 54, "usd": 0.001742, "cached": false}
+{"qid": "H0023", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1472, "out": 54, "usd": 0.001742, "cached": false}
+{"qid": "H0025", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1472, "out": 54, "usd": 0.001742, "cached": false}
+{"qid": "H0026", "types": ["death", "burial"], "filter": ["Wendby"], "in": 1413, "out": 16, "usd": 0.001493, "cached": false}
+{"qid": "H0027", "types": ["death", "burial"], "filter": ["Brynford"], "in": 1415, "out": 20, "usd": 0.001515, "cached": false}
+{"qid": "H0028", "types": ["death", "burial"], "filter": ["Dunholt"], "in": 1416, "out": 17, "usd": 0.001501, "cached": false}
+{"qid": "H0029", "types": ["death", "burial"], "filter": ["Tormere"], "in": 1415, "out": 17, "usd": 0.0015, "cached": false}
+{"qid": "H0030", "types": ["death", "burial"], "filter": ["Wilhaven"], "in": 1417, "out": 17, "usd": 0.001502, "cached": false}
+{"qid": "H0031", "types": ["death", "burial"], "filter": ["Salton"], "in": 1413, "out": 16, "usd": 0.001493, "cached": false}
+{"qid": "H0033", "types": ["birth"], "filter": ["Elmwick"], "in": 1415, "out": 17, "usd": 0.0015, "cached": false}
+{"qid": "H0032", "types": ["birth"], "filter": ["Coldton"], "in": 1417, "out": 14, "usd": 0.001487, "cached": false}
+{"qid": "H0034", "types": ["birth"], "filter": ["Mirehaven"], "in": 1417, "out": 15, "usd": 0.001492, "cached": false}
+{"qid": "H0035", "types": ["birth"], "filter": ["Elmmere"], "in": 1417, "out": 15, "usd": 0.001492, "cached": false}
+{"qid": "H0036", "types": ["birth"], "filter": ["Torcombe"], "in": 1416, "out": 18, "usd": 0.001506, "cached": false}
+{"qid": "H0037", "types": ["birth"], "filter": ["Larkholt"], "in": 1415, "out": 18, "usd": 0.001505, "cached": false}
+{"qid": "H0000", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1465, "out": 54, "usd": 0.001735, "cached": true}
+{"qid": "H0003", "types": ["death"], "filter": ["Vellmere"], "in": 1425, "out": 16, "usd": 0.001505, "cached": true}
+{"qid": "H0001", "types": ["birth"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1469, "out": 54, "usd": 0.001739, "cached": true}
+{"qid": "H0002", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1474, "out": 54, "usd": 0.001744, "cached": true}
+{"qid": "H0004", "types": ["death"], "filter": ["Fellenridge"], "in": 1427, "out": 15, "usd": 0.001502, "cached": true}
+{"qid": "H0005", "types": ["death"], "filter": ["Fellworth"], "in": 1424, "out": 14, "usd": 0.0014939999999999999, "cached": true}
+{"qid": "H0006", "types": ["death"], "filter": ["Dornworth"], "in": 1430, "out": 15, "usd": 0.001505, "cached": true}
+{"qid": "H0007", "types": ["death"], "filter": ["Vellwood"], "in": 1429, "out": 15, "usd": 0.001504, "cached": true}
+{"qid": "H0008", "types": ["birth"], "filter": ["Marrwood"], "in": 1427, "out": 15, "usd": 0.001502, "cached": true}
+{"qid": "H0009", "types": ["birth"], "filter": ["Dornworth"], "in": 1424, "out": 15, "usd": 0.001499, "cached": true}
+{"qid": "H0010", "types": ["birth"], "filter": ["Corraby"], "in": 1424, "out": 14, "usd": 0.0014939999999999999, "cached": true}
+{"qid": "H0011", "types": ["birth"], "filter": ["Fellworth"], "in": 1423, "out": 14, "usd": 0.001493, "cached": true}
+{"qid": "H0012", "types": ["birth"], "filter": ["Stenoway"], "in": 1426, "out": 14, "usd": 0.001496, "cached": true}
+{"qid": "H0013", "types": ["birth"], "filter": ["Fellenridge"], "in": 1428, "out": 15, "usd": 0.001503, "cached": true}
+{"qid": "H0014", "types": ["marriage"], "filter": ["Fellworth"], "in": 1432, "out": 14, "usd": 0.0015019999999999999, "cached": true}
+{"qid": "H0015", "types": ["marriage"], "filter": ["Stenoway"], "in": 1431, "out": 14, "usd": 0.001501, "cached": true}
+{"qid": "H0016", "types": ["marriage"], "filter": ["Fellenridge"], "in": 1436, "out": 15, "usd": 0.001511, "cached": true}
+{"qid": "H0017", "types": ["marriage"], "filter": ["Vellwood"], "in": 1431, "out": 15, "usd": 0.001506, "cached": true}
+{"qid": "H0018", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1464, "out": 54, "usd": 0.001734, "cached": true}
+{"qid": "H0019", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1464, "out": 54, "usd": 0.001734, "cached": true}
+{"qid": "H0020", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1465, "out": 54, "usd": 0.001735, "cached": true}
+{"qid": "H0021", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1465, "out": 54, "usd": 0.001735, "cached": true}
+{"qid": "H0022", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1473, "out": 54, "usd": 0.001743, "cached": true}
+{"qid": "H0023", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1472, "out": 54, "usd": 0.001742, "cached": true}
+{"qid": "H0024", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1472, "out": 54, "usd": 0.001742, "cached": true}
+{"qid": "H0025", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1472, "out": 54, "usd": 0.001742, "cached": true}
+{"qid": "H0026", "types": ["death", "burial"], "filter": ["Wendby"], "in": 1413, "out": 16, "usd": 0.001493, "cached": true}
+{"qid": "H0027", "types": ["death", "burial"], "filter": ["Brynford"], "in": 1415, "out": 20, "usd": 0.001515, "cached": true}
+{"qid": "H0028", "types": ["death", "burial"], "filter": ["Dunholt"], "in": 1416, "out": 17, "usd": 0.001501, "cached": true}
+{"qid": "H0029", "types": ["death", "burial"], "filter": ["Tormere"], "in": 1415, "out": 17, "usd": 0.0015, "cached": true}
+{"qid": "H0030", "types": ["death", "burial"], "filter": ["Wilhaven"], "in": 1417, "out": 17, "usd": 0.001502, "cached": true}
+{"qid": "H0031", "types": ["death", "burial"], "filter": ["Salton"], "in": 1413, "out": 16, "usd": 0.001493, "cached": true}
+{"qid": "H0032", "types": ["birth"], "filter": ["Coldton"], "in": 1417, "out": 14, "usd": 0.001487, "cached": true}
+{"qid": "H0033", "types": ["birth"], "filter": ["Elmwick"], "in": 1415, "out": 17, "usd": 0.0015, "cached": true}
+{"qid": "H0034", "types": ["birth"], "filter": ["Mirehaven"], "in": 1417, "out": 15, "usd": 0.001492, "cached": true}
+{"qid": "H0035", "types": ["birth"], "filter": ["Elmmere"], "in": 1417, "out": 15, "usd": 0.001492, "cached": true}
+{"qid": "H0036", "types": ["birth"], "filter": ["Torcombe"], "in": 1416, "out": 18, "usd": 0.001506, "cached": true}
+{"qid": "H0037", "types": ["birth"], "filter": ["Larkholt"], "in": 1415, "out": 18, "usd": 0.001505, "cached": true}
+{"qid": "H0000", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1465, "out": 54, "usd": 0.001735, "cached": true}
+{"qid": "H0002", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1474, "out": 54, "usd": 0.001744, "cached": true}
+{"qid": "H0001", "types": ["birth"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1469, "out": 54, "usd": 0.001739, "cached": true}
+{"qid": "H0003", "types": ["death"], "filter": ["Vellmere"], "in": 1425, "out": 16, "usd": 0.001505, "cached": true}
+{"qid": "H0004", "types": ["death"], "filter": ["Fellenridge"], "in": 1427, "out": 15, "usd": 0.001502, "cached": true}
+{"qid": "H0005", "types": ["death"], "filter": ["Fellworth"], "in": 1424, "out": 14, "usd": 0.0014939999999999999, "cached": true}
+{"qid": "H0006", "types": ["death"], "filter": ["Dornworth"], "in": 1430, "out": 15, "usd": 0.001505, "cached": true}
+{"qid": "H0007", "types": ["death"], "filter": ["Vellwood"], "in": 1429, "out": 15, "usd": 0.001504, "cached": true}
+{"qid": "H0008", "types": ["birth"], "filter": ["Marrwood"], "in": 1427, "out": 15, "usd": 0.001502, "cached": true}
+{"qid": "H0009", "types": ["birth"], "filter": ["Dornworth"], "in": 1424, "out": 15, "usd": 0.001499, "cached": true}
+{"qid": "H0010", "types": ["birth"], "filter": ["Corraby"], "in": 1424, "out": 14, "usd": 0.0014939999999999999, "cached": true}
+{"qid": "H0011", "types": ["birth"], "filter": ["Fellworth"], "in": 1423, "out": 14, "usd": 0.001493, "cached": true}
+{"qid": "H0012", "types": ["birth"], "filter": ["Stenoway"], "in": 1426, "out": 14, "usd": 0.001496, "cached": true}
+{"qid": "H0013", "types": ["birth"], "filter": ["Fellenridge"], "in": 1428, "out": 15, "usd": 0.001503, "cached": true}
+{"qid": "H0014", "types": ["marriage"], "filter": ["Fellworth"], "in": 1432, "out": 14, "usd": 0.0015019999999999999, "cached": true}
+{"qid": "H0015", "types": ["marriage"], "filter": ["Stenoway"], "in": 1431, "out": 14, "usd": 0.001501, "cached": true}
+{"qid": "H0016", "types": ["marriage"], "filter": ["Fellenridge"], "in": 1436, "out": 15, "usd": 0.001511, "cached": true}
+{"qid": "H0017", "types": ["marriage"], "filter": ["Vellwood"], "in": 1431, "out": 15, "usd": 0.001506, "cached": true}
+{"qid": "H0018", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1464, "out": 54, "usd": 0.001734, "cached": true}
+{"qid": "H0019", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1464, "out": 54, "usd": 0.001734, "cached": true}
+{"qid": "H0020", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1465, "out": 54, "usd": 0.001735, "cached": true}
+{"qid": "H0021", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1465, "out": 54, "usd": 0.001735, "cached": true}
+{"qid": "H0022", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1473, "out": 54, "usd": 0.001743, "cached": true}
+{"qid": "H0023", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1472, "out": 54, "usd": 0.001742, "cached": true}
+{"qid": "H0024", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1472, "out": 54, "usd": 0.001742, "cached": true}
+{"qid": "H0025", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1472, "out": 54, "usd": 0.001742, "cached": true}
+{"qid": "H0026", "types": ["death", "burial"], "filter": ["Wendby"], "in": 1413, "out": 16, "usd": 0.001493, "cached": true}
+{"qid": "H0027", "types": ["death", "burial"], "filter": ["Brynford"], "in": 1415, "out": 20, "usd": 0.001515, "cached": true}
+{"qid": "H0028", "types": ["death", "burial"], "filter": ["Dunholt"], "in": 1416, "out": 17, "usd": 0.001501, "cached": true}
+{"qid": "H0029", "types": ["death", "burial"], "filter": ["Tormere"], "in": 1415, "out": 17, "usd": 0.0015, "cached": true}
+{"qid": "H0030", "types": ["death", "burial"], "filter": ["Wilhaven"], "in": 1417, "out": 17, "usd": 0.001502, "cached": true}
+{"qid": "H0031", "types": ["death", "burial"], "filter": ["Salton"], "in": 1413, "out": 16, "usd": 0.001493, "cached": true}
+{"qid": "H0032", "types": ["birth"], "filter": ["Coldton"], "in": 1417, "out": 14, "usd": 0.001487, "cached": true}
+{"qid": "H0033", "types": ["birth"], "filter": ["Elmwick"], "in": 1415, "out": 17, "usd": 0.0015, "cached": true}
+{"qid": "H0034", "types": ["birth"], "filter": ["Mirehaven"], "in": 1417, "out": 15, "usd": 0.001492, "cached": true}
+{"qid": "H0035", "types": ["birth"], "filter": ["Elmmere"], "in": 1417, "out": 15, "usd": 0.001492, "cached": true}
+{"qid": "H0036", "types": ["birth"], "filter": ["Torcombe"], "in": 1416, "out": 18, "usd": 0.001506, "cached": true}
+{"qid": "H0037", "types": ["birth"], "filter": ["Larkholt"], "in": 1415, "out": 18, "usd": 0.001505, "cached": true}
+{"qid": "H0001", "types": ["birth"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1475, "out": 54, "usd": 0.001745, "cached": true}
+{"qid": "H0002", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1479, "out": 54, "usd": 0.0017490000000000001, "cached": true}
+{"qid": "H0000", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1471, "out": 54, "usd": 0.0017410000000000001, "cached": true}
+{"qid": "H0003", "types": ["death"], "filter": ["Vellmere"], "in": 1435, "out": 16, "usd": 0.001515, "cached": true}
+{"qid": "H0005", "types": ["death"], "filter": ["Fellworth"], "in": 1431, "out": 14, "usd": 0.001501, "cached": true}
+{"qid": "H0004", "types": ["death"], "filter": ["Fellenridge"], "in": 1426, "out": 15, "usd": 0.001501, "cached": true}
+{"qid": "H0006", "types": ["death"], "filter": ["Dornworth"], "in": 1430, "out": 15, "usd": 0.001505, "cached": true}
+{"qid": "H0007", "types": ["death"], "filter": ["Vellwood"], "in": 1431, "out": 15, "usd": 0.001506, "cached": true}
+{"qid": "H0008", "types": ["birth"], "filter": ["Marrwood"], "in": 1430, "out": 15, "usd": 0.001505, "cached": true}
+{"qid": "H0009", "types": ["birth"], "filter": ["Dornworth"], "in": 1432, "out": 15, "usd": 0.0015069999999999999, "cached": true}
+{"qid": "H0010", "types": ["birth"], "filter": ["Corraby"], "in": 1429, "out": 14, "usd": 0.001499, "cached": true}
+{"qid": "H0011", "types": ["birth"], "filter": ["Fellworth"], "in": 1435, "out": 14, "usd": 0.001505, "cached": true}
+{"qid": "H0012", "types": ["birth"], "filter": ["Stenoway"], "in": 1431, "out": 14, "usd": 0.001501, "cached": true}
+{"qid": "H0013", "types": ["birth"], "filter": ["Fellenridge"], "in": 1434, "out": 15, "usd": 0.001509, "cached": true}
+{"qid": "H0014", "types": ["marriage"], "filter": ["Fellworth"], "in": 1439, "out": 14, "usd": 0.001509, "cached": true}
+{"qid": "H0015", "types": ["marriage"], "filter": ["Stenoway"], "in": 1437, "out": 14, "usd": 0.0015069999999999999, "cached": true}
+{"qid": "H0016", "types": ["marriage"], "filter": ["Fellenridge"], "in": 1436, "out": 15, "usd": 0.001511, "cached": true}
+{"qid": "H0017", "types": ["marriage"], "filter": ["Vellwood"], "in": 1441, "out": 15, "usd": 0.001516, "cached": true}
+{"qid": "H0018", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1468, "out": 54, "usd": 0.001738, "cached": true}
+{"qid": "H0019", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1468, "out": 54, "usd": 0.001738, "cached": true}
+{"qid": "H0020", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1470, "out": 54, "usd": 0.00174, "cached": true}
+{"qid": "H0021", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1470, "out": 54, "usd": 0.00174, "cached": true}
+{"qid": "H0022", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1477, "out": 54, "usd": 0.001747, "cached": true}
+{"qid": "H0023", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1481, "out": 54, "usd": 0.001751, "cached": true}
+{"qid": "H0024", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1474, "out": 54, "usd": 0.001744, "cached": true}
+{"qid": "H0025", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1477, "out": 54, "usd": 0.001747, "cached": true}
+{"qid": "H0026", "types": ["death", "burial"], "filter": ["Wendby"], "in": 1422, "out": 16, "usd": 0.001502, "cached": true}
+{"qid": "H0027", "types": ["death", "burial"], "filter": ["Brynford"], "in": 1424, "out": 17, "usd": 0.001509, "cached": true}
+{"qid": "H0028", "types": ["death", "burial"], "filter": ["Dunholt"], "in": 1421, "out": 17, "usd": 0.001506, "cached": true}
+{"qid": "H0029", "types": ["death", "burial"], "filter": ["Tormere"], "in": 1422, "out": 17, "usd": 0.001507, "cached": true}
+{"qid": "H0030", "types": ["death", "burial"], "filter": ["Wilhaven"], "in": 1422, "out": 17, "usd": 0.001507, "cached": true}
+{"qid": "H0031", "types": ["death", "burial"], "filter": ["Salton"], "in": 1419, "out": 16, "usd": 0.001499, "cached": true}
+{"qid": "H0032", "types": ["birth"], "filter": ["Coldton"], "in": 1418, "out": 14, "usd": 0.001488, "cached": true}
+{"qid": "H0033", "types": ["birth"], "filter": ["Elmwick"], "in": 1417, "out": 17, "usd": 0.001502, "cached": true}
+{"qid": "H0034", "types": ["birth"], "filter": ["Mirehaven"], "in": 1419, "out": 15, "usd": 0.0014939999999999999, "cached": true}
+{"qid": "H0035", "types": ["birth"], "filter": ["Elmmere"], "in": 1417, "out": 15, "usd": 0.001492, "cached": true}
+{"qid": "H0036", "types": ["birth"], "filter": ["Torcombe"], "in": 1417, "out": 18, "usd": 0.001507, "cached": true}
+{"qid": "H0037", "types": ["birth"], "filter": ["Larkholt"], "in": 1418, "out": 18, "usd": 0.001508, "cached": true}
+{"qid": "H0000", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1465, "out": 54, "usd": 0.001735, "cached": true}
+{"qid": "H0003", "types": ["death"], "filter": ["Vellmere"], "in": 1425, "out": 16, "usd": 0.001505, "cached": true}
+{"qid": "H0002", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1474, "out": 54, "usd": 0.001744, "cached": true}
+{"qid": "H0001", "types": ["birth"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1469, "out": 54, "usd": 0.001739, "cached": true}
+{"qid": "H0004", "types": ["death"], "filter": ["Fellenridge"], "in": 1427, "out": 15, "usd": 0.001502, "cached": true}
+{"qid": "H0005", "types": ["death"], "filter": ["Fellworth"], "in": 1424, "out": 14, "usd": 0.0014939999999999999, "cached": true}
+{"qid": "H0006", "types": ["death"], "filter": ["Dornworth"], "in": 1430, "out": 15, "usd": 0.001505, "cached": true}
+{"qid": "H0007", "types": ["death"], "filter": ["Vellwood"], "in": 1429, "out": 15, "usd": 0.001504, "cached": true}
+{"qid": "H0008", "types": ["birth"], "filter": ["Marrwood"], "in": 1427, "out": 15, "usd": 0.001502, "cached": true}
+{"qid": "H0009", "types": ["birth"], "filter": ["Dornworth"], "in": 1424, "out": 15, "usd": 0.001499, "cached": true}
+{"qid": "H0010", "types": ["birth"], "filter": ["Corraby"], "in": 1424, "out": 14, "usd": 0.0014939999999999999, "cached": true}
+{"qid": "H0011", "types": ["birth"], "filter": ["Fellworth"], "in": 1423, "out": 14, "usd": 0.001493, "cached": true}
+{"qid": "H0012", "types": ["birth"], "filter": ["Stenoway"], "in": 1426, "out": 14, "usd": 0.001496, "cached": true}
+{"qid": "H0013", "types": ["birth"], "filter": ["Fellenridge"], "in": 1428, "out": 15, "usd": 0.001503, "cached": true}
+{"qid": "H0014", "types": ["marriage"], "filter": ["Fellworth"], "in": 1432, "out": 14, "usd": 0.0015019999999999999, "cached": true}
+{"qid": "H0015", "types": ["marriage"], "filter": ["Stenoway"], "in": 1431, "out": 14, "usd": 0.001501, "cached": true}
+{"qid": "H0016", "types": ["marriage"], "filter": ["Fellenridge"], "in": 1436, "out": 15, "usd": 0.001511, "cached": true}
+{"qid": "H0017", "types": ["marriage"], "filter": ["Vellwood"], "in": 1431, "out": 15, "usd": 0.001506, "cached": true}
+{"qid": "H0018", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1464, "out": 54, "usd": 0.001734, "cached": true}
+{"qid": "H0019", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1464, "out": 54, "usd": 0.001734, "cached": true}
+{"qid": "H0020", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1465, "out": 54, "usd": 0.001735, "cached": true}
+{"qid": "H0021", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1465, "out": 54, "usd": 0.001735, "cached": true}
+{"qid": "H0022", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1473, "out": 54, "usd": 0.001743, "cached": true}
+{"qid": "H0023", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1472, "out": 54, "usd": 0.001742, "cached": true}
+{"qid": "H0024", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1472, "out": 54, "usd": 0.001742, "cached": true}
+{"qid": "H0025", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1472, "out": 54, "usd": 0.001742, "cached": true}
+{"qid": "H0026", "types": ["death", "burial"], "filter": ["Wendby"], "in": 1413, "out": 16, "usd": 0.001493, "cached": true}
+{"qid": "H0027", "types": ["death", "burial"], "filter": ["Brynford"], "in": 1415, "out": 20, "usd": 0.001515, "cached": true}
+{"qid": "H0028", "types": ["death", "burial"], "filter": ["Dunholt"], "in": 1416, "out": 17, "usd": 0.001501, "cached": true}
+{"qid": "H0029", "types": ["death", "burial"], "filter": ["Tormere"], "in": 1415, "out": 17, "usd": 0.0015, "cached": true}
+{"qid": "H0030", "types": ["death", "burial"], "filter": ["Wilhaven"], "in": 1417, "out": 17, "usd": 0.001502, "cached": true}
+{"qid": "H0031", "types": ["death", "burial"], "filter": ["Salton"], "in": 1413, "out": 16, "usd": 0.001493, "cached": true}
+{"qid": "H0032", "types": ["birth"], "filter": ["Coldton"], "in": 1417, "out": 14, "usd": 0.001487, "cached": true}
+{"qid": "H0033", "types": ["birth"], "filter": ["Elmwick"], "in": 1415, "out": 17, "usd": 0.0015, "cached": true}
+{"qid": "H0034", "types": ["birth"], "filter": ["Mirehaven"], "in": 1417, "out": 15, "usd": 0.001492, "cached": true}
+{"qid": "H0035", "types": ["birth"], "filter": ["Elmmere"], "in": 1417, "out": 15, "usd": 0.001492, "cached": true}
+{"qid": "H0036", "types": ["birth"], "filter": ["Torcombe"], "in": 1416, "out": 18, "usd": 0.001506, "cached": true}
+{"qid": "H0037", "types": ["birth"], "filter": ["Larkholt"], "in": 1415, "out": 18, "usd": 0.001505, "cached": true}
+{"qid": "H0000", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1465, "out": 54, "usd": 0.001735, "cached": true}
+{"qid": "H0001", "types": ["birth"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1469, "out": 54, "usd": 0.001739, "cached": true}
+{"qid": "H0002", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1474, "out": 54, "usd": 0.001744, "cached": true}
+{"qid": "H0003", "types": ["death"], "filter": ["Vellmere"], "in": 1425, "out": 16, "usd": 0.001505, "cached": true}
+{"qid": "H0004", "types": ["death"], "filter": ["Fellenridge"], "in": 1427, "out": 15, "usd": 0.001502, "cached": true}
+{"qid": "H0005", "types": ["death"], "filter": ["Fellworth"], "in": 1424, "out": 14, "usd": 0.0014939999999999999, "cached": true}
+{"qid": "H0006", "types": ["death"], "filter": ["Dornworth"], "in": 1430, "out": 15, "usd": 0.001505, "cached": true}
+{"qid": "H0007", "types": ["death"], "filter": ["Vellwood"], "in": 1429, "out": 15, "usd": 0.001504, "cached": true}
+{"qid": "H0008", "types": ["birth"], "filter": ["Marrwood"], "in": 1427, "out": 15, "usd": 0.001502, "cached": true}
+{"qid": "H0009", "types": ["birth"], "filter": ["Dornworth"], "in": 1424, "out": 15, "usd": 0.001499, "cached": true}
+{"qid": "H0010", "types": ["birth"], "filter": ["Corraby"], "in": 1424, "out": 14, "usd": 0.0014939999999999999, "cached": true}
+{"qid": "H0011", "types": ["birth"], "filter": ["Fellworth"], "in": 1423, "out": 14, "usd": 0.001493, "cached": true}
+{"qid": "H0012", "types": ["birth"], "filter": ["Stenoway"], "in": 1426, "out": 14, "usd": 0.001496, "cached": true}
+{"qid": "H0013", "types": ["birth"], "filter": ["Fellenridge"], "in": 1428, "out": 15, "usd": 0.001503, "cached": true}
+{"qid": "H0014", "types": ["marriage"], "filter": ["Fellworth"], "in": 1432, "out": 14, "usd": 0.0015019999999999999, "cached": true}
+{"qid": "H0015", "types": ["marriage"], "filter": ["Stenoway"], "in": 1431, "out": 14, "usd": 0.001501, "cached": true}
+{"qid": "H0016", "types": ["marriage"], "filter": ["Fellenridge"], "in": 1436, "out": 15, "usd": 0.001511, "cached": true}
+{"qid": "H0017", "types": ["marriage"], "filter": ["Vellwood"], "in": 1431, "out": 15, "usd": 0.001506, "cached": true}
+{"qid": "H0018", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1464, "out": 54, "usd": 0.001734, "cached": true}
+{"qid": "H0019", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1464, "out": 54, "usd": 0.001734, "cached": true}
+{"qid": "H0020", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1465, "out": 54, "usd": 0.001735, "cached": true}
+{"qid": "H0021", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1465, "out": 54, "usd": 0.001735, "cached": true}
+{"qid": "H0022", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1473, "out": 54, "usd": 0.001743, "cached": true}
+{"qid": "H0023", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1472, "out": 54, "usd": 0.001742, "cached": true}
+{"qid": "H0024", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1472, "out": 54, "usd": 0.001742, "cached": true}
+{"qid": "H0025", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1472, "out": 54, "usd": 0.001742, "cached": true}
+{"qid": "H0026", "types": ["death", "burial"], "filter": ["Wendby"], "in": 1413, "out": 16, "usd": 0.001493, "cached": true}
+{"qid": "H0027", "types": ["death", "burial"], "filter": ["Brynford"], "in": 1415, "out": 20, "usd": 0.001515, "cached": true}
+{"qid": "H0028", "types": ["death", "burial"], "filter": ["Dunholt"], "in": 1416, "out": 17, "usd": 0.001501, "cached": true}
+{"qid": "H0029", "types": ["death", "burial"], "filter": ["Tormere"], "in": 1415, "out": 17, "usd": 0.0015, "cached": true}
+{"qid": "H0030", "types": ["death", "burial"], "filter": ["Wilhaven"], "in": 1417, "out": 17, "usd": 0.001502, "cached": true}
+{"qid": "H0031", "types": ["death", "burial"], "filter": ["Salton"], "in": 1413, "out": 16, "usd": 0.001493, "cached": true}
+{"qid": "H0032", "types": ["birth"], "filter": ["Coldton"], "in": 1417, "out": 14, "usd": 0.001487, "cached": true}
+{"qid": "H0033", "types": ["birth"], "filter": ["Elmwick"], "in": 1415, "out": 17, "usd": 0.0015, "cached": true}
+{"qid": "H0034", "types": ["birth"], "filter": ["Mirehaven"], "in": 1417, "out": 15, "usd": 0.001492, "cached": true}
+{"qid": "H0035", "types": ["birth"], "filter": ["Elmmere"], "in": 1417, "out": 15, "usd": 0.001492, "cached": true}
+{"qid": "H0036", "types": ["birth"], "filter": ["Torcombe"], "in": 1416, "out": 18, "usd": 0.001506, "cached": true}
+{"qid": "H0037", "types": ["birth"], "filter": ["Larkholt"], "in": 1415, "out": 18, "usd": 0.001505, "cached": true}
+{"qid": "H0000", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1465, "out": 54, "usd": 0.001735, "cached": true}
+{"qid": "H0001", "types": ["birth"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1469, "out": 54, "usd": 0.001739, "cached": true}
+{"qid": "H0002", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1474, "out": 54, "usd": 0.001744, "cached": true}
+{"qid": "H0003", "types": ["death"], "filter": ["Vellmere"], "in": 1425, "out": 16, "usd": 0.001505, "cached": true}
+{"qid": "H0004", "types": ["death"], "filter": ["Fellenridge"], "in": 1427, "out": 15, "usd": 0.001502, "cached": true}
+{"qid": "H0005", "types": ["death"], "filter": ["Fellworth"], "in": 1424, "out": 14, "usd": 0.0014939999999999999, "cached": true}
+{"qid": "H0006", "types": ["death"], "filter": ["Dornworth"], "in": 1430, "out": 15, "usd": 0.001505, "cached": true}
+{"qid": "H0007", "types": ["death"], "filter": ["Vellwood"], "in": 1429, "out": 15, "usd": 0.001504, "cached": true}
+{"qid": "H0008", "types": ["birth"], "filter": ["Marrwood"], "in": 1427, "out": 15, "usd": 0.001502, "cached": true}
+{"qid": "H0009", "types": ["birth"], "filter": ["Dornworth"], "in": 1424, "out": 15, "usd": 0.001499, "cached": true}
+{"qid": "H0010", "types": ["birth"], "filter": ["Corraby"], "in": 1424, "out": 14, "usd": 0.0014939999999999999, "cached": true}
+{"qid": "H0011", "types": ["birth"], "filter": ["Fellworth"], "in": 1423, "out": 14, "usd": 0.001493, "cached": true}
+{"qid": "H0012", "types": ["birth"], "filter": ["Stenoway"], "in": 1426, "out": 14, "usd": 0.001496, "cached": true}
+{"qid": "H0013", "types": ["birth"], "filter": ["Fellenridge"], "in": 1428, "out": 15, "usd": 0.001503, "cached": true}
+{"qid": "H0014", "types": ["marriage"], "filter": ["Fellworth"], "in": 1432, "out": 14, "usd": 0.0015019999999999999, "cached": true}
+{"qid": "H0015", "types": ["marriage"], "filter": ["Stenoway"], "in": 1431, "out": 14, "usd": 0.001501, "cached": true}
+{"qid": "H0016", "types": ["marriage"], "filter": ["Fellenridge"], "in": 1436, "out": 15, "usd": 0.001511, "cached": true}
+{"qid": "H0017", "types": ["marriage"], "filter": ["Vellwood"], "in": 1431, "out": 15, "usd": 0.001506, "cached": true}
+{"qid": "H0018", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1464, "out": 54, "usd": 0.001734, "cached": true}
+{"qid": "H0019", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1464, "out": 54, "usd": 0.001734, "cached": true}
+{"qid": "H0020", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1465, "out": 54, "usd": 0.001735, "cached": true}
+{"qid": "H0021", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1465, "out": 54, "usd": 0.001735, "cached": true}
+{"qid": "H0022", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1473, "out": 54, "usd": 0.001743, "cached": true}
+{"qid": "H0023", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1472, "out": 54, "usd": 0.001742, "cached": true}
+{"qid": "H0024", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1472, "out": 54, "usd": 0.001742, "cached": true}
+{"qid": "H0025", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1472, "out": 54, "usd": 0.001742, "cached": true}
+{"qid": "H0026", "types": ["death", "burial"], "filter": ["Wendby"], "in": 1413, "out": 16, "usd": 0.001493, "cached": true}
+{"qid": "H0027", "types": ["death", "burial"], "filter": ["Brynford"], "in": 1415, "out": 20, "usd": 0.001515, "cached": true}
+{"qid": "H0028", "types": ["death", "burial"], "filter": ["Dunholt"], "in": 1416, "out": 17, "usd": 0.001501, "cached": true}
+{"qid": "H0029", "types": ["death", "burial"], "filter": ["Tormere"], "in": 1415, "out": 17, "usd": 0.0015, "cached": true}
+{"qid": "H0030", "types": ["death", "burial"], "filter": ["Wilhaven"], "in": 1417, "out": 17, "usd": 0.001502, "cached": true}
+{"qid": "H0031", "types": ["death", "burial"], "filter": ["Salton"], "in": 1413, "out": 16, "usd": 0.001493, "cached": true}
+{"qid": "H0032", "types": ["birth"], "filter": ["Coldton"], "in": 1417, "out": 14, "usd": 0.001487, "cached": true}
+{"qid": "H0033", "types": ["birth"], "filter": ["Elmwick"], "in": 1415, "out": 17, "usd": 0.0015, "cached": true}
+{"qid": "H0034", "types": ["birth"], "filter": ["Mirehaven"], "in": 1417, "out": 15, "usd": 0.001492, "cached": true}
+{"qid": "H0035", "types": ["birth"], "filter": ["Elmmere"], "in": 1417, "out": 15, "usd": 0.001492, "cached": true}
+{"qid": "H0036", "types": ["birth"], "filter": ["Torcombe"], "in": 1416, "out": 18, "usd": 0.001506, "cached": true}
+{"qid": "H0037", "types": ["birth"], "filter": ["Larkholt"], "in": 1415, "out": 18, "usd": 0.001505, "cached": true}
+{"qid": "H0000", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1465, "out": 54, "usd": 0.001735, "cached": true}
+{"qid": "H0003", "types": ["death"], "filter": ["Vellmere"], "in": 1425, "out": 16, "usd": 0.001505, "cached": true}
+{"qid": "H0002", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1474, "out": 54, "usd": 0.001744, "cached": true}
+{"qid": "H0006", "types": ["death"], "filter": ["Dornworth"], "in": 1430, "out": 15, "usd": 0.001505, "cached": true}
+{"qid": "H0001", "types": ["birth"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1469, "out": 54, "usd": 0.001739, "cached": true}
+{"qid": "H0005", "types": ["death"], "filter": ["Fellworth"], "in": 1424, "out": 14, "usd": 0.0014939999999999999, "cached": true}
+{"qid": "H0004", "types": ["death"], "filter": ["Fellenridge"], "in": 1427, "out": 15, "usd": 0.001502, "cached": true}
+{"qid": "H0007", "types": ["death"], "filter": ["Vellwood"], "in": 1429, "out": 15, "usd": 0.001504, "cached": true}
+{"qid": "H0008", "types": ["birth"], "filter": ["Marrwood"], "in": 1427, "out": 15, "usd": 0.001502, "cached": true}
+{"qid": "H0009", "types": ["birth"], "filter": ["Dornworth"], "in": 1424, "out": 15, "usd": 0.001499, "cached": true}
+{"qid": "H0010", "types": ["birth"], "filter": ["Corraby"], "in": 1424, "out": 14, "usd": 0.0014939999999999999, "cached": true}
+{"qid": "H0011", "types": ["birth"], "filter": ["Fellworth"], "in": 1423, "out": 14, "usd": 0.001493, "cached": true}
+{"qid": "H0012", "types": ["birth"], "filter": ["Stenoway"], "in": 1426, "out": 14, "usd": 0.001496, "cached": true}
+{"qid": "H0013", "types": ["birth"], "filter": ["Fellenridge"], "in": 1428, "out": 15, "usd": 0.001503, "cached": true}
+{"qid": "H0014", "types": ["marriage"], "filter": ["Fellworth"], "in": 1432, "out": 14, "usd": 0.0015019999999999999, "cached": true}
+{"qid": "H0015", "types": ["marriage"], "filter": ["Stenoway"], "in": 1431, "out": 14, "usd": 0.001501, "cached": true}
+{"qid": "H0016", "types": ["marriage"], "filter": ["Fellenridge"], "in": 1436, "out": 15, "usd": 0.001511, "cached": true}
+{"qid": "H0017", "types": ["marriage"], "filter": ["Vellwood"], "in": 1431, "out": 15, "usd": 0.001506, "cached": true}
+{"qid": "H0018", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1464, "out": 54, "usd": 0.001734, "cached": true}
+{"qid": "H0019", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1464, "out": 54, "usd": 0.001734, "cached": true}
+{"qid": "H0020", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1465, "out": 54, "usd": 0.001735, "cached": true}
+{"qid": "H0021", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1465, "out": 54, "usd": 0.001735, "cached": true}
+{"qid": "H0022", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1473, "out": 54, "usd": 0.001743, "cached": true}
+{"qid": "H0023", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1472, "out": 54, "usd": 0.001742, "cached": true}
+{"qid": "H0024", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1472, "out": 54, "usd": 0.001742, "cached": true}
+{"qid": "H0025", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1472, "out": 54, "usd": 0.001742, "cached": true}
+{"qid": "H0026", "types": ["death", "burial"], "filter": ["Wendby"], "in": 1413, "out": 16, "usd": 0.001493, "cached": true}
+{"qid": "H0027", "types": ["death", "burial"], "filter": ["Brynford"], "in": 1415, "out": 20, "usd": 0.001515, "cached": true}
+{"qid": "H0028", "types": ["death", "burial"], "filter": ["Dunholt"], "in": 1416, "out": 17, "usd": 0.001501, "cached": true}
+{"qid": "H0029", "types": ["death", "burial"], "filter": ["Tormere"], "in": 1415, "out": 17, "usd": 0.0015, "cached": true}
+{"qid": "H0030", "types": ["death", "burial"], "filter": ["Wilhaven"], "in": 1417, "out": 17, "usd": 0.001502, "cached": true}
+{"qid": "H0031", "types": ["death", "burial"], "filter": ["Salton"], "in": 1413, "out": 16, "usd": 0.001493, "cached": true}
+{"qid": "H0032", "types": ["birth"], "filter": ["Coldton"], "in": 1417, "out": 14, "usd": 0.001487, "cached": true}
+{"qid": "H0033", "types": ["birth"], "filter": ["Elmwick"], "in": 1415, "out": 17, "usd": 0.0015, "cached": true}
+{"qid": "H0034", "types": ["birth"], "filter": ["Mirehaven"], "in": 1417, "out": 15, "usd": 0.001492, "cached": true}
+{"qid": "H0035", "types": ["birth"], "filter": ["Elmmere"], "in": 1417, "out": 15, "usd": 0.001492, "cached": true}
+{"qid": "H0036", "types": ["birth"], "filter": ["Torcombe"], "in": 1416, "out": 18, "usd": 0.001506, "cached": true}
+{"qid": "H0037", "types": ["birth"], "filter": ["Larkholt"], "in": 1415, "out": 18, "usd": 0.001505, "cached": true}
+{"qid": "H0001", "types": ["birth"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1469, "out": 54, "usd": 0.001739, "cached": true}
+{"qid": "H0003", "types": ["death"], "filter": ["Vellmere"], "in": 1425, "out": 16, "usd": 0.001505, "cached": true}
+{"qid": "H0000", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1465, "out": 54, "usd": 0.001735, "cached": true}
+{"qid": "H0002", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1474, "out": 54, "usd": 0.001744, "cached": true}
+{"qid": "H0004", "types": ["death"], "filter": ["Fellenridge"], "in": 1427, "out": 15, "usd": 0.001502, "cached": true}
+{"qid": "H0005", "types": ["death"], "filter": ["Fellworth"], "in": 1424, "out": 14, "usd": 0.0014939999999999999, "cached": true}
+{"qid": "H0006", "types": ["death"], "filter": ["Dornworth"], "in": 1430, "out": 15, "usd": 0.001505, "cached": true}
+{"qid": "H0007", "types": ["death"], "filter": ["Vellwood"], "in": 1429, "out": 15, "usd": 0.001504, "cached": true}
+{"qid": "H0008", "types": ["birth"], "filter": ["Marrwood"], "in": 1427, "out": 15, "usd": 0.001502, "cached": true}
+{"qid": "H0009", "types": ["birth"], "filter": ["Dornworth"], "in": 1424, "out": 15, "usd": 0.001499, "cached": true}
+{"qid": "H0010", "types": ["birth"], "filter": ["Corraby"], "in": 1424, "out": 14, "usd": 0.0014939999999999999, "cached": true}
+{"qid": "H0011", "types": ["birth"], "filter": ["Fellworth"], "in": 1423, "out": 14, "usd": 0.001493, "cached": true}
+{"qid": "H0012", "types": ["birth"], "filter": ["Stenoway"], "in": 1426, "out": 14, "usd": 0.001496, "cached": true}
+{"qid": "H0013", "types": ["birth"], "filter": ["Fellenridge"], "in": 1428, "out": 15, "usd": 0.001503, "cached": true}
+{"qid": "H0014", "types": ["marriage"], "filter": ["Fellworth"], "in": 1432, "out": 14, "usd": 0.0015019999999999999, "cached": true}
+{"qid": "H0015", "types": ["marriage"], "filter": ["Stenoway"], "in": 1431, "out": 14, "usd": 0.001501, "cached": true}
+{"qid": "H0016", "types": ["marriage"], "filter": ["Fellenridge"], "in": 1436, "out": 15, "usd": 0.001511, "cached": true}
+{"qid": "H0017", "types": ["marriage"], "filter": ["Vellwood"], "in": 1431, "out": 15, "usd": 0.001506, "cached": true}
+{"qid": "H0018", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1464, "out": 54, "usd": 0.001734, "cached": true}
+{"qid": "H0019", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1464, "out": 54, "usd": 0.001734, "cached": true}
+{"qid": "H0020", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1465, "out": 54, "usd": 0.001735, "cached": true}
+{"qid": "H0021", "types": ["death"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1465, "out": 54, "usd": 0.001735, "cached": true}
+{"qid": "H0022", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1473, "out": 54, "usd": 0.001743, "cached": true}
+{"qid": "H0023", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1472, "out": 54, "usd": 0.001742, "cached": true}
+{"qid": "H0024", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1472, "out": 54, "usd": 0.001742, "cached": true}
+{"qid": "H0025", "types": ["marriage"], "filter": ["Stenoway", "Vellmere", "Marrwood", "Fellenridge", "Dornworth", "Hollaby", "Fellworth", "Vellwood", "Corraby", "Ashley"], "in": 1472, "out": 54, "usd": 0.001742, "cached": true}
+{"qid": "H0026", "types": ["death", "burial"], "filter": ["Wendby"], "in": 1413, "out": 16, "usd": 0.001493, "cached": true}
+{"qid": "H0027", "types": ["death", "burial"], "filter": ["Brynford"], "in": 1415, "out": 20, "usd": 0.001515, "cached": true}
+{"qid": "H0028", "types": ["death", "burial"], "filter": ["Dunholt"], "in": 1416, "out": 17, "usd": 0.001501, "cached": true}
+{"qid": "H0029", "types": ["death", "burial"], "filter": ["Tormere"], "in": 1415, "out": 17, "usd": 0.0015, "cached": true}
+{"qid": "H0030", "types": ["death", "burial"], "filter": ["Wilhaven"], "in": 1417, "out": 17, "usd": 0.001502, "cached": true}
+{"qid": "H0031", "types": ["death", "burial"], "filter": ["Salton"], "in": 1413, "out": 16, "usd": 0.001493, "cached": true}
+{"qid": "H0032", "types": ["birth"], "filter": ["Coldton"], "in": 1417, "out": 14, "usd": 0.001487, "cached": true}
+{"qid": "H0033", "types": ["birth"], "filter": ["Elmwick"], "in": 1415, "out": 17, "usd": 0.0015, "cached": true}
+{"qid": "H0034", "types": ["birth"], "filter": ["Mirehaven"], "in": 1417, "out": 15, "usd": 0.001492, "cached": true}
+{"qid": "H0035", "types": ["birth"], "filter": ["Elmmere"], "in": 1417, "out": 15, "usd": 0.001492, "cached": true}
+{"qid": "H0036", "types": ["birth"], "filter": ["Torcombe"], "in": 1416, "out": 18, "usd": 0.001506, "cached": true}
+{"qid": "H0037", "types": ["birth"], "filter": ["Larkholt"], "in": 1415, "out": 18, "usd": 0.001505, "cached": true}

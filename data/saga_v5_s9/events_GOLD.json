@@ -1,0 +1,4563 @@
+[
+ {
+  "id": "E0000",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Corrley household lived in the hill farms of Kelton. Vesdan Corrley and his wife Ilwyn Corrley had 3 children, all living at home: the eldest a son, Orrald Corrley; then a son, Nebin Corrley; then a son, Daten Corrley.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P000",
+  "mother": "P001",
+  "children": [
+   "P002",
+   "P003",
+   "P004"
+  ],
+  "place": "L05"
+ },
+ {
+  "id": "E0001",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "In the river crossing at Staveford lived Madan Marroway, married to Fedette Marroway, with their children. In order of birth these were the eldest a son, Codan Marroway; then a son, Vesdrek Marroway; then a son, Thilan Marroway.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P005",
+  "mother": "P006",
+  "children": [
+   "P007",
+   "P008",
+   "P009"
+  ],
+  "place": "L10"
+ },
+ {
+  "id": "E0002",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Lindett household lived in the village of Quenholt. Neten Lindett and his wife Orrine Lindett had 3 children, all living at home: the eldest a daughter, Thiena Lindett; then a daughter, Jovie Lindett; then a daughter, Hadette Lindett.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P010",
+  "mother": "P011",
+  "children": [
+   "P012",
+   "P013",
+   "P014"
+  ],
+  "place": "L09"
+ },
+ {
+  "id": "E0003",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "In the harbor town of Oststead lived Thinar Dornson, married to Rowyn Dornson, with their children. In order of birth these were the eldest a daughter, Ulena Dornson; then a daughter, Nerine Dornson; then a son, Zaric Dornson; then a son, Tamor Dornson.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P015",
+  "mother": "P016",
+  "children": [
+   "P017",
+   "P018",
+   "P019",
+   "P020"
+  ],
+  "place": "L08"
+ },
+ {
+  "id": "E0004",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "In the harbor town of Coldstead lived Modan Ashley, married to Tadette Ashley, with their children. In order of birth these were the eldest a daughter, Comira Ashley; then a daughter, Elena Ashley.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P021",
+  "mother": "P022",
+  "children": [
+   "P023",
+   "P024"
+  ],
+  "place": "L01"
+ },
+ {
+  "id": "E0005",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "In the river crossing at Mirecombe lived Yevus Dornmere, married to Ulmira Dornmere, with their children. In order of birth these were the eldest a daughter, Gara Dornmere; then a daughter, Thirine Dornmere; then a son, Nenar Dornmere.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P025",
+  "mother": "P026",
+  "children": [
+   "P027",
+   "P028",
+   "P029"
+  ],
+  "place": "L07"
+ },
+ {
+  "id": "E0006",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "In the harbor town of Gulwick lived Selan Stenley, married to Jora Stenley, with their children. In order of birth these were the eldest a son, Elten Stenley; then a son, Sedrek Stenley.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P030",
+  "mother": "P031",
+  "children": [
+   "P032",
+   "P033"
+  ],
+  "place": "L04"
+ },
+ {
+  "id": "E0007",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Marrworth household lived in the village of Torby. Kavus Marrworth and his wife Kassa Marrworth had 3 children, all living at home: the eldest a son, Thilan Marrworth; then a son, Nebin Marrworth; then a son, Habin Marrworth.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P034",
+  "mother": "P035",
+  "children": [
+   "P036",
+   "P037",
+   "P038"
+  ],
+  "place": "L11"
+ },
+ {
+  "id": "E0008",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Ashner household lived in the village of Larkhaven. Fenar Ashner and his wife Aera Ashner had 4 children, all living at home: the eldest a son, Talan Ashner; then a daughter, Kawyn Ashner; then a daughter, Sessa Ashner; then a daughter, Thirine Ashner.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P039",
+  "mother": "P040",
+  "children": [
+   "P041",
+   "P042",
+   "P043",
+   "P044"
+  ],
+  "place": "L06"
+ },
+ {
+  "id": "E0009",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "In Yarlmere lived Jodrek Haskoway, married to Brera Haskoway, with their children. In order of birth these were the eldest a son, Gabin Haskoway; then a son, Manar Haskoway; then a son, Ordrek Haskoway.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P045",
+  "mother": "P046",
+  "children": [
+   "P047",
+   "P048",
+   "P049"
+  ],
+  "place": "L15"
+ },
+ {
+  "id": "E0010",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Comira Ashley and Ordrek Haskoway were husband and wife. The couple lived in Coldstead.",
+  "where": "L01",
+  "ref_deps": [],
+  "a": "P023",
+  "b": "P049",
+  "place": "L01"
+ },
+ {
+  "id": "E0011",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Gabin Haskoway and Elena Ashley were husband and wife. The couple lived in Yarlmere.",
+  "where": "L15",
+  "ref_deps": [],
+  "a": "P047",
+  "b": "P024",
+  "place": "L15"
+ },
+ {
+  "id": "E0012",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Manar Haskoway had married Thirine Ashner some years before. The couple lived in Yarlmere.",
+  "where": "L15",
+  "ref_deps": [],
+  "a": "P048",
+  "b": "P044",
+  "place": "L15"
+ },
+ {
+  "id": "E0013",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Elten Stenley and Thiena Lindett were husband and wife. The couple lived in Gulwick.",
+  "where": "L04",
+  "ref_deps": [],
+  "a": "P032",
+  "b": "P012",
+  "place": "L04"
+ },
+ {
+  "id": "E0014",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Daten Corrley and Nerine Dornson were husband and wife. The couple lived in Kelton.",
+  "where": "L05",
+  "ref_deps": [],
+  "a": "P004",
+  "b": "P018",
+  "place": "L05"
+ },
+ {
+  "id": "E0015",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Sessa Ashner had married Habin Marrworth some years before. The couple lived in Larkhaven.",
+  "where": "L06",
+  "ref_deps": [],
+  "a": "P043",
+  "b": "P038",
+  "place": "L06"
+ },
+ {
+  "id": "E0016",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Vesdan Corrley worked as a weaver. Vesdan Corrley was born at Staveford.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P000",
+  "occupation": "weaver",
+  "birthplace": "L10",
+  "nick": null
+ },
+ {
+  "id": "E0017",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Ilwyn Corrley worked as a fisher. Folk called Ilwyn Corrley \"Tall Ilwyn\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P001",
+  "occupation": "fisher",
+  "birthplace": null,
+  "nick": "Tall Ilwyn"
+ },
+ {
+  "id": "E0018",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Orrald Corrley had been born in Quenholt.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P002",
+  "occupation": null,
+  "birthplace": "L09",
+  "nick": null
+ },
+ {
+  "id": "E0019",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Nebin Corrley was a smith. Folk called Nebin Corrley \"Red Nebin\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P003",
+  "occupation": "smith",
+  "birthplace": null,
+  "nick": "Red Nebin"
+ },
+ {
+  "id": "E0020",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Daten Corrley was a cooper. Folk called Daten Corrley \"Quiet Daten\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P004",
+  "occupation": "cooper",
+  "birthplace": null,
+  "nick": "Quiet Daten"
+ },
+ {
+  "id": "E0021",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Madan Marroway was a fisher. Madan Marroway was born at Oststead.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P005",
+  "occupation": "fisher",
+  "birthplace": "L08",
+  "nick": null
+ },
+ {
+  "id": "E0022",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Folk called Fedette Marroway \"Old Fedette\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P006",
+  "occupation": null,
+  "birthplace": null,
+  "nick": "Old Fedette"
+ },
+ {
+  "id": "E0023",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Codan Marroway worked as a chandler. Codan Marroway was born at Coldstead.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P007",
+  "occupation": "chandler",
+  "birthplace": "L01",
+  "nick": null
+ },
+ {
+  "id": "E0024",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Vesdrek Marroway was a chandler.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P008",
+  "occupation": "chandler",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0025",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Thilan Marroway worked as a glazier.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P009",
+  "occupation": "glazier",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0026",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Neten Lindett worked as a cooper. Neten Lindett had been born in Mirecombe.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P010",
+  "occupation": "cooper",
+  "birthplace": "L07",
+  "nick": null
+ },
+ {
+  "id": "E0027",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Orrine Lindett worked as a fisher. Folk called Orrine Lindett \"Orrine the Younger\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P011",
+  "occupation": "fisher",
+  "birthplace": null,
+  "nick": "Orrine the Younger"
+ },
+ {
+  "id": "E0028",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Thiena Lindett had been born in Quenholt. Folk called Thiena Lindett \"Lame Thiena\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P012",
+  "occupation": null,
+  "birthplace": "L09",
+  "nick": "Lame Thiena"
+ },
+ {
+  "id": "E0029",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Jovie Lindett was born at Larkhaven.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P013",
+  "occupation": null,
+  "birthplace": "L06",
+  "nick": null
+ },
+ {
+  "id": "E0030",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Thinar Dornson had been born in Quenholt.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P015",
+  "occupation": null,
+  "birthplace": "L09",
+  "nick": null
+ },
+ {
+  "id": "E0031",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Rowyn Dornson worked as a brewer. Folk called Rowyn Dornson \"Rowyn the Younger\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P016",
+  "occupation": "brewer",
+  "birthplace": null,
+  "nick": "Rowyn the Younger"
+ },
+ {
+  "id": "E0032",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Ulena Dornson was a scribe. Folk called Ulena Dornson \"Red Ulena\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P017",
+  "occupation": "scribe",
+  "birthplace": null,
+  "nick": "Red Ulena"
+ },
+ {
+  "id": "E0033",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Nerine Dornson worked as a cooper. Nerine Dornson was born at Gulcombe.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P018",
+  "occupation": "cooper",
+  "birthplace": "L03",
+  "nick": null
+ },
+ {
+  "id": "E0034",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Tamor Dornson was a shepherd. Tamor Dornson was born at Dunford.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P020",
+  "occupation": "shepherd",
+  "birthplace": "L02",
+  "nick": null
+ },
+ {
+  "id": "E0035",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Modan Ashley was a glazier. Modan Ashley was born at Kelton.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P021",
+  "occupation": "glazier",
+  "birthplace": "L05",
+  "nick": null
+ },
+ {
+  "id": "E0036",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Tadette Ashley worked as a herbalist.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P022",
+  "occupation": "herbalist",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0037",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Comira Ashley was a ferryman. Comira Ashley was born at Kelton.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P023",
+  "occupation": "ferryman",
+  "birthplace": "L05",
+  "nick": null
+ },
+ {
+  "id": "E0038",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Elena Ashley worked as a mason. Elena Ashley was born at Gulwick.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P024",
+  "occupation": "mason",
+  "birthplace": "L04",
+  "nick": null
+ },
+ {
+  "id": "E0039",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Yevus Dornmere was born at Coldstead.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P025",
+  "occupation": null,
+  "birthplace": "L01",
+  "nick": null
+ },
+ {
+  "id": "E0040",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Ulmira Dornmere had been born in Kelton. Folk called Ulmira Dornmere \"Red Ulmira\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P026",
+  "occupation": null,
+  "birthplace": "L05",
+  "nick": "Red Ulmira"
+ },
+ {
+  "id": "E0041",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Gara Dornmere worked as a scribe.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P027",
+  "occupation": "scribe",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0042",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Thirine Dornmere was born at Wilby. Folk called Thirine Dornmere \"Thirine the Younger\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P028",
+  "occupation": null,
+  "birthplace": "L14",
+  "nick": "Thirine the Younger"
+ },
+ {
+  "id": "E0043",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Nenar Dornmere worked as a fisher. Nenar Dornmere had been born in Staveford.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P029",
+  "occupation": "fisher",
+  "birthplace": "L10",
+  "nick": null
+ },
+ {
+  "id": "E0044",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Selan Stenley had been born in Larkhaven.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P030",
+  "occupation": null,
+  "birthplace": "L06",
+  "nick": null
+ },
+ {
+  "id": "E0045",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Jora Stenley worked as a smith. Jora Stenley was born at Wendton.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P031",
+  "occupation": "smith",
+  "birthplace": "L13",
+  "nick": null
+ },
+ {
+  "id": "E0046",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Elten Stenley was a ferryman. Elten Stenley had been born in Wilby.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P032",
+  "occupation": "ferryman",
+  "birthplace": "L14",
+  "nick": null
+ },
+ {
+  "id": "E0047",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Sedrek Stenley worked as a brewer. Sedrek Stenley was born at Gulcombe. Folk called Sedrek Stenley \"Tall Sedrek\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P033",
+  "occupation": "brewer",
+  "birthplace": "L03",
+  "nick": "Tall Sedrek"
+ },
+ {
+  "id": "E0048",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Kavus Marrworth was a smith.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P034",
+  "occupation": "smith",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0049",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Kassa Marrworth was a ferryman.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P035",
+  "occupation": "ferryman",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0050",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Thilan Marrworth was a brewer. Thilan Marrworth had been born in Coldstead.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P036",
+  "occupation": "brewer",
+  "birthplace": "L01",
+  "nick": null
+ },
+ {
+  "id": "E0051",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Nebin Marrworth worked as a ferryman.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P037",
+  "occupation": "ferryman",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0052",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Habin Marrworth worked as a miller.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P038",
+  "occupation": "miller",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0053",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Fenar Ashner was a herbalist. Fenar Ashner was born at Yarlmere.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P039",
+  "occupation": "herbalist",
+  "birthplace": "L15",
+  "nick": null
+ },
+ {
+  "id": "E0054",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Aera Ashner was a herbalist.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P040",
+  "occupation": "herbalist",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0055",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Talan Ashner was born at Brynwick. Folk called Talan Ashner \"Lame Talan\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P041",
+  "occupation": null,
+  "birthplace": "L00",
+  "nick": "Lame Talan"
+ },
+ {
+  "id": "E0056",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Sessa Ashner was a ferryman.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P043",
+  "occupation": "ferryman",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0057",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Thirine Ashner had been born in Staveford.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P044",
+  "occupation": null,
+  "birthplace": "L10",
+  "nick": null
+ },
+ {
+  "id": "E0058",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Jodrek Haskoway was a herbalist.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P045",
+  "occupation": "herbalist",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0059",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Brera Haskoway worked as a ferryman. Brera Haskoway had been born in Mirecombe.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P046",
+  "occupation": "ferryman",
+  "birthplace": "L07",
+  "nick": null
+ },
+ {
+  "id": "E0060",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Gabin Haskoway worked as a cooper.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P047",
+  "occupation": "cooper",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0061",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Manar Haskoway worked as a weaver. Manar Haskoway had been born in Torby. Folk called Manar Haskoway \"Tall Manar\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P048",
+  "occupation": "weaver",
+  "birthplace": "L11",
+  "nick": "Tall Manar"
+ },
+ {
+  "id": "E0062",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Ordrek Haskoway was a scribe.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P049",
+  "occupation": "scribe",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0063",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Thirine Dornmere kept the ivory dagger in a cedar box.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I08",
+  "owner": "P028"
+ },
+ {
+  "id": "E0064",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Kassa Marrworth kept the bone comb in a cedar box.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I00",
+  "owner": "P035"
+ },
+ {
+  "id": "E0065",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The iron seal belonged to Madan Marroway.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I07",
+  "owner": "P005"
+ },
+ {
+  "id": "E0066",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The silver flute belonged to Elten Stenley.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I11",
+  "owner": "P032"
+ },
+ {
+  "id": "E0067",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Among the possessions of Yevus Dornmere was the brass map.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I02",
+  "owner": "P025"
+ },
+ {
+  "id": "E0068",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Among the possessions of Ulena Dornson was the brass mirror.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I03",
+  "owner": "P017"
+ },
+ {
+  "id": "E0069",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Among the possessions of Comira Ashley was the jade seal.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I10",
+  "owner": "P023"
+ },
+ {
+  "id": "E0070",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Among the possessions of Hadette Lindett was the glass locket.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I05",
+  "owner": "P014"
+ },
+ {
+  "id": "E0071",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Among the possessions of Thilan Marrworth was the iron lantern.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I06",
+  "owner": "P036"
+ },
+ {
+  "id": "E0072",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The garnet flute belonged to Jora Stenley.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I04",
+  "owner": "P031"
+ },
+ {
+  "id": "E0073",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The brass dagger belonged to Vesdan Corrley, head of the Corrley household.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I01",
+  "owner": "P000"
+ },
+ {
+  "id": "E0074",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Among the possessions of Thilan Marrworth was the jade bell.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I09",
+  "owner": "P036"
+ },
+ {
+  "id": "E0075",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Aera Ashner alone carried the knowledge that the fire at the Wendton granary was set on purpose.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S00",
+  "person": "P040"
+ },
+ {
+  "id": "E0076",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Daten Corrley knew that the deed to the Dunford pastures was forged.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S01",
+  "person": "P004"
+ },
+ {
+  "id": "E0077",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Fenar Ashner knew that a chest of silver lies buried beneath the well at Mirecombe.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S02",
+  "person": "P039"
+ },
+ {
+  "id": "E0078",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Kavus Marrworth alone carried the knowledge that the bridge toll at Staveford is skimmed every month.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S03",
+  "person": "P034"
+ },
+ {
+  "id": "E0079",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Manar Haskoway knew that the old abbey at Kelton hides a second cellar.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S04",
+  "person": "P048"
+ },
+ {
+  "id": "E0080",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Ordrek Haskoway knew that the Dornmere family once owed a blood debt to the Corrley family.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S05",
+  "person": "P049"
+ },
+ {
+  "id": "E0081",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Thilan Marrworth knew that the Marrworth mill ledger was rewritten after the flood.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S06",
+  "person": "P036"
+ },
+ {
+  "id": "E0082",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Tamor Dornson knew that the harbor master of Quenholt takes bribes.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S07",
+  "person": "P020"
+ },
+ {
+  "id": "E0083",
+  "type": "RULE_VAULT",
+  "chapter": 1,
+  "text": "It was an old law of Brynwick that the vault beneath its chapel would open only for a living person who held both the garnet flute and the silver flute at once.",
+  "where": null,
+  "ref_deps": [],
+  "place": "L00",
+  "items": [
+   "I04",
+   "I11"
+  ]
+ },
+ {
+  "id": "E0084",
+  "type": "RULE_BRIDGE",
+  "chapter": 1,
+  "text": "The toll bridge at Torby belonged to the Dornson family, and only those born a Dornson, or presently married to one, were allowed to cross it.",
+  "where": null,
+  "ref_deps": [],
+  "place": "L11",
+  "surname": "Dornson"
+ },
+ {
+  "id": "E0085",
+  "type": "RULE_HEIR",
+  "chapter": 1,
+  "text": "By custom, the brass dagger always passed, on the death of whoever held it, to the eldest living child of that holder; no will could change this, and it passed without ceremony.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I01",
+  "surname": "Corrley"
+ },
+ {
+  "id": "E0086",
+  "type": "PROMISE",
+  "chapter": 2,
+  "text": "Tadette gave Ordrek Haskoway a solemn promise to plant an orchard on the slope above Larkhaven.",
+  "where": "L01",
+  "ref_deps": [
+   "E0004"
+  ],
+  "promise": "R00",
+  "a": "P022",
+  "b": "P049",
+  "act": "to plant an orchard on the slope above Larkhaven"
+ },
+ {
+  "id": "E0087",
+  "type": "BIRTH",
+  "chapter": 2,
+  "text": "A daughter was born to Thirine Ashner and Manar Haskoway, and they called the child Thivie Haskoway. The family lived in Yarlmere.",
+  "where": "L15",
+  "ref_deps": [],
+  "child": "P050",
+  "mother": "P044",
+  "father": "P048",
+  "place": "L15"
+ },
+ {
+  "id": "E0088",
+  "type": "TELL",
+  "chapter": 2,
+  "text": "Late one night Thilan Marrworth confided to Kavus Marrworth that the Marrworth mill ledger was rewritten after the flood.",
+  "where": "L11",
+  "ref_deps": [],
+  "secret": "S06",
+  "src": "P036",
+  "dest": "P034"
+ },
+ {
+  "id": "E0089",
+  "type": "TRAVEL",
+  "chapter": 2,
+  "text": "Fenar Ashner left Larkhaven and settled in Wilby.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P039",
+  "src": "L06",
+  "dest": "L14"
+ },
+ {
+  "id": "E0090",
+  "type": "TRAVEL",
+  "chapter": 2,
+  "text": "Aera Ashner followed him to Wilby within the month.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P040",
+  "src": "L06",
+  "dest": "L14"
+ },
+ {
+  "id": "E0091",
+  "type": "TRAVEL",
+  "chapter": 2,
+  "text": "Habin Marrworth rode out of Larkhaven; by the next market day he was living in Kelton.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P038",
+  "src": "L06",
+  "dest": "L05"
+ },
+ {
+  "id": "E0092",
+  "type": "TRAVEL",
+  "chapter": 2,
+  "text": "Sessa went along to live in Kelton as well.",
+  "where": "L06",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P043",
+  "src": "L06",
+  "dest": "L05"
+ },
+ {
+  "id": "E0093",
+  "type": "PROMISE",
+  "chapter": 3,
+  "text": "Gabin Haskoway gave Manar a solemn promise to repair the roof of the chapel at Wilby.",
+  "where": "L15",
+  "ref_deps": [
+   "E0009"
+  ],
+  "promise": "R01",
+  "a": "P047",
+  "b": "P048",
+  "act": "to repair the roof of the chapel at Wilby"
+ },
+ {
+  "id": "E0094",
+  "type": "BIRTH",
+  "chapter": 3,
+  "text": "Thiena gave birth to a daughter, named Maena Stenley; the father was Elten Stenley. The family lived in Gulwick.",
+  "where": "L04",
+  "ref_deps": [
+   "E0002"
+  ],
+  "child": "P051",
+  "mother": "P012",
+  "father": "P032",
+  "place": "L04"
+ },
+ {
+  "id": "E0095",
+  "type": "PLAN",
+  "chapter": 3,
+  "text": "Selan Stenley talked for weeks of going to Larkhaven, yet in the end stayed where he was.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P030",
+  "dest": "L06"
+ },
+ {
+  "id": "E0096",
+  "type": "TELL",
+  "chapter": 3,
+  "text": "In a letter that Kassa Marrworth burned after reading, Kavus revealed that the Marrworth mill ledger was rewritten after the flood.",
+  "where": "L11",
+  "ref_deps": [
+   "E0007"
+  ],
+  "secret": "S06",
+  "src": "P034",
+  "dest": "P035"
+ },
+ {
+  "id": "E0097",
+  "type": "PROMISE",
+  "chapter": 3,
+  "text": "Kassa Marrworth swore to the eldest son of Kassa Marrworth to pay the old debt owed to the Ashley family, and shook on it.",
+  "where": "L11",
+  "ref_deps": [
+   "E0007"
+  ],
+  "promise": "R02",
+  "a": "P035",
+  "b": "P036",
+  "act": "to pay the old debt owed to the Ashley family"
+ },
+ {
+  "id": "E0098",
+  "type": "TRAVEL",
+  "chapter": 3,
+  "text": "Nebin Marrworth packed a single trunk and moved from Torby to Gulwick.",
+  "where": "L11",
+  "ref_deps": [],
+  "person": "P037",
+  "src": "L11",
+  "dest": "L04"
+ },
+ {
+  "id": "E0099",
+  "type": "OCCUPATION",
+  "chapter": 4,
+  "text": "Fedette Marroway gave up idleness and took work as a smith.",
+  "where": "L10",
+  "ref_deps": [
+   "E0022"
+  ],
+  "person": "P006",
+  "old": null,
+  "new": "smith"
+ },
+ {
+  "id": "E0100",
+  "type": "PROMISE",
+  "chapter": 4,
+  "text": "Habin gave Orrald Corrley a solemn promise to carry a sealed letter to Gulwick.",
+  "where": "L05",
+  "ref_deps": [
+   "E0007"
+  ],
+  "promise": "R03",
+  "a": "P038",
+  "b": "P002",
+  "act": "to carry a sealed letter to Gulwick"
+ },
+ {
+  "id": "E0101",
+  "type": "BIRTH",
+  "chapter": 4,
+  "text": "A daughter was born to Thiena Lindett and Elten Stenley, and they called the child Mawyn Stenley. The family lived in Gulwick.",
+  "where": "L04",
+  "ref_deps": [],
+  "child": "P052",
+  "mother": "P012",
+  "father": "P032",
+  "place": "L04"
+ },
+ {
+  "id": "E0102",
+  "type": "TRAVEL",
+  "chapter": 4,
+  "text": "Elten Stenley packed a single trunk and moved from Gulwick to Yarlmere.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P032",
+  "src": "L04",
+  "dest": "L15"
+ },
+ {
+  "id": "E0103",
+  "type": "TRAVEL",
+  "chapter": 4,
+  "text": "Thiena Lindett followed him to Yarlmere within the month.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P012",
+  "src": "L04",
+  "dest": "L15"
+ },
+ {
+  "id": "E0104",
+  "type": "PLAN",
+  "chapter": 4,
+  "text": "Sedrek Stenley talked for weeks of going to Coldstead, yet in the end stayed where he was.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P033",
+  "dest": "L01"
+ },
+ {
+  "id": "E0105",
+  "type": "MARRY",
+  "chapter": 4,
+  "text": "Tall Sedrek and Thirine Dornmere were wed at Gulwick, with half the parish looking on. The couple lived in Gulwick from then on.",
+  "where": "L04",
+  "ref_deps": [
+   "E0047"
+  ],
+  "a": "P033",
+  "b": "P028",
+  "place": "L04"
+ },
+ {
+  "id": "E0106",
+  "type": "OCCUPATION",
+  "chapter": 4,
+  "text": "Jora Stenley gave up being a smith and took work as a tanner.",
+  "where": "L04",
+  "ref_deps": [
+   "E0006"
+  ],
+  "person": "P031",
+  "old": "smith",
+  "new": "tanner"
+ },
+ {
+  "id": "E0107",
+  "type": "TRAVEL",
+  "chapter": 4,
+  "text": "Nebin Marrworth found work in Mirecombe, moved there, and did not return to Gulwick.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P037",
+  "src": "L04",
+  "dest": "L07"
+ },
+ {
+  "id": "E0108",
+  "type": "GIVE",
+  "chapter": 5,
+  "text": "Kavus Marrworth won the iron lantern from Thilan Marrworth at cards, fairly, and kept it.",
+  "where": "L11",
+  "ref_deps": [],
+  "item": "I06",
+  "src": "P036",
+  "dest": "P034"
+ },
+ {
+  "id": "E0109",
+  "type": "BIRTH",
+  "chapter": 5,
+  "text": "Thirine Ashner gave birth to a daughter, named Yelia Haskoway; the father was Manar Haskoway. The family lived in Yarlmere.",
+  "where": "L15",
+  "ref_deps": [],
+  "child": "P053",
+  "mother": "P044",
+  "father": "P048",
+  "place": "L15"
+ },
+ {
+  "id": "E0110",
+  "type": "PLAN",
+  "chapter": 5,
+  "text": "Thirine Ashner talked for weeks of going to Gulcombe, yet in the end stayed where she was.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P044",
+  "dest": "L03"
+ },
+ {
+  "id": "E0111",
+  "type": "MARRY",
+  "chapter": 5,
+  "text": "In the chapel at Torby, Thilan Marrworth married the eldest daughter of Fenar Ashner. The couple lived in Torby from then on.",
+  "where": "L11",
+  "ref_deps": [
+   "E0008"
+  ],
+  "a": "P036",
+  "b": "P042",
+  "place": "L11"
+ },
+ {
+  "id": "E0112",
+  "type": "GIVE",
+  "chapter": 5,
+  "text": "Selan Stenley won the ivory dagger from Thirine Dornmere at cards, fairly, and kept it.",
+  "where": "L04",
+  "ref_deps": [],
+  "item": "I08",
+  "src": "P028",
+  "dest": "P030"
+ },
+ {
+  "id": "E0113",
+  "type": "BIRTH",
+  "chapter": 5,
+  "text": "Kawyn Ashner gave birth to a son, named Seten Marrworth; the father was Thilan Marrworth. The family lived in Torby.",
+  "where": "L11",
+  "ref_deps": [],
+  "child": "P054",
+  "mother": "P042",
+  "father": "P036",
+  "place": "L11"
+ },
+ {
+  "id": "E0114",
+  "type": "PLAN",
+  "chapter": 6,
+  "text": "Aera Ashner meant to go to Coldstead before the frost, but the roads flooded and the journey was put off.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P040",
+  "dest": "L01"
+ },
+ {
+  "id": "E0115",
+  "type": "TRAVEL",
+  "chapter": 6,
+  "text": "Modan Ashley found work in Quenholt, moved there, and did not return to Coldstead.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P021",
+  "src": "L01",
+  "dest": "L09"
+ },
+ {
+  "id": "E0116",
+  "type": "TRAVEL",
+  "chapter": 6,
+  "text": "Tadette Ashley went along to live in Quenholt as well.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P022",
+  "src": "L01",
+  "dest": "L09"
+ },
+ {
+  "id": "E0117",
+  "type": "GIVE",
+  "chapter": 6,
+  "text": "A parcel from Thilan Marrworth reached Sedrek Stenley; inside was the jade bell, now his to keep.",
+  "where": "L11",
+  "ref_deps": [],
+  "item": "I09",
+  "src": "P036",
+  "dest": "P033"
+ },
+ {
+  "id": "E0118",
+  "type": "GIVE",
+  "chapter": 6,
+  "text": "Ulena Dornson gave the brass mirror to Thinar Dornson.",
+  "where": "L08",
+  "ref_deps": [],
+  "item": "I03",
+  "src": "P017",
+  "dest": "P015"
+ },
+ {
+  "id": "E0119",
+  "type": "TRAVEL",
+  "chapter": 6,
+  "text": "Rowyn the Younger packed a single trunk and moved from Oststead to Wendton.",
+  "where": "L08",
+  "ref_deps": [
+   "E0031"
+  ],
+  "person": "P016",
+  "src": "L08",
+  "dest": "L13"
+ },
+ {
+  "id": "E0120",
+  "type": "TRAVEL",
+  "chapter": 6,
+  "text": "Thinar Dornson went along to live in Wendton as well.",
+  "where": "L08",
+  "ref_deps": [],
+  "person": "P015",
+  "src": "L08",
+  "dest": "L13"
+ },
+ {
+  "id": "E0121",
+  "type": "PROMISE",
+  "chapter": 7,
+  "text": "Aera swore to Fenar Ashner to teach the children of Staveford their letters, and shook on it.",
+  "where": "L14",
+  "ref_deps": [
+   "E0008"
+  ],
+  "promise": "R04",
+  "a": "P040",
+  "b": "P039",
+  "act": "to teach the children of Staveford their letters"
+ },
+ {
+  "id": "E0122",
+  "type": "TRAVEL",
+  "chapter": 7,
+  "text": "After the quarrel, Daten quit Kelton for good and took lodgings in Mirecombe.",
+  "where": "L05",
+  "ref_deps": [
+   "E0000"
+  ],
+  "person": "P004",
+  "src": "L05",
+  "dest": "L07"
+ },
+ {
+  "id": "E0123",
+  "type": "TRAVEL",
+  "chapter": 7,
+  "text": "Nerine Dornson followed him to Mirecombe within the month.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P018",
+  "src": "L05",
+  "dest": "L07"
+ },
+ {
+  "id": "E0124",
+  "type": "GIVE",
+  "chapter": 7,
+  "text": "Selan Stenley won the jade bell from Sedrek Stenley at cards, fairly, and kept it.",
+  "where": "L04",
+  "ref_deps": [],
+  "item": "I09",
+  "src": "P033",
+  "dest": "P030"
+ },
+ {
+  "id": "E0125",
+  "type": "BIRTH",
+  "chapter": 7,
+  "text": "Thiena Lindett gave birth to a son, named Romor Stenley; the father was Elten Stenley. The family lived in Yarlmere.",
+  "where": "L15",
+  "ref_deps": [],
+  "child": "P055",
+  "mother": "P012",
+  "father": "P032",
+  "place": "L15"
+ },
+ {
+  "id": "E0126",
+  "type": "TRAVEL",
+  "chapter": 7,
+  "text": "Gabin Haskoway left Yarlmere and settled in Kelton.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P047",
+  "src": "L15",
+  "dest": "L05"
+ },
+ {
+  "id": "E0127",
+  "type": "TRAVEL",
+  "chapter": 7,
+  "text": "Elena Ashley followed him to Kelton within the month.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P024",
+  "src": "L15",
+  "dest": "L05"
+ },
+ {
+  "id": "E0128",
+  "type": "DEATH",
+  "chapter": 8,
+  "text": "Rowyn Dornson died of old age, quietly in sleep at Wendton.",
+  "where": "L13",
+  "ref_deps": [],
+  "person": "P016",
+  "cause": "old age, quietly in sleep",
+  "place": "L13"
+ },
+ {
+  "id": "E0129",
+  "type": "TRAVEL",
+  "chapter": 8,
+  "text": "After the quarrel, Thinar quit Wendton for good and took lodgings in Oststead.",
+  "where": "L13",
+  "ref_deps": [
+   "E0003"
+  ],
+  "person": "P015",
+  "src": "L13",
+  "dest": "L08"
+ },
+ {
+  "id": "E0130",
+  "type": "OCCUPATION",
+  "chapter": 8,
+  "text": "Vesdan was apprenticed anew and became a tanner.",
+  "where": "L05",
+  "ref_deps": [
+   "E0000"
+  ],
+  "person": "P000",
+  "old": "weaver",
+  "new": "tanner"
+ },
+ {
+  "id": "E0131",
+  "type": "OCCUPATION",
+  "chapter": 8,
+  "text": "Gara Dornmere was apprenticed anew and became a brewer.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P027",
+  "old": "scribe",
+  "new": "brewer"
+ },
+ {
+  "id": "E0132",
+  "type": "RESOLVE",
+  "chapter": 8,
+  "text": "Tadette Ashley never did keep the promise made to Ordrek Haskoway (plant an orchard on the slope above Larkhaven); the matter was abandoned.",
+  "where": "L09",
+  "ref_deps": [],
+  "promise": "R00",
+  "kept": false
+ },
+ {
+  "id": "E0133",
+  "type": "GIVE",
+  "chapter": 8,
+  "text": "Gara Dornmere won the brass map from Yevus Dornmere at cards, fairly, and kept it.",
+  "where": "L07",
+  "ref_deps": [],
+  "item": "I02",
+  "src": "P025",
+  "dest": "P027"
+ },
+ {
+  "id": "E0134",
+  "type": "TELL",
+  "chapter": 8,
+  "text": "Late one night Kassa Marrworth confided to Kawyn that the Marrworth mill ledger was rewritten after the flood.",
+  "where": "L11",
+  "ref_deps": [
+   "E0008"
+  ],
+  "secret": "S06",
+  "src": "P035",
+  "dest": "P042"
+ },
+ {
+  "id": "E0135",
+  "type": "OCCUPATION",
+  "chapter": 8,
+  "text": "The husband of Kassa Marrworth was apprenticed anew and became a shepherd.",
+  "where": "L11",
+  "ref_deps": [
+   "E0007"
+  ],
+  "person": "P034",
+  "old": "smith",
+  "new": "shepherd"
+ },
+ {
+  "id": "E0136",
+  "type": "TELL",
+  "chapter": 9,
+  "text": "In a letter that Thilan Marrworth burned after reading, Kavus revealed that the bridge toll at Staveford is skimmed every month.",
+  "where": "L11",
+  "ref_deps": [
+   "E0007"
+  ],
+  "secret": "S03",
+  "src": "P034",
+  "dest": "P036"
+ },
+ {
+  "id": "E0137",
+  "type": "TRAVEL",
+  "chapter": 9,
+  "text": "Kavus Marrworth found work in Yarlmere, moved there, and did not return to Torby.",
+  "where": "L11",
+  "ref_deps": [],
+  "person": "P034",
+  "src": "L11",
+  "dest": "L15"
+ },
+ {
+  "id": "E0138",
+  "type": "TRAVEL",
+  "chapter": 9,
+  "text": "Kassa Marrworth went along to live in Yarlmere as well.",
+  "where": "L11",
+  "ref_deps": [],
+  "person": "P035",
+  "src": "L11",
+  "dest": "L15"
+ },
+ {
+  "id": "E0139",
+  "type": "PROMISE",
+  "chapter": 9,
+  "text": "The eldest daughter of Aera Ashner gave Thilan Marrworth a solemn promise to repair the roof of the chapel at Staveford.",
+  "where": "L11",
+  "ref_deps": [
+   "E0008"
+  ],
+  "promise": "R05",
+  "a": "P042",
+  "b": "P036",
+  "act": "to repair the roof of the chapel at Staveford"
+ },
+ {
+  "id": "E0140",
+  "type": "PROMISE",
+  "chapter": 9,
+  "text": "Kawyn gave the eldest son of Kassa Marrworth a solemn promise to repair the roof of the chapel at Torby.",
+  "where": "L11",
+  "ref_deps": [
+   "E0007",
+   "E0008"
+  ],
+  "promise": "R06",
+  "a": "P042",
+  "b": "P036",
+  "act": "to repair the roof of the chapel at Torby"
+ },
+ {
+  "id": "E0141",
+  "type": "PLAN",
+  "chapter": 9,
+  "text": "Elten Stenley meant to go to Dunford before the frost, but the roads flooded and the journey was put off.",
+  "where": "L15",
+  "ref_deps": [
+   "E0006"
+  ],
+  "person": "P032",
+  "dest": "L02"
+ },
+ {
+  "id": "E0142",
+  "type": "PLAN",
+  "chapter": 9,
+  "text": "Yevus Dornmere meant to go to Torby before the frost, but the roads flooded and the journey was put off.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P025",
+  "dest": "L11"
+ },
+ {
+  "id": "E0143",
+  "type": "GIVE",
+  "chapter": 10,
+  "text": "The eldest daughter of Tadette Ashley pressed the jade seal into the hands of Ordrek Haskoway and would take nothing for it.",
+  "where": "L01",
+  "ref_deps": [
+   "E0004"
+  ],
+  "item": "I10",
+  "src": "P023",
+  "dest": "P049"
+ },
+ {
+  "id": "E0144",
+  "type": "GIVE",
+  "chapter": 10,
+  "text": "A parcel from Kavus Marrworth reached Nebin Marrworth; inside was the iron lantern, now his to keep.",
+  "where": "L15",
+  "ref_deps": [],
+  "item": "I06",
+  "src": "P034",
+  "dest": "P037"
+ },
+ {
+  "id": "E0145",
+  "type": "TRAVEL",
+  "chapter": 10,
+  "text": "After the quarrel, Ulmira quit Mirecombe for good and took lodgings in Gulwick.",
+  "where": "L07",
+  "ref_deps": [
+   "E0005"
+  ],
+  "person": "P026",
+  "src": "L07",
+  "dest": "L04"
+ },
+ {
+  "id": "E0146",
+  "type": "TRAVEL",
+  "chapter": 10,
+  "text": "Yevus Dornmere followed her to Gulwick within the month.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P025",
+  "src": "L07",
+  "dest": "L04"
+ },
+ {
+  "id": "E0147",
+  "type": "GIVE",
+  "chapter": 10,
+  "text": "Gara sent the brass map by carrier to Tadette Ashley, who received it safely.",
+  "where": "L07",
+  "ref_deps": [
+   "E0005"
+  ],
+  "item": "I02",
+  "src": "P027",
+  "dest": "P022"
+ },
+ {
+  "id": "E0148",
+  "type": "OCCUPATION",
+  "chapter": 10,
+  "text": "Habin Marrworth was apprenticed anew and became a shepherd.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P038",
+  "old": "miller",
+  "new": "shepherd"
+ },
+ {
+  "id": "E0149",
+  "type": "BIRTH",
+  "chapter": 10,
+  "text": "Comira Ashley gave birth to a son, named Lumor Haskoway; the father was Ordrek Haskoway. The family lived in Coldstead.",
+  "where": "L01",
+  "ref_deps": [],
+  "child": "P056",
+  "mother": "P023",
+  "father": "P049",
+  "place": "L01"
+ },
+ {
+  "id": "E0150",
+  "type": "OCCUPATION",
+  "chapter": 11,
+  "text": "Neten Lindett was apprenticed anew and became a glazier.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P010",
+  "old": "cooper",
+  "new": "glazier"
+ },
+ {
+  "id": "E0151",
+  "type": "TELL",
+  "chapter": 11,
+  "text": "In a letter that Brera burned after reading, Kavus Marrworth revealed that the Marrworth mill ledger was rewritten after the flood.",
+  "where": "L15",
+  "ref_deps": [
+   "E0009"
+  ],
+  "secret": "S06",
+  "src": "P034",
+  "dest": "P046"
+ },
+ {
+  "id": "E0152",
+  "type": "GIVE",
+  "chapter": 11,
+  "text": "The husband of Fedette Marroway gave the iron seal to Fedette.",
+  "where": "L10",
+  "ref_deps": [
+   "E0001"
+  ],
+  "item": "I07",
+  "src": "P005",
+  "dest": "P006"
+ },
+ {
+  "id": "E0153",
+  "type": "DEATH",
+  "chapter": 11,
+  "text": "That winter, a winter fever took Aera Ashner; she was buried at Wilby.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P040",
+  "cause": "a winter fever",
+  "place": "L14"
+ },
+ {
+  "id": "E0154",
+  "type": "PLAN",
+  "chapter": 11,
+  "text": "Fenar meant to go to Dunford before the frost, but the roads flooded and the journey was put off.",
+  "where": "L14",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P039",
+  "dest": "L02"
+ },
+ {
+  "id": "E0155",
+  "type": "TELL",
+  "chapter": 12,
+  "text": "In a letter that Kawyn burned after reading, Thilan Marrworth revealed that the bridge toll at Staveford is skimmed every month.",
+  "where": "L11",
+  "ref_deps": [
+   "E0008"
+  ],
+  "secret": "S03",
+  "src": "P036",
+  "dest": "P042"
+ },
+ {
+  "id": "E0156",
+  "type": "TELL",
+  "chapter": 12,
+  "text": "Manar Haskoway could keep it no longer and told Kassa Marrworth that the old abbey at Kelton hides a second cellar.",
+  "where": "L15",
+  "ref_deps": [],
+  "secret": "S04",
+  "src": "P048",
+  "dest": "P035"
+ },
+ {
+  "id": "E0157",
+  "type": "GIVE",
+  "chapter": 12,
+  "text": "Thinar Dornson sent the brass mirror by carrier to Kawyn, who received it safely.",
+  "where": "L08",
+  "ref_deps": [
+   "E0008"
+  ],
+  "item": "I03",
+  "src": "P015",
+  "dest": "P042"
+ },
+ {
+  "id": "E0158",
+  "type": "GIVE",
+  "chapter": 12,
+  "text": "The husband of Comira Ashley pressed the jade seal into the hands of Comira Ashley and would take nothing for it.",
+  "where": "L01",
+  "ref_deps": [
+   "E0010"
+  ],
+  "item": "I10",
+  "src": "P049",
+  "dest": "P023"
+ },
+ {
+  "id": "E0159",
+  "type": "TRAVEL",
+  "chapter": 12,
+  "text": "Zaric Dornson rode out of Oststead; by the next market day he was living in Yarlmere.",
+  "where": "L08",
+  "ref_deps": [],
+  "person": "P019",
+  "src": "L08",
+  "dest": "L15"
+ },
+ {
+  "id": "E0160",
+  "type": "TRAVEL",
+  "chapter": 13,
+  "text": "Fedette Marroway rode out of Staveford; by the next market day she was living in Yarlmere.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P006",
+  "src": "L10",
+  "dest": "L15"
+ },
+ {
+  "id": "E0161",
+  "type": "TRAVEL",
+  "chapter": 13,
+  "text": "Madan Marroway went along to live in Yarlmere as well.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P005",
+  "src": "L10",
+  "dest": "L15"
+ },
+ {
+  "id": "E0162",
+  "type": "TELL",
+  "chapter": 13,
+  "text": "In a letter that Comira burned after reading, Ordrek Haskoway revealed that the Dornmere family once owed a blood debt to the Corrley family.",
+  "where": "L01",
+  "ref_deps": [
+   "E0004"
+  ],
+  "secret": "S05",
+  "src": "P049",
+  "dest": "P023"
+ },
+ {
+  "id": "E0163",
+  "type": "PROMISE",
+  "chapter": 13,
+  "text": "The husband of Nerine Dornson swore to Nerine Dornson to rebuild the fallen wall at Wendhaven, and shook on it.",
+  "where": "L07",
+  "ref_deps": [
+   "E0014"
+  ],
+  "promise": "R07",
+  "a": "P004",
+  "b": "P018",
+  "act": "to rebuild the fallen wall at Wendhaven"
+ },
+ {
+  "id": "E0164",
+  "type": "PROMISE",
+  "chapter": 13,
+  "text": "Nebin Marrworth gave Daten a solemn promise to carry a sealed letter to Dunford.",
+  "where": "L07",
+  "ref_deps": [
+   "E0000"
+  ],
+  "promise": "R08",
+  "a": "P037",
+  "b": "P004",
+  "act": "to carry a sealed letter to Dunford"
+ },
+ {
+  "id": "E0165",
+  "type": "TRAVEL",
+  "chapter": 13,
+  "text": "After the quarrel, Vesdrek Marroway quit Staveford for good and took lodgings in Brynwick.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P008",
+  "src": "L10",
+  "dest": "L00"
+ },
+ {
+  "id": "E0166",
+  "type": "TELL",
+  "chapter": 13,
+  "text": "Ordrek Haskoway could keep it no longer and told the husband of Kawyn Ashner that the Dornmere family once owed a blood debt to the Corrley family.",
+  "where": "L01",
+  "ref_deps": [
+   "E0111"
+  ],
+  "secret": "S05",
+  "src": "P049",
+  "dest": "P036"
+ },
+ {
+  "id": "E0167",
+  "type": "GIVE",
+  "chapter": 13,
+  "text": "A parcel from Comira Ashley reached the youngest son of Madan Marroway; inside was the jade seal, now his to keep.",
+  "where": "L01",
+  "ref_deps": [
+   "E0001"
+  ],
+  "item": "I10",
+  "src": "P023",
+  "dest": "P009"
+ },
+ {
+  "id": "E0168",
+  "type": "RUMOR",
+  "chapter": 14,
+  "text": "Thinar Dornson whispered that Kavus Marrworth had secretly married Jora Stenley, but nobody could say where or when.",
+  "where": "L08",
+  "ref_deps": [],
+  "teller": "P015",
+  "claim": {
+   "kind": "married",
+   "target": "P034",
+   "other": "P031"
+  }
+ },
+ {
+  "id": "E0169",
+  "type": "TRAVEL",
+  "chapter": 14,
+  "text": "After the quarrel, Tamor Dornson quit Oststead for good and took lodgings in Staveford.",
+  "where": "L08",
+  "ref_deps": [],
+  "person": "P020",
+  "src": "L08",
+  "dest": "L10"
+ },
+ {
+  "id": "E0170",
+  "type": "DEATH",
+  "chapter": 14,
+  "text": "Selan Stenley died of old age, quietly in sleep at Gulwick.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P030",
+  "cause": "old age, quietly in sleep",
+  "place": "L04"
+ },
+ {
+  "id": "E0171",
+  "type": "GIVE",
+  "chapter": 14,
+  "text": "Among the things left by Selan Stenley, the ivory dagger was handed to Jora Stenley.",
+  "where": "L04",
+  "ref_deps": [],
+  "item": "I08",
+  "src": "P030",
+  "dest": "P031",
+  "inherit": true
+ },
+ {
+  "id": "E0172",
+  "type": "GIVE",
+  "chapter": 14,
+  "text": "The jade bell, which Selan Stenley had owned, went to Jora Stenley.",
+  "where": "L04",
+  "ref_deps": [],
+  "item": "I09",
+  "src": "P030",
+  "dest": "P031",
+  "inherit": true
+ },
+ {
+  "id": "E0173",
+  "type": "GIVE",
+  "chapter": 14,
+  "text": "Hadette Lindett pressed the glass locket into the hands of Jovie Lindett and would take nothing for it.",
+  "where": "L09",
+  "ref_deps": [],
+  "item": "I05",
+  "src": "P014",
+  "dest": "P013"
+ },
+ {
+  "id": "E0174",
+  "type": "TRAVEL",
+  "chapter": 14,
+  "text": "Thivie Haskoway found work in Wendton, moved there, and did not return to Yarlmere.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P050",
+  "src": "L15",
+  "dest": "L13"
+ },
+ {
+  "id": "E0175",
+  "type": "TELL",
+  "chapter": 14,
+  "text": "In a letter that Brera Haskoway burned after reading, Kavus revealed that the bridge toll at Staveford is skimmed every month.",
+  "where": "L15",
+  "ref_deps": [
+   "E0007"
+  ],
+  "secret": "S03",
+  "src": "P034",
+  "dest": "P046"
+ },
+ {
+  "id": "E0176",
+  "type": "PROMISE",
+  "chapter": 14,
+  "text": "The husband of Thirine Ashner swore to Kassa to rebuild the fallen wall at Coldstead, and shook on it.",
+  "where": "L15",
+  "ref_deps": [
+   "E0007",
+   "E0012"
+  ],
+  "promise": "R09",
+  "a": "P048",
+  "b": "P035",
+  "act": "to rebuild the fallen wall at Coldstead"
+ },
+ {
+  "id": "E0177",
+  "type": "MARRY",
+  "chapter": 14,
+  "text": "In the chapel at Mirecombe, Gara married Nebin Marrworth. The couple lived in Mirecombe from then on.",
+  "where": "L07",
+  "ref_deps": [
+   "E0005"
+  ],
+  "a": "P027",
+  "b": "P037",
+  "place": "L07"
+ },
+ {
+  "id": "E0178",
+  "type": "GIVE",
+  "chapter": 15,
+  "text": "Fedette Marroway sent the iron seal by carrier to Gara Dornmere, who received it safely.",
+  "where": "L15",
+  "ref_deps": [],
+  "item": "I07",
+  "src": "P006",
+  "dest": "P027"
+ },
+ {
+  "id": "E0179",
+  "type": "GIVE",
+  "chapter": 15,
+  "text": "Kawyn Ashner gave the brass mirror to Thilan Marrworth.",
+  "where": "L11",
+  "ref_deps": [],
+  "item": "I03",
+  "src": "P042",
+  "dest": "P036"
+ },
+ {
+  "id": "E0180",
+  "type": "GIVE",
+  "chapter": 15,
+  "text": "Jora pressed the ivory dagger into the hands of Sedrek Stenley and would take nothing for it.",
+  "where": "L04",
+  "ref_deps": [
+   "E0006"
+  ],
+  "item": "I08",
+  "src": "P031",
+  "dest": "P033"
+ },
+ {
+  "id": "E0181",
+  "type": "MARRY",
+  "chapter": 15,
+  "text": "The eldest son of Ilwyn Corrley and Thivie Haskoway were wed at Kelton, with half the parish looking on. The couple lived in Kelton from then on.",
+  "where": "L05",
+  "ref_deps": [
+   "E0000"
+  ],
+  "a": "P002",
+  "b": "P050",
+  "place": "L05"
+ },
+ {
+  "id": "E0182",
+  "type": "BIRTH",
+  "chapter": 15,
+  "text": "Kawyn Ashner gave birth to a daughter, named Nydette Marrworth; the father was Thilan Marrworth. The family lived in Torby.",
+  "where": "L11",
+  "ref_deps": [],
+  "child": "P057",
+  "mother": "P042",
+  "father": "P036",
+  "place": "L11"
+ },
+ {
+  "id": "E0183",
+  "type": "GIVE",
+  "chapter": 15,
+  "text": "The youngest son of Fedette Marroway gave the jade seal to Codan.",
+  "where": "L10",
+  "ref_deps": [
+   "E0001"
+  ],
+  "item": "I10",
+  "src": "P009",
+  "dest": "P007"
+ },
+ {
+  "id": "E0184",
+  "type": "BIRTH",
+  "chapter": 15,
+  "text": "A son was born to Kawyn Ashner and Thilan Marrworth, and they called the child Vesrald Marrworth. The family lived in Torby.",
+  "where": "L11",
+  "ref_deps": [],
+  "child": "P058",
+  "mother": "P042",
+  "father": "P036",
+  "place": "L11"
+ },
+ {
+  "id": "E0185",
+  "type": "RUMOR",
+  "chapter": 15,
+  "text": "Kawyn Ashner whispered that Vesdan Corrley had secretly married Fedette Marroway, but nobody could say where or when.",
+  "where": "L11",
+  "ref_deps": [],
+  "teller": "P042",
+  "claim": {
+   "kind": "married",
+   "target": "P000",
+   "other": "P006"
+  }
+ },
+ {
+  "id": "E0186",
+  "type": "DEATH",
+  "chapter": 16,
+  "text": "They laid Vesdan Corrley in the churchyard at Kelton, dead of old age, quietly in sleep.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P000",
+  "cause": "old age, quietly in sleep",
+  "place": "L05"
+ },
+ {
+  "id": "E0187",
+  "type": "PROMISE",
+  "chapter": 16,
+  "text": "The wife of Orrald Corrley swore to Habin to plant an orchard on the slope above Wendhaven, and shook on it.",
+  "where": "L05",
+  "ref_deps": [
+   "E0007",
+   "E0181"
+  ],
+  "promise": "R10",
+  "a": "P050",
+  "b": "P038",
+  "act": "to plant an orchard on the slope above Wendhaven"
+ },
+ {
+  "id": "E0188",
+  "type": "MARRY",
+  "chapter": 16,
+  "text": "Ulena and Thilan Marroway were wed at Oststead, with half the parish looking on. The couple lived in Oststead from then on.",
+  "where": "L08",
+  "ref_deps": [
+   "E0003"
+  ],
+  "a": "P017",
+  "b": "P009",
+  "place": "L08"
+ },
+ {
+  "id": "E0189",
+  "type": "TRAVEL",
+  "chapter": 16,
+  "text": "After the quarrel, Ulena Dornson quit Oststead for good and took lodgings in Quenholt.",
+  "where": "L08",
+  "ref_deps": [],
+  "person": "P017",
+  "src": "L08",
+  "dest": "L09"
+ },
+ {
+  "id": "E0190",
+  "type": "TRAVEL",
+  "chapter": 16,
+  "text": "Thilan Marroway went along to live in Quenholt as well.",
+  "where": "L08",
+  "ref_deps": [],
+  "person": "P009",
+  "src": "L08",
+  "dest": "L09"
+ },
+ {
+  "id": "E0191",
+  "type": "GIVE",
+  "chapter": 16,
+  "text": "Jora pressed the jade bell into the hands of Thirine Dornmere and would take nothing for it.",
+  "where": "L04",
+  "ref_deps": [
+   "E0006"
+  ],
+  "item": "I09",
+  "src": "P031",
+  "dest": "P028"
+ },
+ {
+  "id": "E0192",
+  "type": "GIVE",
+  "chapter": 17,
+  "text": "Jovie Lindett pressed the glass locket into the hands of Thilan Marroway and would take nothing for it.",
+  "where": "L09",
+  "ref_deps": [],
+  "item": "I05",
+  "src": "P013",
+  "dest": "P009"
+ },
+ {
+  "id": "E0193",
+  "type": "GIVE",
+  "chapter": 17,
+  "text": "Mawyn Stenley won the ivory dagger from Sedrek Stenley at cards, fairly, and kept it.",
+  "where": "L04",
+  "ref_deps": [],
+  "item": "I08",
+  "src": "P033",
+  "dest": "P052"
+ },
+ {
+  "id": "E0194",
+  "type": "RESOLVE",
+  "chapter": 17,
+  "text": "True to her word to Habin Marrworth, Thivie Haskoway finished what she had promised (plant an orchard on the slope above Wendhaven).",
+  "where": "L05",
+  "ref_deps": [],
+  "promise": "R10",
+  "kept": true
+ },
+ {
+  "id": "E0195",
+  "type": "GIVE",
+  "chapter": 17,
+  "text": "Kassa Marrworth pressed the bone comb into the hands of Yelia Haskoway and would take nothing for it.",
+  "where": "L15",
+  "ref_deps": [],
+  "item": "I00",
+  "src": "P035",
+  "dest": "P053"
+ },
+ {
+  "id": "E0196",
+  "type": "TELL",
+  "chapter": 17,
+  "text": "Fenar Ashner could keep it no longer and told Daten that a chest of silver lies buried beneath the well at Mirecombe.",
+  "where": "L14",
+  "ref_deps": [
+   "E0000"
+  ],
+  "secret": "S02",
+  "src": "P039",
+  "dest": "P004"
+ },
+ {
+  "id": "E0197",
+  "type": "PLAN",
+  "chapter": 17,
+  "text": "Fenar Ashner meant to go to Torby before the frost, but the roads flooded and the journey was put off.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P039",
+  "dest": "L11"
+ },
+ {
+  "id": "E0198",
+  "type": "TELL",
+  "chapter": 17,
+  "text": "Kassa could keep it no longer and told Thirine Ashner that the Marrworth mill ledger was rewritten after the flood.",
+  "where": "L15",
+  "ref_deps": [
+   "E0007"
+  ],
+  "secret": "S06",
+  "src": "P035",
+  "dest": "P044"
+ },
+ {
+  "id": "E0199",
+  "type": "PLAN",
+  "chapter": 17,
+  "text": "Thilan Marroway meant to go to Yarlmere before the frost, but the roads flooded and the journey was put off.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P009",
+  "dest": "L15"
+ },
+ {
+  "id": "E0200",
+  "type": "PLAN",
+  "chapter": 18,
+  "text": "Kavus Marrworth meant to go to Larkhaven before the frost, but the roads flooded and the journey was put off.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P034",
+  "dest": "L06"
+ },
+ {
+  "id": "E0201",
+  "type": "TRAVEL",
+  "chapter": 18,
+  "text": "Manar Haskoway found work in Kelton, moved there, and did not return to Yarlmere.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P048",
+  "src": "L15",
+  "dest": "L05"
+ },
+ {
+  "id": "E0202",
+  "type": "TRAVEL",
+  "chapter": 18,
+  "text": "Thirine Ashner went along to live in Kelton as well.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P044",
+  "src": "L15",
+  "dest": "L05"
+ },
+ {
+  "id": "E0203",
+  "type": "GIVE",
+  "chapter": 18,
+  "text": "The youngest daughter of Yevus Dornmere pressed the jade bell into the hands of Ulmira Dornmere and would take nothing for it.",
+  "where": "L04",
+  "ref_deps": [
+   "E0005"
+  ],
+  "item": "I09",
+  "src": "P028",
+  "dest": "P026"
+ },
+ {
+  "id": "E0204",
+  "type": "PROMISE",
+  "chapter": 18,
+  "text": "Fedette Marroway swore to Madan Marroway to teach the children of Kelton their letters, and shook on it.",
+  "where": "L15",
+  "ref_deps": [],
+  "promise": "R11",
+  "a": "P006",
+  "b": "P005",
+  "act": "to teach the children of Kelton their letters"
+ },
+ {
+  "id": "E0205",
+  "type": "GIVE",
+  "chapter": 18,
+  "text": "The eldest son of Madan Marroway pressed the jade seal into the hands of Tamor and would take nothing for it.",
+  "where": "L10",
+  "ref_deps": [
+   "E0001",
+   "E0003"
+  ],
+  "item": "I10",
+  "src": "P007",
+  "dest": "P020"
+ },
+ {
+  "id": "E0206",
+  "type": "BIRTH",
+  "chapter": 18,
+  "text": "A daughter was born to Elena Ashley and Gabin Haskoway, and they called the child Brelde Haskoway. The family lived in Kelton.",
+  "where": "L05",
+  "ref_deps": [],
+  "child": "P059",
+  "mother": "P024",
+  "father": "P047",
+  "place": "L05"
+ },
+ {
+  "id": "E0207",
+  "type": "GIVE",
+  "chapter": 18,
+  "text": "Thilan Marroway sent the glass locket by carrier to Gara Dornmere, who received it safely.",
+  "where": "L09",
+  "ref_deps": [],
+  "item": "I05",
+  "src": "P009",
+  "dest": "P027"
+ },
+ {
+  "id": "E0208",
+  "type": "MARRY",
+  "chapter": 18,
+  "text": "In the chapel at Kelton, Ilwyn Corrley married Talan Ashner. The couple lived in Kelton from then on.",
+  "where": "L05",
+  "ref_deps": [],
+  "a": "P001",
+  "b": "P041",
+  "place": "L05"
+ },
+ {
+  "id": "E0209",
+  "type": "DEATH",
+  "chapter": 19,
+  "text": "That winter, old age, quietly in sleep took Fenar Ashner; he was buried at Wilby.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P039",
+  "cause": "old age, quietly in sleep",
+  "place": "L14"
+ },
+ {
+  "id": "E0210",
+  "type": "GIVE",
+  "chapter": 19,
+  "text": "Ulena won the brass map from Tadette at cards, fairly, and kept it.",
+  "where": "L09",
+  "ref_deps": [
+   "E0003",
+   "E0004"
+  ],
+  "item": "I02",
+  "src": "P022",
+  "dest": "P017"
+ },
+ {
+  "id": "E0211",
+  "type": "PLAN",
+  "chapter": 19,
+  "text": "Tadette Ashley meant to go to Wendton before the frost, but the roads flooded and the journey was put off.",
+  "where": "L09",
+  "ref_deps": [
+   "E0004"
+  ],
+  "person": "P022",
+  "dest": "L13"
+ },
+ {
+  "id": "E0212",
+  "type": "RUMOR",
+  "chapter": 19,
+  "text": "Gossip from the husband of Orrine Lindett claimed Ordrek Haskoway and Brera Haskoway had been wed in secret.",
+  "where": "L09",
+  "ref_deps": [
+   "E0002"
+  ],
+  "teller": "P010",
+  "claim": {
+   "kind": "married",
+   "target": "P049",
+   "other": "P046"
+  }
+ },
+ {
+  "id": "E0213",
+  "type": "TELL",
+  "chapter": 19,
+  "text": "The husband of Comira Ashley could keep it no longer and told Jovie Lindett that the Dornmere family once owed a blood debt to the Corrley family.",
+  "where": "L01",
+  "ref_deps": [
+   "E0010"
+  ],
+  "secret": "S05",
+  "src": "P049",
+  "dest": "P013"
+ },
+ {
+  "id": "E0214",
+  "type": "MARRY",
+  "chapter": 20,
+  "text": "In the chapel at Staveford, Codan Marroway married Yelia Haskoway. The couple lived in Staveford from then on.",
+  "where": "L10",
+  "ref_deps": [],
+  "a": "P007",
+  "b": "P053",
+  "place": "L10"
+ },
+ {
+  "id": "E0215",
+  "type": "GIVE",
+  "chapter": 20,
+  "text": "A parcel from Yelia reached Modan Ashley; inside was the bone comb, now his to keep.",
+  "where": "L10",
+  "ref_deps": [
+   "E0109"
+  ],
+  "item": "I00",
+  "src": "P053",
+  "dest": "P021"
+ },
+ {
+  "id": "E0216",
+  "type": "RUMOR",
+  "chapter": 20,
+  "text": "A rumor started by Elten Stenley had it that Kawyn Ashner was dead of plague; Elten Stenley had it from a peddler.",
+  "where": "L15",
+  "ref_deps": [],
+  "teller": "P032",
+  "claim": {
+   "kind": "dead",
+   "target": "P042"
+  }
+ },
+ {
+  "id": "E0217",
+  "type": "BIRTH",
+  "chapter": 20,
+  "text": "Comira gave birth to a son, named Dadrek Haskoway; the father was Ordrek Haskoway. The family lived in Coldstead.",
+  "where": "L01",
+  "ref_deps": [
+   "E0004"
+  ],
+  "child": "P060",
+  "mother": "P023",
+  "father": "P049",
+  "place": "L01"
+ },
+ {
+  "id": "E0218",
+  "type": "TRAVEL",
+  "chapter": 20,
+  "text": "Ordrek Haskoway left Coldstead and settled in Yarlmere.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P049",
+  "src": "L01",
+  "dest": "L15"
+ },
+ {
+  "id": "E0219",
+  "type": "TRAVEL",
+  "chapter": 20,
+  "text": "Comira followed him to Yarlmere within the month.",
+  "where": "L01",
+  "ref_deps": [
+   "E0004"
+  ],
+  "person": "P023",
+  "src": "L01",
+  "dest": "L15"
+ },
+ {
+  "id": "E0220",
+  "type": "TELL",
+  "chapter": 20,
+  "text": "Thilan Marrworth could keep it no longer and told Seten Marrworth that the bridge toll at Staveford is skimmed every month.",
+  "where": "L11",
+  "ref_deps": [],
+  "secret": "S03",
+  "src": "P036",
+  "dest": "P054"
+ },
+ {
+  "id": "E0221",
+  "type": "TELL",
+  "chapter": 20,
+  "text": "In a letter that Elena Ashley burned after reading, Thirine Ashner revealed that the Marrworth mill ledger was rewritten after the flood.",
+  "where": "L05",
+  "ref_deps": [],
+  "secret": "S06",
+  "src": "P044",
+  "dest": "P024"
+ },
+ {
+  "id": "E0222",
+  "type": "TELL",
+  "chapter": 21,
+  "text": "Jovie could keep it no longer and told Ulena Dornson that the Dornmere family once owed a blood debt to the Corrley family.",
+  "where": "L09",
+  "ref_deps": [
+   "E0002"
+  ],
+  "secret": "S05",
+  "src": "P013",
+  "dest": "P017"
+ },
+ {
+  "id": "E0223",
+  "type": "TELL",
+  "chapter": 21,
+  "text": "In a letter that Zaric Dornson burned after reading, Kavus revealed that the bridge toll at Staveford is skimmed every month.",
+  "where": "L15",
+  "ref_deps": [
+   "E0007"
+  ],
+  "secret": "S03",
+  "src": "P034",
+  "dest": "P019"
+ },
+ {
+  "id": "E0224",
+  "type": "TRAVEL",
+  "chapter": 21,
+  "text": "Daten left Mirecombe and settled in Larkhaven.",
+  "where": "L07",
+  "ref_deps": [
+   "E0000"
+  ],
+  "person": "P004",
+  "src": "L07",
+  "dest": "L06"
+ },
+ {
+  "id": "E0225",
+  "type": "TRAVEL",
+  "chapter": 21,
+  "text": "Nerine Dornson went along to live in Larkhaven as well.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P018",
+  "src": "L07",
+  "dest": "L06"
+ },
+ {
+  "id": "E0226",
+  "type": "MARRY",
+  "chapter": 21,
+  "text": "Before the summer was out, Thinar Dornson took Hadette Lindett in marriage at Oststead. The couple lived in Oststead from then on.",
+  "where": "L08",
+  "ref_deps": [],
+  "a": "P015",
+  "b": "P014",
+  "place": "L08"
+ },
+ {
+  "id": "E0227",
+  "type": "GIVE",
+  "chapter": 21,
+  "text": "The eldest son of Kassa Marrworth gave the brass mirror to Kawyn Ashner.",
+  "where": "L11",
+  "ref_deps": [
+   "E0007"
+  ],
+  "item": "I03",
+  "src": "P036",
+  "dest": "P042"
+ },
+ {
+  "id": "E0228",
+  "type": "TRAVEL",
+  "chapter": 21,
+  "text": "After the quarrel, Seten quit Torby for good and took lodgings in Dunford.",
+  "where": "L11",
+  "ref_deps": [
+   "E0113"
+  ],
+  "person": "P054",
+  "src": "L11",
+  "dest": "L02"
+ },
+ {
+  "id": "E0229",
+  "type": "BIRTH",
+  "chapter": 22,
+  "text": "Elena Ashley gave birth to a son, named Nybin Haskoway; the father was Gabin Haskoway. The family lived in Kelton.",
+  "where": "L05",
+  "ref_deps": [],
+  "child": "P061",
+  "mother": "P024",
+  "father": "P047",
+  "place": "L05"
+ },
+ {
+  "id": "E0230",
+  "type": "RESOLVE",
+  "chapter": 22,
+  "text": "True to his word to Daten Corrley, Nebin Marrworth finished what he had promised (carry a sealed letter to Dunford).",
+  "where": "L07",
+  "ref_deps": [],
+  "promise": "R08",
+  "kept": true
+ },
+ {
+  "id": "E0231",
+  "type": "TRAVEL",
+  "chapter": 22,
+  "text": "Maena rode out of Gulwick; by the next market day she was living in Yarlmere.",
+  "where": "L04",
+  "ref_deps": [
+   "E0094"
+  ],
+  "person": "P051",
+  "src": "L04",
+  "dest": "L15"
+ },
+ {
+  "id": "E0232",
+  "type": "TELL",
+  "chapter": 22,
+  "text": "Late one night the eldest son of Thinar Dornson confided to Romor Stenley that the bridge toll at Staveford is skimmed every month.",
+  "where": "L15",
+  "ref_deps": [
+   "E0003"
+  ],
+  "secret": "S03",
+  "src": "P019",
+  "dest": "P055"
+ },
+ {
+  "id": "E0233",
+  "type": "TRAVEL",
+  "chapter": 22,
+  "text": "After the quarrel, Neten Lindett quit Quenholt for good and took lodgings in Wilby.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P010",
+  "src": "L09",
+  "dest": "L14"
+ },
+ {
+  "id": "E0234",
+  "type": "TRAVEL",
+  "chapter": 22,
+  "text": "Orrine Lindett followed him to Wilby within the month.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P011",
+  "src": "L09",
+  "dest": "L14"
+ },
+ {
+  "id": "E0235",
+  "type": "RESOLVE",
+  "chapter": 22,
+  "text": "Kassa Marrworth broke faith with Thilan Marrworth, and the promised work (pay the old debt owed to the Ashley family) was never begun.",
+  "where": "L15",
+  "ref_deps": [],
+  "promise": "R02",
+  "kept": false
+ },
+ {
+  "id": "E0236",
+  "type": "GIVE",
+  "chapter": 22,
+  "text": "Kawyn pressed the brass mirror into the hands of Thilan Marrworth and would take nothing for it.",
+  "where": "L11",
+  "ref_deps": [
+   "E0008"
+  ],
+  "item": "I03",
+  "src": "P042",
+  "dest": "P036"
+ },
+ {
+  "id": "E0237",
+  "type": "GIVE",
+  "chapter": 22,
+  "text": "A parcel from Jora Stenley reached Elten Stenley; inside was the garnet flute, now his to keep.",
+  "where": "L04",
+  "ref_deps": [],
+  "item": "I04",
+  "src": "P031",
+  "dest": "P032"
+ },
+ {
+  "id": "E0238",
+  "type": "PROMISE",
+  "chapter": 23,
+  "text": "Jora Stenley gave Mawyn a solemn promise to carry a sealed letter to Yarlmere.",
+  "where": "L04",
+  "ref_deps": [
+   "E0101"
+  ],
+  "promise": "R12",
+  "a": "P031",
+  "b": "P052",
+  "act": "to carry a sealed letter to Yarlmere"
+ },
+ {
+  "id": "E0239",
+  "type": "GIVE",
+  "chapter": 23,
+  "text": "Mawyn Stenley pressed the ivory dagger into the hands of Yevus and would take nothing for it.",
+  "where": "L04",
+  "ref_deps": [
+   "E0005"
+  ],
+  "item": "I08",
+  "src": "P052",
+  "dest": "P025"
+ },
+ {
+  "id": "E0240",
+  "type": "TELL",
+  "chapter": 23,
+  "text": "In a letter that Ordrek Haskoway burned after reading, Zaric Dornson revealed that the bridge toll at Staveford is skimmed every month.",
+  "where": "L15",
+  "ref_deps": [],
+  "secret": "S03",
+  "src": "P019",
+  "dest": "P049"
+ },
+ {
+  "id": "E0241",
+  "type": "TELL",
+  "chapter": 23,
+  "text": "In a letter that Comira Ashley burned after reading, Kassa Marrworth revealed that the old abbey at Kelton hides a second cellar.",
+  "where": "L15",
+  "ref_deps": [],
+  "secret": "S04",
+  "src": "P035",
+  "dest": "P023"
+ },
+ {
+  "id": "E0242",
+  "type": "MARRY",
+  "chapter": 23,
+  "text": "Before the winter was out, Maena took Seten Marrworth in marriage at Yarlmere. The couple lived in Yarlmere from then on.",
+  "where": "L15",
+  "ref_deps": [
+   "E0094"
+  ],
+  "a": "P051",
+  "b": "P054",
+  "place": "L15"
+ },
+ {
+  "id": "E0243",
+  "type": "BIRTH",
+  "chapter": 23,
+  "text": "A daughter was born to Ulena Dornson and Thilan Marroway, and they called the child Nedette Marroway. The family lived in Quenholt.",
+  "where": "L09",
+  "ref_deps": [],
+  "child": "P062",
+  "mother": "P017",
+  "father": "P009",
+  "place": "L09"
+ },
+ {
+  "id": "E0244",
+  "type": "TELL",
+  "chapter": 24,
+  "text": "Kavus could keep it no longer and told Ordrek Haskoway that the Marrworth mill ledger was rewritten after the flood.",
+  "where": "L15",
+  "ref_deps": [
+   "E0007"
+  ],
+  "secret": "S06",
+  "src": "P034",
+  "dest": "P049"
+ },
+ {
+  "id": "E0245",
+  "type": "MARRY",
+  "chapter": 24,
+  "text": "Vesdrek Marroway and Jora Stenley were wed at Brynwick, with half the parish looking on. The couple lived in Brynwick from then on.",
+  "where": "L00",
+  "ref_deps": [],
+  "a": "P008",
+  "b": "P031",
+  "place": "L00"
+ },
+ {
+  "id": "E0246",
+  "type": "TRAVEL",
+  "chapter": 24,
+  "text": "After the quarrel, Ulena Dornson quit Quenholt for good and took lodgings in Brynwick.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P017",
+  "src": "L09",
+  "dest": "L00"
+ },
+ {
+  "id": "E0247",
+  "type": "TRAVEL",
+  "chapter": 24,
+  "text": "Thilan Marroway followed her to Brynwick within the month.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P009",
+  "src": "L09",
+  "dest": "L00"
+ },
+ {
+  "id": "E0248",
+  "type": "PROMISE",
+  "chapter": 24,
+  "text": "Modan Ashley swore to Jovie Lindett to plant an orchard on the slope above Yarlmere, and shook on it.",
+  "where": "L09",
+  "ref_deps": [],
+  "promise": "R13",
+  "a": "P021",
+  "b": "P013",
+  "act": "to plant an orchard on the slope above Yarlmere"
+ },
+ {
+  "id": "E0249",
+  "type": "TRAVEL",
+  "chapter": 24,
+  "text": "After the quarrel, Modan Ashley quit Quenholt for good and took lodgings in Larkhaven.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P021",
+  "src": "L09",
+  "dest": "L06"
+ },
+ {
+  "id": "E0250",
+  "type": "TRAVEL",
+  "chapter": 24,
+  "text": "Tadette Ashley followed him to Larkhaven within the month.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P022",
+  "src": "L09",
+  "dest": "L06"
+ },
+ {
+  "id": "E0251",
+  "type": "MARRY",
+  "chapter": 24,
+  "text": "Nebin Corrley and Jovie were wed at Kelton, with half the parish looking on. The couple lived in Kelton from then on.",
+  "where": "L05",
+  "ref_deps": [
+   "E0002"
+  ],
+  "a": "P003",
+  "b": "P013",
+  "place": "L05"
+ },
+ {
+  "id": "E0252",
+  "type": "TRAVEL",
+  "chapter": 25,
+  "text": "After the quarrel, Jora Stenley quit Brynwick for good and took lodgings in Wendton.",
+  "where": "L00",
+  "ref_deps": [],
+  "person": "P031",
+  "src": "L00",
+  "dest": "L13"
+ },
+ {
+  "id": "E0253",
+  "type": "TRAVEL",
+  "chapter": 25,
+  "text": "Vesdrek went along to live in Wendton as well.",
+  "where": "L00",
+  "ref_deps": [
+   "E0001"
+  ],
+  "person": "P008",
+  "src": "L00",
+  "dest": "L13"
+ },
+ {
+  "id": "E0254",
+  "type": "MARRY",
+  "chapter": 25,
+  "text": "Before the summer was out, Mawyn took Nenar Dornmere in marriage at Gulwick. The couple lived in Gulwick from then on.",
+  "where": "L04",
+  "ref_deps": [
+   "E0101"
+  ],
+  "a": "P052",
+  "b": "P029",
+  "place": "L04"
+ },
+ {
+  "id": "E0255",
+  "type": "TRAVEL",
+  "chapter": 25,
+  "text": "After the quarrel, Yevus quit Gulwick for good and took lodgings in Brynwick.",
+  "where": "L04",
+  "ref_deps": [
+   "E0005"
+  ],
+  "person": "P025",
+  "src": "L04",
+  "dest": "L00"
+ },
+ {
+  "id": "E0256",
+  "type": "TRAVEL",
+  "chapter": 25,
+  "text": "Red Ulmira followed him to Brynwick within the month.",
+  "where": "L04",
+  "ref_deps": [
+   "E0040"
+  ],
+  "person": "P026",
+  "src": "L04",
+  "dest": "L00"
+ },
+ {
+  "id": "E0257",
+  "type": "TRAVEL",
+  "chapter": 25,
+  "text": "After the quarrel, Mawyn Stenley quit Gulwick for good and took lodgings in Torby.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P052",
+  "src": "L04",
+  "dest": "L11"
+ },
+ {
+  "id": "E0258",
+  "type": "TRAVEL",
+  "chapter": 25,
+  "text": "Nenar followed her to Torby within the month.",
+  "where": "L04",
+  "ref_deps": [
+   "E0005"
+  ],
+  "person": "P029",
+  "src": "L04",
+  "dest": "L11"
+ },
+ {
+  "id": "E0259",
+  "type": "TELL",
+  "chapter": 25,
+  "text": "Late one night Thilan Marrworth confided to Mawyn that the bridge toll at Staveford is skimmed every month.",
+  "where": "L11",
+  "ref_deps": [
+   "E0101"
+  ],
+  "secret": "S03",
+  "src": "P036",
+  "dest": "P052"
+ },
+ {
+  "id": "E0260",
+  "type": "PROMISE",
+  "chapter": 26,
+  "text": "Thilan Marroway gave the wife of Yevus Dornmere a solemn promise to repair the roof of the chapel at Mirecombe.",
+  "where": "L00",
+  "ref_deps": [
+   "E0005"
+  ],
+  "promise": "R14",
+  "a": "P009",
+  "b": "P026",
+  "act": "to repair the roof of the chapel at Mirecombe"
+ },
+ {
+  "id": "E0261",
+  "type": "RUMOR",
+  "chapter": 26,
+  "text": "Gossip from Sessa Ashner claimed Gabin Haskoway and Tadette Ashley had been wed in secret.",
+  "where": "L05",
+  "ref_deps": [],
+  "teller": "P043",
+  "claim": {
+   "kind": "married",
+   "target": "P047",
+   "other": "P022"
+  }
+ },
+ {
+  "id": "E0262",
+  "type": "TELL",
+  "chapter": 26,
+  "text": "Late one night Ordrek confided to Thiena that the bridge toll at Staveford is skimmed every month.",
+  "where": "L15",
+  "ref_deps": [
+   "E0002",
+   "E0009"
+  ],
+  "secret": "S03",
+  "src": "P049",
+  "dest": "P012"
+ },
+ {
+  "id": "E0263",
+  "type": "GIVE",
+  "chapter": 26,
+  "text": "Daten won the bone comb from Modan Ashley at cards, fairly, and kept it.",
+  "where": "L06",
+  "ref_deps": [
+   "E0000"
+  ],
+  "item": "I00",
+  "src": "P021",
+  "dest": "P004"
+ },
+ {
+  "id": "E0264",
+  "type": "TELL",
+  "chapter": 26,
+  "text": "In a letter that Gabin Haskoway burned after reading, Elena Ashley revealed that the Marrworth mill ledger was rewritten after the flood.",
+  "where": "L05",
+  "ref_deps": [],
+  "secret": "S06",
+  "src": "P024",
+  "dest": "P047"
+ },
+ {
+  "id": "E0265",
+  "type": "TRAVEL",
+  "chapter": 26,
+  "text": "Habin Marrworth rode out of Kelton; by the next market day he was living in Staveford.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P038",
+  "src": "L05",
+  "dest": "L10"
+ },
+ {
+  "id": "E0266",
+  "type": "TRAVEL",
+  "chapter": 26,
+  "text": "Sessa followed him to Staveford within the month.",
+  "where": "L05",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P043",
+  "src": "L05",
+  "dest": "L10"
+ },
+ {
+  "id": "E0267",
+  "type": "TRAVEL",
+  "chapter": 27,
+  "text": "Vesdrek left Wendton and settled in Dunford.",
+  "where": "L13",
+  "ref_deps": [
+   "E0001"
+  ],
+  "person": "P008",
+  "src": "L13",
+  "dest": "L02"
+ },
+ {
+  "id": "E0268",
+  "type": "TRAVEL",
+  "chapter": 27,
+  "text": "Jora followed him to Dunford within the month.",
+  "where": "L13",
+  "ref_deps": [
+   "E0006"
+  ],
+  "person": "P031",
+  "src": "L13",
+  "dest": "L02"
+ },
+ {
+  "id": "E0269",
+  "type": "TELL",
+  "chapter": 27,
+  "text": "Late one night Kawyn Ashner confided to Nydette Marrworth that the bridge toll at Staveford is skimmed every month.",
+  "where": "L11",
+  "ref_deps": [],
+  "secret": "S03",
+  "src": "P042",
+  "dest": "P057"
+ },
+ {
+  "id": "E0270",
+  "type": "PROMISE",
+  "chapter": 27,
+  "text": "Nydette Marrworth swore to Mawyn Stenley to plant an orchard on the slope above Dunford, and shook on it.",
+  "where": "L11",
+  "ref_deps": [],
+  "promise": "R15",
+  "a": "P057",
+  "b": "P052",
+  "act": "to plant an orchard on the slope above Dunford"
+ },
+ {
+  "id": "E0271",
+  "type": "GIVE",
+  "chapter": 27,
+  "text": "Daten Corrley gave the bone comb to Nerine Dornson.",
+  "where": "L06",
+  "ref_deps": [],
+  "item": "I00",
+  "src": "P004",
+  "dest": "P018"
+ },
+ {
+  "id": "E0272",
+  "type": "TRAVEL",
+  "chapter": 27,
+  "text": "The wife of Thilan Marroway rode out of Brynwick; by the next market day she was living in Staveford.",
+  "where": "L00",
+  "ref_deps": [
+   "E0188"
+  ],
+  "person": "P017",
+  "src": "L00",
+  "dest": "L10"
+ },
+ {
+  "id": "E0273",
+  "type": "TRAVEL",
+  "chapter": 27,
+  "text": "Thilan Marroway went along to live in Staveford as well.",
+  "where": "L00",
+  "ref_deps": [],
+  "person": "P009",
+  "src": "L00",
+  "dest": "L10"
+ },
+ {
+  "id": "E0274",
+  "type": "DEATH",
+  "chapter": 27,
+  "text": "That winter, drowning in the flood took Fedette Marroway; she was buried at Yarlmere.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P006",
+  "cause": "drowning in the flood",
+  "place": "L15"
+ },
+ {
+  "id": "E0275",
+  "type": "TRAVEL",
+  "chapter": 27,
+  "text": "Thiena Lindett left Yarlmere and settled in Gulcombe.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P012",
+  "src": "L15",
+  "dest": "L03"
+ },
+ {
+  "id": "E0276",
+  "type": "TRAVEL",
+  "chapter": 27,
+  "text": "Elten Stenley followed her to Gulcombe within the month.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P032",
+  "src": "L15",
+  "dest": "L03"
+ },
+ {
+  "id": "E0277",
+  "type": "BIRTH",
+  "chapter": 28,
+  "text": "A son was born to Nerine Dornson and Daten Corrley, and they called the child Breten Corrley. The family lived in Larkhaven.",
+  "where": "L06",
+  "ref_deps": [],
+  "child": "P063",
+  "mother": "P018",
+  "father": "P004",
+  "place": "L06"
+ },
+ {
+  "id": "E0278",
+  "type": "RESOLVE",
+  "chapter": 28,
+  "text": "Kawyn broke faith with Thilan Marrworth, and the promised work (repair the roof of the chapel at Staveford) was never begun.",
+  "where": "L11",
+  "ref_deps": [
+   "E0008"
+  ],
+  "promise": "R05",
+  "kept": false
+ },
+ {
+  "id": "E0279",
+  "type": "GIVE",
+  "chapter": 28,
+  "text": "Codan Marroway won the jade seal from Tamor Dornson at cards, fairly, and kept it.",
+  "where": "L10",
+  "ref_deps": [],
+  "item": "I10",
+  "src": "P020",
+  "dest": "P007"
+ },
+ {
+  "id": "E0280",
+  "type": "DEATH",
+  "chapter": 28,
+  "text": "Orrine died of old age, quietly in sleep at Wilby.",
+  "where": "L14",
+  "ref_deps": [
+   "E0002"
+  ],
+  "person": "P011",
+  "cause": "old age, quietly in sleep",
+  "place": "L14"
+ },
+ {
+  "id": "E0281",
+  "type": "TELL",
+  "chapter": 28,
+  "text": "Late one night Ordrek Haskoway confided to Zaric Dornson that the Dornmere family once owed a blood debt to the Corrley family.",
+  "where": "L15",
+  "ref_deps": [],
+  "secret": "S05",
+  "src": "P049",
+  "dest": "P019"
+ },
+ {
+  "id": "E0282",
+  "type": "OCCUPATION",
+  "chapter": 29,
+  "text": "Nenar Dornmere was apprenticed anew and became a chandler.",
+  "where": "L11",
+  "ref_deps": [
+   "E0005"
+  ],
+  "person": "P029",
+  "old": "fisher",
+  "new": "chandler"
+ },
+ {
+  "id": "E0283",
+  "type": "BIRTH",
+  "chapter": 29,
+  "text": "A daughter was born to Ulena Dornson and Thilan Marroway, and they called the child Cowyn Marroway. The family lived in Staveford.",
+  "where": "L10",
+  "ref_deps": [],
+  "child": "P064",
+  "mother": "P017",
+  "father": "P009",
+  "place": "L10"
+ },
+ {
+  "id": "E0284",
+  "type": "TRAVEL",
+  "chapter": 29,
+  "text": "After the quarrel, Yelia quit Staveford for good and took lodgings in Gulcombe.",
+  "where": "L10",
+  "ref_deps": [
+   "E0109"
+  ],
+  "person": "P053",
+  "src": "L10",
+  "dest": "L03"
+ },
+ {
+  "id": "E0285",
+  "type": "TRAVEL",
+  "chapter": 29,
+  "text": "Codan Marroway went along to live in Gulcombe as well.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P007",
+  "src": "L10",
+  "dest": "L03"
+ },
+ {
+  "id": "E0286",
+  "type": "RUMOR",
+  "chapter": 29,
+  "text": "Ulena Dornson told everyone at the inn that Thirine Dornmere had drowned crossing the estuary, though no body was ever seen.",
+  "where": "L10",
+  "ref_deps": [],
+  "teller": "P017",
+  "claim": {
+   "kind": "dead",
+   "target": "P028"
+  }
+ },
+ {
+  "id": "E0287",
+  "type": "TRAVEL",
+  "chapter": 29,
+  "text": "Kassa left Yarlmere and settled in Oststead.",
+  "where": "L15",
+  "ref_deps": [
+   "E0007"
+  ],
+  "person": "P035",
+  "src": "L15",
+  "dest": "L08"
+ },
+ {
+  "id": "E0288",
+  "type": "TRAVEL",
+  "chapter": 29,
+  "text": "Kavus Marrworth followed her to Oststead within the month.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P034",
+  "src": "L15",
+  "dest": "L08"
+ },
+ {
+  "id": "E0289",
+  "type": "TRAVEL",
+  "chapter": 29,
+  "text": "Romor packed a single trunk and moved from Yarlmere to Mirecombe.",
+  "where": "L15",
+  "ref_deps": [
+   "E0125"
+  ],
+  "person": "P055",
+  "src": "L15",
+  "dest": "L07"
+ },
+ {
+  "id": "E0290",
+  "type": "TRAVEL",
+  "chapter": 29,
+  "text": "After the quarrel, Jodrek quit Yarlmere for good and took lodgings in Dunford.",
+  "where": "L15",
+  "ref_deps": [
+   "E0009"
+  ],
+  "person": "P045",
+  "src": "L15",
+  "dest": "L02"
+ },
+ {
+  "id": "E0291",
+  "type": "TRAVEL",
+  "chapter": 29,
+  "text": "Brera Haskoway followed him to Dunford within the month.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P046",
+  "src": "L15",
+  "dest": "L02"
+ },
+ {
+  "id": "E0292",
+  "type": "TELL",
+  "chapter": 30,
+  "text": "Daten could keep it no longer and told Tadette Ashley that the deed to the Dunford pastures was forged.",
+  "where": "L06",
+  "ref_deps": [
+   "E0000"
+  ],
+  "secret": "S01",
+  "src": "P004",
+  "dest": "P022"
+ },
+ {
+  "id": "E0293",
+  "type": "TELL",
+  "chapter": 30,
+  "text": "Late one night Ordrek confided to Madan that the bridge toll at Staveford is skimmed every month.",
+  "where": "L15",
+  "ref_deps": [
+   "E0001",
+   "E0009"
+  ],
+  "secret": "S03",
+  "src": "P049",
+  "dest": "P005"
+ },
+ {
+  "id": "E0294",
+  "type": "RUMOR",
+  "chapter": 30,
+  "text": "Gossip from Kavus Marrworth claimed Zaric Dornson and Ulena Dornson had been wed in secret.",
+  "where": "L08",
+  "ref_deps": [],
+  "teller": "P034",
+  "claim": {
+   "kind": "married",
+   "target": "P019",
+   "other": "P017"
+  }
+ },
+ {
+  "id": "E0295",
+  "type": "GIVE",
+  "chapter": 30,
+  "text": "Nerine Dornson gave the bone comb to Tadette Ashley.",
+  "where": "L06",
+  "ref_deps": [],
+  "item": "I00",
+  "src": "P018",
+  "dest": "P022"
+ },
+ {
+  "id": "E0296",
+  "type": "TRAVEL",
+  "chapter": 30,
+  "text": "Lame Thiena found work in Kelton, moved there, and did not return to Gulcombe.",
+  "where": "L03",
+  "ref_deps": [
+   "E0028"
+  ],
+  "person": "P012",
+  "src": "L03",
+  "dest": "L05"
+ },
+ {
+  "id": "E0297",
+  "type": "TRAVEL",
+  "chapter": 30,
+  "text": "Elten Stenley went along to live in Kelton as well.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P032",
+  "src": "L03",
+  "dest": "L05"
+ },
+ {
+  "id": "E0298",
+  "type": "MARRY",
+  "chapter": 30,
+  "text": "Brelde and Zaric were wed at Kelton, with half the parish looking on. The couple lived in Kelton from then on.",
+  "where": "L05",
+  "ref_deps": [
+   "E0003",
+   "E0206"
+  ],
+  "a": "P059",
+  "b": "P019",
+  "place": "L05"
+ },
+ {
+  "id": "E0299",
+  "type": "MARRY",
+  "chapter": 30,
+  "text": "Before the autumn was out, Madan Marroway took Nydette in marriage at Yarlmere. The couple lived in Yarlmere from then on.",
+  "where": "L15",
+  "ref_deps": [
+   "E0182"
+  ],
+  "a": "P005",
+  "b": "P057",
+  "place": "L15"
+ },
+ {
+  "id": "E0300",
+  "type": "GIVE",
+  "chapter": 30,
+  "text": "The husband of Yelia Haskoway pressed the jade seal into the hands of Yelia and would take nothing for it.",
+  "where": "L03",
+  "ref_deps": [
+   "E0109",
+   "E0214"
+  ],
+  "item": "I10",
+  "src": "P007",
+  "dest": "P053"
+ },
+ {
+  "id": "E0301",
+  "type": "PROMISE",
+  "chapter": 31,
+  "text": "Kassa gave Thinar Dornson a solemn promise to pay the old debt owed to the Marroway family.",
+  "where": "L08",
+  "ref_deps": [
+   "E0007"
+  ],
+  "promise": "R16",
+  "a": "P035",
+  "b": "P015",
+  "act": "to pay the old debt owed to the Marroway family"
+ },
+ {
+  "id": "E0302",
+  "type": "TELL",
+  "chapter": 31,
+  "text": "Thilan Marrworth could keep it no longer and told Nenar Dornmere that the bridge toll at Staveford is skimmed every month.",
+  "where": "L11",
+  "ref_deps": [],
+  "secret": "S03",
+  "src": "P036",
+  "dest": "P029"
+ },
+ {
+  "id": "E0303",
+  "type": "PROMISE",
+  "chapter": 31,
+  "text": "Thirine Dornmere swore to Sedrek Stenley to carry a sealed letter to Quenholt, and shook on it.",
+  "where": "L04",
+  "ref_deps": [],
+  "promise": "R17",
+  "a": "P028",
+  "b": "P033",
+  "act": "to carry a sealed letter to Quenholt"
+ },
+ {
+  "id": "E0304",
+  "type": "TELL",
+  "chapter": 31,
+  "text": "Late one night Kavus confided to Hadette Lindett that the Marrworth mill ledger was rewritten after the flood.",
+  "where": "L08",
+  "ref_deps": [
+   "E0007"
+  ],
+  "secret": "S06",
+  "src": "P034",
+  "dest": "P014"
+ },
+ {
+  "id": "E0305",
+  "type": "DEATH",
+  "chapter": 31,
+  "text": "Ulmira Dornmere died of a long wasting sickness at Brynwick.",
+  "where": "L00",
+  "ref_deps": [],
+  "person": "P026",
+  "cause": "a long wasting sickness",
+  "place": "L00"
+ },
+ {
+  "id": "E0306",
+  "type": "GIVE",
+  "chapter": 31,
+  "text": "The jade bell, which Ulmira Dornmere had owned, went to Yevus Dornmere.",
+  "where": "L00",
+  "ref_deps": [],
+  "item": "I09",
+  "src": "P026",
+  "dest": "P025",
+  "inherit": true
+ },
+ {
+  "id": "E0307",
+  "type": "PLAN",
+  "chapter": 32,
+  "text": "Thilan Marrworth talked for weeks of going to Brynwick, yet in the end stayed where he was.",
+  "where": "L11",
+  "ref_deps": [],
+  "person": "P036",
+  "dest": "L00"
+ },
+ {
+  "id": "E0308",
+  "type": "GIVE",
+  "chapter": 32,
+  "text": "A parcel from Yevus Dornmere reached Brelde Haskoway; inside was the jade bell, now hers to keep.",
+  "where": "L00",
+  "ref_deps": [],
+  "item": "I09",
+  "src": "P025",
+  "dest": "P059"
+ },
+ {
+  "id": "E0309",
+  "type": "TELL",
+  "chapter": 32,
+  "text": "Zaric could keep it no longer and told Ilwyn Corrley that the bridge toll at Staveford is skimmed every month.",
+  "where": "L05",
+  "ref_deps": [
+   "E0003"
+  ],
+  "secret": "S03",
+  "src": "P019",
+  "dest": "P001"
+ },
+ {
+  "id": "E0310",
+  "type": "TRAVEL",
+  "chapter": 32,
+  "text": "Daten Corrley rode out of Larkhaven; by the next market day he was living in Wilby.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P004",
+  "src": "L06",
+  "dest": "L14"
+ },
+ {
+  "id": "E0311",
+  "type": "TRAVEL",
+  "chapter": 32,
+  "text": "Nerine Dornson followed him to Wilby within the month.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P018",
+  "src": "L06",
+  "dest": "L14"
+ },
+ {
+  "id": "E0312",
+  "type": "TRAVEL",
+  "chapter": 32,
+  "text": "Tadette Ashley found work in Coldstead, moved there, and did not return to Larkhaven.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P022",
+  "src": "L06",
+  "dest": "L01"
+ },
+ {
+  "id": "E0313",
+  "type": "TRAVEL",
+  "chapter": 32,
+  "text": "Modan Ashley went along to live in Coldstead as well.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P021",
+  "src": "L06",
+  "dest": "L01"
+ },
+ {
+  "id": "E0314",
+  "type": "GIVE",
+  "chapter": 32,
+  "text": "The husband of Thivie Haskoway won the jade bell from the wife of Zaric Dornson at cards, fairly, and kept it.",
+  "where": "L05",
+  "ref_deps": [
+   "E0181",
+   "E0298"
+  ],
+  "item": "I09",
+  "src": "P059",
+  "dest": "P002"
+ },
+ {
+  "id": "E0315",
+  "type": "TRAVEL",
+  "chapter": 32,
+  "text": "Talan Ashner left Kelton and settled in Wilby.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P041",
+  "src": "L05",
+  "dest": "L14"
+ },
+ {
+  "id": "E0316",
+  "type": "TRAVEL",
+  "chapter": 32,
+  "text": "Ilwyn followed him to Wilby within the month.",
+  "where": "L05",
+  "ref_deps": [
+   "E0000"
+  ],
+  "person": "P001",
+  "src": "L05",
+  "dest": "L14"
+ },
+ {
+  "id": "E0317",
+  "type": "TELL",
+  "chapter": 33,
+  "text": "Mawyn Stenley could keep it no longer and told Vesrald Marrworth that the bridge toll at Staveford is skimmed every month.",
+  "where": "L11",
+  "ref_deps": [],
+  "secret": "S03",
+  "src": "P052",
+  "dest": "P058"
+ },
+ {
+  "id": "E0318",
+  "type": "DEATH",
+  "chapter": 33,
+  "text": "Kassa Marrworth died of a fall from the mill loft at Oststead.",
+  "where": "L08",
+  "ref_deps": [],
+  "person": "P035",
+  "cause": "a fall from the mill loft",
+  "place": "L08"
+ },
+ {
+  "id": "E0319",
+  "type": "DEATH",
+  "chapter": 33,
+  "text": "That summer, a wound that festered took the second daughter of Fenar Ashner; she was buried at Staveford.",
+  "where": "L10",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P043",
+  "cause": "a wound that festered",
+  "place": "L10"
+ },
+ {
+  "id": "E0320",
+  "type": "TRAVEL",
+  "chapter": 33,
+  "text": "After the quarrel, Kavus quit Oststead for good and took lodgings in Coldstead.",
+  "where": "L08",
+  "ref_deps": [
+   "E0007"
+  ],
+  "person": "P034",
+  "src": "L08",
+  "dest": "L01"
+ },
+ {
+  "id": "E0321",
+  "type": "PROMISE",
+  "chapter": 33,
+  "text": "The wife of Thinar Dornson swore to Thinar Dornson to repair the roof of the chapel at Staveford, and shook on it.",
+  "where": "L08",
+  "ref_deps": [
+   "E0226"
+  ],
+  "promise": "R18",
+  "a": "P014",
+  "b": "P015",
+  "act": "to repair the roof of the chapel at Staveford"
+ },
+ {
+  "id": "E0322",
+  "type": "TRAVEL",
+  "chapter": 33,
+  "text": "Thinar Dornson rode out of Oststead; by the next market day he was living in Larkhaven.",
+  "where": "L08",
+  "ref_deps": [],
+  "person": "P015",
+  "src": "L08",
+  "dest": "L06"
+ },
+ {
+  "id": "E0323",
+  "type": "TRAVEL",
+  "chapter": 33,
+  "text": "Hadette Lindett went along to live in Larkhaven as well.",
+  "where": "L08",
+  "ref_deps": [],
+  "person": "P014",
+  "src": "L08",
+  "dest": "L06"
+ },
+ {
+  "id": "E0324",
+  "type": "TRAVEL",
+  "chapter": 34,
+  "text": "Dadrek left Coldstead and settled in Wendhaven.",
+  "where": "L01",
+  "ref_deps": [
+   "E0217"
+  ],
+  "person": "P060",
+  "src": "L01",
+  "dest": "L12"
+ },
+ {
+  "id": "E0325",
+  "type": "TELL",
+  "chapter": 34,
+  "text": "In a letter that Thivie Haskoway burned after reading, Gabin revealed that the Marrworth mill ledger was rewritten after the flood.",
+  "where": "L05",
+  "ref_deps": [
+   "E0009"
+  ],
+  "secret": "S06",
+  "src": "P047",
+  "dest": "P050"
+ },
+ {
+  "id": "E0326",
+  "type": "BIRTH",
+  "chapter": 34,
+  "text": "Kawyn gave birth to a son, named Tanar Marrworth; the father was Thilan Marrworth. The family lived in Torby.",
+  "where": "L11",
+  "ref_deps": [
+   "E0008"
+  ],
+  "child": "P065",
+  "mother": "P042",
+  "father": "P036",
+  "place": "L11"
+ },
+ {
+  "id": "E0327",
+  "type": "TRAVEL",
+  "chapter": 34,
+  "text": "Vesdrek Marroway left Dunford and settled in Kelton.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P008",
+  "src": "L02",
+  "dest": "L05"
+ },
+ {
+  "id": "E0328",
+  "type": "TRAVEL",
+  "chapter": 34,
+  "text": "Jora followed him to Kelton within the month.",
+  "where": "L02",
+  "ref_deps": [
+   "E0006"
+  ],
+  "person": "P031",
+  "src": "L02",
+  "dest": "L05"
+ },
+ {
+  "id": "E0329",
+  "type": "PLAN",
+  "chapter": 34,
+  "text": "Brera Haskoway meant to go to Brynwick before the frost, but the roads flooded and the journey was put off.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P046",
+  "dest": "L00"
+ },
+ {
+  "id": "E0330",
+  "type": "GIVE",
+  "chapter": 34,
+  "text": "Yelia pressed the jade seal into the hands of Codan and would take nothing for it.",
+  "where": "L03",
+  "ref_deps": [
+   "E0001",
+   "E0109"
+  ],
+  "item": "I10",
+  "src": "P053",
+  "dest": "P007"
+ },
+ {
+  "id": "E0331",
+  "type": "GIVE",
+  "chapter": 35,
+  "text": "Thilan Marrworth sent the brass mirror by carrier to Ulena Dornson, who received it safely.",
+  "where": "L11",
+  "ref_deps": [],
+  "item": "I03",
+  "src": "P036",
+  "dest": "P017"
+ },
+ {
+  "id": "E0332",
+  "type": "DEATH",
+  "chapter": 35,
+  "text": "That winter, a fall from the mill loft took Neten Lindett; he was buried at Wilby.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P010",
+  "cause": "a fall from the mill loft",
+  "place": "L14"
+ },
+ {
+  "id": "E0333",
+  "type": "GIVE",
+  "chapter": 35,
+  "text": "Ulena Dornson sent the brass mirror by carrier to Kawyn Ashner, who received it safely.",
+  "where": "L10",
+  "ref_deps": [],
+  "item": "I03",
+  "src": "P017",
+  "dest": "P042"
+ },
+ {
+  "id": "E0334",
+  "type": "BIRTH",
+  "chapter": 35,
+  "text": "Gara gave birth to a daughter, named Colis Marrworth; the father was Nebin Marrworth. The family lived in Mirecombe.",
+  "where": "L07",
+  "ref_deps": [
+   "E0005"
+  ],
+  "child": "P066",
+  "mother": "P027",
+  "father": "P037",
+  "place": "L07"
+ },
+ {
+  "id": "E0335",
+  "type": "OCCUPATION",
+  "chapter": 35,
+  "text": "Tadette was apprenticed anew and became a mason.",
+  "where": "L01",
+  "ref_deps": [
+   "E0004"
+  ],
+  "person": "P022",
+  "old": "herbalist",
+  "new": "mason"
+ },
+ {
+  "id": "E0336",
+  "type": "RESOLVE",
+  "chapter": 35,
+  "text": "Jora Stenley kept the promise made to Mawyn Stenley: the task (carry a sealed letter to Yarlmere) was done by harvest.",
+  "where": "L05",
+  "ref_deps": [],
+  "promise": "R12",
+  "kept": true
+ },
+ {
+  "id": "E0337",
+  "type": "RESOLVE",
+  "chapter": 35,
+  "text": "True to his word to Nerine Dornson, Quiet Daten finished what he had promised (rebuild the fallen wall at Wendhaven).",
+  "where": "L14",
+  "ref_deps": [
+   "E0020"
+  ],
+  "promise": "R07",
+  "kept": true
+ },
+ {
+  "id": "E0338",
+  "type": "PLAN",
+  "chapter": 35,
+  "text": "Elten talked for weeks of going to Wendton, yet in the end stayed where he was.",
+  "where": "L05",
+  "ref_deps": [
+   "E0006"
+  ],
+  "person": "P032",
+  "dest": "L13"
+ },
+ {
+  "id": "E0339",
+  "type": "PLAN",
+  "chapter": 36,
+  "text": "Gara Dornmere talked for weeks of going to Wendhaven, yet in the end stayed where she was.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P027",
+  "dest": "L12"
+ },
+ {
+  "id": "E0340",
+  "type": "TELL",
+  "chapter": 36,
+  "text": "Comira could keep it no longer and told Seten Marrworth that the Dornmere family once owed a blood debt to the Corrley family.",
+  "where": "L15",
+  "ref_deps": [
+   "E0004"
+  ],
+  "secret": "S05",
+  "src": "P023",
+  "dest": "P054"
+ },
+ {
+  "id": "E0341",
+  "type": "RESOLVE",
+  "chapter": 36,
+  "text": "Thirine the Younger never did keep the promise made to Sedrek Stenley (carry a sealed letter to Quenholt); the matter was abandoned.",
+  "where": "L04",
+  "ref_deps": [
+   "E0042"
+  ],
+  "promise": "R17",
+  "kept": false
+ },
+ {
+  "id": "E0342",
+  "type": "TELL",
+  "chapter": 36,
+  "text": "Late one night Kavus confided to Tadette that the Marrworth mill ledger was rewritten after the flood.",
+  "where": "L01",
+  "ref_deps": [
+   "E0004",
+   "E0007"
+  ],
+  "secret": "S06",
+  "src": "P034",
+  "dest": "P022"
+ },
+ {
+  "id": "E0343",
+  "type": "RESOLVE",
+  "chapter": 36,
+  "text": "Habin kept the promise made to Orrald Corrley: the task (carry a sealed letter to Gulwick) was done by harvest.",
+  "where": "L10",
+  "ref_deps": [
+   "E0007"
+  ],
+  "promise": "R03",
+  "kept": true
+ },
+ {
+  "id": "E0344",
+  "type": "DEATH",
+  "chapter": 36,
+  "text": "They laid Modan Ashley in the churchyard at Coldstead, dead of a fall from the mill loft.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P021",
+  "cause": "a fall from the mill loft",
+  "place": "L01"
+ },
+ {
+  "id": "E0345",
+  "type": "TELL",
+  "chapter": 37,
+  "text": "Seten Marrworth could keep it no longer and told Maena Stenley that the bridge toll at Staveford is skimmed every month.",
+  "where": "L15",
+  "ref_deps": [],
+  "secret": "S03",
+  "src": "P054",
+  "dest": "P051"
+ },
+ {
+  "id": "E0346",
+  "type": "RUMOR",
+  "chapter": 37,
+  "text": "A rumor started by Mawyn Stenley had it that Ulena Dornson was dead of plague; Mawyn Stenley had it from a peddler.",
+  "where": "L11",
+  "ref_deps": [],
+  "teller": "P052",
+  "claim": {
+   "kind": "dead",
+   "target": "P017"
+  }
+ },
+ {
+  "id": "E0347",
+  "type": "GIVE",
+  "chapter": 37,
+  "text": "Gara Dornmere gave the iron seal to Romor.",
+  "where": "L07",
+  "ref_deps": [
+   "E0125"
+  ],
+  "item": "I07",
+  "src": "P027",
+  "dest": "P055"
+ },
+ {
+  "id": "E0348",
+  "type": "TRAVEL",
+  "chapter": 37,
+  "text": "Gara rode out of Mirecombe; by the next market day she was living in Coldstead.",
+  "where": "L07",
+  "ref_deps": [
+   "E0005"
+  ],
+  "person": "P027",
+  "src": "L07",
+  "dest": "L01"
+ },
+ {
+  "id": "E0349",
+  "type": "TRAVEL",
+  "chapter": 37,
+  "text": "Nebin Marrworth went along to live in Coldstead as well.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P037",
+  "src": "L07",
+  "dest": "L01"
+ },
+ {
+  "id": "E0350",
+  "type": "PLAN",
+  "chapter": 37,
+  "text": "Mawyn Stenley talked for weeks of going to Mirecombe, yet in the end stayed where she was.",
+  "where": "L11",
+  "ref_deps": [],
+  "person": "P052",
+  "dest": "L07"
+ },
+ {
+  "id": "E0351",
+  "type": "TRAVEL",
+  "chapter": 37,
+  "text": "Vesrald left Torby and settled in Mirecombe.",
+  "where": "L11",
+  "ref_deps": [
+   "E0184"
+  ],
+  "person": "P058",
+  "src": "L11",
+  "dest": "L07"
+ },
+ {
+  "id": "E0352",
+  "type": "PROMISE",
+  "chapter": 37,
+  "text": "Tadette swore to Nebin Marrworth to repair the roof of the chapel at Staveford, and shook on it.",
+  "where": "L01",
+  "ref_deps": [
+   "E0004"
+  ],
+  "promise": "R19",
+  "a": "P022",
+  "b": "P037",
+  "act": "to repair the roof of the chapel at Staveford"
+ },
+ {
+  "id": "E0353",
+  "type": "DEATH",
+  "chapter": 37,
+  "text": "Ilwyn Corrley died of old age, quietly in sleep at Wilby.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P001",
+  "cause": "old age, quietly in sleep",
+  "place": "L14"
+ },
+ {
+  "id": "E0354",
+  "type": "BIRTH",
+  "chapter": 38,
+  "text": "A daughter was born to Thivie Haskoway and Orrald Corrley, and they called the child Vesvie Corrley. The family lived in Kelton.",
+  "where": "L05",
+  "ref_deps": [],
+  "child": "P067",
+  "mother": "P050",
+  "father": "P002",
+  "place": "L05"
+ },
+ {
+  "id": "E0355",
+  "type": "DEATH",
+  "chapter": 38,
+  "text": "They laid Madan in the churchyard at Yarlmere, dead of a wound that festered.",
+  "where": "L15",
+  "ref_deps": [
+   "E0001"
+  ],
+  "person": "P005",
+  "cause": "a wound that festered",
+  "place": "L15"
+ },
+ {
+  "id": "E0356",
+  "type": "TRAVEL",
+  "chapter": 38,
+  "text": "Nydette Marrworth rode out of Yarlmere; by the next market day she was living in Dunford.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P057",
+  "src": "L15",
+  "dest": "L02"
+ },
+ {
+  "id": "E0357",
+  "type": "GIVE",
+  "chapter": 38,
+  "text": "Orrald Corrley pressed the jade bell into the hands of Elena Ashley and would take nothing for it.",
+  "where": "L05",
+  "ref_deps": [],
+  "item": "I09",
+  "src": "P002",
+  "dest": "P024"
+ },
+ {
+  "id": "E0358",
+  "type": "GIVE",
+  "chapter": 38,
+  "text": "Codan Marroway gave the jade seal to Yelia.",
+  "where": "L03",
+  "ref_deps": [
+   "E0109"
+  ],
+  "item": "I10",
+  "src": "P007",
+  "dest": "P053"
+ },
+ {
+  "id": "E0359",
+  "type": "TELL",
+  "chapter": 38,
+  "text": "Late one night Romor confided to Tamor Dornson that the bridge toll at Staveford is skimmed every month.",
+  "where": "L07",
+  "ref_deps": [
+   "E0125"
+  ],
+  "secret": "S03",
+  "src": "P055",
+  "dest": "P020"
+ },
+ {
+  "id": "E0360",
+  "type": "RUMOR",
+  "chapter": 39,
+  "text": "Gossip from Vesrald Marrworth claimed Brera Haskoway and Manar Haskoway had been wed in secret.",
+  "where": "L07",
+  "ref_deps": [],
+  "teller": "P058",
+  "claim": {
+   "kind": "married",
+   "target": "P046",
+   "other": "P048"
+  }
+ },
+ {
+  "id": "E0361",
+  "type": "DEATH",
+  "chapter": 39,
+  "text": "Jodrek Haskoway died of a long wasting sickness at Dunford.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P045",
+  "cause": "a long wasting sickness",
+  "place": "L02"
+ },
+ {
+  "id": "E0362",
+  "type": "BIRTH",
+  "chapter": 39,
+  "text": "A daughter was born to Nerine Dornson and Daten Corrley, and they called the child Ilnelle Corrley. The family lived in Wilby.",
+  "where": "L14",
+  "ref_deps": [],
+  "child": "P068",
+  "mother": "P018",
+  "father": "P004",
+  "place": "L14"
+ },
+ {
+  "id": "E0363",
+  "type": "GIVE",
+  "chapter": 39,
+  "text": "Red Ulena pressed the brass map into the hands of Habin and would take nothing for it.",
+  "where": "L10",
+  "ref_deps": [
+   "E0007",
+   "E0032"
+  ],
+  "item": "I02",
+  "src": "P017",
+  "dest": "P038"
+ },
+ {
+  "id": "E0364",
+  "type": "TRAVEL",
+  "chapter": 39,
+  "text": "Mawyn Stenley found work in Quenholt, moved there, and did not return to Torby.",
+  "where": "L11",
+  "ref_deps": [],
+  "person": "P052",
+  "src": "L11",
+  "dest": "L09"
+ },
+ {
+  "id": "E0365",
+  "type": "TRAVEL",
+  "chapter": 39,
+  "text": "Nenar Dornmere followed her to Quenholt within the month.",
+  "where": "L11",
+  "ref_deps": [],
+  "person": "P029",
+  "src": "L11",
+  "dest": "L09"
+ },
+ {
+  "id": "E0366",
+  "type": "DEATH",
+  "chapter": 39,
+  "text": "That winter, a long wasting sickness took Tadette; she was buried at Coldstead.",
+  "where": "L01",
+  "ref_deps": [
+   "E0004"
+  ],
+  "person": "P022",
+  "cause": "a long wasting sickness",
+  "place": "L01"
+ },
+ {
+  "id": "E0367",
+  "type": "GIVE",
+  "chapter": 39,
+  "text": "The bone comb, which Tadette Ashley had owned, went to Comira.",
+  "where": "L01",
+  "ref_deps": [
+   "E0004"
+  ],
+  "item": "I00",
+  "src": "P022",
+  "dest": "P023",
+  "inherit": true
+ },
+ {
+  "id": "E0368",
+  "type": "PLAN",
+  "chapter": 39,
+  "text": "Thirine Dornmere talked for weeks of going to Wendton, yet in the end stayed where she was.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P028",
+  "dest": "L13"
+ },
+ {
+  "id": "E0369",
+  "type": "DEATH",
+  "chapter": 40,
+  "text": "Nerine Dornson died of a fall from the mill loft at Wilby.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P018",
+  "cause": "a fall from the mill loft",
+  "place": "L14"
+ },
+ {
+  "id": "E0370",
+  "type": "GIVE",
+  "chapter": 40,
+  "text": "Thilan Marroway won the brass map from the youngest son of Kassa Marrworth at cards, fairly, and kept it.",
+  "where": "L10",
+  "ref_deps": [
+   "E0007"
+  ],
+  "item": "I02",
+  "src": "P038",
+  "dest": "P009"
+ },
+ {
+  "id": "E0371",
+  "type": "DEATH",
+  "chapter": 40,
+  "text": "Yevus died of old age, quietly in sleep at Brynwick.",
+  "where": "L00",
+  "ref_deps": [
+   "E0005"
+  ],
+  "person": "P025",
+  "cause": "old age, quietly in sleep",
+  "place": "L00"
+ },
+ {
+  "id": "E0372",
+  "type": "GIVE",
+  "chapter": 40,
+  "text": "Among the things left by Yevus Dornmere, the ivory dagger was handed to Gara Dornmere.",
+  "where": "L00",
+  "ref_deps": [],
+  "item": "I08",
+  "src": "P025",
+  "dest": "P027",
+  "inherit": true
+ },
+ {
+  "id": "E0373",
+  "type": "GIVE",
+  "chapter": 40,
+  "text": "Romor Stenley sent the iron seal by carrier to Lame Talan, who received it safely.",
+  "where": "L07",
+  "ref_deps": [
+   "E0055"
+  ],
+  "item": "I07",
+  "src": "P055",
+  "dest": "P041"
+ },
+ {
+  "id": "E0374",
+  "type": "TELL",
+  "chapter": 40,
+  "text": "In a letter that Habin Marrworth burned after reading, Ulena revealed that the Dornmere family once owed a blood debt to the Corrley family.",
+  "where": "L10",
+  "ref_deps": [
+   "E0003"
+  ],
+  "secret": "S05",
+  "src": "P017",
+  "dest": "P038"
+ },
+ {
+  "id": "E0375",
+  "type": "RESOLVE",
+  "chapter": 40,
+  "text": "Gabin Haskoway never did keep the promise made to Manar Haskoway (repair the roof of the chapel at Wilby); the matter was abandoned.",
+  "where": "L05",
+  "ref_deps": [],
+  "promise": "R01",
+  "kept": false
+ },
+ {
+  "id": "E0376",
+  "type": "RESOLVE",
+  "chapter": 40,
+  "text": "True to her word to Thilan Marrworth, Kawyn Ashner finished what she had promised (repair the roof of the chapel at Torby).",
+  "where": "L11",
+  "ref_deps": [],
+  "promise": "R06",
+  "kept": true
+ },
+ {
+  "id": "E0377",
+  "type": "TRAVEL",
+  "chapter": 40,
+  "text": "Kawyn packed a single trunk and moved from Torby to Mirecombe.",
+  "where": "L11",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P042",
+  "src": "L11",
+  "dest": "L07"
+ },
+ {
+  "id": "E0378",
+  "type": "TRAVEL",
+  "chapter": 40,
+  "text": "Thilan Marrworth followed her to Mirecombe within the month.",
+  "where": "L11",
+  "ref_deps": [],
+  "person": "P036",
+  "src": "L11",
+  "dest": "L07"
+ }
+]

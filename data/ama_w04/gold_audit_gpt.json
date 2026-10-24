@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "wrong",
+  "reason": "Step 102 removed an added test method from tests/admin_views/tests.py.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "wrong",
+  "reason": "The fix was applied at Step 26 in the workspace and Step 91 in /testbed; Step 35 ran a script.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "The original condition included has_change_permission but omitted has_add_permission.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "Line 103 contains “and has_add_permission”.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "wrong",
+  "reason": "Step 35 did not implement the fix; the workspace already had the add permission check.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ambiguous",
+  "reason": "Running regression tests is reasonable, but several validation actions are possible, and Step 16 only inspected test permissions.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "wrong",
+  "reason": "The last modification to an admin_modify.py file was Step 91.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "wrong",
+  "reason": "Steps 104–105 show selected tests passing, not all permission-related tests.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "wrong",
+  "reason": "Step 35 executed a script that failed during imports; it made no source modification.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "wrong",
+  "reason": "Step 0 identified the missing check; Step 16 inspected test permission setup.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "The button lacked an add permission visibility check, which the fix added alongside the existing conditions.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "The trajectory shows source inspection, reproduction, successful reruns after the fix, and existing admin regression tests.",
+  "evidence": "whole trajectory"
+ }
+}

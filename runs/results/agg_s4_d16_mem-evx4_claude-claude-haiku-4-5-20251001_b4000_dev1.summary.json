@@ -1,0 +1,66 @@
+{
+ "name": "agg_s4_d16_mem-evx4_claude-claude-haiku-4-5-20251001_b4000_dev1",
+ "n": 23,
+ "acc": 0.6956521739130435,
+ "by_qtype": {
+  "G_NBIRTHS": 1.0,
+  "G_NDEATHS": 0.0,
+  "G_NWED": 0.0,
+  "G_PLACE_BIRTHS": 0.833,
+  "G_PLACE_DEATHS": 1.0,
+  "G_RANGE_DEATHS": 0.25,
+  "G_RANGE_WED": 0.75
+ },
+ "mean_ctx_tokens": 4128.173913043478,
+ "sum_in_tokens": 126518,
+ "sum_out_tokens": 9689,
+ "sum_usd": 0.174963,
+ "sum_wall_s": 171.50387477874756,
+ "build": {
+  "embed_tokens": 0,
+  "llm_in": 895312,
+  "llm_out": 59219,
+  "usd": 1.1914070000000003,
+  "wall_s": 305.30676317214966,
+  "llm_wall_s": 0.0,
+  "calls": 363,
+  "cached_build": false,
+  "idle": {
+   "llm_in": 5212,
+   "llm_out": 4039,
+   "usd": 0.025407,
+   "calls": 1
+  },
+  "events": 3031,
+  "types": 525,
+  "base": {
+   "llm_in": 815228,
+   "llm_out": 123036,
+   "usd": 1.4304079999999995,
+   "llm_wall_s": 0.0,
+   "calls": 341,
+   "cached_build": true,
+   "idle": {
+    "llm_in": 0,
+    "llm_out": 0,
+    "usd": 0.0,
+    "calls": 0
+   },
+   "registry": 2076,
+   "persons": 883,
+   "refs_llm": 485,
+   "ungrounded": 110,
+   "refs_resolved": 569,
+   "refs_total": 732
+  },
+  "lazy": {
+   "llm_in": 0,
+   "llm_out": 0,
+   "usd": 0.0,
+   "calls": 0
+  }
+ },
+ "record_tokens": 466845,
+ "n_chunks": 1960,
+ "mean_ev_recall": 0.8214654282765738
+}

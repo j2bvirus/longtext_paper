@@ -1,0 +1,22 @@
+Based on the transcripts provided, here are the answers to the questions:
+
+Q01: \boxed{156}
+Q02: \boxed{25}
+Q03: \boxed{3}
+Q04: \boxed{3}
+Q05: \boxed{4}
+Q06: \boxed{Glyph of Warding}
+Q07: \boxed{Invisibility, Pass Without a Trace, Fly, Cure Wounds, Seeming, Dispel Magic, Transport via Plants, Pass Without a Trace, Glyph of Warding, Transport via Plants, Scrying, Call Lightning, Water Breathing, Tree Stride, Pass Without a Trace}
+Q08: \boxed{1036}
+Q09: \boxed{130}
+Q10: \boxed{214}
+Q11: \boxed{11}
+Q12: \boxed{Invisibility, Lightning Bolt, Dimension Door, Bigby's Hand, Seeming, Unseen Servant, Bigby's Hand, Otiluke's Resilient Sphere, Dimension Door, Major Image, Seeming, Healing Word, Unseen Servant}
+Q13: \boxed{Anti-Life Shell,Beast Sense,Bones of the Earth,Conjure Barrage,Create or Destroy Water,Daylight,Death Ward,Dominate Monster,Dominate Person,Earthbind,Evard's Black Tentacles,Eyebite,False Life,Feather Fall,Friends,Greater Invisibility,Hail of Thorns,Hunter's Mark,Hypnotic Pattern,Mordenkainen's Magnificent Mansion,Move Earth,Planar Binding,Plant Growth,Polymorph,Prismatic Spray,Protection from Poison,Remove Curse,Skywrite,Sleet Storm,Stinking Cloud,Suggestion,Sunbeam,Teleportation Circle,Thaumaturgy,True Strike,Vampiric Touch,Water Breathing,Wind Walk,Wind Wall,Zone of Truth}
+Q14: \boxed{8}
+Q15: \boxed{17}
+Q16: \boxed{Pass Without a Trace}
+Q17: \boxed{Seeming}
+Q18: \boxed{Attack}
+Q19: \boxed{1}
+Q20: \boxed{1036}

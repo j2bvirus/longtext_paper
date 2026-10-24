@@ -1,0 +1,10 @@
+{
+ "d16": {
+  "tokens_cl100k": 503139,
+  "chars": 2215517,
+  "sha256": "ae66192b60f22e1d67cbb48175b7de27c647193e350d70fca051cac45e701d96",
+  "filler_density": 9.5,
+  "prose_ratio": 1.0,
+  "source": "data/saga_v5_s7"
+ }
+}

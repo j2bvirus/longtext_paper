@@ -1,0 +1,41 @@
+Let's analyze the transcripts to answer each of the 20 questions accurately.
+
+**Step-by-step analysis:**
+- **Episodes in file:** There are 16 episodes delimited by `[START OF EPISODE]` and `[END OF EPISODE]`.
+- **Q01:** In Episode 16, Vax attunes to necrotic damage, then Vax uses Divine Sense, then Keyleth casts *Pass Without a Trace* ("Marisha: Let me do it. I have Pass Without a Trace... Matt: Okay, then roll some stealth, guys. Laura: She Pass Without a Traced us."). The last spell cast in Episode 16 is *Speak with Dead* by Pike (preceded by *Zone of Truth* by Vax).
+- **Q03 & Q10:** *Control Flames* is cast by Tiberius (Orion) in Episode 2 (burning webs) and Episode 3 (controlling the Fireball on the hydra). That is 1 character (Tiberius) and 2 times total.
+- **Q06 & Q11:** Trinket's rolls:
+  - Ep 1: 1 Stealth roll (11), 1 Constitution Save vs poison (14), 1 Strength check to pull Vax (implicit/DM rolled or Laura rolled).
+  - Ep 2: None.
+  - Ep 3: 1 Stealth roll (18), 2 Attack rolls (16, 19), 2 Dexterity Saves vs Fireball (17, 7).
+  - Ep 4: 2 Attack rolls (miss, nat 20), 1 Athletics check (17), 1 Attack roll (11/20).
+  - Ep 7: 2 Dexterity Saves (12, fail), 1 Perception check (22), 1 Attack roll (15), 1 Attack roll (17).
+  - Ep 8: 1 Stealth roll (6), 2 Attack rolls (26, 25), 1 Strength check (17).
+  - Ep 10: 1 Dexterity Save (20), 1 Strength Save (18), 1 Athletics check (5), 1 Attack roll (24).
+- **Q08:** In Episode 8, the first spell cast is *Locate Object* (Laura: "Okay! I use it."), the second spell cast is *Speak with Animals* (Laura: "I cast Speak With Animals!").
+- **Q14:** Spells cast at a higher level than their base level across all episodes: *Ice Knife*, *Mass Cure Wounds*, *Hail of Thorns*, *Cure Wounds*, *Fly*, *Glacial Blast*, *Thunderwave*, *Healing Word*, *Flaming Sphere*, *Blight*, *Invisibility*, *Guiding Bolt*, *Dispel Magic*, *Bigby's Hand*, *Counterspell*.
+- **Q15:** In Episode 9, Scanlan and Juuraiel play the Gambit of Ord (3 hands: 3 dice each per hand; Scanlan rolls d8, d6, d4 for 3 hands = 9 rolls, or 3 hands total).
+- **Q16:** Grog is a barbarian and does not cast spells (other than activating Titanstone Knuckles to cast *Enlarge/Reduce* in Ep 8 and Ep 14).
+
+Here are the final answers formatted as requested:
+
+Q01: \boxed{Pass Without a Trace}
+Q02: \boxed{145}
+Q03: \boxed{1}
+Q04: \boxed{Cure Wounds, Mass Cure Wounds, Cure Wounds, Move Earth, Transport via Plants, Speak with Animals, Cure Wounds, Invisibility, Feeblemind, Daylight, Speak with Plants, Speak with Animals, Transport via Plants, Flaming Sphere, Scrying, Speak with Dead}
+Q05: \boxed{Suggestion, Stinking Cloud, Bigby's Hand, Dimension Door, Healing Word, None, Bigby's Hand, Eyebite, Seeming, None, None, None, None, True Polymorph, Seeming, Bigby's Hand}
+Q06: \boxed{7}
+Q07: \boxed{198}
+Q08: \boxed{Speak with Animals}
+Q09: \boxed{Perception}
+Q10: \boxed{2}
+Q11: \boxed{25}
+Q12: \boxed{28}
+Q13: \boxed{175}
+Q14: \boxed{Ice Knife, Mass Cure Wounds, Hail of Thorns, Cure Wounds, Fly, Glacial Blast, Thunderwave, Healing Word, Blight, Invisibility, Guiding Bolt, Dispel Magic, Flaming Sphere, Bigby's Hand}
+Q15: \boxed{8}
+Q16: \boxed{None, None, None, None, None, None, None, Enlarge/Reduce, None, None, None, None, None, Enlarge/Reduce, None, None}
+Q17: \boxed{Invisibility}
+Q18: \boxed{Invisibility}
+Q19: \boxed{48}
+Q20: \boxed{48}

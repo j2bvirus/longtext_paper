@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ambiguous",
+  "reason": "Step 0 shows only search results, with no summary file state or explanation that it is ready to save.",
+  "evidence": "steps [0, 1, 39, 40]"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "Step 9 first successfully extracted the full chapter’s 22 pages from the De Gruyter PDF URL.",
+  "evidence": "steps [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 39, 40]"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "Step 4 shows JSTOR blocking access with an unusual-traffic Access Check requiring reCAPTCHA.",
+  "evidence": "steps [3, 4, 5, 39, 40]"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "Step 11 confirms the summary file was successfully saved under work_space/ before the mark_step action in Step 12.",
+  "evidence": "steps [10, 11, 12, 13, 39, 40]"
+ },
+ "Q0004": {
+  "label": "not auditable",
+  "reason": "names no step",
+  "evidence": ""
+ },
+ "Q0005": {
+  "label": "not auditable",
+  "reason": "names no step",
+  "evidence": ""
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "Step 12 uses mark_step to update step 0’s step_status to completed.",
+  "evidence": "steps [0, 1, 11, 12, 13, 39, 40]"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "Step 3 reports a PDF download failure with a 500 Server Error from library.oapen.org.",
+  "evidence": "steps [2, 3, 4, 39, 40]"
+ },
+ "Q0008": {
+  "label": "wrong",
+  "reason": "Step 20 successfully extracted readable book content, so the last shown successful fetch is step 20, not step 10.",
+  "evidence": "steps [10, 20, 39, 40]"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "Step 9 first successfully retrieved the full PDF, immediately before the final extraction in Step 10.",
+  "evidence": "steps [0, 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 39, 40]"
+ },
+ "Q0010": {
+  "label": "ambiguous",
+  "reason": "The shown steps establish Cambridge PDF extraction failure, but omit the OAPEN and JSTOR failures and do not show successful parsing of a De Gruyter PDF.",
+  "evidence": "steps [0, 1, 2, 5, 6, 7, 39, 40]"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "Step 9 extracted the full 22-page PDF and directly confirmed the film in the passage about Supernatural episode 3x10.",
+  "evidence": "steps [6, 7, 8, 9, 10, 11, 39, 40]"
+ }
+}

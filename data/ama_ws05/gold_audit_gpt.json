@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "wrong",
+  "reason": "Step 10 executed a find/grep command, which failed with a shell syntax error.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "wrong",
+  "reason": "Step 50 ran the queries test suite; no __setstate__ restoration issue was identified.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "wrong",
+  "reason": "Step 7 read tests/README.rst; the reproduction script was created at Step 34.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "wrong",
+  "reason": "Step 50 did not inspect values_select or report it as None.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "wrong",
+  "reason": "Step 54 attempted to add a test; no such prerequisite was verified.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "wrong",
+  "reason": "Step 50 contains no such observation, and the fix targeted the QuerySet query setter.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "wrong",
+  "reason": "The Query class's __setstate__ method was never modified.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "wrong",
+  "reason": "The lost behavior came from the new QuerySet defaulting to ModelIterable instead of restoring _iterable_class.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "wrong",
+  "reason": "Step 84 reran the added test, which failed.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "wrong",
+  "reason": "Step 54 failed to edit a test; Step 7 contained no reproduction script.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "wrong",
+  "reason": "The relevant attribute was _iterable_class, and the fix changed QuerySet.query's setter.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ambiguous",
+  "reason": "One existing test file was modified, but three standalone scripts were created; the stated verification approach broadly matches.",
+  "evidence": "whole trajectory"
+ }
+}

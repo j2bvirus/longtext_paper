@@ -1,0 +1,144 @@
+Based on the provided Dungeons & Dragons session transcripts, here is the step-by-step breakdown and final answers to your 20 questions:
+
+### Reasoning & Tallies
+
+* **Kashaw / Will (Q01, Q02, Q06):** Will plays the character Kashaw and only appears in Episode 6. In Episode 6, he casts *Locate Creature* twice and *Freedom of Movement* once. He does not appear or cast spells in any other episodes.
+
+
+* **Last Spell in Each Episode (Q03):**
+* Ep 1: *Cure Wounds* (cast by Pike)
+
+
+* Ep 2: *Cure Wounds* (cast by Pike)
+
+
+* Ep 3: *Watery Sphere* (cast by Tiberius)
+
+
+* Ep 4: *Greater Restoration* (cast by Pike)
+
+
+* Ep 5: *Seeming* (cast by Scanlan)
+
+
+* Ep 6: *Prestidigitation* (cast by Tiberius)
+
+
+* Ep 7: *Cure Wounds* (cast by Pike)
+
+
+* Ep 8: *Seeming* (cast by Scanlan)
+
+
+* Ep 9: *Flaming Sphere* (cast by Keyleth)
+
+
+* Ep 10: *Pass Without a Trace* (cast by Vex'ahlia)
+
+
+* Ep 11: *Protection from Energy* (cast by Keyleth)
+
+
+* Ep 12: *Pass Without a Trace* (cast by Vex'ahlia)
+
+
+* Ep 13: *Thunderwave* (cast by Scanlan)
+
+
+* Ep 14: *Cure Wounds* (cast by Keyleth)
+
+
+* Ep 15: *Speak with Animals* (cast by Keyleth)
+
+
+* Ep 16: *Cure Wounds* (cast by Vex'ahlia)
+
+
+* Ep 17: *Transport via Plants* (cast by Keyleth)
+
+
+* Ep 18: *Daylight* (cast by Keyleth)
+
+
+
+
+* **Tiberius's Spells (Q09, Q15, Q19):**
+* Ep 1 (7 spells): First: *Prestidigitation*, Last: *Firebolt*
+
+* Ep 2 (7 spells): First: *Prestidigitation*, Last: *Ice Knife*
+
+* Ep 3 (5 spells): First: *Light*, Last: *Watery Sphere*
+
+* Ep 4 (8 spells): First: *Silence*, Last: *Teleportation Circle*
+
+* Ep 5 (0 spells): Absent
+
+
+* Ep 6 (10 spells): First: *Alter Self*, Last: *Prestidigitation*
+
+* Ep 7 (4 spells): First: *Fly*, Last: *Counterspell*
+
+* Ep 8 (6 spells): First: *Fly*, Last: *Fly*
+
+* Ep 9–18 (0 spells): Absent
+
+
+* Total = 47 spells.
+
+
+* **Spells Cast at Higher Level (Q10):** Across the episodes, spells explicitly cast using a higher-level slot than their base level are: *Cure Wounds*, *Hail of Thorns*, *Ice Knife*, *Fly*, *Counterspell*, *Hold Person*, *Bigby's Hand*, *Fireball*, *Sleet Storm*, *Healing Word*, *Spiritual Weapon*, *Command*, and *Guiding Bolt*.
+
+
+* **Revivify (Q12):** Only 1 character (Pike) casts *Revivify* across the episodes (in Episode 13). (Taryon infuses a coin with it in Episode 18, which is an item infusion rather than casting the spell).
+
+
+* **First Spell in Episode 4 (Q16):** *Silence* (cast by Tiberius on Scanlan).
+
+
+* **Roll Statistics (Q04, Q05, Q07, Q08, Q11, Q13, Q14, Q17, Q18, Q20):**
+* Note: In accordance with the mapping ("Sam plays the character Taryon"), rolls made by Sam are attributed to Taryon in the player-character mapping, leaving "Scanlan" with 0 under that direct mapping, while Sam's cumulative rolls at the end of Episode 2 is 20 (and 87 at the end of Episode 8; 166 across all episodes).
+
+
+* Total Rolls by end of Ep 4: 263.
+
+
+* Most common spell: *Cure Wounds*.
+
+
+* Most common roll type: *Attack* (209 total Attack rolls).
+
+
+* Total Nat 20s: 74.
+
+
+* Total Natural 4s: 15.
+
+
+* Percentage of rolls of value 13: 5%.
+
+
+
+
+
+---
+
+Q01: \boxed{NA, NA, NA, NA, NA, Freedom of Movement, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA}
+Q02: \boxed{3}
+Q03: \boxed{Cure Wounds, Cure Wounds, Watery Sphere, Greater Restoration, Seeming, Prestidigitation, Cure Wounds, Seeming, Flaming Sphere, Pass Without a Trace, Protection from Energy, Pass Without a Trace, Thunderwave, Cure Wounds, Speak with Animals, Cure Wounds, Transport via Plants, Daylight}
+Q04: \boxed{5}
+Q05: \boxed{263}
+Q06: \boxed{3}
+Q07: \boxed{Cure Wounds}
+Q08: \boxed{74}
+Q09: \boxed{47}
+Q10: \boxed{Bigby's Hand, Command, Counterspell, Cure Wounds, Fireball, Fly, Guiding Bolt, Hail of Thorns, Healing Word, Hold Person, Ice Knife, Sleet Storm, Spiritual Weapon}
+Q11: \boxed{20}
+Q12: \boxed{1}
+Q13: \boxed{15}
+Q14: \boxed{209}
+Q15: \boxed{Prestidigitation, Prestidigitation, Light, Silence, NA, Alter Self, Fly, Fly, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA}
+Q16: \boxed{Silence}
+Q17: \boxed{Attack}
+Q18: \boxed{87}
+Q19: \boxed{Firebolt, Ice Knife, Watery Sphere, Teleportation Circle, NA, Prestidigitation, Counterspell, Fly, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA}
+Q20: \boxed{166}

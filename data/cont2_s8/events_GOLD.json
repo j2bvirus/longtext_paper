@@ -1,0 +1,4560 @@
+[
+ {
+  "id": "E0000",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Prydenridge household lived in Ostcombe. Ludrek Prydenridge and his wife Malis Prydenridge had 4 children, all living at home: the eldest a daughter, Havie Prydenridge; then a son, Rovus Prydenridge; then a daughter, Luvie Prydenridge; then a son, Gadrek Prydenridge.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P000",
+  "mother": "P001",
+  "children": [
+   "P002",
+   "P003",
+   "P004",
+   "P005"
+  ],
+  "place": "L07"
+ },
+ {
+  "id": "E0001",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Lindmere household lived in the river crossing at Kelmere. Rorald Lindmere and his wife Pelia Lindmere had 3 children, all living at home: the eldest a daughter, Harine Lindmere; then a daughter, Fenelle Lindmere; then a daughter, Wenelle Lindmere.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P006",
+  "mother": "P007",
+  "children": [
+   "P008",
+   "P009",
+   "P010"
+  ],
+  "place": "L06"
+ },
+ {
+  "id": "E0002",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Haskick household lived in the harbor town of Dunstead. Peten Haskick and his wife Lura Haskick had 2 children, all living at home: the eldest a daughter, Yera Haskick; then a daughter, Yewyn Haskick.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P011",
+  "mother": "P012",
+  "children": [
+   "P013",
+   "P014"
+  ],
+  "place": "L02"
+ },
+ {
+  "id": "E0003",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "In the harbor town of Kelford lived Nelan Brackick, married to Volia Brackick, with their children. In order of birth these were the eldest a son, Kadrek Brackick; then a daughter, Kassa Brackick; then a son, Tatho Brackick; then a daughter, Luwyn Brackick.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P015",
+  "mother": "P016",
+  "children": [
+   "P017",
+   "P018",
+   "P019",
+   "P020"
+  ],
+  "place": "L05"
+ },
+ {
+  "id": "E0004",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Stenson household lived in Torton. Matho Stenson and his wife Ismira Stenson had 4 children, all living at home: the eldest a daughter, Kassa Stenson; then a son, Orrald Stenson; then a daughter, Pelde Stenson; then a son, Gazek Stenson.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P021",
+  "mother": "P022",
+  "children": [
+   "P023",
+   "P024",
+   "P025",
+   "P026"
+  ],
+  "place": "L12"
+ },
+ {
+  "id": "E0005",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Corrley household lived in the river crossing at Kelmere. Gadan Corrley and his wife Zalis Corrley had 3 children, all living at home: the eldest a daughter, Rinelle Corrley; then a son, Kadan Corrley; then a son, Taric Corrley.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P027",
+  "mother": "P028",
+  "children": [
+   "P029",
+   "P030",
+   "P031"
+  ],
+  "place": "L06"
+ },
+ {
+  "id": "E0006",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "In Ostcombe lived Islan Thornmere, married to Vesmira Thornmere, with their children. In order of birth these were the eldest a son, Jotho Thornmere; then a son, Isric Thornmere.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P032",
+  "mother": "P033",
+  "children": [
+   "P034",
+   "P035"
+  ],
+  "place": "L07"
+ },
+ {
+  "id": "E0007",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Stenenridge household lived in the harbor town of Dunstead. Rozek Stenenridge and his wife Luena Stenenridge had 2 children, all living at home: the eldest a son, Thizek Stenenridge; then a daughter, Pewyn Stenenridge.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P036",
+  "mother": "P037",
+  "children": [
+   "P038",
+   "P039"
+  ],
+  "place": "L02"
+ },
+ {
+  "id": "E0008",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Stenworth household lived in Torton. Havus Stenworth and his wife Fewyn Stenworth had 4 children, all living at home: the eldest a daughter, Yera Stenworth; then a son, Lurald Stenworth; then a son, Davus Stenworth; then a daughter, Pelde Stenworth.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P040",
+  "mother": "P041",
+  "children": [
+   "P042",
+   "P043",
+   "P044",
+   "P045"
+  ],
+  "place": "L12"
+ },
+ {
+  "id": "E0009",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "In the harbor town of Dunstead lived Yedan Corrford, married to Nylia Corrford, with their children. In order of birth these were the eldest a son, Ulrald Corrford; then a son, Marald Corrford; then a daughter, Yewyn Corrford.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P046",
+  "mother": "P047",
+  "children": [
+   "P048",
+   "P049",
+   "P050"
+  ],
+  "place": "L02"
+ },
+ {
+  "id": "E0010",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Ulrald Corrford and Kassa Brackick were husband and wife. The couple lived in Dunstead.",
+  "where": "L02",
+  "ref_deps": [],
+  "a": "P048",
+  "b": "P018",
+  "place": "L02"
+ },
+ {
+  "id": "E0011",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Gazek Stenson and Pelde Stenworth were husband and wife. The couple lived in Torton.",
+  "where": "L12",
+  "ref_deps": [],
+  "a": "P026",
+  "b": "P045",
+  "place": "L12"
+ },
+ {
+  "id": "E0012",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Marald Corrford and Fenelle Lindmere were husband and wife. The couple lived in Dunstead.",
+  "where": "L02",
+  "ref_deps": [],
+  "a": "P049",
+  "b": "P009",
+  "place": "L02"
+ },
+ {
+  "id": "E0013",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Taric Corrley and Kassa Stenson were husband and wife. The couple lived in Kelmere.",
+  "where": "L06",
+  "ref_deps": [],
+  "a": "P031",
+  "b": "P023",
+  "place": "L06"
+ },
+ {
+  "id": "E0014",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Luwyn Brackick and Lurald Stenworth were husband and wife. The couple lived in Kelford.",
+  "where": "L05",
+  "ref_deps": [],
+  "a": "P020",
+  "b": "P043",
+  "place": "L05"
+ },
+ {
+  "id": "E0015",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Orrald Stenson had married Harine Lindmere some years before. The couple lived in Torton.",
+  "where": "L12",
+  "ref_deps": [],
+  "a": "P024",
+  "b": "P008",
+  "place": "L12"
+ },
+ {
+  "id": "E0016",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Ludrek Prydenridge worked as a mason.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P000",
+  "occupation": "mason",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0017",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Malis Prydenridge was born at Kelmere. Folk called Malis Prydenridge \"Quiet Malis\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P001",
+  "occupation": null,
+  "birthplace": "L06",
+  "nick": "Quiet Malis"
+ },
+ {
+  "id": "E0018",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Havie Prydenridge was a herbalist. Havie Prydenridge was born at Elmhaven.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P002",
+  "occupation": "herbalist",
+  "birthplace": "L03",
+  "nick": null
+ },
+ {
+  "id": "E0019",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Rovus Prydenridge was a chandler. Rovus Prydenridge was born at Staveford.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P003",
+  "occupation": "chandler",
+  "birthplace": "L11",
+  "nick": null
+ },
+ {
+  "id": "E0020",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Luvie Prydenridge was a weaver. Luvie Prydenridge had been born in Salcombe.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P004",
+  "occupation": "weaver",
+  "birthplace": "L10",
+  "nick": null
+ },
+ {
+  "id": "E0021",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Gadrek Prydenridge was a miller.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P005",
+  "occupation": "miller",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0022",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Rorald Lindmere was a ferryman.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P006",
+  "occupation": "ferryman",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0023",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Pelia Lindmere was a brewer. Pelia Lindmere had been born in Gulhaven.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P007",
+  "occupation": "brewer",
+  "birthplace": "L04",
+  "nick": null
+ },
+ {
+  "id": "E0024",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Harine Lindmere worked as a mason. Harine Lindmere was born at Dunstead.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P008",
+  "occupation": "mason",
+  "birthplace": "L02",
+  "nick": null
+ },
+ {
+  "id": "E0025",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Fenelle Lindmere was a mason.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P009",
+  "occupation": "mason",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0026",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Folk called Peten Haskick \"Quiet Peten\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P011",
+  "occupation": null,
+  "birthplace": null,
+  "nick": "Quiet Peten"
+ },
+ {
+  "id": "E0027",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Lura Haskick was a smith. Lura Haskick was born at Quenford.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P012",
+  "occupation": "smith",
+  "birthplace": "L08",
+  "nick": null
+ },
+ {
+  "id": "E0028",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Yewyn Haskick was born at Ravenmere.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P014",
+  "occupation": null,
+  "birthplace": "L09",
+  "nick": null
+ },
+ {
+  "id": "E0029",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Nelan Brackick worked as a glazier. Nelan Brackick had been born in Dunstead.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P015",
+  "occupation": "glazier",
+  "birthplace": "L02",
+  "nick": null
+ },
+ {
+  "id": "E0030",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Volia Brackick was a weaver. Volia Brackick was born at Dunstead.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P016",
+  "occupation": "weaver",
+  "birthplace": "L02",
+  "nick": null
+ },
+ {
+  "id": "E0031",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Kadrek Brackick was a glazier.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P017",
+  "occupation": "glazier",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0032",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Kassa Brackick worked as a glazier. Kassa Brackick had been born in Dunby.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P018",
+  "occupation": "glazier",
+  "birthplace": "L00",
+  "nick": null
+ },
+ {
+  "id": "E0033",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Tatho Brackick worked as a chandler. Tatho Brackick was born at Dunstead.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P019",
+  "occupation": "chandler",
+  "birthplace": "L02",
+  "nick": null
+ },
+ {
+  "id": "E0034",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Matho Stenson was a cooper. Matho Stenson was born at Yarlby.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P021",
+  "occupation": "cooper",
+  "birthplace": "L15",
+  "nick": null
+ },
+ {
+  "id": "E0035",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Ismira Stenson worked as a shepherd. Folk called Ismira Stenson \"Red Ismira\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P022",
+  "occupation": "shepherd",
+  "birthplace": null,
+  "nick": "Red Ismira"
+ },
+ {
+  "id": "E0036",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Kassa Stenson was born at Ravenmere.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P023",
+  "occupation": null,
+  "birthplace": "L09",
+  "nick": null
+ },
+ {
+  "id": "E0037",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Orrald Stenson had been born in Salcombe. Folk called Orrald Stenson \"Orrald the Younger\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P024",
+  "occupation": null,
+  "birthplace": "L10",
+  "nick": "Orrald the Younger"
+ },
+ {
+  "id": "E0038",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Gazek Stenson was a mason. Gazek Stenson was born at Gulhaven.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P026",
+  "occupation": "mason",
+  "birthplace": "L04",
+  "nick": null
+ },
+ {
+  "id": "E0039",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Gadan Corrley worked as a fisher.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P027",
+  "occupation": "fisher",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0040",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Zalis Corrley was a smith.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P028",
+  "occupation": "smith",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0041",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Rinelle Corrley worked as a chandler. Rinelle Corrley was born at Elmhaven. Folk called Rinelle Corrley \"Lame Rinelle\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P029",
+  "occupation": "chandler",
+  "birthplace": "L03",
+  "nick": "Lame Rinelle"
+ },
+ {
+  "id": "E0042",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Kadan Corrley had been born in Ravenmere.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P030",
+  "occupation": null,
+  "birthplace": "L09",
+  "nick": null
+ },
+ {
+  "id": "E0043",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Islan Thornmere had been born in Ravenmere.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P032",
+  "occupation": null,
+  "birthplace": "L09",
+  "nick": null
+ },
+ {
+  "id": "E0044",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Vesmira Thornmere was a fisher.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P033",
+  "occupation": "fisher",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0045",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Folk called Jotho Thornmere \"Quiet Jotho\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P034",
+  "occupation": null,
+  "birthplace": null,
+  "nick": "Quiet Jotho"
+ },
+ {
+  "id": "E0046",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Isric Thornmere worked as a smith.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P035",
+  "occupation": "smith",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0047",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Rozek Stenenridge worked as a shepherd.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P036",
+  "occupation": "shepherd",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0048",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Luena Stenenridge worked as a miller.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P037",
+  "occupation": "miller",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0049",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Thizek Stenenridge worked as a tanner.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P038",
+  "occupation": "tanner",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0050",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Havus Stenworth was a glazier.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P040",
+  "occupation": "glazier",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0051",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Fewyn Stenworth worked as a chandler.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P041",
+  "occupation": "chandler",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0052",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Yera Stenworth was a shepherd. Yera Stenworth had been born in Ravenmere.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P042",
+  "occupation": "shepherd",
+  "birthplace": "L09",
+  "nick": null
+ },
+ {
+  "id": "E0053",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Lurald Stenworth was a weaver. Folk called Lurald Stenworth \"Lame Lurald\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P043",
+  "occupation": "weaver",
+  "birthplace": null,
+  "nick": "Lame Lurald"
+ },
+ {
+  "id": "E0054",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Yedan Corrford worked as a tanner. Yedan Corrford was born at Dunstead.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P046",
+  "occupation": "tanner",
+  "birthplace": "L02",
+  "nick": null
+ },
+ {
+  "id": "E0055",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Nylia Corrford worked as a fisher. Nylia Corrford had been born in Quenford.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P047",
+  "occupation": "fisher",
+  "birthplace": "L08",
+  "nick": null
+ },
+ {
+  "id": "E0056",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Ulrald Corrford worked as a mason.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P048",
+  "occupation": "mason",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0057",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Marald Corrford worked as a cooper.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P049",
+  "occupation": "cooper",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0058",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The silver flute belonged to Ulrald Corrford.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I11",
+  "owner": "P048"
+ },
+ {
+  "id": "E0059",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The jade mirror belonged to Rozek Stenenridge.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I06",
+  "owner": "P036"
+ },
+ {
+  "id": "E0060",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Luena Stenenridge kept the oak lantern in a cedar box.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I08",
+  "owner": "P037"
+ },
+ {
+  "id": "E0061",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The copper chalice belonged to Luena Stenenridge.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I03",
+  "owner": "P037"
+ },
+ {
+  "id": "E0062",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Among the possessions of Isric Thornmere was the oak comb.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I07",
+  "owner": "P035"
+ },
+ {
+  "id": "E0063",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The pewter dagger belonged to Yewyn Haskick.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I09",
+  "owner": "P014"
+ },
+ {
+  "id": "E0064",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The brass map belonged to Ismira Stenson.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I02",
+  "owner": "P022"
+ },
+ {
+  "id": "E0065",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The amber map belonged to Tatho Brackick.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I00",
+  "owner": "P019"
+ },
+ {
+  "id": "E0066",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Among the possessions of Kassa Brackick was the silver chalice.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I10",
+  "owner": "P018"
+ },
+ {
+  "id": "E0067",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The ivory lantern belonged to Ismira Stenson.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I05",
+  "owner": "P022"
+ },
+ {
+  "id": "E0068",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Ulrald Corrford kept the bone compass in a cedar box.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I01",
+  "owner": "P048"
+ },
+ {
+  "id": "E0069",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The ivory chalice belonged to Ludrek Prydenridge, head of the Prydenridge household.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I04",
+  "owner": "P000"
+ },
+ {
+  "id": "E0070",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Luvie Prydenridge knew that the old abbey at Gulhaven hides a second cellar.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S00",
+  "person": "P004"
+ },
+ {
+  "id": "E0071",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Yera Haskick alone carried the knowledge that the Stenenridge mill ledger was rewritten after the flood.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S01",
+  "person": "P013"
+ },
+ {
+  "id": "E0072",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Pelde Stenworth alone carried the knowledge that the harbor master of Ravenmere takes bribes.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S02",
+  "person": "P045"
+ },
+ {
+  "id": "E0073",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Yera Stenworth alone carried the knowledge that the fire at the Dunstead granary was set on purpose.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S03",
+  "person": "P042"
+ },
+ {
+  "id": "E0074",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Yedan Corrford alone carried the knowledge that the Stenson family once owed a blood debt to the Stenenridge family.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S04",
+  "person": "P046"
+ },
+ {
+  "id": "E0075",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Lurald Stenworth alone carried the knowledge that the deed to the Kelmere pastures was forged.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S05",
+  "person": "P043"
+ },
+ {
+  "id": "E0076",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Kadrek Brackick alone carried the knowledge that the bridge toll at Ostcombe is skimmed every month.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S06",
+  "person": "P017"
+ },
+ {
+  "id": "E0077",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Wenelle Lindmere knew that a chest of silver lies buried beneath the well at Kelmere.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S07",
+  "person": "P010"
+ },
+ {
+  "id": "E0078",
+  "type": "RULE_VAULT",
+  "chapter": 1,
+  "text": "It was an old law of Wilwick that the vault beneath its chapel would open only for a living person who held both the oak comb and the silver flute at once.",
+  "where": null,
+  "ref_deps": [],
+  "place": "L14",
+  "items": [
+   "I07",
+   "I11"
+  ]
+ },
+ {
+  "id": "E0079",
+  "type": "RULE_BRIDGE",
+  "chapter": 1,
+  "text": "The toll bridge at Yarlby belonged to the Corrford family, and only those born a Corrford, or presently married to one, were allowed to cross it.",
+  "where": null,
+  "ref_deps": [],
+  "place": "L15",
+  "surname": "Corrford"
+ },
+ {
+  "id": "E0080",
+  "type": "RULE_HEIR",
+  "chapter": 1,
+  "text": "By custom, the ivory chalice always passed, on the death of whoever held it, to the eldest living child of that holder; no will could change this, and it passed without ceremony.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I04",
+  "surname": "Prydenridge"
+ },
+ {
+  "id": "E0081",
+  "type": "PROMISE",
+  "chapter": 2,
+  "text": "Zalis Corrley swore to Kadan Corrley to repair the roof of the chapel at Wilwick, and shook on it.",
+  "where": "L06",
+  "ref_deps": [],
+  "promise": "R00",
+  "a": "P028",
+  "b": "P030",
+  "act": "to repair the roof of the chapel at Wilwick"
+ },
+ {
+  "id": "E0082",
+  "type": "PROMISE",
+  "chapter": 2,
+  "text": "Ulrald Corrford swore to Rozek Stenenridge to plant an orchard on the slope above Yarlby, and shook on it.",
+  "where": "L02",
+  "ref_deps": [],
+  "promise": "R01",
+  "a": "P048",
+  "b": "P036",
+  "act": "to plant an orchard on the slope above Yarlby"
+ },
+ {
+  "id": "E0083",
+  "type": "BIRTH",
+  "chapter": 2,
+  "text": "A daughter was born to Fenelle Lindmere and Marald Corrford, and they called the child Elra Corrford. The family lived in Dunstead.",
+  "where": "L02",
+  "ref_deps": [],
+  "child": "P051",
+  "mother": "P009",
+  "father": "P049",
+  "place": "L02"
+ },
+ {
+  "id": "E0084",
+  "type": "RESOLVE",
+  "chapter": 2,
+  "text": "Zalis Corrley broke faith with Kadan Corrley, and the promised work (repair the roof of the chapel at Wilwick) was never begun.",
+  "where": "L06",
+  "ref_deps": [],
+  "promise": "R00",
+  "kept": false
+ },
+ {
+  "id": "E0085",
+  "type": "PROMISE",
+  "chapter": 2,
+  "text": "Ulrald Corrford gave Lura Haskick a solemn promise to pay the old debt owed to the Stenson family.",
+  "where": "L02",
+  "ref_deps": [],
+  "promise": "R02",
+  "a": "P048",
+  "b": "P012",
+  "act": "to pay the old debt owed to the Stenson family"
+ },
+ {
+  "id": "E0086",
+  "type": "TELL",
+  "chapter": 3,
+  "text": "In a letter that Rozek Stenenridge burned after reading, Yera Haskick revealed that the Stenenridge mill ledger was rewritten after the flood.",
+  "where": "L02",
+  "ref_deps": [],
+  "secret": "S01",
+  "src": "P013",
+  "dest": "P036"
+ },
+ {
+  "id": "E0087",
+  "type": "TRAVEL",
+  "chapter": 3,
+  "text": "Rozek Stenenridge found work in Staveford, moved there, and did not return to Dunstead.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P036",
+  "src": "L02",
+  "dest": "L11"
+ },
+ {
+  "id": "E0088",
+  "type": "TRAVEL",
+  "chapter": 3,
+  "text": "Luena followed him to Staveford within the month.",
+  "where": "L02",
+  "ref_deps": [
+   "E0007"
+  ],
+  "person": "P037",
+  "src": "L02",
+  "dest": "L11"
+ },
+ {
+  "id": "E0089",
+  "type": "PROMISE",
+  "chapter": 3,
+  "text": "Yera Haskick gave Yewyn Corrford a solemn promise to carry a sealed letter to Dungate.",
+  "where": "L02",
+  "ref_deps": [],
+  "promise": "R03",
+  "a": "P013",
+  "b": "P050",
+  "act": "to carry a sealed letter to Dungate"
+ },
+ {
+  "id": "E0090",
+  "type": "PROMISE",
+  "chapter": 3,
+  "text": "Nylia Corrford gave Pewyn Stenenridge a solemn promise to rebuild the fallen wall at Quenford.",
+  "where": "L02",
+  "ref_deps": [],
+  "promise": "R04",
+  "a": "P047",
+  "b": "P039",
+  "act": "to rebuild the fallen wall at Quenford"
+ },
+ {
+  "id": "E0091",
+  "type": "TELL",
+  "chapter": 3,
+  "text": "Late one night Yera Haskick confided to Kassa Brackick that the Stenenridge mill ledger was rewritten after the flood.",
+  "where": "L02",
+  "ref_deps": [],
+  "secret": "S01",
+  "src": "P013",
+  "dest": "P018"
+ },
+ {
+  "id": "E0092",
+  "type": "TRAVEL",
+  "chapter": 4,
+  "text": "Tatho Brackick rode out of Kelford; by the next market day he was living in Ravenmere.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P019",
+  "src": "L05",
+  "dest": "L09"
+ },
+ {
+  "id": "E0093",
+  "type": "MARRY",
+  "chapter": 4,
+  "text": "Before the spring was out, Tatho Brackick took Yewyn Haskick in marriage at Ravenmere. The couple lived in Ravenmere from then on.",
+  "where": "L09",
+  "ref_deps": [],
+  "a": "P019",
+  "b": "P014",
+  "place": "L09"
+ },
+ {
+  "id": "E0094",
+  "type": "MARRY",
+  "chapter": 4,
+  "text": "Rovus and Wenelle Lindmere were wed at Ostcombe, with half the parish looking on. The couple lived in Ostcombe from then on.",
+  "where": "L07",
+  "ref_deps": [
+   "E0000"
+  ],
+  "a": "P003",
+  "b": "P010",
+  "place": "L07"
+ },
+ {
+  "id": "E0095",
+  "type": "OCCUPATION",
+  "chapter": 4,
+  "text": "Lura was apprenticed anew and became a cooper.",
+  "where": "L02",
+  "ref_deps": [
+   "E0002"
+  ],
+  "person": "P012",
+  "old": "smith",
+  "new": "cooper"
+ },
+ {
+  "id": "E0096",
+  "type": "RUMOR",
+  "chapter": 4,
+  "text": "Ulrald Corrford whispered that Tatho Brackick had secretly married Fewyn Stenworth, but nobody could say where or when.",
+  "where": "L02",
+  "ref_deps": [],
+  "teller": "P048",
+  "claim": {
+   "kind": "married",
+   "target": "P019",
+   "other": "P041"
+  }
+ },
+ {
+  "id": "E0097",
+  "type": "GIVE",
+  "chapter": 4,
+  "text": "Rozek Stenenridge won the copper chalice from the wife of Rozek Stenenridge at cards, fairly, and kept it.",
+  "where": "L11",
+  "ref_deps": [
+   "E0007"
+  ],
+  "item": "I03",
+  "src": "P037",
+  "dest": "P036"
+ },
+ {
+  "id": "E0098",
+  "type": "RESOLVE",
+  "chapter": 4,
+  "text": "The eldest son of Nylia Corrford kept the promise made to Rozek Stenenridge: the task (plant an orchard on the slope above Yarlby) was done by harvest.",
+  "where": "L02",
+  "ref_deps": [
+   "E0009"
+  ],
+  "promise": "R01",
+  "kept": true
+ },
+ {
+  "id": "E0099",
+  "type": "GIVE",
+  "chapter": 5,
+  "text": "Kassa Brackick pressed the silver chalice into the hands of Quiet Peten and would take nothing for it.",
+  "where": "L02",
+  "ref_deps": [
+   "E0026"
+  ],
+  "item": "I10",
+  "src": "P018",
+  "dest": "P011"
+ },
+ {
+  "id": "E0100",
+  "type": "GIVE",
+  "chapter": 5,
+  "text": "Rozek Stenenridge pressed the jade mirror into the hands of Luena Stenenridge and would take nothing for it.",
+  "where": "L11",
+  "ref_deps": [],
+  "item": "I06",
+  "src": "P036",
+  "dest": "P037"
+ },
+ {
+  "id": "E0101",
+  "type": "DEATH",
+  "chapter": 5,
+  "text": "That summer, a long wasting sickness took Nylia Corrford; she was buried at Dunstead.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P047",
+  "cause": "a long wasting sickness",
+  "place": "L02"
+ },
+ {
+  "id": "E0102",
+  "type": "DEATH",
+  "chapter": 5,
+  "text": "Gazek Stenson died of a wound that festered at Torton.",
+  "where": "L12",
+  "ref_deps": [],
+  "person": "P026",
+  "cause": "a wound that festered",
+  "place": "L12"
+ },
+ {
+  "id": "E0103",
+  "type": "OCCUPATION",
+  "chapter": 5,
+  "text": "Pelde Stenworth gave up idleness and took work as a shepherd.",
+  "where": "L12",
+  "ref_deps": [],
+  "person": "P045",
+  "old": null,
+  "new": "shepherd"
+ },
+ {
+  "id": "E0104",
+  "type": "OCCUPATION",
+  "chapter": 6,
+  "text": "Rorald was apprenticed anew and became a scribe.",
+  "where": "L06",
+  "ref_deps": [
+   "E0001"
+  ],
+  "person": "P006",
+  "old": "ferryman",
+  "new": "scribe"
+ },
+ {
+  "id": "E0105",
+  "type": "BIRTH",
+  "chapter": 6,
+  "text": "A son was born to Luwyn Brackick and Lurald Stenworth, and they called the child Volan Stenworth. The family lived in Kelford.",
+  "where": "L05",
+  "ref_deps": [],
+  "child": "P052",
+  "mother": "P020",
+  "father": "P043",
+  "place": "L05"
+ },
+ {
+  "id": "E0106",
+  "type": "PROMISE",
+  "chapter": 6,
+  "text": "Nelan gave the youngest daughter of Volia Brackick a solemn promise to plant an orchard on the slope above Wilholt.",
+  "where": "L05",
+  "ref_deps": [
+   "E0003"
+  ],
+  "promise": "R05",
+  "a": "P015",
+  "b": "P020",
+  "act": "to plant an orchard on the slope above Wilholt"
+ },
+ {
+  "id": "E0107",
+  "type": "MARRY",
+  "chapter": 6,
+  "text": "Before the autumn was out, Kadrek Brackick took Rinelle Corrley in marriage at Kelford. The couple lived in Kelford from then on.",
+  "where": "L05",
+  "ref_deps": [],
+  "a": "P017",
+  "b": "P029",
+  "place": "L05"
+ },
+ {
+  "id": "E0108",
+  "type": "BIRTH",
+  "chapter": 6,
+  "text": "Wenelle Lindmere gave birth to a daughter, named Movie Prydenridge; the father was Rovus Prydenridge. The family lived in Ostcombe.",
+  "where": "L07",
+  "ref_deps": [],
+  "child": "P053",
+  "mother": "P010",
+  "father": "P003",
+  "place": "L07"
+ },
+ {
+  "id": "E0109",
+  "type": "TELL",
+  "chapter": 6,
+  "text": "Late one night the eldest daughter of Fewyn Stenworth confided to Orrald Stenson that the fire at the Dunstead granary was set on purpose.",
+  "where": "L12",
+  "ref_deps": [
+   "E0008"
+  ],
+  "secret": "S03",
+  "src": "P042",
+  "dest": "P024"
+ },
+ {
+  "id": "E0110",
+  "type": "PROMISE",
+  "chapter": 6,
+  "text": "Havus Stenworth swore to Orrald the Younger to teach the children of Elmhaven their letters, and shook on it.",
+  "where": "L12",
+  "ref_deps": [
+   "E0037"
+  ],
+  "promise": "R06",
+  "a": "P040",
+  "b": "P024",
+  "act": "to teach the children of Elmhaven their letters"
+ },
+ {
+  "id": "E0111",
+  "type": "PROMISE",
+  "chapter": 6,
+  "text": "Orrald Stenson gave Davus a solemn promise to carry a sealed letter to Ravenmere.",
+  "where": "L12",
+  "ref_deps": [
+   "E0008"
+  ],
+  "promise": "R07",
+  "a": "P024",
+  "b": "P044",
+  "act": "to carry a sealed letter to Ravenmere"
+ },
+ {
+  "id": "E0112",
+  "type": "TELL",
+  "chapter": 7,
+  "text": "Late one night Orrald Stenson confided to Ismira that the fire at the Dunstead granary was set on purpose.",
+  "where": "L12",
+  "ref_deps": [
+   "E0004"
+  ],
+  "secret": "S03",
+  "src": "P024",
+  "dest": "P022"
+ },
+ {
+  "id": "E0113",
+  "type": "TRAVEL",
+  "chapter": 7,
+  "text": "Havus Stenworth rode out of Torton; by the next market day he was living in Gulhaven.",
+  "where": "L12",
+  "ref_deps": [],
+  "person": "P040",
+  "src": "L12",
+  "dest": "L04"
+ },
+ {
+  "id": "E0114",
+  "type": "TRAVEL",
+  "chapter": 7,
+  "text": "Fewyn Stenworth followed him to Gulhaven within the month.",
+  "where": "L12",
+  "ref_deps": [],
+  "person": "P041",
+  "src": "L12",
+  "dest": "L04"
+ },
+ {
+  "id": "E0115",
+  "type": "TRAVEL",
+  "chapter": 7,
+  "text": "Matho Stenson found work in Yarlby, moved there, and did not return to Torton.",
+  "where": "L12",
+  "ref_deps": [],
+  "person": "P021",
+  "src": "L12",
+  "dest": "L15"
+ },
+ {
+  "id": "E0116",
+  "type": "TRAVEL",
+  "chapter": 7,
+  "text": "Ismira Stenson followed him to Yarlby within the month.",
+  "where": "L12",
+  "ref_deps": [],
+  "person": "P022",
+  "src": "L12",
+  "dest": "L15"
+ },
+ {
+  "id": "E0117",
+  "type": "PLAN",
+  "chapter": 7,
+  "text": "Orrald talked for weeks of going to Gulhaven, yet in the end stayed where he was.",
+  "where": "L12",
+  "ref_deps": [
+   "E0004"
+  ],
+  "person": "P024",
+  "dest": "L04"
+ },
+ {
+  "id": "E0118",
+  "type": "TELL",
+  "chapter": 7,
+  "text": "In a letter that Matho burned after reading, Ismira Stenson revealed that the fire at the Dunstead granary was set on purpose.",
+  "where": "L15",
+  "ref_deps": [
+   "E0004"
+  ],
+  "secret": "S03",
+  "src": "P022",
+  "dest": "P021"
+ },
+ {
+  "id": "E0119",
+  "type": "TELL",
+  "chapter": 7,
+  "text": "In a letter that Nelan Brackick burned after reading, Lurald Stenworth revealed that the deed to the Kelmere pastures was forged.",
+  "where": "L05",
+  "ref_deps": [],
+  "secret": "S05",
+  "src": "P043",
+  "dest": "P015"
+ },
+ {
+  "id": "E0120",
+  "type": "TRAVEL",
+  "chapter": 7,
+  "text": "After the quarrel, the husband of Luwyn Brackick quit Kelford for good and took lodgings in Dunstead.",
+  "where": "L05",
+  "ref_deps": [
+   "E0014"
+  ],
+  "person": "P043",
+  "src": "L05",
+  "dest": "L02"
+ },
+ {
+  "id": "E0121",
+  "type": "TRAVEL",
+  "chapter": 7,
+  "text": "Luwyn Brackick went along to live in Dunstead as well.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P020",
+  "src": "L05",
+  "dest": "L02"
+ },
+ {
+  "id": "E0122",
+  "type": "DEATH",
+  "chapter": 7,
+  "text": "They laid Malis Prydenridge in the churchyard at Ostcombe, dead of a long wasting sickness.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P001",
+  "cause": "a long wasting sickness",
+  "place": "L07"
+ },
+ {
+  "id": "E0123",
+  "type": "BIRTH",
+  "chapter": 8,
+  "text": "Wenelle Lindmere gave birth to a daughter, named Nerine Prydenridge; the father was Rovus Prydenridge. The family lived in Ostcombe.",
+  "where": "L07",
+  "ref_deps": [],
+  "child": "P054",
+  "mother": "P010",
+  "father": "P003",
+  "place": "L07"
+ },
+ {
+  "id": "E0124",
+  "type": "PROMISE",
+  "chapter": 8,
+  "text": "Luvie gave the eldest son of Vesmira Thornmere a solemn promise to carry a sealed letter to Wilwick.",
+  "where": "L07",
+  "ref_deps": [
+   "E0000",
+   "E0006"
+  ],
+  "promise": "R08",
+  "a": "P004",
+  "b": "P034",
+  "act": "to carry a sealed letter to Wilwick"
+ },
+ {
+  "id": "E0125",
+  "type": "PLAN",
+  "chapter": 8,
+  "text": "The wife of Tatho Brackick talked for weeks of going to Elmhaven, yet in the end stayed where she was.",
+  "where": "L09",
+  "ref_deps": [
+   "E0093"
+  ],
+  "person": "P014",
+  "dest": "L03"
+ },
+ {
+  "id": "E0126",
+  "type": "DEATH",
+  "chapter": 8,
+  "text": "Orrald the Younger died of a wound that festered at Torton.",
+  "where": "L12",
+  "ref_deps": [
+   "E0037"
+  ],
+  "person": "P024",
+  "cause": "a wound that festered",
+  "place": "L12"
+ },
+ {
+  "id": "E0127",
+  "type": "RUMOR",
+  "chapter": 8,
+  "text": "A rumor started by Harine Lindmere had it that Ismira Stenson was dead of plague; Harine Lindmere had it from a peddler.",
+  "where": "L12",
+  "ref_deps": [],
+  "teller": "P008",
+  "claim": {
+   "kind": "dead",
+   "target": "P022"
+  }
+ },
+ {
+  "id": "E0128",
+  "type": "MARRY",
+  "chapter": 8,
+  "text": "Davus and Pelde Stenson were wed at Torton, with half the parish looking on. The couple lived in Torton from then on.",
+  "where": "L12",
+  "ref_deps": [
+   "E0008"
+  ],
+  "a": "P044",
+  "b": "P025",
+  "place": "L12"
+ },
+ {
+  "id": "E0129",
+  "type": "OCCUPATION",
+  "chapter": 8,
+  "text": "Jotho Thornmere gave up idleness and took work as a chandler.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P034",
+  "old": null,
+  "new": "chandler"
+ },
+ {
+  "id": "E0130",
+  "type": "PROMISE",
+  "chapter": 8,
+  "text": "The wife of Davus Stenworth swore to Pelde Stenworth to rebuild the fallen wall at Dunby, and shook on it.",
+  "where": "L12",
+  "ref_deps": [
+   "E0128"
+  ],
+  "promise": "R09",
+  "a": "P025",
+  "b": "P045",
+  "act": "to rebuild the fallen wall at Dunby"
+ },
+ {
+  "id": "E0131",
+  "type": "TRAVEL",
+  "chapter": 9,
+  "text": "Yera Haskick left Dunstead and settled in Kelmere.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P013",
+  "src": "L02",
+  "dest": "L06"
+ },
+ {
+  "id": "E0132",
+  "type": "TELL",
+  "chapter": 9,
+  "text": "Lurald Stenworth could keep it no longer and told Thizek Stenenridge that the deed to the Kelmere pastures was forged.",
+  "where": "L02",
+  "ref_deps": [],
+  "secret": "S05",
+  "src": "P043",
+  "dest": "P038"
+ },
+ {
+  "id": "E0133",
+  "type": "TELL",
+  "chapter": 9,
+  "text": "In a letter that Luena Stenenridge burned after reading, Rozek Stenenridge revealed that the Stenenridge mill ledger was rewritten after the flood.",
+  "where": "L11",
+  "ref_deps": [],
+  "secret": "S01",
+  "src": "P036",
+  "dest": "P037"
+ },
+ {
+  "id": "E0134",
+  "type": "PLAN",
+  "chapter": 9,
+  "text": "Ismira Stenson meant to go to Dunby before the frost, but the roads flooded and the journey was put off.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P022",
+  "dest": "L00"
+ },
+ {
+  "id": "E0135",
+  "type": "TRAVEL",
+  "chapter": 9,
+  "text": "After the quarrel, Rinelle quit Kelford for good and took lodgings in Torton.",
+  "where": "L05",
+  "ref_deps": [
+   "E0005"
+  ],
+  "person": "P029",
+  "src": "L05",
+  "dest": "L12"
+ },
+ {
+  "id": "E0136",
+  "type": "TRAVEL",
+  "chapter": 9,
+  "text": "Kadrek Brackick went along to live in Torton as well.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P017",
+  "src": "L05",
+  "dest": "L12"
+ },
+ {
+  "id": "E0137",
+  "type": "TRAVEL",
+  "chapter": 10,
+  "text": "Luena packed a single trunk and moved from Staveford to Dungate.",
+  "where": "L11",
+  "ref_deps": [
+   "E0007"
+  ],
+  "person": "P037",
+  "src": "L11",
+  "dest": "L01"
+ },
+ {
+  "id": "E0138",
+  "type": "TRAVEL",
+  "chapter": 10,
+  "text": "Rozek Stenenridge followed her to Dungate within the month.",
+  "where": "L11",
+  "ref_deps": [],
+  "person": "P036",
+  "src": "L11",
+  "dest": "L01"
+ },
+ {
+  "id": "E0139",
+  "type": "TELL",
+  "chapter": 10,
+  "text": "Ismira could keep it no longer and told Luena that the fire at the Dunstead granary was set on purpose.",
+  "where": "L15",
+  "ref_deps": [
+   "E0004",
+   "E0007"
+  ],
+  "secret": "S03",
+  "src": "P022",
+  "dest": "P037"
+ },
+ {
+  "id": "E0140",
+  "type": "RUMOR",
+  "chapter": 10,
+  "text": "Ismira Stenson told everyone at the inn that Wenelle Lindmere had drowned crossing the estuary, though no body was ever seen.",
+  "where": "L15",
+  "ref_deps": [],
+  "teller": "P022",
+  "claim": {
+   "kind": "dead",
+   "target": "P010"
+  }
+ },
+ {
+  "id": "E0141",
+  "type": "BIRTH",
+  "chapter": 10,
+  "text": "A son was born to Luwyn Brackick and Lurald Stenworth, and they called the child Ferald Stenworth. The family lived in Dunstead.",
+  "where": "L02",
+  "ref_deps": [],
+  "child": "P055",
+  "mother": "P020",
+  "father": "P043",
+  "place": "L02"
+ },
+ {
+  "id": "E0142",
+  "type": "BIRTH",
+  "chapter": 10,
+  "text": "Luwyn Brackick gave birth to a daughter, named Isvie Stenworth; the father was Lurald Stenworth. The family lived in Dunstead.",
+  "where": "L02",
+  "ref_deps": [],
+  "child": "P056",
+  "mother": "P020",
+  "father": "P043",
+  "place": "L02"
+ },
+ {
+  "id": "E0143",
+  "type": "PLAN",
+  "chapter": 10,
+  "text": "Thizek Stenenridge talked for weeks of going to Elmhaven, yet in the end stayed where he was.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P038",
+  "dest": "L03"
+ },
+ {
+  "id": "E0144",
+  "type": "PROMISE",
+  "chapter": 10,
+  "text": "Peten Haskick swore to Luwyn Brackick to pay the old debt owed to the Prydenridge family, and shook on it.",
+  "where": "L02",
+  "ref_deps": [],
+  "promise": "R10",
+  "a": "P011",
+  "b": "P020",
+  "act": "to pay the old debt owed to the Prydenridge family"
+ },
+ {
+  "id": "E0145",
+  "type": "GIVE",
+  "chapter": 11,
+  "text": "A parcel from Tatho reached Marald; inside was the amber map, now his to keep.",
+  "where": "L09",
+  "ref_deps": [
+   "E0003",
+   "E0009"
+  ],
+  "item": "I00",
+  "src": "P019",
+  "dest": "P049"
+ },
+ {
+  "id": "E0146",
+  "type": "TELL",
+  "chapter": 11,
+  "text": "In a letter that Fenelle Lindmere burned after reading, Yedan Corrford revealed that the Stenson family once owed a blood debt to the Stenenridge family.",
+  "where": "L02",
+  "ref_deps": [],
+  "secret": "S04",
+  "src": "P046",
+  "dest": "P009"
+ },
+ {
+  "id": "E0147",
+  "type": "DEATH",
+  "chapter": 11,
+  "text": "They laid Ludrek Prydenridge in the churchyard at Ostcombe, dead of a fall from the mill loft.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P000",
+  "cause": "a fall from the mill loft",
+  "place": "L07"
+ },
+ {
+  "id": "E0148",
+  "type": "PROMISE",
+  "chapter": 11,
+  "text": "Rorald Lindmere gave Kassa Stenson a solemn promise to carry a sealed letter to Torton.",
+  "where": "L06",
+  "ref_deps": [],
+  "promise": "R11",
+  "a": "P006",
+  "b": "P023",
+  "act": "to carry a sealed letter to Torton"
+ },
+ {
+  "id": "E0149",
+  "type": "PLAN",
+  "chapter": 11,
+  "text": "Kadrek Brackick meant to go to Ravenmere before the frost, but the roads flooded and the journey was put off.",
+  "where": "L12",
+  "ref_deps": [
+   "E0003"
+  ],
+  "person": "P017",
+  "dest": "L09"
+ },
+ {
+  "id": "E0150",
+  "type": "TELL",
+  "chapter": 12,
+  "text": "In a letter that Kadan Corrley burned after reading, Yera Haskick revealed that the Stenenridge mill ledger was rewritten after the flood.",
+  "where": "L06",
+  "ref_deps": [],
+  "secret": "S01",
+  "src": "P013",
+  "dest": "P030"
+ },
+ {
+  "id": "E0151",
+  "type": "RUMOR",
+  "chapter": 12,
+  "text": "Rorald told everyone at the inn that Islan Thornmere had drowned crossing the estuary, though no body was ever seen.",
+  "where": "L06",
+  "ref_deps": [
+   "E0001"
+  ],
+  "teller": "P006",
+  "claim": {
+   "kind": "dead",
+   "target": "P032"
+  }
+ },
+ {
+  "id": "E0152",
+  "type": "PROMISE",
+  "chapter": 12,
+  "text": "Rorald Lindmere gave Gadan Corrley a solemn promise to plant an orchard on the slope above Ravenmere.",
+  "where": "L06",
+  "ref_deps": [],
+  "promise": "R12",
+  "a": "P006",
+  "b": "P027",
+  "act": "to plant an orchard on the slope above Ravenmere"
+ },
+ {
+  "id": "E0153",
+  "type": "GIVE",
+  "chapter": 12,
+  "text": "Luena pressed the oak lantern into the hands of Rozek Stenenridge and would take nothing for it.",
+  "where": "L01",
+  "ref_deps": [
+   "E0007"
+  ],
+  "item": "I08",
+  "src": "P037",
+  "dest": "P036"
+ },
+ {
+  "id": "E0154",
+  "type": "BIRTH",
+  "chapter": 12,
+  "text": "Wenelle gave birth to a son, named Zavus Prydenridge; the father was Rovus Prydenridge. The family lived in Ostcombe.",
+  "where": "L07",
+  "ref_deps": [
+   "E0001"
+  ],
+  "child": "P057",
+  "mother": "P010",
+  "father": "P003",
+  "place": "L07"
+ },
+ {
+  "id": "E0155",
+  "type": "TELL",
+  "chapter": 12,
+  "text": "Late one night Yera Haskick confided to Gadan Corrley that the Stenenridge mill ledger was rewritten after the flood.",
+  "where": "L06",
+  "ref_deps": [],
+  "secret": "S01",
+  "src": "P013",
+  "dest": "P027"
+ },
+ {
+  "id": "E0156",
+  "type": "TELL",
+  "chapter": 13,
+  "text": "Late one night Kassa Brackick confided to Yewyn Corrford that the Stenenridge mill ledger was rewritten after the flood.",
+  "where": "L02",
+  "ref_deps": [],
+  "secret": "S01",
+  "src": "P018",
+  "dest": "P050"
+ },
+ {
+  "id": "E0157",
+  "type": "TELL",
+  "chapter": 13,
+  "text": "Late one night Fenelle Lindmere confided to Luwyn Brackick that the Stenson family once owed a blood debt to the Stenenridge family.",
+  "where": "L02",
+  "ref_deps": [],
+  "secret": "S04",
+  "src": "P009",
+  "dest": "P020"
+ },
+ {
+  "id": "E0158",
+  "type": "GIVE",
+  "chapter": 13,
+  "text": "Luena Stenenridge won the copper chalice from Rozek Stenenridge at cards, fairly, and kept it.",
+  "where": "L01",
+  "ref_deps": [],
+  "item": "I03",
+  "src": "P036",
+  "dest": "P037"
+ },
+ {
+  "id": "E0159",
+  "type": "TRAVEL",
+  "chapter": 13,
+  "text": "Rozek Stenenridge rode out of Dungate; by the next market day he was living in Wilwick.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P036",
+  "src": "L01",
+  "dest": "L14"
+ },
+ {
+  "id": "E0160",
+  "type": "TRAVEL",
+  "chapter": 13,
+  "text": "Luena Stenenridge followed him to Wilwick within the month.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P037",
+  "src": "L01",
+  "dest": "L14"
+ },
+ {
+  "id": "E0161",
+  "type": "DEATH",
+  "chapter": 13,
+  "text": "They laid Luwyn in the churchyard at Dunstead, dead of a kick from a cart horse.",
+  "where": "L02",
+  "ref_deps": [
+   "E0003"
+  ],
+  "person": "P020",
+  "cause": "a kick from a cart horse",
+  "place": "L02"
+ },
+ {
+  "id": "E0162",
+  "type": "TELL",
+  "chapter": 13,
+  "text": "Late one night Luena confided to Rozek Stenenridge that the fire at the Dunstead granary was set on purpose.",
+  "where": "L14",
+  "ref_deps": [
+   "E0007"
+  ],
+  "secret": "S03",
+  "src": "P037",
+  "dest": "P036"
+ },
+ {
+  "id": "E0163",
+  "type": "BIRTH",
+  "chapter": 13,
+  "text": "A daughter was born to Kassa Brackick and Ulrald Corrford, and they called the child Bremira Corrford. The family lived in Dunstead.",
+  "where": "L02",
+  "ref_deps": [],
+  "child": "P058",
+  "mother": "P018",
+  "father": "P048",
+  "place": "L02"
+ },
+ {
+  "id": "E0164",
+  "type": "TELL",
+  "chapter": 13,
+  "text": "Lurald could keep it no longer and told Ulrald Corrford that the deed to the Kelmere pastures was forged.",
+  "where": "L02",
+  "ref_deps": [
+   "E0008"
+  ],
+  "secret": "S05",
+  "src": "P043",
+  "dest": "P048"
+ },
+ {
+  "id": "E0165",
+  "type": "OCCUPATION",
+  "chapter": 14,
+  "text": "Isric gave up being a smith and took work as a glazier.",
+  "where": "L07",
+  "ref_deps": [
+   "E0006"
+  ],
+  "person": "P035",
+  "old": "smith",
+  "new": "glazier"
+ },
+ {
+  "id": "E0166",
+  "type": "TELL",
+  "chapter": 14,
+  "text": "Fenelle Lindmere could keep it no longer and told Peten Haskick that the Stenson family once owed a blood debt to the Stenenridge family.",
+  "where": "L02",
+  "ref_deps": [],
+  "secret": "S04",
+  "src": "P009",
+  "dest": "P011"
+ },
+ {
+  "id": "E0167",
+  "type": "TELL",
+  "chapter": 14,
+  "text": "Late one night Rozek Stenenridge confided to Pewyn Stenenridge that the fire at the Dunstead granary was set on purpose.",
+  "where": "L14",
+  "ref_deps": [],
+  "secret": "S03",
+  "src": "P036",
+  "dest": "P039"
+ },
+ {
+  "id": "E0168",
+  "type": "GIVE",
+  "chapter": 14,
+  "text": "Rozek Stenenridge won the copper chalice from Luena at cards, fairly, and kept it.",
+  "where": "L14",
+  "ref_deps": [
+   "E0007"
+  ],
+  "item": "I03",
+  "src": "P037",
+  "dest": "P036"
+ },
+ {
+  "id": "E0169",
+  "type": "GIVE",
+  "chapter": 14,
+  "text": "The youngest son of Yedan Corrford gave the amber map to Ulrald Corrford.",
+  "where": "L02",
+  "ref_deps": [
+   "E0009"
+  ],
+  "item": "I00",
+  "src": "P049",
+  "dest": "P048"
+ },
+ {
+  "id": "E0170",
+  "type": "PROMISE",
+  "chapter": 14,
+  "text": "Nelan Brackick gave Volia Brackick a solemn promise to repair the roof of the chapel at Wilwick.",
+  "where": "L05",
+  "ref_deps": [],
+  "promise": "R13",
+  "a": "P015",
+  "b": "P016",
+  "act": "to repair the roof of the chapel at Wilwick"
+ },
+ {
+  "id": "E0171",
+  "type": "TRAVEL",
+  "chapter": 14,
+  "text": "Peten Haskick packed a single trunk and moved from Dunstead to Staveford.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P011",
+  "src": "L02",
+  "dest": "L11"
+ },
+ {
+  "id": "E0172",
+  "type": "TRAVEL",
+  "chapter": 14,
+  "text": "Lura followed him to Staveford within the month.",
+  "where": "L02",
+  "ref_deps": [
+   "E0002"
+  ],
+  "person": "P012",
+  "src": "L02",
+  "dest": "L11"
+ },
+ {
+  "id": "E0173",
+  "type": "GIVE",
+  "chapter": 14,
+  "text": "Ismira Stenson gave the brass map to Matho Stenson.",
+  "where": "L15",
+  "ref_deps": [],
+  "item": "I02",
+  "src": "P022",
+  "dest": "P021"
+ },
+ {
+  "id": "E0174",
+  "type": "BIRTH",
+  "chapter": 15,
+  "text": "A daughter was born to Pelde Stenson and Davus Stenworth, and they called the child Dalis Stenworth. The family lived in Torton.",
+  "where": "L12",
+  "ref_deps": [],
+  "child": "P059",
+  "mother": "P025",
+  "father": "P044",
+  "place": "L12"
+ },
+ {
+  "id": "E0175",
+  "type": "TRAVEL",
+  "chapter": 15,
+  "text": "The only daughter of Zalis Corrley left Torton and settled in Wilholt.",
+  "where": "L12",
+  "ref_deps": [
+   "E0005"
+  ],
+  "person": "P029",
+  "src": "L12",
+  "dest": "L13"
+ },
+ {
+  "id": "E0176",
+  "type": "TRAVEL",
+  "chapter": 15,
+  "text": "Kadrek went along to live in Wilholt as well.",
+  "where": "L12",
+  "ref_deps": [
+   "E0003"
+  ],
+  "person": "P017",
+  "src": "L12",
+  "dest": "L13"
+ },
+ {
+  "id": "E0177",
+  "type": "OCCUPATION",
+  "chapter": 15,
+  "text": "Wenelle Lindmere gave up idleness and took work as a chandler.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P010",
+  "old": null,
+  "new": "chandler"
+ },
+ {
+  "id": "E0178",
+  "type": "OCCUPATION",
+  "chapter": 15,
+  "text": "Havus Stenworth was apprenticed anew and became a weaver.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P040",
+  "old": "glazier",
+  "new": "weaver"
+ },
+ {
+  "id": "E0179",
+  "type": "RESOLVE",
+  "chapter": 15,
+  "text": "Peten Haskick broke faith with Luwyn Brackick, and the promised work (pay the old debt owed to the Prydenridge family) was never begun.",
+  "where": "L11",
+  "ref_deps": [],
+  "promise": "R10",
+  "kept": false
+ },
+ {
+  "id": "E0180",
+  "type": "TRAVEL",
+  "chapter": 15,
+  "text": "Peten Haskick found work in Quenford, moved there, and did not return to Staveford.",
+  "where": "L11",
+  "ref_deps": [],
+  "person": "P011",
+  "src": "L11",
+  "dest": "L08"
+ },
+ {
+  "id": "E0181",
+  "type": "TRAVEL",
+  "chapter": 15,
+  "text": "Lura Haskick followed him to Quenford within the month.",
+  "where": "L11",
+  "ref_deps": [],
+  "person": "P012",
+  "src": "L11",
+  "dest": "L08"
+ },
+ {
+  "id": "E0182",
+  "type": "MARRY",
+  "chapter": 16,
+  "text": "Before the spring was out, Kadan Corrley took Yewyn Corrford in marriage at Kelmere. The couple lived in Kelmere from then on.",
+  "where": "L06",
+  "ref_deps": [],
+  "a": "P030",
+  "b": "P050",
+  "place": "L06"
+ },
+ {
+  "id": "E0183",
+  "type": "MARRY",
+  "chapter": 16,
+  "text": "In the chapel at Ostcombe, Quiet Jotho married the eldest daughter of Fewyn Stenworth. The couple lived in Ostcombe from then on.",
+  "where": "L07",
+  "ref_deps": [
+   "E0008",
+   "E0045"
+  ],
+  "a": "P034",
+  "b": "P042",
+  "place": "L07"
+ },
+ {
+  "id": "E0184",
+  "type": "DEATH",
+  "chapter": 16,
+  "text": "That spring, the coughing sickness took Nelan; he was buried at Kelford.",
+  "where": "L05",
+  "ref_deps": [
+   "E0003"
+  ],
+  "person": "P015",
+  "cause": "the coughing sickness",
+  "place": "L05"
+ },
+ {
+  "id": "E0185",
+  "type": "GIVE",
+  "chapter": 16,
+  "text": "Luena Stenenridge gave the jade mirror to Rozek.",
+  "where": "L14",
+  "ref_deps": [
+   "E0007"
+  ],
+  "item": "I06",
+  "src": "P037",
+  "dest": "P036"
+ },
+ {
+  "id": "E0186",
+  "type": "OCCUPATION",
+  "chapter": 16,
+  "text": "Ulrald was apprenticed anew and became a smith.",
+  "where": "L02",
+  "ref_deps": [
+   "E0009"
+  ],
+  "person": "P048",
+  "old": "mason",
+  "new": "smith"
+ },
+ {
+  "id": "E0187",
+  "type": "PLAN",
+  "chapter": 16,
+  "text": "Wenelle talked for weeks of going to Ravenmere, yet in the end stayed where she was.",
+  "where": "L07",
+  "ref_deps": [
+   "E0001"
+  ],
+  "person": "P010",
+  "dest": "L09"
+ },
+ {
+  "id": "E0188",
+  "type": "GIVE",
+  "chapter": 16,
+  "text": "Rozek pressed the jade mirror into the hands of the wife of Rozek Stenenridge and would take nothing for it.",
+  "where": "L14",
+  "ref_deps": [
+   "E0007"
+  ],
+  "item": "I06",
+  "src": "P036",
+  "dest": "P037"
+ },
+ {
+  "id": "E0189",
+  "type": "TRAVEL",
+  "chapter": 16,
+  "text": "After the quarrel, Taric Corrley quit Kelmere for good and took lodgings in Staveford.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P031",
+  "src": "L06",
+  "dest": "L11"
+ },
+ {
+  "id": "E0190",
+  "type": "TRAVEL",
+  "chapter": 16,
+  "text": "Kassa Stenson went along to live in Staveford as well.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P023",
+  "src": "L06",
+  "dest": "L11"
+ },
+ {
+  "id": "E0191",
+  "type": "GIVE",
+  "chapter": 17,
+  "text": "Ulrald Corrford gave the bone compass to Fenelle Lindmere.",
+  "where": "L02",
+  "ref_deps": [],
+  "item": "I01",
+  "src": "P048",
+  "dest": "P009"
+ },
+ {
+  "id": "E0192",
+  "type": "BIRTH",
+  "chapter": 17,
+  "text": "A son was born to Yewyn Haskick and Tatho Brackick, and they called the child Semor Brackick. The family lived in Ravenmere.",
+  "where": "L09",
+  "ref_deps": [],
+  "child": "P060",
+  "mother": "P014",
+  "father": "P019",
+  "place": "L09"
+ },
+ {
+  "id": "E0193",
+  "type": "PROMISE",
+  "chapter": 17,
+  "text": "Yewyn Haskick gave Tatho Brackick a solemn promise to pay the old debt owed to the Stenworth family.",
+  "where": "L09",
+  "ref_deps": [],
+  "promise": "R14",
+  "a": "P014",
+  "b": "P019",
+  "act": "to pay the old debt owed to the Stenworth family"
+ },
+ {
+  "id": "E0194",
+  "type": "TELL",
+  "chapter": 17,
+  "text": "In a letter that the youngest son of Nelan Brackick burned after reading, Ismira Stenson revealed that the fire at the Dunstead granary was set on purpose.",
+  "where": "L15",
+  "ref_deps": [
+   "E0003"
+  ],
+  "secret": "S03",
+  "src": "P022",
+  "dest": "P019"
+ },
+ {
+  "id": "E0195",
+  "type": "TRAVEL",
+  "chapter": 17,
+  "text": "Matho found work in Dungate, moved there, and did not return to Yarlby.",
+  "where": "L15",
+  "ref_deps": [
+   "E0004"
+  ],
+  "person": "P021",
+  "src": "L15",
+  "dest": "L01"
+ },
+ {
+  "id": "E0196",
+  "type": "TRAVEL",
+  "chapter": 17,
+  "text": "Red Ismira went along to live in Dungate as well.",
+  "where": "L15",
+  "ref_deps": [
+   "E0035"
+  ],
+  "person": "P022",
+  "src": "L15",
+  "dest": "L01"
+ },
+ {
+  "id": "E0197",
+  "type": "RUMOR",
+  "chapter": 18,
+  "text": "A rumor started by Kassa Brackick had it that Matho Stenson was dead of plague; Kassa Brackick had it from a peddler.",
+  "where": "L02",
+  "ref_deps": [],
+  "teller": "P018",
+  "claim": {
+   "kind": "dead",
+   "target": "P021"
+  }
+ },
+ {
+  "id": "E0198",
+  "type": "DEATH",
+  "chapter": 18,
+  "text": "Yedan Corrford died of a kick from a cart horse at Dunstead.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P046",
+  "cause": "a kick from a cart horse",
+  "place": "L02"
+ },
+ {
+  "id": "E0199",
+  "type": "TRAVEL",
+  "chapter": 18,
+  "text": "After the quarrel, the wife of Ulrald Corrford quit Dunstead for good and took lodgings in Staveford.",
+  "where": "L02",
+  "ref_deps": [
+   "E0010"
+  ],
+  "person": "P018",
+  "src": "L02",
+  "dest": "L11"
+ },
+ {
+  "id": "E0200",
+  "type": "TRAVEL",
+  "chapter": 18,
+  "text": "Ulrald Corrford followed her to Staveford within the month.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P048",
+  "src": "L02",
+  "dest": "L11"
+ },
+ {
+  "id": "E0201",
+  "type": "GIVE",
+  "chapter": 18,
+  "text": "Rozek sent the oak lantern by carrier to Rovus Prydenridge, who received it safely.",
+  "where": "L14",
+  "ref_deps": [
+   "E0007"
+  ],
+  "item": "I08",
+  "src": "P036",
+  "dest": "P003"
+ },
+ {
+  "id": "E0202",
+  "type": "DEATH",
+  "chapter": 18,
+  "text": "The husband of Zalis Corrley died of a long wasting sickness at Kelmere.",
+  "where": "L06",
+  "ref_deps": [
+   "E0005"
+  ],
+  "person": "P027",
+  "cause": "a long wasting sickness",
+  "place": "L06"
+ },
+ {
+  "id": "E0203",
+  "type": "TRAVEL",
+  "chapter": 18,
+  "text": "After the quarrel, Vesmira Thornmere quit Ostcombe for good and took lodgings in Elmhaven.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P033",
+  "src": "L07",
+  "dest": "L03"
+ },
+ {
+  "id": "E0204",
+  "type": "TRAVEL",
+  "chapter": 18,
+  "text": "Islan Thornmere followed her to Elmhaven within the month.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P032",
+  "src": "L07",
+  "dest": "L03"
+ },
+ {
+  "id": "E0205",
+  "type": "GIVE",
+  "chapter": 18,
+  "text": "Fenelle Lindmere pressed the bone compass into the hands of the only son of Luena Stenenridge and would take nothing for it.",
+  "where": "L02",
+  "ref_deps": [
+   "E0007"
+  ],
+  "item": "I01",
+  "src": "P009",
+  "dest": "P038"
+ },
+ {
+  "id": "E0206",
+  "type": "GIVE",
+  "chapter": 19,
+  "text": "Yewyn Haskick pressed the pewter dagger into the hands of the youngest son of Volia Brackick and would take nothing for it.",
+  "where": "L09",
+  "ref_deps": [
+   "E0003"
+  ],
+  "item": "I09",
+  "src": "P014",
+  "dest": "P019"
+ },
+ {
+  "id": "E0207",
+  "type": "GIVE",
+  "chapter": 19,
+  "text": "Peten Haskick pressed the silver chalice into the hands of Lura Haskick and would take nothing for it.",
+  "where": "L08",
+  "ref_deps": [],
+  "item": "I10",
+  "src": "P011",
+  "dest": "P012"
+ },
+ {
+  "id": "E0208",
+  "type": "TELL",
+  "chapter": 19,
+  "text": "Late one night Luvie confided to Gadrek Prydenridge that the old abbey at Gulhaven hides a second cellar.",
+  "where": "L07",
+  "ref_deps": [
+   "E0000"
+  ],
+  "secret": "S00",
+  "src": "P004",
+  "dest": "P005"
+ },
+ {
+  "id": "E0209",
+  "type": "DEATH",
+  "chapter": 19,
+  "text": "They laid Pewyn Stenenridge in the churchyard at Dunstead, dead of old age, quietly in sleep.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P039",
+  "cause": "old age, quietly in sleep",
+  "place": "L02"
+ },
+ {
+  "id": "E0210",
+  "type": "BIRTH",
+  "chapter": 19,
+  "text": "Wenelle Lindmere gave birth to a son, named Ilrald Prydenridge; the father was Rovus Prydenridge. The family lived in Ostcombe.",
+  "where": "L07",
+  "ref_deps": [],
+  "child": "P061",
+  "mother": "P010",
+  "father": "P003",
+  "place": "L07"
+ },
+ {
+  "id": "E0211",
+  "type": "GIVE",
+  "chapter": 19,
+  "text": "Wenelle Lindmere won the oak lantern from Rovus at cards, fairly, and kept it.",
+  "where": "L07",
+  "ref_deps": [
+   "E0000"
+  ],
+  "item": "I08",
+  "src": "P003",
+  "dest": "P010"
+ },
+ {
+  "id": "E0212",
+  "type": "TRAVEL",
+  "chapter": 19,
+  "text": "Pelia Lindmere left Kelmere and settled in Salcombe.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P007",
+  "src": "L06",
+  "dest": "L10"
+ },
+ {
+  "id": "E0213",
+  "type": "TRAVEL",
+  "chapter": 19,
+  "text": "Rorald Lindmere went along to live in Salcombe as well.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P006",
+  "src": "L06",
+  "dest": "L10"
+ },
+ {
+  "id": "E0214",
+  "type": "TRAVEL",
+  "chapter": 20,
+  "text": "Islan Thornmere rode out of Elmhaven; by the next market day he was living in Ostcombe.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P032",
+  "src": "L03",
+  "dest": "L07"
+ },
+ {
+  "id": "E0215",
+  "type": "TRAVEL",
+  "chapter": 20,
+  "text": "Vesmira Thornmere followed him to Ostcombe within the month.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P033",
+  "src": "L03",
+  "dest": "L07"
+ },
+ {
+  "id": "E0216",
+  "type": "GIVE",
+  "chapter": 20,
+  "text": "A parcel from the youngest son of Nelan Brackick reached Jotho Thornmere; inside was the pewter dagger, now his to keep.",
+  "where": "L09",
+  "ref_deps": [
+   "E0003"
+  ],
+  "item": "I09",
+  "src": "P019",
+  "dest": "P034"
+ },
+ {
+  "id": "E0217",
+  "type": "TRAVEL",
+  "chapter": 20,
+  "text": "After the quarrel, Yewyn Haskick quit Ravenmere for good and took lodgings in Salcombe.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P014",
+  "src": "L09",
+  "dest": "L10"
+ },
+ {
+  "id": "E0218",
+  "type": "TRAVEL",
+  "chapter": 20,
+  "text": "Tatho Brackick went along to live in Salcombe as well.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P019",
+  "src": "L09",
+  "dest": "L10"
+ },
+ {
+  "id": "E0219",
+  "type": "BIRTH",
+  "chapter": 20,
+  "text": "Kassa Brackick gave birth to a son, named Rimor Corrford; the father was Ulrald Corrford. The family lived in Staveford.",
+  "where": "L11",
+  "ref_deps": [],
+  "child": "P062",
+  "mother": "P018",
+  "father": "P048",
+  "place": "L11"
+ },
+ {
+  "id": "E0220",
+  "type": "TELL",
+  "chapter": 20,
+  "text": "Luvie Prydenridge could keep it no longer and told the eldest son of Islan Thornmere that the old abbey at Gulhaven hides a second cellar.",
+  "where": "L07",
+  "ref_deps": [
+   "E0006"
+  ],
+  "secret": "S00",
+  "src": "P004",
+  "dest": "P034"
+ },
+ {
+  "id": "E0221",
+  "type": "PROMISE",
+  "chapter": 20,
+  "text": "Kassa Stenson swore to Kassa Brackick to repair the roof of the chapel at Dunstead, and shook on it.",
+  "where": "L11",
+  "ref_deps": [],
+  "promise": "R15",
+  "a": "P023",
+  "b": "P018",
+  "act": "to repair the roof of the chapel at Dunstead"
+ },
+ {
+  "id": "E0222",
+  "type": "TELL",
+  "chapter": 20,
+  "text": "Late one night Yera Stenworth confided to Luvie Prydenridge that the fire at the Dunstead granary was set on purpose.",
+  "where": "L07",
+  "ref_deps": [],
+  "secret": "S03",
+  "src": "P042",
+  "dest": "P004"
+ },
+ {
+  "id": "E0223",
+  "type": "TELL",
+  "chapter": 21,
+  "text": "Late one night Fenelle Lindmere confided to the youngest son of Yedan Corrford that the Stenson family once owed a blood debt to the Stenenridge family.",
+  "where": "L02",
+  "ref_deps": [
+   "E0009"
+  ],
+  "secret": "S04",
+  "src": "P009",
+  "dest": "P049"
+ },
+ {
+  "id": "E0224",
+  "type": "GIVE",
+  "chapter": 21,
+  "text": "Thizek Stenenridge sent the bone compass by carrier to Lura, who received it safely.",
+  "where": "L02",
+  "ref_deps": [
+   "E0002"
+  ],
+  "item": "I01",
+  "src": "P038",
+  "dest": "P012"
+ },
+ {
+  "id": "E0225",
+  "type": "PLAN",
+  "chapter": 21,
+  "text": "Fenelle Lindmere talked for weeks of going to Ravenmere, yet in the end stayed where she was.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P009",
+  "dest": "L09"
+ },
+ {
+  "id": "E0226",
+  "type": "DEATH",
+  "chapter": 21,
+  "text": "They laid Ulrald in the churchyard at Staveford, dead of old age, quietly in sleep.",
+  "where": "L11",
+  "ref_deps": [
+   "E0009"
+  ],
+  "person": "P048",
+  "cause": "old age, quietly in sleep",
+  "place": "L11"
+ },
+ {
+  "id": "E0227",
+  "type": "GIVE",
+  "chapter": 21,
+  "text": "The silver flute, which Ulrald Corrford had owned, went to Kassa Brackick.",
+  "where": "L11",
+  "ref_deps": [],
+  "item": "I11",
+  "src": "P048",
+  "dest": "P018",
+  "inherit": true
+ },
+ {
+  "id": "E0228",
+  "type": "GIVE",
+  "chapter": 21,
+  "text": "The amber map, which Ulrald Corrford had owned, went to Kassa Brackick.",
+  "where": "L11",
+  "ref_deps": [],
+  "item": "I00",
+  "src": "P048",
+  "dest": "P018",
+  "inherit": true
+ },
+ {
+  "id": "E0229",
+  "type": "RUMOR",
+  "chapter": 21,
+  "text": "A rumor started by the second daughter of Rorald Lindmere had it that Pelde Stenworth was dead of plague; the second daughter of Rorald Lindmere had it from a peddler.",
+  "where": "L02",
+  "ref_deps": [
+   "E0001"
+  ],
+  "teller": "P009",
+  "claim": {
+   "kind": "dead",
+   "target": "P045"
+  }
+ },
+ {
+  "id": "E0230",
+  "type": "GIVE",
+  "chapter": 21,
+  "text": "Rozek Stenenridge gave the copper chalice to Luena.",
+  "where": "L14",
+  "ref_deps": [
+   "E0007"
+  ],
+  "item": "I03",
+  "src": "P036",
+  "dest": "P037"
+ },
+ {
+  "id": "E0231",
+  "type": "TELL",
+  "chapter": 21,
+  "text": "Late one night the youngest son of Ludrek Prydenridge confided to Isric Thornmere that the old abbey at Gulhaven hides a second cellar.",
+  "where": "L07",
+  "ref_deps": [
+   "E0000"
+  ],
+  "secret": "S00",
+  "src": "P005",
+  "dest": "P035"
+ },
+ {
+  "id": "E0232",
+  "type": "PROMISE",
+  "chapter": 22,
+  "text": "Islan gave Gadrek Prydenridge a solemn promise to carry a sealed letter to Gulhaven.",
+  "where": "L07",
+  "ref_deps": [
+   "E0006"
+  ],
+  "promise": "R16",
+  "a": "P032",
+  "b": "P005",
+  "act": "to carry a sealed letter to Gulhaven"
+ },
+ {
+  "id": "E0233",
+  "type": "OCCUPATION",
+  "chapter": 22,
+  "text": "Kassa Stenson gave up idleness and took work as a scribe.",
+  "where": "L11",
+  "ref_deps": [],
+  "person": "P023",
+  "old": null,
+  "new": "scribe"
+ },
+ {
+  "id": "E0234",
+  "type": "PROMISE",
+  "chapter": 22,
+  "text": "Kassa Stenson gave the youngest son of Gadan Corrley a solemn promise to rebuild the fallen wall at Yarlby.",
+  "where": "L11",
+  "ref_deps": [
+   "E0005"
+  ],
+  "promise": "R17",
+  "a": "P023",
+  "b": "P031",
+  "act": "to rebuild the fallen wall at Yarlby"
+ },
+ {
+  "id": "E0235",
+  "type": "BIRTH",
+  "chapter": 22,
+  "text": "Yewyn Haskick gave birth to a son, named Sebin Brackick; the father was Tatho Brackick. The family lived in Salcombe.",
+  "where": "L10",
+  "ref_deps": [],
+  "child": "P063",
+  "mother": "P014",
+  "father": "P019",
+  "place": "L10"
+ },
+ {
+  "id": "E0236",
+  "type": "TRAVEL",
+  "chapter": 22,
+  "text": "After the quarrel, Rovus Prydenridge quit Ostcombe for good and took lodgings in Kelmere.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P003",
+  "src": "L07",
+  "dest": "L06"
+ },
+ {
+  "id": "E0237",
+  "type": "TRAVEL",
+  "chapter": 22,
+  "text": "Wenelle Lindmere went along to live in Kelmere as well.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P010",
+  "src": "L07",
+  "dest": "L06"
+ },
+ {
+  "id": "E0238",
+  "type": "TELL",
+  "chapter": 22,
+  "text": "In a letter that Ferald burned after reading, Marald revealed that the Stenson family once owed a blood debt to the Stenenridge family.",
+  "where": "L02",
+  "ref_deps": [
+   "E0009",
+   "E0141"
+  ],
+  "secret": "S04",
+  "src": "P049",
+  "dest": "P055"
+ },
+ {
+  "id": "E0239",
+  "type": "TELL",
+  "chapter": 22,
+  "text": "Late one night Yera Stenworth confided to Gadrek Prydenridge that the fire at the Dunstead granary was set on purpose.",
+  "where": "L07",
+  "ref_deps": [],
+  "secret": "S03",
+  "src": "P042",
+  "dest": "P005"
+ },
+ {
+  "id": "E0240",
+  "type": "DEATH",
+  "chapter": 22,
+  "text": "They laid Volia Brackick in the churchyard at Kelford, dead of drowning in the flood.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P016",
+  "cause": "drowning in the flood",
+  "place": "L05"
+ },
+ {
+  "id": "E0241",
+  "type": "GIVE",
+  "chapter": 22,
+  "text": "Isric sent the oak comb by carrier to Kassa Brackick, who received it safely.",
+  "where": "L07",
+  "ref_deps": [
+   "E0006"
+  ],
+  "item": "I07",
+  "src": "P035",
+  "dest": "P018"
+ },
+ {
+  "id": "E0242",
+  "type": "TELL",
+  "chapter": 23,
+  "text": "In a letter that Kassa Stenson burned after reading, Kassa Brackick revealed that the Stenenridge mill ledger was rewritten after the flood.",
+  "where": "L11",
+  "ref_deps": [],
+  "secret": "S01",
+  "src": "P018",
+  "dest": "P023"
+ },
+ {
+  "id": "E0243",
+  "type": "MARRY",
+  "chapter": 23,
+  "text": "Kassa Brackick and Volan Stenworth were wed at Staveford, with half the parish looking on. The couple lived in Staveford from then on.",
+  "where": "L11",
+  "ref_deps": [],
+  "a": "P018",
+  "b": "P052",
+  "place": "L11"
+ },
+ {
+  "id": "E0244",
+  "type": "TRAVEL",
+  "chapter": 23,
+  "text": "After the quarrel, Taric Corrley quit Staveford for good and took lodgings in Dungate.",
+  "where": "L11",
+  "ref_deps": [],
+  "person": "P031",
+  "src": "L11",
+  "dest": "L01"
+ },
+ {
+  "id": "E0245",
+  "type": "TRAVEL",
+  "chapter": 23,
+  "text": "Kassa Stenson went along to live in Dungate as well.",
+  "where": "L11",
+  "ref_deps": [],
+  "person": "P023",
+  "src": "L11",
+  "dest": "L01"
+ },
+ {
+  "id": "E0246",
+  "type": "TRAVEL",
+  "chapter": 23,
+  "text": "After the quarrel, Marald Corrford quit Dunstead for good and took lodgings in Salcombe.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P049",
+  "src": "L02",
+  "dest": "L10"
+ },
+ {
+  "id": "E0247",
+  "type": "TRAVEL",
+  "chapter": 23,
+  "text": "Fenelle Lindmere followed him to Salcombe within the month.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P009",
+  "src": "L02",
+  "dest": "L10"
+ },
+ {
+  "id": "E0248",
+  "type": "PROMISE",
+  "chapter": 23,
+  "text": "Elra Corrford swore to Ferald to plant an orchard on the slope above Ravenmere, and shook on it.",
+  "where": "L02",
+  "ref_deps": [
+   "E0141"
+  ],
+  "promise": "R18",
+  "a": "P051",
+  "b": "P055",
+  "act": "to plant an orchard on the slope above Ravenmere"
+ },
+ {
+  "id": "E0249",
+  "type": "GIVE",
+  "chapter": 23,
+  "text": "Luena Stenenridge gave the jade mirror to Rozek.",
+  "where": "L14",
+  "ref_deps": [
+   "E0007"
+  ],
+  "item": "I06",
+  "src": "P037",
+  "dest": "P036"
+ },
+ {
+  "id": "E0250",
+  "type": "TRAVEL",
+  "chapter": 24,
+  "text": "After the quarrel, Ismira Stenson quit Dungate for good and took lodgings in Elmhaven.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P022",
+  "src": "L01",
+  "dest": "L03"
+ },
+ {
+  "id": "E0251",
+  "type": "TRAVEL",
+  "chapter": 24,
+  "text": "Matho Stenson went along to live in Elmhaven as well.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P021",
+  "src": "L01",
+  "dest": "L03"
+ },
+ {
+  "id": "E0252",
+  "type": "RUMOR",
+  "chapter": 24,
+  "text": "A rumor started by Pelde Stenson had it that Matho Stenson was dead of plague; Pelde Stenson had it from a peddler.",
+  "where": "L12",
+  "ref_deps": [],
+  "teller": "P025",
+  "claim": {
+   "kind": "dead",
+   "target": "P021"
+  }
+ },
+ {
+  "id": "E0253",
+  "type": "GIVE",
+  "chapter": 24,
+  "text": "Lura Haskick sent the bone compass by carrier to Volan Stenworth, who received it safely.",
+  "where": "L08",
+  "ref_deps": [],
+  "item": "I01",
+  "src": "P012",
+  "dest": "P052"
+ },
+ {
+  "id": "E0254",
+  "type": "TELL",
+  "chapter": 24,
+  "text": "In a letter that Volan burned after reading, Kassa Brackick revealed that the Stenenridge mill ledger was rewritten after the flood.",
+  "where": "L11",
+  "ref_deps": [
+   "E0105"
+  ],
+  "secret": "S01",
+  "src": "P018",
+  "dest": "P052"
+ },
+ {
+  "id": "E0255",
+  "type": "PROMISE",
+  "chapter": 24,
+  "text": "Havie Prydenridge gave Gadrek Prydenridge a solemn promise to pay the old debt owed to the Stenworth family.",
+  "where": "L07",
+  "ref_deps": [],
+  "promise": "R19",
+  "a": "P002",
+  "b": "P005",
+  "act": "to pay the old debt owed to the Stenworth family"
+ },
+ {
+  "id": "E0256",
+  "type": "TELL",
+  "chapter": 24,
+  "text": "Thizek Stenenridge could keep it no longer and told Elra Corrford that the deed to the Kelmere pastures was forged.",
+  "where": "L02",
+  "ref_deps": [],
+  "secret": "S05",
+  "src": "P038",
+  "dest": "P051"
+ },
+ {
+  "id": "E0257",
+  "type": "TRAVEL",
+  "chapter": 24,
+  "text": "Elra left Dunstead and settled in Elmhaven.",
+  "where": "L02",
+  "ref_deps": [
+   "E0083"
+  ],
+  "person": "P051",
+  "src": "L02",
+  "dest": "L03"
+ },
+ {
+  "id": "E0258",
+  "type": "PROMISE",
+  "chapter": 25,
+  "text": "The husband of Kassa Stenson gave Kassa Stenson a solemn promise to rebuild the fallen wall at Ostcombe.",
+  "where": "L01",
+  "ref_deps": [
+   "E0013"
+  ],
+  "promise": "R20",
+  "a": "P031",
+  "b": "P023",
+  "act": "to rebuild the fallen wall at Ostcombe"
+ },
+ {
+  "id": "E0259",
+  "type": "BIRTH",
+  "chapter": 25,
+  "text": "A son was born to Rinelle Corrley and Kadrek Brackick, and they called the child Movus Brackick. The family lived in Wilholt.",
+  "where": "L13",
+  "ref_deps": [],
+  "child": "P064",
+  "mother": "P029",
+  "father": "P017",
+  "place": "L13"
+ },
+ {
+  "id": "E0260",
+  "type": "MARRY",
+  "chapter": 25,
+  "text": "Nerine Prydenridge and Lurald Stenworth were wed at Ostcombe, with half the parish looking on. The couple lived in Ostcombe from then on.",
+  "where": "L07",
+  "ref_deps": [],
+  "a": "P054",
+  "b": "P043",
+  "place": "L07"
+ },
+ {
+  "id": "E0261",
+  "type": "PROMISE",
+  "chapter": 25,
+  "text": "Elra gave Matho Stenson a solemn promise to plant an orchard on the slope above Gulhaven.",
+  "where": "L03",
+  "ref_deps": [
+   "E0083"
+  ],
+  "promise": "R21",
+  "a": "P051",
+  "b": "P021",
+  "act": "to plant an orchard on the slope above Gulhaven"
+ },
+ {
+  "id": "E0262",
+  "type": "BIRTH",
+  "chapter": 25,
+  "text": "A son was born to Wenelle Lindmere and Rovus Prydenridge, and they called the child Febin Prydenridge. The family lived in Kelmere.",
+  "where": "L06",
+  "ref_deps": [],
+  "child": "P065",
+  "mother": "P010",
+  "father": "P003",
+  "place": "L06"
+ },
+ {
+  "id": "E0263",
+  "type": "BIRTH",
+  "chapter": 25,
+  "text": "A son was born to Nerine Prydenridge and Lurald Stenworth, and they called the child Istho Stenworth. The family lived in Ostcombe.",
+  "where": "L07",
+  "ref_deps": [],
+  "child": "P066",
+  "mother": "P054",
+  "father": "P043",
+  "place": "L07"
+ },
+ {
+  "id": "E0264",
+  "type": "MARRY",
+  "chapter": 25,
+  "text": "Before the summer was out, Bremira took Zavus Prydenridge in marriage at Dunstead. The couple lived in Dunstead from then on.",
+  "where": "L02",
+  "ref_deps": [
+   "E0163"
+  ],
+  "a": "P058",
+  "b": "P057",
+  "place": "L02"
+ },
+ {
+  "id": "E0265",
+  "type": "RESOLVE",
+  "chapter": 26,
+  "text": "Rorald broke faith with Kassa Stenson, and the promised work (carry a sealed letter to Torton) was never begun.",
+  "where": "L10",
+  "ref_deps": [
+   "E0001"
+  ],
+  "promise": "R11",
+  "kept": false
+ },
+ {
+  "id": "E0266",
+  "type": "PROMISE",
+  "chapter": 26,
+  "text": "Pelia gave Fenelle a solemn promise to plant an orchard on the slope above Salcombe.",
+  "where": "L10",
+  "ref_deps": [
+   "E0001"
+  ],
+  "promise": "R22",
+  "a": "P007",
+  "b": "P009",
+  "act": "to plant an orchard on the slope above Salcombe"
+ },
+ {
+  "id": "E0267",
+  "type": "TRAVEL",
+  "chapter": 26,
+  "text": "Fenelle Lindmere found work in Elmhaven, moved there, and did not return to Salcombe.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P009",
+  "src": "L10",
+  "dest": "L03"
+ },
+ {
+  "id": "E0268",
+  "type": "TRAVEL",
+  "chapter": 26,
+  "text": "Marald Corrford followed her to Elmhaven within the month.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P049",
+  "src": "L10",
+  "dest": "L03"
+ },
+ {
+  "id": "E0269",
+  "type": "TELL",
+  "chapter": 26,
+  "text": "Late one night Ferald Stenworth confided to Zavus Prydenridge that the Stenson family once owed a blood debt to the Stenenridge family.",
+  "where": "L02",
+  "ref_deps": [],
+  "secret": "S04",
+  "src": "P055",
+  "dest": "P057"
+ },
+ {
+  "id": "E0270",
+  "type": "OCCUPATION",
+  "chapter": 26,
+  "text": "Zavus Prydenridge was apprenticed anew and became a ferryman.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P057",
+  "old": null,
+  "new": "ferryman"
+ },
+ {
+  "id": "E0271",
+  "type": "TELL",
+  "chapter": 26,
+  "text": "In a letter that Ismira Stenson burned after reading, Elra revealed that the deed to the Kelmere pastures was forged.",
+  "where": "L03",
+  "ref_deps": [
+   "E0083"
+  ],
+  "secret": "S05",
+  "src": "P051",
+  "dest": "P022"
+ },
+ {
+  "id": "E0272",
+  "type": "MARRY",
+  "chapter": 26,
+  "text": "Ferald and Zalis Corrley were wed at Dunstead, with half the parish looking on. The couple lived in Dunstead from then on.",
+  "where": "L02",
+  "ref_deps": [
+   "E0141"
+  ],
+  "a": "P055",
+  "b": "P028",
+  "place": "L02"
+ },
+ {
+  "id": "E0273",
+  "type": "OCCUPATION",
+  "chapter": 26,
+  "text": "Gadrek Prydenridge gave up being a miller and took work as a brewer.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P005",
+  "old": "miller",
+  "new": "brewer"
+ },
+ {
+  "id": "E0274",
+  "type": "TELL",
+  "chapter": 27,
+  "text": "Late one night Yera Stenworth confided to Nerine Prydenridge that the fire at the Dunstead granary was set on purpose.",
+  "where": "L07",
+  "ref_deps": [],
+  "secret": "S03",
+  "src": "P042",
+  "dest": "P054"
+ },
+ {
+  "id": "E0275",
+  "type": "RUMOR",
+  "chapter": 27,
+  "text": "Kassa Brackick whispered that Islan Thornmere had secretly married Yera Haskick, but nobody could say where or when.",
+  "where": "L11",
+  "ref_deps": [],
+  "teller": "P018",
+  "claim": {
+   "kind": "married",
+   "target": "P032",
+   "other": "P013"
+  }
+ },
+ {
+  "id": "E0276",
+  "type": "TELL",
+  "chapter": 27,
+  "text": "Isric Thornmere could keep it no longer and told Vesmira that the old abbey at Gulhaven hides a second cellar.",
+  "where": "L07",
+  "ref_deps": [
+   "E0006"
+  ],
+  "secret": "S00",
+  "src": "P035",
+  "dest": "P033"
+ },
+ {
+  "id": "E0277",
+  "type": "TRAVEL",
+  "chapter": 27,
+  "text": "After the quarrel, Islan Thornmere quit Ostcombe for good and took lodgings in Dungate.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P032",
+  "src": "L07",
+  "dest": "L01"
+ },
+ {
+  "id": "E0278",
+  "type": "TRAVEL",
+  "chapter": 27,
+  "text": "Vesmira Thornmere went along to live in Dungate as well.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P033",
+  "src": "L07",
+  "dest": "L01"
+ },
+ {
+  "id": "E0279",
+  "type": "PROMISE",
+  "chapter": 27,
+  "text": "Movie Prydenridge swore to Nerine Prydenridge to plant an orchard on the slope above Wilholt, and shook on it.",
+  "where": "L07",
+  "ref_deps": [],
+  "promise": "R23",
+  "a": "P053",
+  "b": "P054",
+  "act": "to plant an orchard on the slope above Wilholt"
+ },
+ {
+  "id": "E0280",
+  "type": "GIVE",
+  "chapter": 27,
+  "text": "The wife of Volan Stenworth won the bone compass from Volan Stenworth at cards, fairly, and kept it.",
+  "where": "L11",
+  "ref_deps": [
+   "E0243"
+  ],
+  "item": "I01",
+  "src": "P052",
+  "dest": "P018"
+ },
+ {
+  "id": "E0281",
+  "type": "MARRY",
+  "chapter": 28,
+  "text": "Movie Prydenridge and the only son of Luena Stenenridge were wed at Ostcombe, with half the parish looking on. The couple lived in Ostcombe from then on.",
+  "where": "L07",
+  "ref_deps": [
+   "E0007"
+  ],
+  "a": "P053",
+  "b": "P038",
+  "place": "L07"
+ },
+ {
+  "id": "E0282",
+  "type": "RESOLVE",
+  "chapter": 28,
+  "text": "Kassa Stenson kept the promise made to Taric Corrley: the task (rebuild the fallen wall at Yarlby) was done by harvest.",
+  "where": "L01",
+  "ref_deps": [],
+  "promise": "R17",
+  "kept": true
+ },
+ {
+  "id": "E0283",
+  "type": "MARRY",
+  "chapter": 28,
+  "text": "Havie and Isric Thornmere were wed at Ostcombe, with half the parish looking on. The couple lived in Ostcombe from then on.",
+  "where": "L07",
+  "ref_deps": [
+   "E0000"
+  ],
+  "a": "P002",
+  "b": "P035",
+  "place": "L07"
+ },
+ {
+  "id": "E0284",
+  "type": "TRAVEL",
+  "chapter": 28,
+  "text": "Marald Corrford found work in Ravenmere, moved there, and did not return to Elmhaven.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P049",
+  "src": "L03",
+  "dest": "L09"
+ },
+ {
+  "id": "E0285",
+  "type": "TRAVEL",
+  "chapter": 28,
+  "text": "Fenelle followed him to Ravenmere within the month.",
+  "where": "L03",
+  "ref_deps": [
+   "E0001"
+  ],
+  "person": "P009",
+  "src": "L03",
+  "dest": "L09"
+ },
+ {
+  "id": "E0286",
+  "type": "TRAVEL",
+  "chapter": 28,
+  "text": "Matho Stenson packed a single trunk and moved from Elmhaven to Staveford.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P021",
+  "src": "L03",
+  "dest": "L11"
+ },
+ {
+  "id": "E0287",
+  "type": "TRAVEL",
+  "chapter": 28,
+  "text": "Red Ismira went along to live in Staveford as well.",
+  "where": "L03",
+  "ref_deps": [
+   "E0035"
+  ],
+  "person": "P022",
+  "src": "L03",
+  "dest": "L11"
+ },
+ {
+  "id": "E0288",
+  "type": "TRAVEL",
+  "chapter": 28,
+  "text": "Elra Corrford rode out of Elmhaven; by the next market day she was living in Gulhaven.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P051",
+  "src": "L03",
+  "dest": "L04"
+ },
+ {
+  "id": "E0289",
+  "type": "DEATH",
+  "chapter": 29,
+  "text": "Islan Thornmere died of old age, quietly in sleep at Dungate.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P032",
+  "cause": "old age, quietly in sleep",
+  "place": "L01"
+ },
+ {
+  "id": "E0290",
+  "type": "MARRY",
+  "chapter": 29,
+  "text": "In the chapel at Ostcombe, Gadrek Prydenridge married the eldest daughter of Lura Haskick. The couple lived in Ostcombe from then on.",
+  "where": "L07",
+  "ref_deps": [
+   "E0002"
+  ],
+  "a": "P005",
+  "b": "P013",
+  "place": "L07"
+ },
+ {
+  "id": "E0291",
+  "type": "TELL",
+  "chapter": 29,
+  "text": "In a letter that Yera Haskick burned after reading, Yera Stenworth revealed that the fire at the Dunstead granary was set on purpose.",
+  "where": "L07",
+  "ref_deps": [],
+  "secret": "S03",
+  "src": "P042",
+  "dest": "P013"
+ },
+ {
+  "id": "E0292",
+  "type": "MARRY",
+  "chapter": 29,
+  "text": "Luvie Prydenridge and Semor were wed at Ostcombe, with half the parish looking on. The couple lived in Ostcombe from then on.",
+  "where": "L07",
+  "ref_deps": [
+   "E0192"
+  ],
+  "a": "P004",
+  "b": "P060",
+  "place": "L07"
+ },
+ {
+  "id": "E0293",
+  "type": "TELL",
+  "chapter": 29,
+  "text": "In a letter that Rorald burned after reading, Luena Stenenridge revealed that the Stenenridge mill ledger was rewritten after the flood.",
+  "where": "L14",
+  "ref_deps": [
+   "E0001"
+  ],
+  "secret": "S01",
+  "src": "P037",
+  "dest": "P006"
+ },
+ {
+  "id": "E0294",
+  "type": "GIVE",
+  "chapter": 29,
+  "text": "Luena Stenenridge sent the copper chalice by carrier to Yera Stenworth, who received it safely.",
+  "where": "L14",
+  "ref_deps": [],
+  "item": "I03",
+  "src": "P037",
+  "dest": "P042"
+ },
+ {
+  "id": "E0295",
+  "type": "GIVE",
+  "chapter": 30,
+  "text": "Kassa Brackick gave the amber map to Volan Stenworth.",
+  "where": "L11",
+  "ref_deps": [],
+  "item": "I00",
+  "src": "P018",
+  "dest": "P052"
+ },
+ {
+  "id": "E0296",
+  "type": "TELL",
+  "chapter": 30,
+  "text": "In a letter that Yera Haskick burned after reading, Gadrek revealed that the old abbey at Gulhaven hides a second cellar.",
+  "where": "L07",
+  "ref_deps": [
+   "E0000"
+  ],
+  "secret": "S00",
+  "src": "P005",
+  "dest": "P013"
+ },
+ {
+  "id": "E0297",
+  "type": "PROMISE",
+  "chapter": 30,
+  "text": "Yera Haskick swore to Nerine Prydenridge to repair the roof of the chapel at Kelmere, and shook on it.",
+  "where": "L07",
+  "ref_deps": [],
+  "promise": "R24",
+  "a": "P013",
+  "b": "P054",
+  "act": "to repair the roof of the chapel at Kelmere"
+ },
+ {
+  "id": "E0298",
+  "type": "RUMOR",
+  "chapter": 30,
+  "text": "A rumor started by Movie Prydenridge had it that Rorald Lindmere was dead of plague; Movie Prydenridge had it from a peddler.",
+  "where": "L07",
+  "ref_deps": [],
+  "teller": "P053",
+  "claim": {
+   "kind": "dead",
+   "target": "P006"
+  }
+ },
+ {
+  "id": "E0299",
+  "type": "RESOLVE",
+  "chapter": 30,
+  "text": "Havie Prydenridge never did keep the promise made to Gadrek Prydenridge (pay the old debt owed to the Stenworth family); the matter was abandoned.",
+  "where": "L07",
+  "ref_deps": [],
+  "promise": "R19",
+  "kept": false
+ },
+ {
+  "id": "E0300",
+  "type": "OCCUPATION",
+  "chapter": 30,
+  "text": "Luvie Prydenridge gave up being a weaver and took work as a chandler.",
+  "where": "L07",
+  "ref_deps": [
+   "E0000"
+  ],
+  "person": "P004",
+  "old": "weaver",
+  "new": "chandler"
+ },
+ {
+  "id": "E0301",
+  "type": "RUMOR",
+  "chapter": 31,
+  "text": "Bremira told everyone at the inn that Rovus Prydenridge had drowned crossing the estuary, though no body was ever seen.",
+  "where": "L02",
+  "ref_deps": [
+   "E0163"
+  ],
+  "teller": "P058",
+  "claim": {
+   "kind": "dead",
+   "target": "P003"
+  }
+ },
+ {
+  "id": "E0302",
+  "type": "GIVE",
+  "chapter": 31,
+  "text": "Kassa Brackick gave the bone compass to Ismira.",
+  "where": "L11",
+  "ref_deps": [
+   "E0004"
+  ],
+  "item": "I01",
+  "src": "P018",
+  "dest": "P022"
+ },
+ {
+  "id": "E0303",
+  "type": "TELL",
+  "chapter": 31,
+  "text": "Luena Stenenridge could keep it no longer and told Wenelle Lindmere that the Stenenridge mill ledger was rewritten after the flood.",
+  "where": "L14",
+  "ref_deps": [],
+  "secret": "S01",
+  "src": "P037",
+  "dest": "P010"
+ },
+ {
+  "id": "E0304",
+  "type": "PLAN",
+  "chapter": 31,
+  "text": "Rozek Stenenridge meant to go to Yarlby before the frost, but the roads flooded and the journey was put off.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P036",
+  "dest": "L15"
+ },
+ {
+  "id": "E0305",
+  "type": "TRAVEL",
+  "chapter": 31,
+  "text": "Luena Stenenridge left Wilwick and settled in Ostcombe.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P037",
+  "src": "L14",
+  "dest": "L07"
+ },
+ {
+  "id": "E0306",
+  "type": "TRAVEL",
+  "chapter": 31,
+  "text": "Rozek Stenenridge went along to live in Ostcombe as well.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P036",
+  "src": "L14",
+  "dest": "L07"
+ },
+ {
+  "id": "E0307",
+  "type": "GIVE",
+  "chapter": 31,
+  "text": "Gadrek won the copper chalice from Yera Stenworth at cards, fairly, and kept it.",
+  "where": "L07",
+  "ref_deps": [
+   "E0000"
+  ],
+  "item": "I03",
+  "src": "P042",
+  "dest": "P005"
+ },
+ {
+  "id": "E0308",
+  "type": "OCCUPATION",
+  "chapter": 32,
+  "text": "Ismira Stenson gave up being a shepherd and took work as a scribe.",
+  "where": "L11",
+  "ref_deps": [],
+  "person": "P022",
+  "old": "shepherd",
+  "new": "scribe"
+ },
+ {
+  "id": "E0309",
+  "type": "PLAN",
+  "chapter": 32,
+  "text": "Rimor Corrford talked for weeks of going to Salcombe, yet in the end stayed where he was.",
+  "where": "L11",
+  "ref_deps": [
+   "E0219"
+  ],
+  "person": "P062",
+  "dest": "L10"
+ },
+ {
+  "id": "E0310",
+  "type": "TELL",
+  "chapter": 32,
+  "text": "Wenelle Lindmere could keep it no longer and told Rovus Prydenridge that the Stenenridge mill ledger was rewritten after the flood.",
+  "where": "L06",
+  "ref_deps": [],
+  "secret": "S01",
+  "src": "P010",
+  "dest": "P003"
+ },
+ {
+  "id": "E0311",
+  "type": "TRAVEL",
+  "chapter": 32,
+  "text": "Tatho Brackick left Salcombe and settled in Wilholt.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P019",
+  "src": "L10",
+  "dest": "L13"
+ },
+ {
+  "id": "E0312",
+  "type": "TRAVEL",
+  "chapter": 32,
+  "text": "Yewyn Haskick followed him to Wilholt within the month.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P014",
+  "src": "L10",
+  "dest": "L13"
+ },
+ {
+  "id": "E0313",
+  "type": "GIVE",
+  "chapter": 32,
+  "text": "Ismira Stenson pressed the ivory lantern into the hands of Rimor Corrford and would take nothing for it.",
+  "where": "L11",
+  "ref_deps": [],
+  "item": "I05",
+  "src": "P022",
+  "dest": "P062"
+ },
+ {
+  "id": "E0314",
+  "type": "MARRY",
+  "chapter": 33,
+  "text": "Before the summer was out, the eldest daughter of Rorald Lindmere took Ilrald Prydenridge in marriage at Torton. The couple lived in Torton from then on.",
+  "where": "L12",
+  "ref_deps": [
+   "E0001"
+  ],
+  "a": "P008",
+  "b": "P061",
+  "place": "L12"
+ },
+ {
+  "id": "E0315",
+  "type": "TRAVEL",
+  "chapter": 33,
+  "text": "Ismira Stenson rode out of Staveford; by the next market day she was living in Kelmere.",
+  "where": "L11",
+  "ref_deps": [],
+  "person": "P022",
+  "src": "L11",
+  "dest": "L06"
+ },
+ {
+  "id": "E0316",
+  "type": "TRAVEL",
+  "chapter": 33,
+  "text": "Matho Stenson went along to live in Kelmere as well.",
+  "where": "L11",
+  "ref_deps": [],
+  "person": "P021",
+  "src": "L11",
+  "dest": "L06"
+ },
+ {
+  "id": "E0317",
+  "type": "GIVE",
+  "chapter": 33,
+  "text": "Volan Stenworth pressed the amber map into the hands of Rimor Corrford and would take nothing for it.",
+  "where": "L11",
+  "ref_deps": [],
+  "item": "I00",
+  "src": "P052",
+  "dest": "P062"
+ },
+ {
+  "id": "E0318",
+  "type": "MARRY",
+  "chapter": 33,
+  "text": "In the chapel at Dungate, Vesmira Thornmere married Rimor Corrford. The couple lived in Dungate from then on.",
+  "where": "L01",
+  "ref_deps": [],
+  "a": "P033",
+  "b": "P062",
+  "place": "L01"
+ },
+ {
+  "id": "E0319",
+  "type": "TELL",
+  "chapter": 33,
+  "text": "Luvie Prydenridge could keep it no longer and told Rozek Stenenridge that the old abbey at Gulhaven hides a second cellar.",
+  "where": "L07",
+  "ref_deps": [],
+  "secret": "S00",
+  "src": "P004",
+  "dest": "P036"
+ },
+ {
+  "id": "E0320",
+  "type": "TRAVEL",
+  "chapter": 33,
+  "text": "The only son of Luena Stenenridge packed a single trunk and moved from Ostcombe to Elmhaven.",
+  "where": "L07",
+  "ref_deps": [
+   "E0007"
+  ],
+  "person": "P038",
+  "src": "L07",
+  "dest": "L03"
+ },
+ {
+  "id": "E0321",
+  "type": "TRAVEL",
+  "chapter": 33,
+  "text": "Movie Prydenridge went along to live in Elmhaven as well.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P053",
+  "src": "L07",
+  "dest": "L03"
+ },
+ {
+  "id": "E0322",
+  "type": "PROMISE",
+  "chapter": 33,
+  "text": "Semor swore to Isric Thornmere to rebuild the fallen wall at Kelmere, and shook on it.",
+  "where": "L07",
+  "ref_deps": [
+   "E0192"
+  ],
+  "promise": "R25",
+  "a": "P060",
+  "b": "P035",
+  "act": "to rebuild the fallen wall at Kelmere"
+ },
+ {
+  "id": "E0323",
+  "type": "TELL",
+  "chapter": 34,
+  "text": "Late one night Kassa Brackick confided to Davus that the Stenenridge mill ledger was rewritten after the flood.",
+  "where": "L11",
+  "ref_deps": [
+   "E0008"
+  ],
+  "secret": "S01",
+  "src": "P018",
+  "dest": "P044"
+ },
+ {
+  "id": "E0324",
+  "type": "MARRY",
+  "chapter": 34,
+  "text": "Before the autumn was out, Pelde Stenworth took Sebin Brackick in marriage at Torton. The couple lived in Torton from then on.",
+  "where": "L12",
+  "ref_deps": [],
+  "a": "P045",
+  "b": "P063",
+  "place": "L12"
+ },
+ {
+  "id": "E0325",
+  "type": "TRAVEL",
+  "chapter": 34,
+  "text": "Fewyn Stenworth packed a single trunk and moved from Gulhaven to Yarlby.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P041",
+  "src": "L04",
+  "dest": "L15"
+ },
+ {
+  "id": "E0326",
+  "type": "TRAVEL",
+  "chapter": 34,
+  "text": "Havus went along to live in Yarlby as well.",
+  "where": "L04",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P040",
+  "src": "L04",
+  "dest": "L15"
+ },
+ {
+  "id": "E0327",
+  "type": "TELL",
+  "chapter": 34,
+  "text": "Tatho Brackick could keep it no longer and told Yewyn Haskick that the fire at the Dunstead granary was set on purpose.",
+  "where": "L13",
+  "ref_deps": [],
+  "secret": "S03",
+  "src": "P019",
+  "dest": "P014"
+ },
+ {
+  "id": "E0328",
+  "type": "PLAN",
+  "chapter": 34,
+  "text": "The youngest son of Volia Brackick talked for weeks of going to Staveford, yet in the end stayed where he was.",
+  "where": "L13",
+  "ref_deps": [
+   "E0003"
+  ],
+  "person": "P019",
+  "dest": "L11"
+ },
+ {
+  "id": "E0329",
+  "type": "TRAVEL",
+  "chapter": 34,
+  "text": "Taric Corrley packed a single trunk and moved from Dungate to Kelmere.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P031",
+  "src": "L01",
+  "dest": "L06"
+ },
+ {
+  "id": "E0330",
+  "type": "TRAVEL",
+  "chapter": 34,
+  "text": "Kassa Stenson went along to live in Kelmere as well.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P023",
+  "src": "L01",
+  "dest": "L06"
+ },
+ {
+  "id": "E0331",
+  "type": "PLAN",
+  "chapter": 34,
+  "text": "Tatho talked for weeks of going to Ostcombe, yet in the end stayed where he was.",
+  "where": "L13",
+  "ref_deps": [
+   "E0003"
+  ],
+  "person": "P019",
+  "dest": "L07"
+ },
+ {
+  "id": "E0332",
+  "type": "TRAVEL",
+  "chapter": 35,
+  "text": "Pelia Lindmere found work in Yarlby, moved there, and did not return to Salcombe.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P007",
+  "src": "L10",
+  "dest": "L15"
+ },
+ {
+  "id": "E0333",
+  "type": "TRAVEL",
+  "chapter": 35,
+  "text": "Rorald Lindmere went along to live in Yarlby as well.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P006",
+  "src": "L10",
+  "dest": "L15"
+ },
+ {
+  "id": "E0334",
+  "type": "PLAN",
+  "chapter": 35,
+  "text": "Kadan Corrley meant to go to Salcombe before the frost, but the roads flooded and the journey was put off.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P030",
+  "dest": "L10"
+ },
+ {
+  "id": "E0335",
+  "type": "TELL",
+  "chapter": 35,
+  "text": "Isric Thornmere could keep it no longer and told Havie Prydenridge that the old abbey at Gulhaven hides a second cellar.",
+  "where": "L07",
+  "ref_deps": [],
+  "secret": "S00",
+  "src": "P035",
+  "dest": "P002"
+ },
+ {
+  "id": "E0336",
+  "type": "GIVE",
+  "chapter": 35,
+  "text": "Isric Thornmere won the copper chalice from Gadrek Prydenridge at cards, fairly, and kept it.",
+  "where": "L07",
+  "ref_deps": [],
+  "item": "I03",
+  "src": "P005",
+  "dest": "P035"
+ },
+ {
+  "id": "E0337",
+  "type": "PROMISE",
+  "chapter": 35,
+  "text": "Luena gave the husband of Yera Stenworth a solemn promise to pay the old debt owed to the Haskick family.",
+  "where": "L07",
+  "ref_deps": [
+   "E0007",
+   "E0183"
+  ],
+  "promise": "R26",
+  "a": "P037",
+  "b": "P034",
+  "act": "to pay the old debt owed to the Haskick family"
+ },
+ {
+  "id": "E0338",
+  "type": "TRAVEL",
+  "chapter": 35,
+  "text": "Kadrek Brackick rode out of Wilholt; by the next market day he was living in Torton.",
+  "where": "L13",
+  "ref_deps": [],
+  "person": "P017",
+  "src": "L13",
+  "dest": "L12"
+ },
+ {
+  "id": "E0339",
+  "type": "TRAVEL",
+  "chapter": 35,
+  "text": "Rinelle Corrley went along to live in Torton as well.",
+  "where": "L13",
+  "ref_deps": [],
+  "person": "P029",
+  "src": "L13",
+  "dest": "L12"
+ },
+ {
+  "id": "E0340",
+  "type": "PROMISE",
+  "chapter": 36,
+  "text": "Yera Haskick gave Lurald Stenworth a solemn promise to carry a sealed letter to Quenford.",
+  "where": "L07",
+  "ref_deps": [],
+  "promise": "R27",
+  "a": "P013",
+  "b": "P043",
+  "act": "to carry a sealed letter to Quenford"
+ },
+ {
+  "id": "E0341",
+  "type": "GIVE",
+  "chapter": 36,
+  "text": "Rozek Stenenridge pressed the jade mirror into the hands of Luvie Prydenridge and would take nothing for it.",
+  "where": "L07",
+  "ref_deps": [],
+  "item": "I06",
+  "src": "P036",
+  "dest": "P004"
+ },
+ {
+  "id": "E0342",
+  "type": "RESOLVE",
+  "chapter": 36,
+  "text": "The eldest daughter of Lura Haskick kept the promise made to Nerine Prydenridge: the task (repair the roof of the chapel at Kelmere) was done by harvest.",
+  "where": "L07",
+  "ref_deps": [
+   "E0002"
+  ],
+  "promise": "R24",
+  "kept": true
+ },
+ {
+  "id": "E0343",
+  "type": "TRAVEL",
+  "chapter": 36,
+  "text": "Havie Prydenridge found work in Staveford, moved there, and did not return to Ostcombe.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P002",
+  "src": "L07",
+  "dest": "L11"
+ },
+ {
+  "id": "E0344",
+  "type": "TRAVEL",
+  "chapter": 36,
+  "text": "Isric Thornmere followed her to Staveford within the month.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P035",
+  "src": "L07",
+  "dest": "L11"
+ },
+ {
+  "id": "E0345",
+  "type": "OCCUPATION",
+  "chapter": 36,
+  "text": "The youngest daughter of Fewyn Stenworth was apprenticed anew and became a herbalist.",
+  "where": "L12",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P045",
+  "old": "shepherd",
+  "new": "herbalist"
+ },
+ {
+  "id": "E0346",
+  "type": "PROMISE",
+  "chapter": 36,
+  "text": "Fewyn gave Havus Stenworth a solemn promise to carry a sealed letter to Salcombe.",
+  "where": "L15",
+  "ref_deps": [
+   "E0008"
+  ],
+  "promise": "R28",
+  "a": "P041",
+  "b": "P040",
+  "act": "to carry a sealed letter to Salcombe"
+ },
+ {
+  "id": "E0347",
+  "type": "OCCUPATION",
+  "chapter": 36,
+  "text": "The youngest son of Nelan Brackick was apprenticed anew and became a weaver.",
+  "where": "L13",
+  "ref_deps": [
+   "E0003"
+  ],
+  "person": "P019",
+  "old": "chandler",
+  "new": "weaver"
+ },
+ {
+  "id": "E0348",
+  "type": "BIRTH",
+  "chapter": 36,
+  "text": "A son was born to Luvie Prydenridge and Semor Brackick, and they called the child Brevus Brackick. The family lived in Ostcombe.",
+  "where": "L07",
+  "ref_deps": [],
+  "child": "P067",
+  "mother": "P004",
+  "father": "P060",
+  "place": "L07"
+ },
+ {
+  "id": "E0349",
+  "type": "DEATH",
+  "chapter": 37,
+  "text": "That summer, a wound that festered took Ismira Stenson; she was buried at Kelmere.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P022",
+  "cause": "a wound that festered",
+  "place": "L06"
+ },
+ {
+  "id": "E0350",
+  "type": "GIVE",
+  "chapter": 37,
+  "text": "The bone compass, which Ismira Stenson had owned, went to Matho Stenson.",
+  "where": "L06",
+  "ref_deps": [],
+  "item": "I01",
+  "src": "P022",
+  "dest": "P021",
+  "inherit": true
+ },
+ {
+  "id": "E0351",
+  "type": "BIRTH",
+  "chapter": 37,
+  "text": "Pelde Stenworth gave birth to a daughter, named Elvie Brackick; the father was Sebin Brackick. The family lived in Torton.",
+  "where": "L12",
+  "ref_deps": [],
+  "child": "P068",
+  "mother": "P045",
+  "father": "P063",
+  "place": "L12"
+ },
+ {
+  "id": "E0352",
+  "type": "PROMISE",
+  "chapter": 37,
+  "text": "Sebin swore to the youngest daughter of Havus Stenworth to repair the roof of the chapel at Wilholt, and shook on it.",
+  "where": "L12",
+  "ref_deps": [
+   "E0008",
+   "E0235"
+  ],
+  "promise": "R29",
+  "a": "P063",
+  "b": "P045",
+  "act": "to repair the roof of the chapel at Wilholt"
+ },
+ {
+  "id": "E0353",
+  "type": "PLAN",
+  "chapter": 37,
+  "text": "Luvie Prydenridge meant to go to Kelmere before the frost, but the roads flooded and the journey was put off.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P004",
+  "dest": "L06"
+ },
+ {
+  "id": "E0354",
+  "type": "BIRTH",
+  "chapter": 37,
+  "text": "A son was born to Wenelle Lindmere and Rovus Prydenridge, and they called the child Madan Prydenridge. The family lived in Kelmere.",
+  "where": "L06",
+  "ref_deps": [],
+  "child": "P069",
+  "mother": "P010",
+  "father": "P003",
+  "place": "L06"
+ },
+ {
+  "id": "E0355",
+  "type": "TRAVEL",
+  "chapter": 37,
+  "text": "Febin Prydenridge packed a single trunk and moved from Kelmere to Elmhaven.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P065",
+  "src": "L06",
+  "dest": "L03"
+ },
+ {
+  "id": "E0356",
+  "type": "TELL",
+  "chapter": 37,
+  "text": "In a letter that Semor Brackick burned after reading, the youngest son of Malis Prydenridge revealed that the old abbey at Gulhaven hides a second cellar.",
+  "where": "L07",
+  "ref_deps": [
+   "E0000"
+  ],
+  "secret": "S00",
+  "src": "P005",
+  "dest": "P060"
+ },
+ {
+  "id": "E0357",
+  "type": "TRAVEL",
+  "chapter": 38,
+  "text": "Dalis left Torton and settled in Yarlby.",
+  "where": "L12",
+  "ref_deps": [
+   "E0174"
+  ],
+  "person": "P059",
+  "src": "L12",
+  "dest": "L15"
+ },
+ {
+  "id": "E0358",
+  "type": "OCCUPATION",
+  "chapter": 38,
+  "text": "Davus was apprenticed anew and became a mason.",
+  "where": "L12",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P044",
+  "old": null,
+  "new": "mason"
+ },
+ {
+  "id": "E0359",
+  "type": "BIRTH",
+  "chapter": 38,
+  "text": "A daughter was born to Movie Prydenridge and Thizek Stenenridge, and they called the child Kamira Stenenridge. The family lived in Elmhaven.",
+  "where": "L03",
+  "ref_deps": [],
+  "child": "P070",
+  "mother": "P053",
+  "father": "P038",
+  "place": "L03"
+ },
+ {
+  "id": "E0360",
+  "type": "PROMISE",
+  "chapter": 38,
+  "text": "Harine swore to the wife of Sebin Brackick to teach the children of Kelmere their letters, and shook on it.",
+  "where": "L12",
+  "ref_deps": [
+   "E0001",
+   "E0324"
+  ],
+  "promise": "R30",
+  "a": "P008",
+  "b": "P045",
+  "act": "to teach the children of Kelmere their letters"
+ },
+ {
+  "id": "E0361",
+  "type": "TRAVEL",
+  "chapter": 38,
+  "text": "Ilrald Prydenridge left Torton and settled in Wilwick.",
+  "where": "L12",
+  "ref_deps": [],
+  "person": "P061",
+  "src": "L12",
+  "dest": "L14"
+ },
+ {
+  "id": "E0362",
+  "type": "TRAVEL",
+  "chapter": 38,
+  "text": "Harine went along to live in Wilwick as well.",
+  "where": "L12",
+  "ref_deps": [
+   "E0001"
+  ],
+  "person": "P008",
+  "src": "L12",
+  "dest": "L14"
+ },
+ {
+  "id": "E0363",
+  "type": "TRAVEL",
+  "chapter": 39,
+  "text": "After the quarrel, Jotho Thornmere quit Ostcombe for good and took lodgings in Quenford.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P034",
+  "src": "L07",
+  "dest": "L08"
+ },
+ {
+  "id": "E0364",
+  "type": "TRAVEL",
+  "chapter": 39,
+  "text": "Yera Stenworth followed him to Quenford within the month.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P042",
+  "src": "L07",
+  "dest": "L08"
+ },
+ {
+  "id": "E0365",
+  "type": "GIVE",
+  "chapter": 39,
+  "text": "A parcel from Lura Haskick reached Bremira Corrford; inside was the silver chalice, now hers to keep.",
+  "where": "L08",
+  "ref_deps": [],
+  "item": "I10",
+  "src": "P012",
+  "dest": "P058"
+ },
+ {
+  "id": "E0366",
+  "type": "DEATH",
+  "chapter": 39,
+  "text": "They laid Marald Corrford in the churchyard at Ravenmere, dead of a fall from the mill loft.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P049",
+  "cause": "a fall from the mill loft",
+  "place": "L09"
+ },
+ {
+  "id": "E0367",
+  "type": "PROMISE",
+  "chapter": 39,
+  "text": "Fenelle Lindmere swore to Rorald Lindmere to plant an orchard on the slope above Salcombe, and shook on it.",
+  "where": "L09",
+  "ref_deps": [],
+  "promise": "R31",
+  "a": "P009",
+  "b": "P006",
+  "act": "to plant an orchard on the slope above Salcombe"
+ },
+ {
+  "id": "E0368",
+  "type": "MARRY",
+  "chapter": 39,
+  "text": "In the chapel at Yarlby, Dalis Stenworth married Movus Brackick. The couple lived in Yarlby from then on.",
+  "where": "L15",
+  "ref_deps": [],
+  "a": "P059",
+  "b": "P064",
+  "place": "L15"
+ },
+ {
+  "id": "E0369",
+  "type": "TRAVEL",
+  "chapter": 39,
+  "text": "Havie Prydenridge found work in Dunby, moved there, and did not return to Staveford.",
+  "where": "L11",
+  "ref_deps": [],
+  "person": "P002",
+  "src": "L11",
+  "dest": "L00"
+ },
+ {
+  "id": "E0370",
+  "type": "TRAVEL",
+  "chapter": 39,
+  "text": "Isric Thornmere went along to live in Dunby as well.",
+  "where": "L11",
+  "ref_deps": [],
+  "person": "P035",
+  "src": "L11",
+  "dest": "L00"
+ },
+ {
+  "id": "E0371",
+  "type": "TRAVEL",
+  "chapter": 39,
+  "text": "Peten Haskick rode out of Quenford; by the next market day he was living in Gulhaven.",
+  "where": "L08",
+  "ref_deps": [],
+  "person": "P011",
+  "src": "L08",
+  "dest": "L04"
+ },
+ {
+  "id": "E0372",
+  "type": "TRAVEL",
+  "chapter": 39,
+  "text": "Lura went along to live in Gulhaven as well.",
+  "where": "L08",
+  "ref_deps": [
+   "E0002"
+  ],
+  "person": "P012",
+  "src": "L08",
+  "dest": "L04"
+ },
+ {
+  "id": "E0373",
+  "type": "GIVE",
+  "chapter": 39,
+  "text": "A parcel from Matho Stenson reached Luvie Prydenridge; inside was the bone compass, now hers to keep.",
+  "where": "L06",
+  "ref_deps": [],
+  "item": "I01",
+  "src": "P021",
+  "dest": "P004"
+ },
+ {
+  "id": "E0374",
+  "type": "TELL",
+  "chapter": 40,
+  "text": "Kassa Brackick could keep it no longer and told Jotho Thornmere that the Stenenridge mill ledger was rewritten after the flood.",
+  "where": "L11",
+  "ref_deps": [],
+  "secret": "S01",
+  "src": "P018",
+  "dest": "P034"
+ },
+ {
+  "id": "E0375",
+  "type": "PLAN",
+  "chapter": 40,
+  "text": "Havus meant to go to Kelmere before the frost, but the roads flooded and the journey was put off.",
+  "where": "L15",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P040",
+  "dest": "L06"
+ },
+ {
+  "id": "E0376",
+  "type": "TRAVEL",
+  "chapter": 40,
+  "text": "Havus rode out of Yarlby; by the next market day he was living in Torton.",
+  "where": "L15",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P040",
+  "src": "L15",
+  "dest": "L12"
+ },
+ {
+  "id": "E0377",
+  "type": "TRAVEL",
+  "chapter": 40,
+  "text": "Fewyn followed him to Torton within the month.",
+  "where": "L15",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P041",
+  "src": "L15",
+  "dest": "L12"
+ },
+ {
+  "id": "E0378",
+  "type": "GIVE",
+  "chapter": 40,
+  "text": "Yera Stenworth won the pewter dagger from Quiet Jotho at cards, fairly, and kept it.",
+  "where": "L08",
+  "ref_deps": [
+   "E0045"
+  ],
+  "item": "I09",
+  "src": "P034",
+  "dest": "P042"
+ },
+ {
+  "id": "E0379",
+  "type": "BIRTH",
+  "chapter": 40,
+  "text": "Dalis Stenworth gave birth to a son, named Iszek Brackick; the father was Movus Brackick. The family lived in Yarlby.",
+  "where": "L15",
+  "ref_deps": [],
+  "child": "P071",
+  "mother": "P059",
+  "father": "P064",
+  "place": "L15"
+ },
+ {
+  "id": "E0380",
+  "type": "PROMISE",
+  "chapter": 40,
+  "text": "Havie Prydenridge gave Isric Thornmere a solemn promise to rebuild the fallen wall at Dungate.",
+  "where": "L00",
+  "ref_deps": [],
+  "promise": "R32",
+  "a": "P002",
+  "b": "P035",
+  "act": "to rebuild the fallen wall at Dungate"
+ }
+]

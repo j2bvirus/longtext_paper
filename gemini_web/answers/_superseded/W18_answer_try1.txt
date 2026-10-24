@@ -1,0 +1,114 @@
+Here is the step-by-step reasoning and compilation of statistics based on the 18 episodes in the provided transcript:
+
+1. **Player-Character Mapping**:
+* According to the instructions at the top of the file: Sam plays Taryon (in addition to Scanlan in earlier episodes, though the mapping explicitly binds `Sam -> Taryon`), Laura plays Vex'ahlia, Marisha plays Keyleth, Will plays Kashaw (Episode 7), etc.
+
+
+
+
+2. **Episode Breakdown of Rolls (Cumulative & Specific)**:
+* **Episode 1**: 41 total rolls (Sam/Taryon: 3, Keyleth: 4).
+
+
+* **Episode 2**: 44 total rolls (Sam/Taryon: 0, Keyleth: 5).
+
+
+* **Episode 3**: 36 total rolls (Sam/Taryon: 6, Keyleth: 5).
+
+
+* **Episode 4**: 33 total rolls (Sam/Taryon: 3, Keyleth: 5).
+
+
+* *Cumulative total at the end of Episode 4*: $41 + 44 + 36 + 33 = 154$.
+
+
+* **Episode 5**: 37 total rolls (Sam/Taryon: 5, Keyleth: 6).
+
+
+* *Cumulative total at the end of Episode 5*: $154 + 37 = 191$.
+* *Cumulative total for Sam/Taryon at the end of Episode 5*: $3 + 0 + 6 + 3 + 5 = 17$.
+* *First spell cast in Episode 5*: `Lightning Bolt` (cast by Scanlan into the Ioun Stone).
+
+
+
+
+* **Episode 6**: 49 total rolls (Sam/Taryon: 7, Keyleth: 0).
+
+
+* **Episode 7**: 40 total rolls (Sam/Taryon: 0, Keyleth: 3).
+
+
+* **Episode 8**: 45 total rolls (Sam/Taryon: 12, Keyleth: 5).
+
+
+* *Cumulative total for Keyleth at the end of Episode 8*: $4 + 5 + 5 + 5 + 6 + 0 + 3 + 5 = 33$.
+
+
+* **Episodes 9–18**: Counting all remaining rolls across the rest of the episodes gives a grand total of **50** rolls for Sam (mapped to Taryon).
+
+
+
+
+3. **Roll Types & Natural Values**:
+* **Animal Handling**: 2 rolls across all episodes (Episode 11 by Keyleth on the mastiffs, Episode 15 by Keyleth on the elephant/mammoth).
+
+
+* **Least common roll types (with >1 roll)**: `Animal Handling`, `Death Saving Throw`, and `Religion` each occur twice.
+
+
+* **Most common roll type**: `Attack` (followed by `Perception` and `Stealth`).
+
+
+* **Crits (Natural 1s and 20s)**: Counting all natural 1s and natural 20s rolled across all 18 episodes totals **133**.
+
+
+* **Natural value 4**: Rolled **12** times across all episodes.
+
+
+
+
+4. **Spell Casting Statistics**:
+* **Will (Kashaw)**: Casts `Locate Creature` (twice) and `Freedom of Movement` (once) in Episode 7, for a total of **3** spells.
+
+
+* **Laura (Vex'ahlia)**: Casts **31** spells across all episodes (including *Hunter's Mark*, *Pass Without a Trace*, *Protection from Poison*, *Hail of Thorns*, *Lightning Arrow*, *Conjure Barrage*, *Cure Wounds*, *Primeval Awareness*, *Locate Object*, *Speak with Animals*, *Conjure Animals*, and *Grasping Vine*).
+
+
+* **Chain Lightning**: Cast **1** time (by Keyleth in Episode 12 in the training room), meaning **1** character cast it.
+
+
+* **Cantrips**: Cast **19** times across all episodes (including *Light*, *Prestidigitation*, *Fire Bolt*, *Control Flames*, *Guidance*, *Thorn Whip*, *Vicious Mockery*, *Druidcraft*, *Poison Spray*, *Message*, *Minor Illusion*, and *Gust*).
+
+
+* **Spells cast at a higher level than base**: `Cure Wounds`, `Dispel Magic`, `Guiding Bolt`, `Hail of Thorns`, `Heroes' Feast`, `Scrying`, `Thunderwave`, `Wind Walk`, `Bigby's Hand`, `Counterspell`, `Flaming Sphere`.
+
+
+* **Most common spell**: `Pass Without a Trace`.
+
+
+* **Least common spells (cast once)**: `Alter Self`, `Aid`, `Beast Sense`, `Beacon of Hope`, `Chain Lightning`, `Cloudkill`, `Command`, `Conjure Barrage`, `Countercharm`, `Creation`, `Death Ward`, `Dominate Beast`, `Earthbind`, `Eyebite`, `Feather Fall`, `Flame Strike`, `Freedom of Movement`, `Gravity Sinkhole`, `Gust`, `Hellish Rebuke`, `Hold Monster`, `Hold Person`, `Hypnotic Pattern`, `Ice Storm`, `Insect Plague`, `Legend Lore`, `Mass Suggestion`, `Maze`, `Meld into Stone`, `Message`, `Minor Illusion`, `Move Earth`, `Planar Ally`, `Plane Shift`, `Plant Growth`, `Poison Spray`, `Polymorph`, `Protection from Energy`, `Protection from Poison`, `Revivify`, `Scorching Ray`, `Silence`, `Silent Image`, `Sleep`, `Slow`, `Speak with Plants`, `Spike Growth`, `Tasha's Hideous Laughter`, `Telekinesis`, `Teleportation Circle`, `Tidal Wave`, `True Polymorph`, `True Strike`, `Unseen Servant`, `Vampiric Touch`, `Vicious Mockery`, `Wall of Fire`, `Water Breathing`, `Watery Sphere`.
+
+
+
+
+
+Q01: \boxed{17}
+Q02: \boxed{2}
+Q03: \boxed{3}
+Q04: \boxed{31}
+Q05: \boxed{Aid, Beast Sense, Beacon of Hope, Chain Lightning, Cloudkill, Command, Conjure Barrage, Countercharm, Creation, Death Ward, Dominate Beast, Earthbind, Eyebite, Feather Fall, Flame Strike, Freedom of Movement, Gravity Sinkhole, Gust, Hellish Rebuke, Hold Monster, Hold Person, Hypnotic Pattern, Ice Storm, Insect Plague, Legend Lore, Mass Suggestion, Maze, Meld into Stone, Message, Minor Illusion, Move Earth, Planar Ally, Plant Growth, Poison Spray, Polymorph, Protection from Energy, Protection from Poison, Revivify, Scorching Ray, Silence, Silent Image, Sleep, Slow, Speak with Plants, Spike Growth, Tasha's Hideous Laughter, Telekinesis, Teleportation Circle, Tidal Wave, True Polymorph, True Strike, Unseen Servant, Vampiric Touch, Vicious Mockery, Wall of Fire, Water Breathing, Watery Sphere}
+Q06: \boxed{Attack}
+Q07: \boxed{Lightning Bolt}
+Q08: \boxed{133}
+Q09: \boxed{154}
+Q10: \boxed{33}
+Q11: \boxed{19}
+Q12: \boxed{Animal Handling, Death Saving Throw, Religion}
+Q13: \boxed{1}
+Q14: \boxed{Bigby's Hand, Counterspell, Cure Wounds, Dispel Magic, Flaming Sphere, Guiding Bolt, Hail of Thorns, Heroes' Feast, Scrying, Thunderwave, Wind Walk}
+Q15: \boxed{50}
+Q16: \boxed{Pass Without a Trace}
+Q17: \boxed{1}
+Q18: \boxed{12}
+Q19: \boxed{191}
+Q20: \boxed{50}

@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "Step 20 shifts from the general May 2019 Operations Report search in Step 19 to a Memorial Day schedule search.",
+  "evidence": "steps [19, 20, 21, 86, 87]"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "Step 86 states that the May report would provide per-train daily ridership counts needed to identify the busiest train on May 27.",
+  "evidence": "steps [9, 10, 11, 86, 87]"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "Step 86 explicitly describes extracting May 27 ridership counts, identifying the highest-ridership train, and checking its scheduled Pompano Beach arrival time.",
+  "evidence": "steps [39, 40, 41, 86, 87]"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "Step 86 explicitly states that the highest-ridership train is unidentified and its arrival time cannot be determined; Step 87 answers “unknown.”",
+  "evidence": "steps [86, 87]"
+ },
+ "Q0004": {
+  "label": "ambiguous",
+  "reason": "The query suggests recognition of Memorial Day, but does not establish that the agent already knew Tri-Rail would use a nonstandard weekday schedule.",
+  "evidence": "steps [19, 20, 21, 86, 87]"
+ },
+ "Q0005": {
+  "label": "not auditable",
+  "reason": "names no step",
+  "evidence": ""
+ },
+ "Q0006": {
+  "label": "ambiguous",
+  "reason": "Step 30 records the missing report and suggests alternatives, but the trajectory does not establish that marking it blocked was necessary to change methodology.",
+  "evidence": "steps [29, 30, 31, 86, 87]"
+ },
+ "Q0007": {
+  "label": "ambiguous",
+  "reason": "Turn 77 successfully saved a file, but omitted turns 79–85 could contain a later successful file update.",
+  "evidence": "steps [76, 77, 78, 86, 87]"
+ },
+ "Q0008": {
+  "label": "ambiguous",
+  "reason": "Most steps between turns 2 and 70 are omitted; the shown searches do not establish a constraint against contacting Tri-Rail directly.",
+  "evidence": "steps [1, 2, 3, 86, 87]"
+ },
+ "Q0009": {
+  "label": "ambiguous",
+  "reason": "Most intervening steps are omitted, so the total number of distinct search strategies and all four claimed strategies cannot be verified.",
+  "evidence": "steps [0, 1, 86, 87]"
+ },
+ "Q0010": {
+  "label": "not auditable",
+  "reason": "names no step",
+  "evidence": ""
+ },
+ "Q0011": {
+  "label": "wrong",
+  "reason": "No 404 errors are shown, and the agent explored archives, board packets, and other sources; repetition reflects missing per-train data rather than exclusive reliance on one source.",
+  "evidence": "steps [50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 86, 87]"
+ }
+}

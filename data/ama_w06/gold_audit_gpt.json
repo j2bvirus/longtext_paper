@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "Step 4 created test_reproduction.py.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "Step 5 unexpectedly succeeded with Agg, suggesting backend-dependent reproducibility.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "Step 9 reported “Current backend: agg.”",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "Exploration identified how set_draggable creates helpers and where the canvas reference is stored.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "Step 6 modified the script to try Qt5Agg and QtAgg.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "wrong",
+  "reason": "Step 33 introduced a mock unpickleable canvas, a later significant change in reproduction approach.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "Successful Qt5Agg selection would print that message and could reproduce the backend-specific error.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "Step 10 found draggable references across legend.py, offsetbox.py, and text.py.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "Step 202 ran pytest targeting test_legend.py::test_legend_draggable.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "Step 202 reported 2 passed in 1.22s.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "DraggableBase stored self.canvas, and the mock canvas reproduced the resulting pickling failure.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "wrong",
+  "reason": "Final edits added only __getstate__ methods; __setstate__ was removed, and edge-case verification failed.",
+  "evidence": "whole trajectory"
+ }
+}

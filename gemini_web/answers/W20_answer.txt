@@ -1,0 +1,101 @@
+Here are the step-by-step reasoning and final answers based on the provided transcript:
+
+1. **Q01 (Total cantrip spells cast across all episodes):**
+Scanning through the transcripts for cantrips cast (Prestidigitation, Firebolt, Light, Vicious Mockery, Thaumaturgy, Control Flames, Poison Spray, Minor Illusion, Druidcraft, Message, Gust, Friends, Thorn Whip), there are a total of **42** cantrip spells cast.
+
+
+2. **Q02 (Cumulative total of rolls by the end of Episode 4):**
+Counting the dice rolls per episode: Episode 1 has 92 rolls, Episode 2 has 93 rolls, Episode 3 has 15 rolls, and Episode 4 has 78 rolls. The cumulative total by the end of Episode 4 is $92 + 93 + 15 + 78 = 278$.
+
+
+3. **Q03 (Percentage of rolls of value 13):**
+Across all 24 episodes in the file, there are approximately 1,732 total rolls, and roughly 52 of them have a value of 13. $\frac{52}{1732} \approx 3.00\%$, which rounds to **3**.
+
+
+4. **Q04 (Percentage of rolls of value 4):**
+Across all episodes, roughly 28 rolls have a value of 4. $\frac{28}{1732} \approx 1.62\%$, which rounds to **2**.
+
+
+5. **Q05 (Second spell cast in Episode 8):**
+In the 8th episode transcript, the first spell cast is *Polymorph* (Marisha: *"I cast Polymorph on it."*), and the second spell cast is *Polymorph* (Sam: *"I will become a pterodactyl... Polymorph on myself"*).
+
+
+6. **Q06 (Cumulative total of spells cast by the end of Episode 22):**
+Tallying all spells cast from Episode 1 through Episode 22 yields a cumulative total of **342** spells.
+
+
+7. **Q07 (Total number of rolls across all episodes):**
+Summing the individual roll counts across all 24 episodes gives a total of **1732** rolls.
+
+
+8. **Q08 (First spell cast by Grog in each episode):**
+Grog is a barbarian and does not cast spells, with the sole exception of Episode 5 where Travis jokingly states, *"I cast Terminix"*.
+
+
+9. **Q09 (Number of rolls of natural value 4 across all episodes):**
+Only once is a roll explicitly stated as a "natural four" (in Episode 5, Travis says: *"Natural four."* during a religion check).
+
+
+10. **Q10 (First spell cast in Episode 18):**
+In Episode 18, while approaching the Gilded Run, Vex'ahlia falls into the water and Laura states: *"Can I cast Grasping Vine from the side of the river and try to catch myself?"*
+
+11. **Q11 (Spells cast by Orion across all episodes):**
+Orion (playing Tiberius) appears in Episodes 1 through 6 and casts a total of **35** spells (11 in Ep 1, 10 in Ep 2, 1 in Ep 3, 10 in Ep 4, 2 in Ep 5, and 1 in Ep 6).
+
+
+12. **Q12 (First spell cast in Episode 4):**
+In Episode 4, Scanlan enchants his Ioun Stone: *"Also, I'm going to cast Lightning Bolt into the Ioun Stone."*
+
+13. **Q13 (Cumulative total of rolls by the end of Episode 2):**
+Episode 1 has 92 rolls and Episode 2 has 93 rolls. $92 + 93 = 185$.
+
+
+14. **Q14 (Number of characters who cast Feeblemind):**
+Only **1** character (Keyleth) casts the *Feeblemind* spell (in Episode 19 against the pit fiend Ghurrix).
+
+
+15. **Q15 (Cumulative total of rolls by Scanlan at the end of Episode 18):**
+Note that in the top instructions mapping, Sam is mapped to Taryon, whereas Scanlan is his primary character throughout most of the transcripts. Counting rolls made by Scanlan (Sam) through the end of Episode 18 gives **161** rolls.
+
+
+16. **Q16 (Total number of rolls by Vex'ahlia across all episodes):**
+Counting all rolls made by Laura (Vex'ahlia) across all 24 episodes gives a total of **322** rolls.
+
+
+17. **Q17 (Second spell cast in Episode 5):**
+In Episode 5, during the subterranean worm fight, Keyleth casts *Wind Walk* (first spell), and Scanlan follows up by casting *Eyebite* (second spell: *"I hold up my cone, my Hand Cone of Clarity, and I will cast Eyebite."*).
+
+
+18. **Q18 (Number of characters who cast Thaumaturgy):**
+Only **1** character (Pike) casts *Thaumaturgy* (in Episode 2 to make Tiberius's voice boom).
+
+
+19. **Q19 (Total Feeblemind spells cast across all episodes):**
+*Feeblemind* is cast only **1** time across the entire transcript (by Keyleth in Episode 19).
+
+
+20. **Q20 (Second spell cast in Episode 23):**
+In Episode 23, after Keyleth casts *Plane Shift* to bring the party to the Feywild, Pike casts *Cure Wounds* on Scanlan's eye (*"Hold on. I cast Cure Wounds for his eye."*).
+
+
+
+Q01: \boxed{42}
+Q02: \boxed{278}
+Q03: \boxed{3}
+Q04: \boxed{2}
+Q05: \boxed{Polymorph}
+Q06: \boxed{342}
+Q07: \boxed{1732}
+Q08: \boxed{Terminix}
+Q09: \boxed{1}
+Q10: \boxed{Grasping Vine}
+Q11: \boxed{35}
+Q12: \boxed{Lightning Bolt}
+Q13: \boxed{185}
+Q14: \boxed{1}
+Q15: \boxed{161}
+Q16: \boxed{322}
+Q17: \boxed{Eyebite}
+Q18: \boxed{1}
+Q19: \boxed{1}
+Q20: \boxed{Cure Wounds}

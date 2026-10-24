@@ -1,0 +1,261 @@
+{"qid": "Q0000", "qtype": "LOC_NOW", "question": "Where does Codan Quillick live at the end of the record?"}
+{"qid": "Q0001", "qtype": "LOC_NOW", "question": "Where does Jolde Prydner live at the end of the record?"}
+{"qid": "Q0002", "qtype": "LOC_NOW", "question": "Where does Ridette Thornworth live at the end of the record?"}
+{"qid": "Q0003", "qtype": "LOC_NOW", "question": "Where does Vesmor Prydner live at the end of the record?"}
+{"qid": "Q0004", "qtype": "LOC_NOW", "question": "Where does Isssa Holloway live at the end of the record?"}
+{"qid": "Q0005", "qtype": "LOC_NOW", "question": "Where does Islis Ashson live at the end of the record?"}
+{"qid": "Q0006", "qtype": "LOC_NOW", "question": "Where does Riena Marrley live at the end of the record?"}
+{"qid": "Q0007", "qtype": "LOC_NOW", "question": "Where does Isnelle Thornwood live at the end of the record?"}
+{"qid": "Q0008", "qtype": "LOC_NOW", "question": "Where does Vesrine Quillson live at the end of the record?"}
+{"qid": "Q0009", "qtype": "LOC_NOW", "question": "Where does Hadan Holloway live at the end of the record?"}
+{"qid": "Q0010", "qtype": "LOC_NOW", "question": "Where does Vorine Quillson live at the end of the record?"}
+{"qid": "Q0011", "qtype": "LOC_NOW", "question": "Where does Orena Ashson live at the end of the record?"}
+{"qid": "Q0012", "qtype": "LOC_NOW", "question": "Where does Volia Tallowenridge live at the end of the record?"}
+{"qid": "Q0013", "qtype": "LOC_NOW", "question": "Where does Netho Ashson live at the end of the record?"}
+{"qid": "Q0014", "qtype": "LOC_NOW", "question": "Where does Gamor Ashson live at the end of the record?"}
+{"qid": "Q0015", "qtype": "LOC_NOW", "question": "Where does Nynar Tallowley live at the end of the record?"}
+{"qid": "Q0016", "qtype": "LOC_NOW", "question": "Where does Nelde Prydner live at the end of the record?"}
+{"qid": "Q0017", "qtype": "LOC_NOW", "question": "Where does Kanelle Quillick live at the end of the record?"}
+{"qid": "Q0018", "qtype": "LOC_NOW", "question": "Where does Thibin Ashson live at the end of the record?"}
+{"qid": "Q0019", "qtype": "LOC_NOW", "question": "Where does Tadette Prydner live at the end of the record?"}
+{"qid": "Q0020", "qtype": "LOC_NOW", "question": "Where does Garic Quillson live at the end of the record?"}
+{"qid": "Q0021", "qtype": "LOC_NOW", "question": "Where does Molia Tallowley live at the end of the record?"}
+{"qid": "Q0022", "qtype": "LOC_NOW", "question": "Where does Fetho Prydner live at the end of the record?"}
+{"qid": "Q0023", "qtype": "LOC_NOW", "question": "Where does Voena Tallowenridge live at the end of the record?"}
+{"qid": "Q0024", "qtype": "LOC_AT_EVENT", "question": "Where was Tadrek Tallowley living at the time Pelan Ashson died?"}
+{"qid": "Q0025", "qtype": "LOC_AT_EVENT", "question": "Where was Ilbin Thornworth living at the time Ornelle Thornworth died?"}
+{"qid": "Q0026", "qtype": "LOC_AT_EVENT", "question": "Where was Ilra Quillick living at the time Brerald Quillson died?"}
+{"qid": "Q0027", "qtype": "LOC_AT_EVENT", "question": "Where was Vorine Quillson living at the time Ilra Quillick died?"}
+{"qid": "Q0028", "qtype": "LOC_AT_EVENT", "question": "Where was Lurine Holloway living at the time Kanar Quillick died?"}
+{"qid": "Q0029", "qtype": "LOC_AT_EVENT", "question": "Where was Vodette Thornworth living at the time Dadrek Prydner died?"}
+{"qid": "Q0030", "qtype": "LOC_AT_EVENT", "question": "Where was Thilan Holloway living at the time Nemor Marrley died?"}
+{"qid": "Q0031", "qtype": "LOC_AT_EVENT", "question": "Where was Lurine Holloway living at the time Ilbin Thornworth died?"}
+{"qid": "Q0032", "qtype": "LOC_AT_EVENT", "question": "Where was Hadan Holloway living at the time Webin Ashson died?"}
+{"qid": "Q0033", "qtype": "LOC_AT_EVENT", "question": "Where was Fenar Tallowley living at the time Breric Tallowenridge died?"}
+{"qid": "Q0034", "qtype": "LOC_AT_EVENT", "question": "Where was Kanelle Quillick living at the time Bressa Quillick died?"}
+{"qid": "Q0035", "qtype": "LOC_AT_EVENT", "question": "Where was Serine Marrley living at the time Kassa Quillson died?"}
+{"qid": "Q0036", "qtype": "LOC_AT_EVENT", "question": "Where was Pelan Ashson living at the time Serine Marrley died?"}
+{"qid": "Q0037", "qtype": "LOC_AT_EVENT", "question": "Where was Ridette Thornworth living at the time Illan Tallowley died?"}
+{"qid": "Q0038", "qtype": "LOC_AT_EVENT", "question": "Where was Wedan Tallowley living at the time Wera Tallowenridge died?"}
+{"qid": "Q0039", "qtype": "LOC_AT_EVENT", "question": "Where was Vesmor Prydner living at the time Vowyn Thornwood died?"}
+{"qid": "Q0040", "qtype": "SPOUSE_NOW", "question": "Who is Islis Ashson married to at the end of the record? Answer 'none' if Islis Ashson has no living spouse."}
+{"qid": "Q0041", "qtype": "SPOUSE_NOW", "question": "Who is Gamor Ashson married to at the end of the record? Answer 'none' if Gamor Ashson has no living spouse."}
+{"qid": "Q0042", "qtype": "SPOUSE_NOW", "question": "Who is Vorine Thornworth married to at the end of the record? Answer 'none' if Vorine Thornworth has no living spouse."}
+{"qid": "Q0043", "qtype": "SPOUSE_NOW", "question": "Who is Hara Tallowley married to at the end of the record? Answer 'none' if Hara Tallowley has no living spouse."}
+{"qid": "Q0044", "qtype": "SPOUSE_NOW", "question": "Who is Dadrek Thornwood married to at the end of the record? Answer 'none' if Dadrek Thornwood has no living spouse."}
+{"qid": "Q0045", "qtype": "SPOUSE_NOW", "question": "Who is Rozek Thornwood married to at the end of the record? Answer 'none' if Rozek Thornwood has no living spouse."}
+{"qid": "Q0046", "qtype": "SPOUSE_NOW", "question": "Who is Lurine Holloway married to at the end of the record? Answer 'none' if Lurine Holloway has no living spouse."}
+{"qid": "Q0047", "qtype": "SPOUSE_NOW", "question": "Who is Isssa Holloway married to at the end of the record? Answer 'none' if Isssa Holloway has no living spouse."}
+{"qid": "Q0048", "qtype": "SPOUSE_NOW", "question": "Who is Tadrek Tallowley married to at the end of the record? Answer 'none' if Tadrek Tallowley has no living spouse."}
+{"qid": "Q0049", "qtype": "SPOUSE_NOW", "question": "Who is Cotho Quillson married to at the end of the record? Answer 'none' if Cotho Quillson has no living spouse."}
+{"qid": "Q0050", "qtype": "SPOUSE_NOW", "question": "Who is Vorine Quillson married to at the end of the record? Answer 'none' if Vorine Quillson has no living spouse."}
+{"qid": "Q0051", "qtype": "SPOUSE_NOW", "question": "Who is Jolde Prydner married to at the end of the record? Answer 'none' if Jolde Prydner has no living spouse."}
+{"qid": "Q0052", "qtype": "SPOUSE_NOW", "question": "Who is Vesrine Quillson married to at the end of the record? Answer 'none' if Vesrine Quillson has no living spouse."}
+{"qid": "Q0053", "qtype": "SPOUSE_NOW", "question": "Who is Nelde Prydner married to at the end of the record? Answer 'none' if Nelde Prydner has no living spouse."}
+{"qid": "Q0054", "qtype": "SPOUSE_NOW", "question": "Who is Volia Tallowenridge married to at the end of the record? Answer 'none' if Volia Tallowenridge has no living spouse."}
+{"qid": "Q0055", "qtype": "SPOUSE_NOW", "question": "Who is Isnelle Thornwood married to at the end of the record? Answer 'none' if Isnelle Thornwood has no living spouse."}
+{"qid": "Q0056", "qtype": "SPOUSE_NOW", "question": "Who is Perald Quillson married to at the end of the record? Answer 'none' if Perald Quillson has no living spouse."}
+{"qid": "Q0057", "qtype": "SPOUSE_NOW", "question": "Who is Orena Ashson married to at the end of the record? Answer 'none' if Orena Ashson has no living spouse."}
+{"qid": "Q0058", "qtype": "SPOUSE_NOW", "question": "Who is Kanelle Quillick married to at the end of the record? Answer 'none' if Kanelle Quillick has no living spouse."}
+{"qid": "Q0059", "qtype": "SPOUSE_NOW", "question": "Who is Riena Marrley married to at the end of the record? Answer 'none' if Riena Marrley has no living spouse."}
+{"qid": "Q0060", "qtype": "SPOUSE_NOW", "question": "Who is Darald Thornwood married to at the end of the record? Answer 'none' if Darald Thornwood has no living spouse."}
+{"qid": "Q0061", "qtype": "SPOUSE_NOW", "question": "Who is Rovie Tallowenridge married to at the end of the record? Answer 'none' if Rovie Tallowenridge has no living spouse."}
+{"qid": "Q0062", "qtype": "SPOUSE_NOW", "question": "Who is Vesmor Prydner married to at the end of the record? Answer 'none' if Vesmor Prydner has no living spouse."}
+{"qid": "Q0063", "qtype": "SPOUSE_NOW", "question": "Who is Orric Prydner married to at the end of the record? Answer 'none' if Orric Prydner has no living spouse."}
+{"qid": "Q0064", "qtype": "SPOUSE_NOW", "question": "Who is Dalis Holloway married to at the end of the record? Answer 'none' if Dalis Holloway has no living spouse."}
+{"qid": "Q0065", "qtype": "ALIVE", "question": "Is Illan Tallowley alive at the end of the record? Answer yes or no."}
+{"qid": "Q0066", "qtype": "ALIVE", "question": "Is Bressa Quillick alive at the end of the record? Answer yes or no."}
+{"qid": "Q0067", "qtype": "ALIVE", "question": "Is Thilan Holloway alive at the end of the record? Answer yes or no."}
+{"qid": "Q0068", "qtype": "ALIVE", "question": "Is Kanar Quillick alive at the end of the record? Answer yes or no."}
+{"qid": "Q0069", "qtype": "ALIVE", "question": "Is Breric Tallowenridge alive at the end of the record? Answer yes or no."}
+{"qid": "Q0070", "qtype": "ALIVE", "question": "Is Ilbin Thornworth alive at the end of the record? Answer yes or no."}
+{"qid": "Q0071", "qtype": "ALIVE", "question": "Is Kassa Quillson alive at the end of the record? Answer yes or no."}
+{"qid": "Q0072", "qtype": "ALIVE", "question": "Is Ilra Quillick alive at the end of the record? Answer yes or no."}
+{"qid": "Q0073", "qtype": "ALIVE", "question": "Is Wera Tallowenridge alive at the end of the record? Answer yes or no."}
+{"qid": "Q0074", "qtype": "ALIVE", "question": "Is Dadrek Prydner alive at the end of the record? Answer yes or no."}
+{"qid": "Q0075", "qtype": "ALIVE", "question": "Is Nemor Marrley alive at the end of the record? Answer yes or no."}
+{"qid": "Q0076", "qtype": "ALIVE", "question": "Is Vowyn Thornwood alive at the end of the record? Answer yes or no."}
+{"qid": "Q0077", "qtype": "ALIVE", "question": "Is Wedan Tallowley alive at the end of the record? Answer yes or no."}
+{"qid": "Q0078", "qtype": "ALIVE", "question": "Is Orric Prydner alive at the end of the record? Answer yes or no."}
+{"qid": "Q0079", "qtype": "ALIVE", "question": "Is Isnelle Thornwood alive at the end of the record? Answer yes or no."}
+{"qid": "Q0080", "qtype": "ALIVE", "question": "Is Riena Marrley alive at the end of the record? Answer yes or no."}
+{"qid": "Q0081", "qtype": "ALIVE", "question": "Is Rozek Thornwood alive at the end of the record? Answer yes or no."}
+{"qid": "Q0082", "qtype": "ALIVE", "question": "Is Jolde Prydner alive at the end of the record? Answer yes or no."}
+{"qid": "Q0083", "qtype": "ALIVE", "question": "Is Codan Quillick alive at the end of the record? Answer yes or no."}
+{"qid": "Q0084", "qtype": "ALIVE", "question": "Is Dalis Holloway alive at the end of the record? Answer yes or no."}
+{"qid": "Q0085", "qtype": "ALIVE", "question": "Is Jowyn Marrley alive at the end of the record? Answer yes or no."}
+{"qid": "Q0086", "qtype": "ALIVE", "question": "Is Hadan Holloway alive at the end of the record? Answer yes or no."}
+{"qid": "Q0087", "qtype": "ALIVE", "question": "Is Felis Marrley alive at the end of the record? Answer yes or no."}
+{"qid": "Q0088", "qtype": "ALIVE", "question": "Is Cotho Quillson alive at the end of the record? Answer yes or no."}
+{"qid": "Q0089", "qtype": "ALIVE", "question": "Is Volia Tallowenridge alive at the end of the record? Answer yes or no."}
+{"qid": "Q0090", "qtype": "OWNER_NOW", "question": "Who holds the bone dagger at the end of the record?"}
+{"qid": "Q0091", "qtype": "OWNER_NOW", "question": "Who holds the brass mirror at the end of the record?"}
+{"qid": "Q0092", "qtype": "OWNER_NOW", "question": "Who holds the silver lantern at the end of the record?"}
+{"qid": "Q0093", "qtype": "OWNER_NOW", "question": "Who holds the copper map at the end of the record?"}
+{"qid": "Q0094", "qtype": "OWNER_NOW", "question": "Who holds the bone flute at the end of the record?"}
+{"qid": "Q0095", "qtype": "OWNER_NOW", "question": "Who holds the iron ring at the end of the record?"}
+{"qid": "Q0096", "qtype": "OWNER_NOW", "question": "Who holds the copper ledger at the end of the record?"}
+{"qid": "Q0097", "qtype": "OWNER_NOW", "question": "Who holds the garnet compass at the end of the record?"}
+{"qid": "Q0098", "qtype": "OWNER_NOW", "question": "Who holds the bone seal at the end of the record?"}
+{"qid": "Q0099", "qtype": "OWNER_NOW", "question": "Who holds the iron seal at the end of the record?"}
+{"qid": "Q0100", "qtype": "OWNER_NOW", "question": "Who holds the amber chalice at the end of the record?"}
+{"qid": "Q0101", "qtype": "OWNER_NOW", "question": "Who holds the garnet ledger at the end of the record?"}
+{"qid": "Q0102", "qtype": "OWNER_PREV", "question": "Who held the bone dagger immediately before its current holder?"}
+{"qid": "Q0103", "qtype": "OWNER_PREV", "question": "Who held the silver lantern immediately before its current holder?"}
+{"qid": "Q0104", "qtype": "OWNER_PREV", "question": "Who held the copper map immediately before its current holder?"}
+{"qid": "Q0105", "qtype": "OWNER_PREV", "question": "Who held the bone flute immediately before its current holder?"}
+{"qid": "Q0106", "qtype": "OWNER_PREV", "question": "Who held the iron ring immediately before its current holder?"}
+{"qid": "Q0107", "qtype": "OWNER_PREV", "question": "Who held the garnet compass immediately before its current holder?"}
+{"qid": "Q0108", "qtype": "OWNER_PREV", "question": "Who held the bone seal immediately before its current holder?"}
+{"qid": "Q0109", "qtype": "OWNER_PREV", "question": "Who held the iron seal immediately before its current holder?"}
+{"qid": "Q0110", "qtype": "OWNER_PREV", "question": "Who held the amber chalice immediately before its current holder?"}
+{"qid": "Q0111", "qtype": "OWNER_PREV", "question": "Who held the garnet ledger immediately before its current holder?"}
+{"qid": "Q0112", "qtype": "GRANDPARENT", "question": "Who is the maternal grandmother of Garic Quillson?"}
+{"qid": "Q0113", "qtype": "GRANDPARENT", "question": "Who is the maternal grandfather of Nelde Prydner?"}
+{"qid": "Q0114", "qtype": "GRANDPARENT", "question": "Who is the maternal grandfather of Bredan Prydner?"}
+{"qid": "Q0115", "qtype": "GRANDPARENT", "question": "Who is the maternal grandfather of Fenar Tallowley?"}
+{"qid": "Q0116", "qtype": "GRANDPARENT", "question": "Who is the maternal grandmother of Tadette Prydner?"}
+{"qid": "Q0117", "qtype": "GRANDPARENT", "question": "Who is the paternal grandmother of Fetho Prydner?"}
+{"qid": "Q0118", "qtype": "GRANDPARENT", "question": "Who is the maternal grandmother of Vodan Quillick?"}
+{"qid": "Q0119", "qtype": "GRANDPARENT", "question": "Who is the paternal grandfather of Orlde Thornwood?"}
+{"qid": "Q0120", "qtype": "GRANDPARENT", "question": "Who is the maternal grandfather of Newyn Thornwood?"}
+{"qid": "Q0121", "qtype": "GRANDPARENT", "question": "Who is the paternal grandmother of Molia Tallowley?"}
+{"qid": "Q0122", "qtype": "GRANDPARENT", "question": "Who is the paternal grandfather of Vesmor Prydner?"}
+{"qid": "Q0123", "qtype": "GRANDPARENT", "question": "Who is the maternal grandmother of Cotho Quillson?"}
+{"qid": "Q0124", "qtype": "GRANDPARENT", "question": "Who is the maternal grandfather of Thibin Ashson?"}
+{"qid": "Q0125", "qtype": "KNOWS", "question": "By the end of the record, does Vorine Thornworth know that the old abbey at Harrowmere hides a second cellar? Answer yes or no."}
+{"qid": "Q0126", "qtype": "KNOWS", "question": "By the end of the record, does Thilan Holloway know that the bridge toll at Larkford is skimmed every month? Answer yes or no."}
+{"qid": "Q0127", "qtype": "KNOWS", "question": "By the end of the record, does Islis Ashson know that the Ashson family once owed a blood debt to the Quillson family? Answer yes or no."}
+{"qid": "Q0128", "qtype": "KNOWS", "question": "By the end of the record, does Wera Tallowenridge know that the bridge toll at Larkford is skimmed every month? Answer yes or no."}
+{"qid": "Q0129", "qtype": "KNOWS", "question": "By the end of the record, does Netho Ashson know that the bridge toll at Larkford is skimmed every month? Answer yes or no."}
+{"qid": "Q0130", "qtype": "KNOWS", "question": "By the end of the record, does Lurine Holloway know that the Ashson family once owed a blood debt to the Quillson family? Answer yes or no."}
+{"qid": "Q0131", "qtype": "KNOWS", "question": "By the end of the record, does Felis Marrley know that the deed to the Fengate pastures was forged? Answer yes or no."}
+{"qid": "Q0132", "qtype": "KNOWS", "question": "By the end of the record, does Isssa Holloway know that the deed to the Fengate pastures was forged? Answer yes or no."}
+{"qid": "Q0133", "qtype": "KNOWS", "question": "By the end of the record, does Orena Ashson know that the deed to the Fengate pastures was forged? Answer yes or no."}
+{"qid": "Q0134", "qtype": "KNOWS", "question": "By the end of the record, does Nemor Marrley know that the bridge toll at Larkford is skimmed every month? Answer yes or no."}
+{"qid": "Q0135", "qtype": "KNOWS", "question": "By the end of the record, does Netho Ashson know that the Ashson family once owed a blood debt to the Quillson family? Answer yes or no."}
+{"qid": "Q0136", "qtype": "KNOWS", "question": "By the end of the record, does Lurine Holloway know that the bridge toll at Larkford is skimmed every month? Answer yes or no."}
+{"qid": "Q0137", "qtype": "KNOWS", "question": "By the end of the record, does Illan Tallowley know that the Thornwood mill ledger was rewritten after the flood? Answer yes or no."}
+{"qid": "Q0138", "qtype": "KNOWS", "question": "By the end of the record, does Vodette Thornworth know that the bridge toll at Larkford is skimmed every month? Answer yes or no."}
+{"qid": "Q0139", "qtype": "KNOWS", "question": "By the end of the record, does Kassa Quillson know that a chest of silver lies buried beneath the well at Kelmere? Answer yes or no."}
+{"qid": "Q0140", "qtype": "KNOWS", "question": "By the end of the record, does Rovie Tallowenridge know that the bridge toll at Larkford is skimmed every month? Answer yes or no."}
+{"qid": "Q0141", "qtype": "KNOWS", "question": "By the end of the record, does Wedan Tallowley know that the fire at the Torcombe granary was set on purpose? Answer yes or no."}
+{"qid": "Q0142", "qtype": "KNOWS", "question": "By the end of the record, does Felis Marrley know that a chest of silver lies buried beneath the well at Kelmere? Answer yes or no."}
+{"qid": "Q0143", "qtype": "KNOWS", "question": "By the end of the record, does Webin Ashson know that the deed to the Fengate pastures was forged? Answer yes or no."}
+{"qid": "Q0144", "qtype": "KNOWS", "question": "By the end of the record, does Ridette Thornworth know that the fire at the Torcombe granary was set on purpose? Answer yes or no."}
+{"qid": "Q0145", "qtype": "KNOWS", "question": "By the end of the record, does Orena Ashson know that the Ashson family once owed a blood debt to the Quillson family? Answer yes or no."}
+{"qid": "Q0146", "qtype": "KNOWS", "question": "By the end of the record, does Hara Tallowley know that the Ashson family once owed a blood debt to the Quillson family? Answer yes or no."}
+{"qid": "Q0147", "qtype": "KNOWS", "question": "By the end of the record, does Ilbin Thornworth know that the old abbey at Harrowmere hides a second cellar? Answer yes or no."}
+{"qid": "Q0148", "qtype": "KNOWS", "question": "By the end of the record, does Fetho Prydner know that the old abbey at Harrowmere hides a second cellar? Answer yes or no."}
+{"qid": "Q0149", "qtype": "KNOWS", "question": "By the end of the record, does Cotho Quillson know that the harbor master of Wilwick takes bribes? Answer yes or no."}
+{"qid": "Q0150", "qtype": "PROMISE", "question": "Darald Thornwood promised Rozek Thornwood to plant an orchard on the slope above Mireton. Was that promise kept, broken, or still pending at the end of the record? Answer kept, broken, or pending."}
+{"qid": "Q0151", "qtype": "PROMISE", "question": "Vowyn Thornwood promised Isnelle Thornwood to rebuild the fallen wall at Ostcombe. Was that promise kept, broken, or still pending at the end of the record? Answer kept, broken, or pending."}
+{"qid": "Q0152", "qtype": "PROMISE", "question": "Lurine Holloway promised Dalis Holloway to carry a sealed letter to Wilwick. Was that promise kept, broken, or still pending at the end of the record? Answer kept, broken, or pending."}
+{"qid": "Q0153", "qtype": "PROMISE", "question": "Vesmor Prydner promised Islis Ashson to teach the children of Braewick their letters. Was that promise kept, broken, or still pending at the end of the record? Answer kept, broken, or pending."}
+{"qid": "Q0154", "qtype": "PROMISE", "question": "Hadan Holloway promised Dadrek Thornwood to rebuild the fallen wall at Wilwick. Was that promise kept, broken, or still pending at the end of the record? Answer kept, broken, or pending."}
+{"qid": "Q0155", "qtype": "PROMISE", "question": "Dadrek Thornwood promised Lurine Holloway to rebuild the fallen wall at Ostcombe. Was that promise kept, broken, or still pending at the end of the record? Answer kept, broken, or pending."}
+{"qid": "Q0156", "qtype": "PROMISE", "question": "Lurine Holloway promised Netho Ashson to rebuild the fallen wall at Larkford. Was that promise kept, broken, or still pending at the end of the record? Answer kept, broken, or pending."}
+{"qid": "Q0157", "qtype": "PROMISE", "question": "Pelan Ashson promised Webin Ashson to pay the old debt owed to the Thornwood family. Was that promise kept, broken, or still pending at the end of the record? Answer kept, broken, or pending."}
+{"qid": "Q0158", "qtype": "PROMISE", "question": "Pelan Ashson promised Vorine Quillson to rebuild the fallen wall at Fengate. Was that promise kept, broken, or still pending at the end of the record? Answer kept, broken, or pending."}
+{"qid": "Q0159", "qtype": "PROMISE", "question": "Riena Marrley promised Perald Quillson to carry a sealed letter to Yarlgate. Was that promise kept, broken, or still pending at the end of the record? Answer kept, broken, or pending."}
+{"qid": "Q0160", "qtype": "PROMISE", "question": "Voena Tallowenridge promised Rovie Tallowenridge to teach the children of Fengate their letters. Was that promise kept, broken, or still pending at the end of the record? Answer kept, broken, or pending."}
+{"qid": "Q0161", "qtype": "PROMISE", "question": "Brerald Quillson promised Kassa Quillson to pay the old debt owed to the Quillick family. Was that promise kept, broken, or still pending at the end of the record? Answer kept, broken, or pending."}
+{"qid": "Q0162", "qtype": "PROMISE", "question": "Rovie Tallowenridge promised Voena Tallowenridge to repair the roof of the chapel at Fengate. Was that promise kept, broken, or still pending at the end of the record? Answer kept, broken, or pending."}
+{"qid": "Q0163", "qtype": "PROMISE", "question": "Hadan Holloway promised Thilan Holloway to repair the roof of the chapel at Coldmere. Was that promise kept, broken, or still pending at the end of the record? Answer kept, broken, or pending."}
+{"qid": "Q0164", "qtype": "PROMISE", "question": "Nemor Marrley promised Dalis Holloway to carry a sealed letter to Coldmere. Was that promise kept, broken, or still pending at the end of the record? Answer kept, broken, or pending."}
+{"qid": "Q0165", "qtype": "PROMISE", "question": "Orric Prydner promised Orena Ashson to rebuild the fallen wall at Larkford. Was that promise kept, broken, or still pending at the end of the record? Answer kept, broken, or pending."}
+{"qid": "Q0166", "qtype": "PROMISE", "question": "Lurine Holloway promised Hadan Holloway to plant an orchard on the slope above Coldmere. Was that promise kept, broken, or still pending at the end of the record? Answer kept, broken, or pending."}
+{"qid": "Q0167", "qtype": "PROMISE", "question": "Felis Marrley promised Rozek Thornwood to pay the old debt owed to the Thornworth family. Was that promise kept, broken, or still pending at the end of the record? Answer kept, broken, or pending."}
+{"qid": "Q0168", "qtype": "PROMISE", "question": "Codan Quillick promised Rovie Tallowenridge to pay the old debt owed to the Ashson family. Was that promise kept, broken, or still pending at the end of the record? Answer kept, broken, or pending."}
+{"qid": "Q0169", "qtype": "PROMISE", "question": "Hadan Holloway promised Dalis Holloway to teach the children of Harrowford their letters. Was that promise kept, broken, or still pending at the end of the record? Answer kept, broken, or pending."}
+{"qid": "Q0170", "qtype": "PROMISE", "question": "Felis Marrley promised Wedan Tallowley to carry a sealed letter to Fengate. Was that promise kept, broken, or still pending at the end of the record? Answer kept, broken, or pending."}
+{"qid": "Q0171", "qtype": "PROMISE", "question": "Orena Ashson promised Serine Marrley to carry a sealed letter to Elmford. Was that promise kept, broken, or still pending at the end of the record? Answer kept, broken, or pending."}
+{"qid": "Q0172", "qtype": "PROMISE", "question": "Orena Ashson promised Nynar Tallowley to rebuild the fallen wall at Harrowford. Was that promise kept, broken, or still pending at the end of the record? Answer kept, broken, or pending."}
+{"qid": "Q0173", "qtype": "PROMISE", "question": "Vesrine Quillson promised Vorine Thornworth to plant an orchard on the slope above Braewick. Was that promise kept, broken, or still pending at the end of the record? Answer kept, broken, or pending."}
+{"qid": "Q0174", "qtype": "PROMISE", "question": "Vowyn Thornwood promised Felis Marrley to pay the old debt owed to the Tallowley family. Was that promise kept, broken, or still pending at the end of the record? Answer kept, broken, or pending."}
+{"qid": "Q0175", "qtype": "RULE_VAULT", "question": "At the end of the record, could Dalis Holloway open the vault beneath the chapel at Elmford? Answer yes or no."}
+{"qid": "Q0176", "qtype": "RULE_BRIDGE", "question": "At the end of the record, is Tadrek Tallowley allowed to cross the toll bridge at Fengate? Answer yes or no."}
+{"qid": "Q0177", "qtype": "RULE_BRIDGE", "question": "At the end of the record, is Nynar Tallowley allowed to cross the toll bridge at Fengate? Answer yes or no."}
+{"qid": "Q0178", "qtype": "RULE_BRIDGE", "question": "At the end of the record, is Wedan Tallowley allowed to cross the toll bridge at Fengate? Answer yes or no."}
+{"qid": "Q0179", "qtype": "RULE_BRIDGE", "question": "At the end of the record, is Orena Ashson allowed to cross the toll bridge at Fengate? Answer yes or no."}
+{"qid": "Q0180", "qtype": "RULE_BRIDGE", "question": "At the end of the record, is Bredan Prydner allowed to cross the toll bridge at Fengate? Answer yes or no."}
+{"qid": "Q0181", "qtype": "RULE_BRIDGE", "question": "At the end of the record, is Vesrine Quillson allowed to cross the toll bridge at Fengate? Answer yes or no."}
+{"qid": "Q0182", "qtype": "RULE_BRIDGE", "question": "At the end of the record, is Felis Marrley allowed to cross the toll bridge at Fengate? Answer yes or no."}
+{"qid": "Q0183", "qtype": "RULE_BRIDGE", "question": "At the end of the record, is Orric Prydner allowed to cross the toll bridge at Fengate? Answer yes or no."}
+{"qid": "Q0184", "qtype": "RULE_BRIDGE", "question": "At the end of the record, is Nelde Prydner allowed to cross the toll bridge at Fengate? Answer yes or no."}
+{"qid": "Q0185", "qtype": "RULE_BRIDGE", "question": "At the end of the record, is Netho Ashson allowed to cross the toll bridge at Fengate? Answer yes or no."}
+{"qid": "Q0186", "qtype": "RULE_BRIDGE", "question": "At the end of the record, is Rozek Thornwood allowed to cross the toll bridge at Fengate? Answer yes or no."}
+{"qid": "Q0187", "qtype": "EVER_VISITED", "question": "Did Breric Tallowenridge ever live in Ostcombe at any point in the record? Answer yes or no."}
+{"qid": "Q0188", "qtype": "EVER_VISITED", "question": "Did Netho Ashson ever live in Harrowmere at any point in the record? Answer yes or no."}
+{"qid": "Q0189", "qtype": "EVER_VISITED", "question": "Did Orena Ashson ever live in Torhaven at any point in the record? Answer yes or no."}
+{"qid": "Q0190", "qtype": "EVER_VISITED", "question": "Did Vodette Thornworth ever live in Braewick at any point in the record? Answer yes or no."}
+{"qid": "Q0191", "qtype": "EVER_VISITED", "question": "Did Jolde Prydner ever live in Torhaven at any point in the record? Answer yes or no."}
+{"qid": "Q0192", "qtype": "EVER_VISITED", "question": "Did Jolde Prydner ever live in Fengate at any point in the record? Answer yes or no."}
+{"qid": "Q0193", "qtype": "EVER_VISITED", "question": "Did Volia Tallowenridge ever live in Elmford at any point in the record? Answer yes or no."}
+{"qid": "Q0194", "qtype": "EVER_VISITED", "question": "Did Lurine Holloway ever live in Coldmere at any point in the record? Answer yes or no."}
+{"qid": "Q0195", "qtype": "EVER_VISITED", "question": "Did Netho Ashson ever live in Mireton at any point in the record? Answer yes or no."}
+{"qid": "Q0196", "qtype": "EVER_VISITED", "question": "Did Wedan Tallowley ever live in Yarlgate at any point in the record? Answer yes or no."}
+{"qid": "Q0197", "qtype": "EVER_VISITED", "question": "Did Orric Prydner ever live in Ostcombe at any point in the record? Answer yes or no."}
+{"qid": "Q0198", "qtype": "EVER_VISITED", "question": "Did Jolde Prydner ever live in Larkford at any point in the record? Answer yes or no."}
+{"qid": "Q0199", "qtype": "EVER_VISITED", "question": "Did Vesrine Quillson ever live in Yarlgate at any point in the record? Answer yes or no."}
+{"qid": "Q0200", "qtype": "EVER_VISITED", "question": "Did Isnelle Thornwood ever live in Larkford at any point in the record? Answer yes or no."}
+{"qid": "Q0201", "qtype": "EVER_VISITED", "question": "Did Hadan Holloway ever live in Coldmere at any point in the record? Answer yes or no."}
+{"qid": "Q0202", "qtype": "EVER_VISITED", "question": "Did Jowyn Marrley ever live in Ostcombe at any point in the record? Answer yes or no."}
+{"qid": "Q0203", "qtype": "EVER_VISITED", "question": "Did Rozek Thornwood ever live in Harrowmere at any point in the record? Answer yes or no."}
+{"qid": "Q0204", "qtype": "EVER_VISITED", "question": "Did Jolde Prydner ever live in Mireton at any point in the record? Answer yes or no."}
+{"qid": "Q0205", "qtype": "EVER_VISITED", "question": "Did Netho Ashson ever live in Harrowford at any point in the record? Answer yes or no."}
+{"qid": "Q0206", "qtype": "EVER_VISITED", "question": "Did Bredan Prydner ever live in Coldmere at any point in the record? Answer yes or no."}
+{"qid": "Q0207", "qtype": "EVER_VISITED", "question": "Did Brerald Quillson ever live in Yarlton at any point in the record? Answer yes or no."}
+{"qid": "Q0208", "qtype": "EVER_VISITED", "question": "Did Ulvus Prydner ever live in Yarlgate at any point in the record? Answer yes or no."}
+{"qid": "Q0209", "qtype": "EVER_VISITED", "question": "Did Jolde Prydner ever live in Torcombe at any point in the record? Answer yes or no."}
+{"qid": "Q0210", "qtype": "EVER_VISITED", "question": "Did Vorine Thornworth ever live in Kelmere at any point in the record? Answer yes or no."}
+{"qid": "Q0211", "qtype": "EVER_VISITED", "question": "Did Isssa Holloway ever live in Ostcombe at any point in the record? Answer yes or no."}
+{"qid": "Q0212", "qtype": "BIRTHPLACE", "question": "Where was Jodrek Prydner born? Answer 'unknown' if the record never says."}
+{"qid": "Q0213", "qtype": "BIRTHPLACE", "question": "Where was Orlde Thornwood born? Answer 'unknown' if the record never says."}
+{"qid": "Q0214", "qtype": "BIRTHPLACE", "question": "Where was Kanelle Quillick born? Answer 'unknown' if the record never says."}
+{"qid": "Q0215", "qtype": "BIRTHPLACE", "question": "Where was Fetho Prydner born? Answer 'unknown' if the record never says."}
+{"qid": "Q0216", "qtype": "BIRTHPLACE", "question": "Where was Brerald Quillson born? Answer 'unknown' if the record never says."}
+{"qid": "Q0217", "qtype": "BIRTHPLACE", "question": "Where was Wedan Tallowley born? Answer 'unknown' if the record never says."}
+{"qid": "Q0218", "qtype": "BIRTHPLACE", "question": "Where was Codan Quillick born? Answer 'unknown' if the record never says."}
+{"qid": "Q0219", "qtype": "BIRTHPLACE", "question": "Where was Vorine Thornworth born? Answer 'unknown' if the record never says."}
+{"qid": "Q0220", "qtype": "BIRTHPLACE", "question": "Where was Bredan Prydner born? Answer 'unknown' if the record never says."}
+{"qid": "Q0221", "qtype": "BIRTHPLACE", "question": "Where was Fenar Tallowley born? Answer 'unknown' if the record never says."}
+{"qid": "Q0222", "qtype": "BIRTHPLACE", "question": "Where was Orric Prydner born? Answer 'unknown' if the record never says."}
+{"qid": "Q0223", "qtype": "BIRTHPLACE", "question": "Where was Cotho Quillson born? Answer 'unknown' if the record never says."}
+{"qid": "Q0224", "qtype": "BIRTHPLACE", "question": "Where was Jolde Prydner born? Answer 'unknown' if the record never says."}
+{"qid": "Q0225", "qtype": "BIRTHPLACE", "question": "Where was Gamor Ashson born? Answer 'unknown' if the record never says."}
+{"qid": "Q0226", "qtype": "BIRTHPLACE", "question": "Where was Illan Tallowley born? Answer 'unknown' if the record never says."}
+{"qid": "Q0227", "qtype": "BIRTHPLACE", "question": "Where was Hara Tallowley born? Answer 'unknown' if the record never says."}
+{"qid": "Q0228", "qtype": "BIRTHPLACE", "question": "Where was Kanar Quillick born? Answer 'unknown' if the record never says."}
+{"qid": "Q0229", "qtype": "BIRTHPLACE", "question": "Where was Rozek Thornwood born? Answer 'unknown' if the record never says."}
+{"qid": "Q0230", "qtype": "BIRTHPLACE", "question": "Where was Volia Tallowenridge born? Answer 'unknown' if the record never says."}
+{"qid": "Q0231", "qtype": "BIRTHPLACE", "question": "Where was Wera Tallowenridge born? Answer 'unknown' if the record never says."}
+{"qid": "Q0232", "qtype": "BIRTHPLACE", "question": "Where was Webin Ashson born? Answer 'unknown' if the record never says."}
+{"qid": "Q0233", "qtype": "BIRTHPLACE", "question": "Where was Perald Quillson born? Answer 'unknown' if the record never says."}
+{"qid": "Q0234", "qtype": "BIRTHPLACE", "question": "Where was Ornelle Thornworth born? Answer 'unknown' if the record never says."}
+{"qid": "Q0235", "qtype": "BIRTHPLACE", "question": "Where was Islis Ashson born? Answer 'unknown' if the record never says."}
+{"qid": "Q0236", "qtype": "OCCUPATION_NOW", "question": "What is the trade of Isssa Holloway at the end of the record? Answer with a single word."}
+{"qid": "Q0237", "qtype": "OCCUPATION_NOW", "question": "What is the trade of Netho Ashson at the end of the record? Answer with a single word."}
+{"qid": "Q0238", "qtype": "OCCUPATION_NOW", "question": "What is the trade of Felis Marrley at the end of the record? Answer with a single word."}
+{"qid": "Q0239", "qtype": "OCCUPATION_NOW", "question": "What is the trade of Hadan Holloway at the end of the record? Answer with a single word."}
+{"qid": "Q0240", "qtype": "OCCUPATION_NOW", "question": "What is the trade of Bredan Prydner at the end of the record? Answer with a single word."}
+{"qid": "Q0241", "qtype": "OCCUPATION_NOW", "question": "What is the trade of Codan Quillick at the end of the record? Answer with a single word."}
+{"qid": "Q0242", "qtype": "OCCUPATION_NOW", "question": "What is the trade of Wedan Tallowley at the end of the record? Answer with a single word."}
+{"qid": "Q0243", "qtype": "OCCUPATION_NOW", "question": "What is the trade of Ridette Thornworth at the end of the record? Answer with a single word."}
+{"qid": "Q0244", "qtype": "OCCUPATION_NOW", "question": "What is the trade of Darald Thornwood at the end of the record? Answer with a single word."}
+{"qid": "Q0245", "qtype": "OCCUPATION_NOW", "question": "What is the trade of Riena Marrley at the end of the record? Answer with a single word."}
+{"qid": "Q0246", "qtype": "OCCUPATION_NOW", "question": "What is the trade of Gamor Ashson at the end of the record? Answer with a single word."}
+{"qid": "Q0247", "qtype": "OCCUPATION_NOW", "question": "What is the trade of Vesrine Quillson at the end of the record? Answer with a single word."}
+{"qid": "Q0248", "qtype": "OCCUPATION_NOW", "question": "What is the trade of Perald Quillson at the end of the record? Answer with a single word."}
+{"qid": "Q0249", "qtype": "OCCUPATION_NOW", "question": "What is the trade of Lurine Holloway at the end of the record? Answer with a single word."}
+{"qid": "Q0250", "qtype": "OCCUPATION_NOW", "question": "What is the trade of Nynar Tallowley at the end of the record? Answer with a single word."}
+{"qid": "Q0251", "qtype": "OCCUPATION_NOW", "question": "What is the trade of Orric Prydner at the end of the record? Answer with a single word."}
+{"qid": "Q0252", "qtype": "OCCUPATION_NOW", "question": "What is the trade of Voena Tallowenridge at the end of the record? Answer with a single word."}
+{"qid": "Q0253", "qtype": "OCCUPATION_NOW", "question": "What is the trade of Hara Tallowley at the end of the record? Answer with a single word."}
+{"qid": "Q0254", "qtype": "OCCUPATION_NOW", "question": "What is the trade of Ulvus Prydner at the end of the record? Answer with a single word."}
+{"qid": "Q0255", "qtype": "OCCUPATION_NOW", "question": "What is the trade of Kanelle Quillick at the end of the record? Answer with a single word."}
+{"qid": "Q0256", "qtype": "OCCUPATION_NOW", "question": "What is the trade of Rozek Thornwood at the end of the record? Answer with a single word."}
+{"qid": "Q0257", "qtype": "OCCUPATION_NOW", "question": "What is the trade of Islis Ashson at the end of the record? Answer with a single word."}
+{"qid": "Q0258", "qtype": "OCCUPATION_NOW", "question": "What is the trade of Jodrek Prydner at the end of the record? Answer with a single word."}
+{"qid": "Q0259", "qtype": "OCCUPATION_NOW", "question": "What is the trade of Orena Ashson at the end of the record? Answer with a single word."}
+{"qid": "Q0260", "qtype": "OCCUPATION_NOW", "question": "What is the trade of Dadrek Thornwood at the end of the record? Answer with a single word."}

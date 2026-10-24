@@ -1,0 +1,36 @@
+{
+ "name": "saga_v5_s7_d16_hybrid_ollama-gemma4-e4b-it-q4_K_M_b4000",
+ "n": 236,
+ "acc": 0.6313559322033898,
+ "by_qtype": {
+  "ALIVE": 0.8,
+  "BIRTHPLACE": 0.667,
+  "EVER_VISITED": 0.75,
+  "GRANDPARENT": 0.04,
+  "KNOWS": 0.8,
+  "LOC_AT_EVENT": 0.636,
+  "LOC_NOW": 0.643,
+  "OCCUPATION_NOW": 0.72,
+  "OWNER_NOW": 0.5,
+  "OWNER_PREV": 0.7,
+  "PROMISE": 0.81,
+  "RULE_BRIDGE": 0.375,
+  "RULE_VAULT": 0.0,
+  "SPOUSE_NOW": 0.737
+ },
+ "mean_ctx_tokens": 4154.974576271186,
+ "sum_in_tokens": 1029236,
+ "sum_out_tokens": 21734,
+ "sum_usd": 0.0,
+ "sum_wall_s": 360.90370082855225,
+ "build": {
+  "embed_tokens": 505698,
+  "llm_in": 0,
+  "llm_out": 0,
+  "usd": 0.0,
+  "wall_s": 0.11168694496154785
+ },
+ "record_tokens": 505698,
+ "n_chunks": 2133,
+ "mean_ev_recall": 0.7730245746691872
+}

@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "the quoted SQL matches step 12, and the functions listed are the ones it used.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "the chain runs from step 4 (the raw value) to step 9 (the Python check) to step 11 (the Snowflake conversion).",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "step 12 showed distances in the millions of meters, and step 14 showed a minimum of about 3.4 million meters.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "the counterfactual is plausible, since steps 11 and 12 ran fine without the forecast column.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "step 18 returned 12304 total records and 20 distinct dates.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "the preconditions described are reasonable and consistent with the trajectory.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "the next actions follow from the evidence in steps 11–14.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "the plan fits the fields seen in steps 8–9, and the Celsius-to-Fahrenheit conversion is sensible.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "step 8 enumerated the forecast keys, and step 9 listed the same fields with nothing new.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "the evidence chain holds; the one slip is that step 22 used a narrower box (lon 51–52, lat 26–27) than the reference states.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "the object and action counts are right, and the outcomes split into 1 error, 9 non-empty and 7 empty, matching steps 10–26.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "the step 14 output looks like swapped lon/lat, and the diagnostic path and redundant steps are reasonable.",
+  "evidence": "whole trajectory"
+ }
+}

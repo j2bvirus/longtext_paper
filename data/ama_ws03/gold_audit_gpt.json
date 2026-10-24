@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "wrong",
+  "reason": "Step 58 viewed lines 1885–1920 of django/db/models/sql/query.py, examining add_ordering.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "wrong",
+  "reason": "Step 20 identified the transform-only validation problem; Step 59 examined names_to_path.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "The original validation caught the missing-field exception and emitted models.E015 because isnull was not a transform.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "Step 110 reported validation PASSED and query execution FAILED.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ambiguous",
+  "reason": "The question assumes a fix at Step 64, which actually created a test script, and specifies no definite precondition.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ambiguous",
+  "reason": "Step 61 examined register_lookup, not caught exceptions; the proposed action is reasonable but rests on an incorrect premise.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ambiguous",
+  "reason": "The question does not identify a numbered transition; the reference merely describes the summary output within Step 111.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "wrong",
+  "reason": "The issue was in _check_ordering, whose fallback checked get_transform but omitted get_lookup.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "wrong",
+  "reason": "Step 64 created test_fix_comprehensive.py; no exception re-raising change occurred.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "wrong",
+  "reason": "The trajectory located the issue in base.py, not options.py; Step 41 edited the reproduction script.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "wrong",
+  "reason": "The fix in base.py added fld.get_lookup(part) to the existing get_transform condition.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "The comprehensive validation cases passed, and the check_framework and custom_lookups suites passed with skips.",
+  "evidence": "whole trajectory"
+ }
+}

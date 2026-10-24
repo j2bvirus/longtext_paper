@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "wrong",
+  "reason": "Step 7 viewed options.py lines 1–50; the grep command occurred at Step 8.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "wrong",
+  "reason": "Step 17 viewed test models; transaction.atomic() was first added at Step 63.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "wrong",
+  "reason": "At Step 17, changelist_view still lacked the transaction wrapper.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "The agent checked Django availability and searched relevant implementations; the task explicitly excluded test modifications.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ambiguous",
+  "reason": "The premise lacks a specific step; testing was reasonable, but later failures also warranted investigating which Django code ran.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "wrong",
+  "reason": "The last test script modification was Step 112; Step 31 only viewed existing tests.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "wrong",
+  "reason": "Exploration identified missing transaction protection, explicitly explained at Step 61.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "wrong",
+  "reason": "Step 31 executed no test script; partial updates depend on an error occurring after a successful save.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "Step 114 executed python tests/runtests.py admin_changelist -v 0.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "wrong",
+  "reason": "The wrapper existed and two tests passed, but proper rollback remained unverified after repeated second-save failures.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "Step 63 added transaction.atomic() around the list_editable saving loop in changelist_view.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "wrong",
+  "reason": "Second-save error tests showed partial updates; passing first-save error tests did not demonstrate rollback.",
+  "evidence": "whole trajectory"
+ }
+}

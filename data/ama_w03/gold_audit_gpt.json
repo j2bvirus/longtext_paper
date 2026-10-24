@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "wrong",
+  "reason": "Step 15 viewed lines 1–50 of expressions.py; it did not run grep.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "wrong",
+  "reason": "Step 29 searched for def set_empty, not as_sql methods.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "wrong",
+  "reason": "The unchanged reproduction would raise and report EmptyResultSet, as at Step 45.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "wrong",
+  "reason": "The method returned ('1=1', []), without parentheses.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "Correct handling requires distinguishing negated from non-negated EXISTS.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "wrong",
+  "reason": "Step 56 showed all comprehensive cases passing, not an EmptyResultSet reproduction.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "wrong",
+  "reason": "The latest failure-to-success transition was Step 83; Step 68 only viewed code.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "The inspected Exists.as_sql implementation directly generated EXISTS SQL and applied negation.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "Step 92 ran the targeted expressions.test_exists_empty_queryset tests.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "wrong",
+  "reason": "The agent explained this understanding at Step 50, before Steps 59–67.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "The described location, empty-query handling, and preservation of other conditions match the changes.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "Reproduction, targeted tests, existing suites, and a final verification script all appear in the trajectory.",
+  "evidence": "whole trajectory"
+ }
+}

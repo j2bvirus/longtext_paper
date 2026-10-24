@@ -1,0 +1,456 @@
+{"qid": "H0001", "types": ["birth"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1471, "out": 52, "usd": 0.0017310000000000001, "cached": false}
+{"qid": "H0000", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1467, "out": 52, "usd": 0.001727, "cached": false}
+{"qid": "H0002", "types": ["marriage"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1473, "out": 52, "usd": 0.001733, "cached": false}
+{"qid": "H0003", "types": ["death"], "filter": ["Corrett"], "in": 1431, "out": 14, "usd": 0.001501, "cached": false}
+{"qid": "H0004", "types": ["death"], "filter": ["Hollett"], "in": 1432, "out": 14, "usd": 0.0015019999999999999, "cached": false}
+{"qid": "H0005", "types": ["death"], "filter": ["Lindner"], "in": 1426, "out": 14, "usd": 0.001496, "cached": false}
+{"qid": "H0006", "types": ["death"], "filter": ["Orlwood"], "in": 1425, "out": 14, "usd": 0.001495, "cached": false}
+{"qid": "H0007", "types": ["birth"], "filter": ["Lindson"], "in": 1426, "out": 14, "usd": 0.001496, "cached": false}
+{"qid": "H0008", "types": ["birth"], "filter": ["Hollett"], "in": 1432, "out": 14, "usd": 0.0015019999999999999, "cached": false}
+{"qid": "H0009", "types": ["birth"], "filter": ["Wexwood"], "in": 1430, "out": 15, "usd": 0.001505, "cached": false}
+{"qid": "H0011", "types": ["birth"], "filter": ["Lindner"], "in": 1427, "out": 14, "usd": 0.001497, "cached": false}
+{"qid": "H0010", "types": ["birth"], "filter": ["Hollwood"], "in": 1432, "out": 14, "usd": 0.0015019999999999999, "cached": false}
+{"qid": "H0012", "types": ["birth"], "filter": ["Orlwood"], "in": 1430, "out": 14, "usd": 0.0015, "cached": false}
+{"qid": "H0013", "types": ["marriage"], "filter": ["Hollmere"], "in": 1436, "out": 15, "usd": 0.001511, "cached": false}
+{"qid": "H0015", "types": ["marriage"], "filter": ["Corrett"], "in": 1432, "out": 14, "usd": 0.0015019999999999999, "cached": false}
+{"qid": "H0014", "types": ["marriage"], "filter": ["Lindson"], "in": 1435, "out": 14, "usd": 0.001505, "cached": false}
+{"qid": "H0016", "types": ["marriage", "engagement"], "filter": ["Lindner"], "in": 1436, "out": 16, "usd": 0.001516, "cached": false}
+{"qid": "H0017", "types": ["marriage"], "filter": ["Orlwood"], "in": 1435, "out": 14, "usd": 0.001505, "cached": false}
+{"qid": "H0018", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1465, "out": 52, "usd": 0.001725, "cached": false}
+{"qid": "H0019", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1464, "out": 52, "usd": 0.001724, "cached": false}
+{"qid": "H0020", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1463, "out": 75, "usd": 0.001838, "cached": false}
+{"qid": "H0021", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1466, "out": 52, "usd": 0.001726, "cached": false}
+{"qid": "H0022", "types": ["marriage"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1480, "out": 52, "usd": 0.00174, "cached": false}
+{"qid": "H0023", "types": ["marriage"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1472, "out": 52, "usd": 0.001732, "cached": false}
+{"qid": "H0024", "types": ["marriage"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1475, "out": 52, "usd": 0.001735, "cached": false}
+{"qid": "H0025", "types": ["marriage"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1473, "out": 52, "usd": 0.001733, "cached": false}
+{"qid": "H0026", "types": ["death", "burial"], "filter": ["Mirecombe"], "in": 1421, "out": 17, "usd": 0.001506, "cached": false}
+{"qid": "H0028", "types": ["death", "burial"], "filter": ["Wilhaven"], "in": 1424, "out": 17, "usd": 0.001509, "cached": false}
+{"qid": "H0029", "types": ["death", "burial"], "filter": ["Fenmere"], "in": 1420, "out": 17, "usd": 0.001505, "cached": false}
+{"qid": "H0027", "types": ["death", "burial"], "filter": ["Coldcombe"], "in": 1419, "out": 17, "usd": 0.001504, "cached": false}
+{"qid": "H0030", "types": ["death", "burial"], "filter": ["Salford"], "in": 1414, "out": 16, "usd": 0.0014939999999999999, "cached": false}
+{"qid": "H0031", "types": ["death", "burial"], "filter": ["Dunholt"], "in": 1418, "out": 17, "usd": 0.001503, "cached": false}
+{"qid": "H0032", "types": ["birth"], "filter": ["Harrowgate"], "in": 1418, "out": 18, "usd": 0.001508, "cached": false}
+{"qid": "H0033", "types": ["birth"], "filter": ["Fenmere"], "in": 1417, "out": 15, "usd": 0.001492, "cached": false}
+{"qid": "H0034", "types": ["birth"], "filter": ["Staveton"], "in": 1416, "out": 14, "usd": 0.001486, "cached": false}
+{"qid": "H0035", "types": ["birth"], "filter": ["Gulton"], "in": 1414, "out": 17, "usd": 0.001499, "cached": false}
+{"qid": "H0036", "types": ["birth"], "filter": ["Salmere"], "in": 1414, "out": 15, "usd": 0.0014889999999999999, "cached": false}
+{"qid": "H0037", "types": ["birth"], "filter": ["Miremere"], "in": 1413, "out": 15, "usd": 0.001488, "cached": false}
+{"qid": "H0002", "types": ["marriage"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1473, "out": 52, "usd": 0.001733, "cached": true}
+{"qid": "H0001", "types": ["birth"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1471, "out": 52, "usd": 0.0017310000000000001, "cached": true}
+{"qid": "H0003", "types": ["death"], "filter": ["Corrett"], "in": 1431, "out": 14, "usd": 0.001501, "cached": true}
+{"qid": "H0000", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1467, "out": 52, "usd": 0.001727, "cached": true}
+{"qid": "H0004", "types": ["death"], "filter": ["Hollett"], "in": 1432, "out": 14, "usd": 0.0015019999999999999, "cached": true}
+{"qid": "H0005", "types": ["death"], "filter": ["Lindner"], "in": 1426, "out": 14, "usd": 0.001496, "cached": true}
+{"qid": "H0006", "types": ["death"], "filter": ["Orlwood"], "in": 1425, "out": 14, "usd": 0.001495, "cached": true}
+{"qid": "H0007", "types": ["birth"], "filter": ["Lindson"], "in": 1426, "out": 14, "usd": 0.001496, "cached": true}
+{"qid": "H0008", "types": ["birth"], "filter": ["Hollett"], "in": 1432, "out": 14, "usd": 0.0015019999999999999, "cached": true}
+{"qid": "H0009", "types": ["birth"], "filter": ["Wexwood"], "in": 1430, "out": 15, "usd": 0.001505, "cached": true}
+{"qid": "H0010", "types": ["birth"], "filter": ["Hollwood"], "in": 1432, "out": 14, "usd": 0.0015019999999999999, "cached": true}
+{"qid": "H0011", "types": ["birth"], "filter": ["Lindner"], "in": 1427, "out": 14, "usd": 0.001497, "cached": true}
+{"qid": "H0012", "types": ["birth"], "filter": ["Orlwood"], "in": 1430, "out": 14, "usd": 0.0015, "cached": true}
+{"qid": "H0013", "types": ["marriage"], "filter": ["Hollmere"], "in": 1436, "out": 15, "usd": 0.001511, "cached": true}
+{"qid": "H0014", "types": ["marriage"], "filter": ["Lindson"], "in": 1435, "out": 14, "usd": 0.001505, "cached": true}
+{"qid": "H0015", "types": ["marriage"], "filter": ["Corrett"], "in": 1432, "out": 14, "usd": 0.0015019999999999999, "cached": true}
+{"qid": "H0016", "types": ["marriage", "engagement"], "filter": ["Lindner"], "in": 1436, "out": 16, "usd": 0.001516, "cached": true}
+{"qid": "H0017", "types": ["marriage"], "filter": ["Orlwood"], "in": 1435, "out": 14, "usd": 0.001505, "cached": true}
+{"qid": "H0018", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1465, "out": 52, "usd": 0.001725, "cached": true}
+{"qid": "H0019", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1464, "out": 52, "usd": 0.001724, "cached": true}
+{"qid": "H0020", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1463, "out": 75, "usd": 0.001838, "cached": true}
+{"qid": "H0021", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1466, "out": 52, "usd": 0.001726, "cached": true}
+{"qid": "H0022", "types": ["marriage"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1480, "out": 52, "usd": 0.00174, "cached": true}
+{"qid": "H0023", "types": ["marriage"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1472, "out": 52, "usd": 0.001732, "cached": true}
+{"qid": "H0024", "types": ["marriage"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1475, "out": 52, "usd": 0.001735, "cached": true}
+{"qid": "H0025", "types": ["marriage"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1473, "out": 52, "usd": 0.001733, "cached": true}
+{"qid": "H0026", "types": ["death", "burial"], "filter": ["Mirecombe"], "in": 1421, "out": 17, "usd": 0.001506, "cached": true}
+{"qid": "H0027", "types": ["death", "burial"], "filter": ["Coldcombe"], "in": 1419, "out": 17, "usd": 0.001504, "cached": true}
+{"qid": "H0028", "types": ["death", "burial"], "filter": ["Wilhaven"], "in": 1424, "out": 17, "usd": 0.001509, "cached": true}
+{"qid": "H0029", "types": ["death", "burial"], "filter": ["Fenmere"], "in": 1420, "out": 17, "usd": 0.001505, "cached": true}
+{"qid": "H0030", "types": ["death", "burial"], "filter": ["Salford"], "in": 1414, "out": 16, "usd": 0.0014939999999999999, "cached": true}
+{"qid": "H0031", "types": ["death", "burial"], "filter": ["Dunholt"], "in": 1418, "out": 17, "usd": 0.001503, "cached": true}
+{"qid": "H0032", "types": ["birth"], "filter": ["Harrowgate"], "in": 1418, "out": 18, "usd": 0.001508, "cached": true}
+{"qid": "H0033", "types": ["birth"], "filter": ["Fenmere"], "in": 1417, "out": 15, "usd": 0.001492, "cached": true}
+{"qid": "H0034", "types": ["birth"], "filter": ["Staveton"], "in": 1416, "out": 14, "usd": 0.001486, "cached": true}
+{"qid": "H0035", "types": ["birth"], "filter": ["Gulton"], "in": 1414, "out": 17, "usd": 0.001499, "cached": true}
+{"qid": "H0036", "types": ["birth"], "filter": ["Salmere"], "in": 1414, "out": 15, "usd": 0.0014889999999999999, "cached": true}
+{"qid": "H0037", "types": ["birth"], "filter": ["Miremere"], "in": 1413, "out": 15, "usd": 0.001488, "cached": true}
+{"qid": "H0000", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1467, "out": 52, "usd": 0.001727, "cached": true}
+{"qid": "H0001", "types": ["birth"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1471, "out": 52, "usd": 0.0017310000000000001, "cached": true}
+{"qid": "H0002", "types": ["marriage"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1473, "out": 52, "usd": 0.001733, "cached": true}
+{"qid": "H0003", "types": ["death"], "filter": ["Corrett"], "in": 1431, "out": 14, "usd": 0.001501, "cached": true}
+{"qid": "H0000", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1467, "out": 52, "usd": 0.001727, "cached": true}
+{"qid": "H0003", "types": ["death"], "filter": ["Corrett"], "in": 1431, "out": 14, "usd": 0.001501, "cached": true}
+{"qid": "H0001", "types": ["birth"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1471, "out": 52, "usd": 0.0017310000000000001, "cached": true}
+{"qid": "H0002", "types": ["marriage"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1473, "out": 52, "usd": 0.001733, "cached": true}
+{"qid": "H0004", "types": ["death"], "filter": ["Hollett"], "in": 1432, "out": 14, "usd": 0.0015019999999999999, "cached": true}
+{"qid": "H0005", "types": ["death"], "filter": ["Lindner"], "in": 1426, "out": 14, "usd": 0.001496, "cached": true}
+{"qid": "H0006", "types": ["death"], "filter": ["Orlwood"], "in": 1425, "out": 14, "usd": 0.001495, "cached": true}
+{"qid": "H0004", "types": ["death"], "filter": ["Hollett"], "in": 1432, "out": 14, "usd": 0.0015019999999999999, "cached": true}
+{"qid": "H0007", "types": ["birth"], "filter": ["Lindson"], "in": 1426, "out": 14, "usd": 0.001496, "cached": true}
+{"qid": "H0005", "types": ["death"], "filter": ["Lindner"], "in": 1426, "out": 14, "usd": 0.001496, "cached": true}
+{"qid": "H0008", "types": ["birth"], "filter": ["Hollett"], "in": 1432, "out": 14, "usd": 0.0015019999999999999, "cached": true}
+{"qid": "H0009", "types": ["birth"], "filter": ["Wexwood"], "in": 1430, "out": 15, "usd": 0.001505, "cached": true}
+{"qid": "H0006", "types": ["death"], "filter": ["Orlwood"], "in": 1425, "out": 14, "usd": 0.001495, "cached": true}
+{"qid": "H0007", "types": ["birth"], "filter": ["Lindson"], "in": 1426, "out": 14, "usd": 0.001496, "cached": true}
+{"qid": "H0008", "types": ["birth"], "filter": ["Hollett"], "in": 1432, "out": 14, "usd": 0.0015019999999999999, "cached": true}
+{"qid": "H0010", "types": ["birth"], "filter": ["Hollwood"], "in": 1432, "out": 14, "usd": 0.0015019999999999999, "cached": true}
+{"qid": "H0011", "types": ["birth"], "filter": ["Lindner"], "in": 1427, "out": 14, "usd": 0.001497, "cached": true}
+{"qid": "H0009", "types": ["birth"], "filter": ["Wexwood"], "in": 1430, "out": 15, "usd": 0.001505, "cached": true}
+{"qid": "H0012", "types": ["birth"], "filter": ["Orlwood"], "in": 1430, "out": 14, "usd": 0.0015, "cached": true}
+{"qid": "H0013", "types": ["marriage"], "filter": ["Hollmere"], "in": 1436, "out": 15, "usd": 0.001511, "cached": true}
+{"qid": "H0010", "types": ["birth"], "filter": ["Hollwood"], "in": 1432, "out": 14, "usd": 0.0015019999999999999, "cached": true}
+{"qid": "H0014", "types": ["marriage"], "filter": ["Lindson"], "in": 1435, "out": 14, "usd": 0.001505, "cached": true}
+{"qid": "H0015", "types": ["marriage"], "filter": ["Corrett"], "in": 1432, "out": 14, "usd": 0.0015019999999999999, "cached": true}
+{"qid": "H0011", "types": ["birth"], "filter": ["Lindner"], "in": 1427, "out": 14, "usd": 0.001497, "cached": true}
+{"qid": "H0016", "types": ["marriage", "engagement"], "filter": ["Lindner"], "in": 1436, "out": 16, "usd": 0.001516, "cached": true}
+{"qid": "H0017", "types": ["marriage"], "filter": ["Orlwood"], "in": 1435, "out": 14, "usd": 0.001505, "cached": true}
+{"qid": "H0012", "types": ["birth"], "filter": ["Orlwood"], "in": 1430, "out": 14, "usd": 0.0015, "cached": true}
+{"qid": "H0013", "types": ["marriage"], "filter": ["Hollmere"], "in": 1436, "out": 15, "usd": 0.001511, "cached": true}
+{"qid": "H0018", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1465, "out": 52, "usd": 0.001725, "cached": true}
+{"qid": "H0019", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1464, "out": 52, "usd": 0.001724, "cached": true}
+{"qid": "H0014", "types": ["marriage"], "filter": ["Lindson"], "in": 1435, "out": 14, "usd": 0.001505, "cached": true}
+{"qid": "H0015", "types": ["marriage"], "filter": ["Corrett"], "in": 1432, "out": 14, "usd": 0.0015019999999999999, "cached": true}
+{"qid": "H0020", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1463, "out": 75, "usd": 0.001838, "cached": true}
+{"qid": "H0021", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1466, "out": 52, "usd": 0.001726, "cached": true}
+{"qid": "H0016", "types": ["marriage", "engagement"], "filter": ["Lindner"], "in": 1436, "out": 16, "usd": 0.001516, "cached": true}
+{"qid": "H0022", "types": ["marriage"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1480, "out": 52, "usd": 0.00174, "cached": true}
+{"qid": "H0017", "types": ["marriage"], "filter": ["Orlwood"], "in": 1435, "out": 14, "usd": 0.001505, "cached": true}
+{"qid": "H0023", "types": ["marriage"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1472, "out": 52, "usd": 0.001732, "cached": true}
+{"qid": "H0024", "types": ["marriage"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1475, "out": 52, "usd": 0.001735, "cached": true}
+{"qid": "H0025", "types": ["marriage"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1473, "out": 52, "usd": 0.001733, "cached": true}
+{"qid": "H0018", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1465, "out": 52, "usd": 0.001725, "cached": true}
+{"qid": "H0019", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1464, "out": 52, "usd": 0.001724, "cached": true}
+{"qid": "H0020", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1463, "out": 75, "usd": 0.001838, "cached": true}
+{"qid": "H0026", "types": ["death", "burial"], "filter": ["Mirecombe"], "in": 1421, "out": 17, "usd": 0.001506, "cached": true}
+{"qid": "H0027", "types": ["death", "burial"], "filter": ["Coldcombe"], "in": 1419, "out": 17, "usd": 0.001504, "cached": true}
+{"qid": "H0028", "types": ["death", "burial"], "filter": ["Wilhaven"], "in": 1424, "out": 17, "usd": 0.001509, "cached": true}
+{"qid": "H0029", "types": ["death", "burial"], "filter": ["Fenmere"], "in": 1420, "out": 17, "usd": 0.001505, "cached": true}
+{"qid": "H0021", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1466, "out": 52, "usd": 0.001726, "cached": true}
+{"qid": "H0022", "types": ["marriage"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1480, "out": 52, "usd": 0.00174, "cached": true}
+{"qid": "H0023", "types": ["marriage"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1472, "out": 52, "usd": 0.001732, "cached": true}
+{"qid": "H0024", "types": ["marriage"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1475, "out": 52, "usd": 0.001735, "cached": true}
+{"qid": "H0030", "types": ["death", "burial"], "filter": ["Salford"], "in": 1414, "out": 16, "usd": 0.0014939999999999999, "cached": true}
+{"qid": "H0025", "types": ["marriage"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1473, "out": 52, "usd": 0.001733, "cached": true}
+{"qid": "H0031", "types": ["death", "burial"], "filter": ["Dunholt"], "in": 1418, "out": 17, "usd": 0.001503, "cached": true}
+{"qid": "H0032", "types": ["birth"], "filter": ["Harrowgate"], "in": 1418, "out": 18, "usd": 0.001508, "cached": true}
+{"qid": "H0026", "types": ["death", "burial"], "filter": ["Mirecombe"], "in": 1421, "out": 17, "usd": 0.001506, "cached": true}
+{"qid": "H0027", "types": ["death", "burial"], "filter": ["Coldcombe"], "in": 1419, "out": 17, "usd": 0.001504, "cached": true}
+{"qid": "H0028", "types": ["death", "burial"], "filter": ["Wilhaven"], "in": 1424, "out": 17, "usd": 0.001509, "cached": true}
+{"qid": "H0033", "types": ["birth"], "filter": ["Fenmere"], "in": 1417, "out": 15, "usd": 0.001492, "cached": true}
+{"qid": "H0029", "types": ["death", "burial"], "filter": ["Fenmere"], "in": 1420, "out": 17, "usd": 0.001505, "cached": true}
+{"qid": "H0034", "types": ["birth"], "filter": ["Staveton"], "in": 1416, "out": 14, "usd": 0.001486, "cached": true}
+{"qid": "H0030", "types": ["death", "burial"], "filter": ["Salford"], "in": 1414, "out": 16, "usd": 0.0014939999999999999, "cached": true}
+{"qid": "H0031", "types": ["death", "burial"], "filter": ["Dunholt"], "in": 1418, "out": 17, "usd": 0.001503, "cached": true}
+{"qid": "H0035", "types": ["birth"], "filter": ["Gulton"], "in": 1414, "out": 17, "usd": 0.001499, "cached": true}
+{"qid": "H0036", "types": ["birth"], "filter": ["Salmere"], "in": 1414, "out": 15, "usd": 0.0014889999999999999, "cached": true}
+{"qid": "H0037", "types": ["birth"], "filter": ["Miremere"], "in": 1413, "out": 15, "usd": 0.001488, "cached": true}
+{"qid": "H0032", "types": ["birth"], "filter": ["Harrowgate"], "in": 1418, "out": 18, "usd": 0.001508, "cached": true}
+{"qid": "H0033", "types": ["birth"], "filter": ["Fenmere"], "in": 1417, "out": 15, "usd": 0.001492, "cached": true}
+{"qid": "H0034", "types": ["birth"], "filter": ["Staveton"], "in": 1416, "out": 14, "usd": 0.001486, "cached": true}
+{"qid": "H0035", "types": ["birth"], "filter": ["Gulton"], "in": 1414, "out": 17, "usd": 0.001499, "cached": true}
+{"qid": "H0036", "types": ["birth"], "filter": ["Salmere"], "in": 1414, "out": 15, "usd": 0.0014889999999999999, "cached": true}
+{"qid": "H0037", "types": ["birth"], "filter": ["Miremere"], "in": 1413, "out": 15, "usd": 0.001488, "cached": true}
+{"qid": "H0000", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1467, "out": 52, "usd": 0.001727, "cached": true}
+{"qid": "H0001", "types": ["birth"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1471, "out": 52, "usd": 0.0017310000000000001, "cached": true}
+{"qid": "H0002", "types": ["marriage"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1473, "out": 52, "usd": 0.001733, "cached": true}
+{"qid": "H0003", "types": ["death"], "filter": ["Corrett"], "in": 1431, "out": 14, "usd": 0.001501, "cached": true}
+{"qid": "H0004", "types": ["death"], "filter": ["Hollett"], "in": 1432, "out": 14, "usd": 0.0015019999999999999, "cached": true}
+{"qid": "H0005", "types": ["death"], "filter": ["Lindner"], "in": 1426, "out": 14, "usd": 0.001496, "cached": true}
+{"qid": "H0006", "types": ["death"], "filter": ["Orlwood"], "in": 1425, "out": 14, "usd": 0.001495, "cached": true}
+{"qid": "H0007", "types": ["birth"], "filter": ["Lindson"], "in": 1426, "out": 14, "usd": 0.001496, "cached": true}
+{"qid": "H0008", "types": ["birth"], "filter": ["Hollett"], "in": 1432, "out": 14, "usd": 0.0015019999999999999, "cached": true}
+{"qid": "H0009", "types": ["birth"], "filter": ["Wexwood"], "in": 1430, "out": 15, "usd": 0.001505, "cached": true}
+{"qid": "H0010", "types": ["birth"], "filter": ["Hollwood"], "in": 1432, "out": 14, "usd": 0.0015019999999999999, "cached": true}
+{"qid": "H0011", "types": ["birth"], "filter": ["Lindner"], "in": 1427, "out": 14, "usd": 0.001497, "cached": true}
+{"qid": "H0012", "types": ["birth"], "filter": ["Orlwood"], "in": 1430, "out": 14, "usd": 0.0015, "cached": true}
+{"qid": "H0013", "types": ["marriage"], "filter": ["Hollmere"], "in": 1436, "out": 15, "usd": 0.001511, "cached": true}
+{"qid": "H0014", "types": ["marriage"], "filter": ["Lindson"], "in": 1435, "out": 14, "usd": 0.001505, "cached": true}
+{"qid": "H0015", "types": ["marriage"], "filter": ["Corrett"], "in": 1432, "out": 14, "usd": 0.0015019999999999999, "cached": true}
+{"qid": "H0016", "types": ["marriage", "engagement"], "filter": ["Lindner"], "in": 1436, "out": 16, "usd": 0.001516, "cached": true}
+{"qid": "H0017", "types": ["marriage"], "filter": ["Orlwood"], "in": 1435, "out": 14, "usd": 0.001505, "cached": true}
+{"qid": "H0018", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1465, "out": 52, "usd": 0.001725, "cached": true}
+{"qid": "H0019", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1464, "out": 52, "usd": 0.001724, "cached": true}
+{"qid": "H0020", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1463, "out": 75, "usd": 0.001838, "cached": true}
+{"qid": "H0021", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1466, "out": 52, "usd": 0.001726, "cached": true}
+{"qid": "H0022", "types": ["marriage"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1480, "out": 52, "usd": 0.00174, "cached": true}
+{"qid": "H0023", "types": ["marriage"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1472, "out": 52, "usd": 0.001732, "cached": true}
+{"qid": "H0024", "types": ["marriage"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1475, "out": 52, "usd": 0.001735, "cached": true}
+{"qid": "H0025", "types": ["marriage"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1473, "out": 52, "usd": 0.001733, "cached": true}
+{"qid": "H0026", "types": ["death", "burial"], "filter": ["Mirecombe"], "in": 1421, "out": 17, "usd": 0.001506, "cached": true}
+{"qid": "H0027", "types": ["death", "burial"], "filter": ["Coldcombe"], "in": 1419, "out": 17, "usd": 0.001504, "cached": true}
+{"qid": "H0028", "types": ["death", "burial"], "filter": ["Wilhaven"], "in": 1424, "out": 17, "usd": 0.001509, "cached": true}
+{"qid": "H0029", "types": ["death", "burial"], "filter": ["Fenmere"], "in": 1420, "out": 17, "usd": 0.001505, "cached": true}
+{"qid": "H0030", "types": ["death", "burial"], "filter": ["Salford"], "in": 1414, "out": 16, "usd": 0.0014939999999999999, "cached": true}
+{"qid": "H0031", "types": ["death", "burial"], "filter": ["Dunholt"], "in": 1418, "out": 17, "usd": 0.001503, "cached": true}
+{"qid": "H0032", "types": ["birth"], "filter": ["Harrowgate"], "in": 1418, "out": 18, "usd": 0.001508, "cached": true}
+{"qid": "H0033", "types": ["birth"], "filter": ["Fenmere"], "in": 1417, "out": 15, "usd": 0.001492, "cached": true}
+{"qid": "H0034", "types": ["birth"], "filter": ["Staveton"], "in": 1416, "out": 14, "usd": 0.001486, "cached": true}
+{"qid": "H0035", "types": ["birth"], "filter": ["Gulton"], "in": 1414, "out": 17, "usd": 0.001499, "cached": true}
+{"qid": "H0036", "types": ["birth"], "filter": ["Salmere"], "in": 1414, "out": 15, "usd": 0.0014889999999999999, "cached": true}
+{"qid": "H0037", "types": ["birth"], "filter": ["Miremere"], "in": 1413, "out": 15, "usd": 0.001488, "cached": true}
+{"qid": "H0000", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1467, "out": 52, "usd": 0.001727, "cached": true}
+{"qid": "H0001", "types": ["birth"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1471, "out": 52, "usd": 0.0017310000000000001, "cached": true}
+{"qid": "H0002", "types": ["marriage"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1473, "out": 52, "usd": 0.001733, "cached": true}
+{"qid": "H0003", "types": ["death"], "filter": ["Corrett"], "in": 1431, "out": 14, "usd": 0.001501, "cached": true}
+{"qid": "H0004", "types": ["death"], "filter": ["Hollett"], "in": 1432, "out": 14, "usd": 0.0015019999999999999, "cached": true}
+{"qid": "H0005", "types": ["death"], "filter": ["Lindner"], "in": 1426, "out": 14, "usd": 0.001496, "cached": true}
+{"qid": "H0006", "types": ["death"], "filter": ["Orlwood"], "in": 1425, "out": 14, "usd": 0.001495, "cached": true}
+{"qid": "H0007", "types": ["birth"], "filter": ["Lindson"], "in": 1426, "out": 14, "usd": 0.001496, "cached": true}
+{"qid": "H0008", "types": ["birth"], "filter": ["Hollett"], "in": 1432, "out": 14, "usd": 0.0015019999999999999, "cached": true}
+{"qid": "H0009", "types": ["birth"], "filter": ["Wexwood"], "in": 1430, "out": 15, "usd": 0.001505, "cached": true}
+{"qid": "H0010", "types": ["birth"], "filter": ["Hollwood"], "in": 1432, "out": 14, "usd": 0.0015019999999999999, "cached": true}
+{"qid": "H0011", "types": ["birth"], "filter": ["Lindner"], "in": 1427, "out": 14, "usd": 0.001497, "cached": true}
+{"qid": "H0012", "types": ["birth"], "filter": ["Orlwood"], "in": 1430, "out": 14, "usd": 0.0015, "cached": true}
+{"qid": "H0013", "types": ["marriage"], "filter": ["Hollmere"], "in": 1436, "out": 15, "usd": 0.001511, "cached": true}
+{"qid": "H0014", "types": ["marriage"], "filter": ["Lindson"], "in": 1435, "out": 14, "usd": 0.001505, "cached": true}
+{"qid": "H0015", "types": ["marriage"], "filter": ["Corrett"], "in": 1432, "out": 14, "usd": 0.0015019999999999999, "cached": true}
+{"qid": "H0016", "types": ["marriage", "engagement"], "filter": ["Lindner"], "in": 1436, "out": 16, "usd": 0.001516, "cached": true}
+{"qid": "H0017", "types": ["marriage"], "filter": ["Orlwood"], "in": 1435, "out": 14, "usd": 0.001505, "cached": true}
+{"qid": "H0018", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1465, "out": 52, "usd": 0.001725, "cached": true}
+{"qid": "H0019", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1464, "out": 52, "usd": 0.001724, "cached": true}
+{"qid": "H0020", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1463, "out": 75, "usd": 0.001838, "cached": true}
+{"qid": "H0021", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1466, "out": 52, "usd": 0.001726, "cached": true}
+{"qid": "H0022", "types": ["marriage"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1480, "out": 52, "usd": 0.00174, "cached": true}
+{"qid": "H0023", "types": ["marriage"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1472, "out": 52, "usd": 0.001732, "cached": true}
+{"qid": "H0024", "types": ["marriage"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1475, "out": 52, "usd": 0.001735, "cached": true}
+{"qid": "H0025", "types": ["marriage"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1473, "out": 52, "usd": 0.001733, "cached": true}
+{"qid": "H0026", "types": ["death", "burial"], "filter": ["Mirecombe"], "in": 1421, "out": 17, "usd": 0.001506, "cached": true}
+{"qid": "H0027", "types": ["death", "burial"], "filter": ["Coldcombe"], "in": 1419, "out": 17, "usd": 0.001504, "cached": true}
+{"qid": "H0028", "types": ["death", "burial"], "filter": ["Wilhaven"], "in": 1424, "out": 17, "usd": 0.001509, "cached": true}
+{"qid": "H0029", "types": ["death", "burial"], "filter": ["Fenmere"], "in": 1420, "out": 17, "usd": 0.001505, "cached": true}
+{"qid": "H0030", "types": ["death", "burial"], "filter": ["Salford"], "in": 1414, "out": 16, "usd": 0.0014939999999999999, "cached": true}
+{"qid": "H0031", "types": ["death", "burial"], "filter": ["Dunholt"], "in": 1418, "out": 17, "usd": 0.001503, "cached": true}
+{"qid": "H0032", "types": ["birth"], "filter": ["Harrowgate"], "in": 1418, "out": 18, "usd": 0.001508, "cached": true}
+{"qid": "H0033", "types": ["birth"], "filter": ["Fenmere"], "in": 1417, "out": 15, "usd": 0.001492, "cached": true}
+{"qid": "H0034", "types": ["birth"], "filter": ["Staveton"], "in": 1416, "out": 14, "usd": 0.001486, "cached": true}
+{"qid": "H0035", "types": ["birth"], "filter": ["Gulton"], "in": 1414, "out": 17, "usd": 0.001499, "cached": true}
+{"qid": "H0036", "types": ["birth"], "filter": ["Salmere"], "in": 1414, "out": 15, "usd": 0.0014889999999999999, "cached": true}
+{"qid": "H0037", "types": ["birth"], "filter": ["Miremere"], "in": 1413, "out": 15, "usd": 0.001488, "cached": true}
+{"qid": "H0003", "types": ["death"], "filter": ["Corrett"], "in": 1424, "out": 14, "usd": 0.0014939999999999999, "cached": false}
+{"qid": "H0000", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1466, "out": 52, "usd": 0.001726, "cached": false}
+{"qid": "H0002", "types": ["marriage", "engagement"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1473, "out": 54, "usd": 0.001743, "cached": false}
+{"qid": "H0001", "types": ["birth"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1466, "out": 52, "usd": 0.001726, "cached": false}
+{"qid": "H0004", "types": ["death"], "filter": ["Hollett"], "in": 1425, "out": 14, "usd": 0.001495, "cached": false}
+{"qid": "H0005", "types": ["death"], "filter": ["Lindner"], "in": 1425, "out": 14, "usd": 0.001495, "cached": false}
+{"qid": "H0007", "types": ["birth"], "filter": ["Lindson"], "in": 1425, "out": 14, "usd": 0.001495, "cached": false}
+{"qid": "H0006", "types": ["death"], "filter": ["Orlwood"], "in": 1424, "out": 14, "usd": 0.0014939999999999999, "cached": false}
+{"qid": "H0008", "types": ["birth"], "filter": ["Hollett"], "in": 1427, "out": 14, "usd": 0.001497, "cached": false}
+{"qid": "H0009", "types": ["birth"], "filter": ["Wexwood"], "in": 1424, "out": 15, "usd": 0.001499, "cached": false}
+{"qid": "H0010", "types": ["birth"], "filter": ["Hollwood"], "in": 1426, "out": 14, "usd": 0.001496, "cached": false}
+{"qid": "H0011", "types": ["birth"], "filter": ["Lindner"], "in": 1427, "out": 14, "usd": 0.001497, "cached": false}
+{"qid": "H0012", "types": ["birth"], "filter": ["Orlwood"], "in": 1425, "out": 14, "usd": 0.001495, "cached": false}
+{"qid": "H0014", "types": ["marriage", "engagement"], "filter": ["Lindson"], "in": 1434, "out": 16, "usd": 0.001514, "cached": false}
+{"qid": "H0015", "types": ["marriage", "engagement"], "filter": ["Corrett"], "in": 1435, "out": 16, "usd": 0.001515, "cached": false}
+{"qid": "H0016", "types": ["marriage", "engagement"], "filter": ["Lindner"], "in": 1433, "out": 16, "usd": 0.001513, "cached": false}
+{"qid": "H0013", "types": ["marriage", "engagement"], "filter": ["Hollmere"], "in": 1433, "out": 17, "usd": 0.001518, "cached": false}
+{"qid": "H0017", "types": ["marriage", "engagement"], "filter": ["Orlwood"], "in": 1431, "out": 16, "usd": 0.001511, "cached": false}
+{"qid": "H0018", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1463, "out": 52, "usd": 0.0017230000000000001, "cached": false}
+{"qid": "H0019", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1464, "out": 52, "usd": 0.001724, "cached": false}
+{"qid": "H0020", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1459, "out": 52, "usd": 0.001719, "cached": false}
+{"qid": "H0021", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1462, "out": 52, "usd": 0.001722, "cached": false}
+{"qid": "H0022", "types": ["marriage", "engagement"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1468, "out": 54, "usd": 0.001738, "cached": false}
+{"qid": "H0023", "types": ["marriage", "engagement"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1470, "out": 54, "usd": 0.00174, "cached": false}
+{"qid": "H0024", "types": ["marriage", "engagement"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1472, "out": 54, "usd": 0.001742, "cached": false}
+{"qid": "H0025", "types": ["marriage", "engagement"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1471, "out": 54, "usd": 0.0017410000000000001, "cached": false}
+{"qid": "H0026", "types": ["death", "burial"], "filter": ["Mirecombe"], "in": 1418, "out": 17, "usd": 0.001503, "cached": false}
+{"qid": "H0027", "types": ["death", "burial"], "filter": ["Coldcombe"], "in": 1416, "out": 17, "usd": 0.001501, "cached": false}
+{"qid": "H0028", "types": ["death", "burial"], "filter": ["Wilhaven"], "in": 1416, "out": 17, "usd": 0.001501, "cached": false}
+{"qid": "H0029", "types": ["death", "burial"], "filter": ["Fenmere"], "in": 1419, "out": 17, "usd": 0.001504, "cached": false}
+{"qid": "H0030", "types": ["death", "burial"], "filter": ["Salford"], "in": 1408, "out": 16, "usd": 0.001488, "cached": false}
+{"qid": "H0031", "types": ["death", "burial"], "filter": ["Dunholt"], "in": 1416, "out": 17, "usd": 0.001501, "cached": false}
+{"qid": "H0032", "types": ["birth"], "filter": ["Harrowgate"], "in": 1414, "out": 15, "usd": 0.0014889999999999999, "cached": false}
+{"qid": "H0033", "types": ["birth"], "filter": ["Fenmere"], "in": 1415, "out": 18, "usd": 0.001505, "cached": false}
+{"qid": "H0034", "types": ["birth"], "filter": ["Staveton"], "in": 1414, "out": 14, "usd": 0.0014839999999999999, "cached": false}
+{"qid": "H0035", "types": ["birth"], "filter": ["Gulton"], "in": 1411, "out": 17, "usd": 0.001496, "cached": false}
+{"qid": "H0036", "types": ["birth"], "filter": ["Salmere"], "in": 1413, "out": 15, "usd": 0.001488, "cached": false}
+{"qid": "H0037", "types": ["birth"], "filter": ["Miremere"], "in": 1414, "out": 15, "usd": 0.0014889999999999999, "cached": false}
+{"qid": "H0001", "types": ["birth"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1466, "out": 52, "usd": 0.001726, "cached": true}
+{"qid": "H0002", "types": ["marriage", "engagement"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1473, "out": 54, "usd": 0.001743, "cached": true}
+{"qid": "H0000", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1466, "out": 52, "usd": 0.001726, "cached": true}
+{"qid": "H0003", "types": ["death"], "filter": ["Corrett"], "in": 1424, "out": 14, "usd": 0.0014939999999999999, "cached": true}
+{"qid": "H0004", "types": ["death"], "filter": ["Hollett"], "in": 1425, "out": 14, "usd": 0.001495, "cached": true}
+{"qid": "H0005", "types": ["death"], "filter": ["Lindner"], "in": 1425, "out": 14, "usd": 0.001495, "cached": true}
+{"qid": "H0006", "types": ["death"], "filter": ["Orlwood"], "in": 1424, "out": 14, "usd": 0.0014939999999999999, "cached": true}
+{"qid": "H0007", "types": ["birth"], "filter": ["Lindson"], "in": 1425, "out": 14, "usd": 0.001495, "cached": true}
+{"qid": "H0008", "types": ["birth"], "filter": ["Hollett"], "in": 1427, "out": 14, "usd": 0.001497, "cached": true}
+{"qid": "H0009", "types": ["birth"], "filter": ["Wexwood"], "in": 1424, "out": 15, "usd": 0.001499, "cached": true}
+{"qid": "H0010", "types": ["birth"], "filter": ["Hollwood"], "in": 1426, "out": 14, "usd": 0.001496, "cached": true}
+{"qid": "H0011", "types": ["birth"], "filter": ["Lindner"], "in": 1427, "out": 14, "usd": 0.001497, "cached": true}
+{"qid": "H0012", "types": ["birth"], "filter": ["Orlwood"], "in": 1425, "out": 14, "usd": 0.001495, "cached": true}
+{"qid": "H0013", "types": ["marriage", "engagement"], "filter": ["Hollmere"], "in": 1433, "out": 17, "usd": 0.001518, "cached": true}
+{"qid": "H0014", "types": ["marriage", "engagement"], "filter": ["Lindson"], "in": 1434, "out": 16, "usd": 0.001514, "cached": true}
+{"qid": "H0015", "types": ["marriage", "engagement"], "filter": ["Corrett"], "in": 1435, "out": 16, "usd": 0.001515, "cached": true}
+{"qid": "H0016", "types": ["marriage", "engagement"], "filter": ["Lindner"], "in": 1433, "out": 16, "usd": 0.001513, "cached": true}
+{"qid": "H0017", "types": ["marriage", "engagement"], "filter": ["Orlwood"], "in": 1431, "out": 16, "usd": 0.001511, "cached": true}
+{"qid": "H0018", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1463, "out": 52, "usd": 0.0017230000000000001, "cached": true}
+{"qid": "H0019", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1464, "out": 52, "usd": 0.001724, "cached": true}
+{"qid": "H0020", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1459, "out": 52, "usd": 0.001719, "cached": true}
+{"qid": "H0021", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1462, "out": 52, "usd": 0.001722, "cached": true}
+{"qid": "H0022", "types": ["marriage", "engagement"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1468, "out": 54, "usd": 0.001738, "cached": true}
+{"qid": "H0023", "types": ["marriage", "engagement"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1470, "out": 54, "usd": 0.00174, "cached": true}
+{"qid": "H0024", "types": ["marriage", "engagement"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1472, "out": 54, "usd": 0.001742, "cached": true}
+{"qid": "H0025", "types": ["marriage", "engagement"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1471, "out": 54, "usd": 0.0017410000000000001, "cached": true}
+{"qid": "H0026", "types": ["death", "burial"], "filter": ["Mirecombe"], "in": 1418, "out": 17, "usd": 0.001503, "cached": true}
+{"qid": "H0027", "types": ["death", "burial"], "filter": ["Coldcombe"], "in": 1416, "out": 17, "usd": 0.001501, "cached": true}
+{"qid": "H0028", "types": ["death", "burial"], "filter": ["Wilhaven"], "in": 1416, "out": 17, "usd": 0.001501, "cached": true}
+{"qid": "H0029", "types": ["death", "burial"], "filter": ["Fenmere"], "in": 1419, "out": 17, "usd": 0.001504, "cached": true}
+{"qid": "H0030", "types": ["death", "burial"], "filter": ["Salford"], "in": 1408, "out": 16, "usd": 0.001488, "cached": true}
+{"qid": "H0031", "types": ["death", "burial"], "filter": ["Dunholt"], "in": 1416, "out": 17, "usd": 0.001501, "cached": true}
+{"qid": "H0032", "types": ["birth"], "filter": ["Harrowgate"], "in": 1414, "out": 15, "usd": 0.0014889999999999999, "cached": true}
+{"qid": "H0033", "types": ["birth"], "filter": ["Fenmere"], "in": 1415, "out": 18, "usd": 0.001505, "cached": true}
+{"qid": "H0034", "types": ["birth"], "filter": ["Staveton"], "in": 1414, "out": 14, "usd": 0.0014839999999999999, "cached": true}
+{"qid": "H0035", "types": ["birth"], "filter": ["Gulton"], "in": 1411, "out": 17, "usd": 0.001496, "cached": true}
+{"qid": "H0036", "types": ["birth"], "filter": ["Salmere"], "in": 1413, "out": 15, "usd": 0.001488, "cached": true}
+{"qid": "H0037", "types": ["birth"], "filter": ["Miremere"], "in": 1414, "out": 15, "usd": 0.0014889999999999999, "cached": true}
+{"qid": "H0000", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1466, "out": 52, "usd": 0.001726, "cached": true}
+{"qid": "H0001", "types": ["birth"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1466, "out": 52, "usd": 0.001726, "cached": true}
+{"qid": "H0002", "types": ["marriage", "engagement"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1473, "out": 54, "usd": 0.001743, "cached": true}
+{"qid": "H0003", "types": ["death"], "filter": ["Corrett"], "in": 1424, "out": 14, "usd": 0.0014939999999999999, "cached": true}
+{"qid": "H0004", "types": ["death"], "filter": ["Hollett"], "in": 1425, "out": 14, "usd": 0.001495, "cached": true}
+{"qid": "H0005", "types": ["death"], "filter": ["Lindner"], "in": 1425, "out": 14, "usd": 0.001495, "cached": true}
+{"qid": "H0006", "types": ["death"], "filter": ["Orlwood"], "in": 1424, "out": 14, "usd": 0.0014939999999999999, "cached": true}
+{"qid": "H0007", "types": ["birth"], "filter": ["Lindson"], "in": 1425, "out": 14, "usd": 0.001495, "cached": true}
+{"qid": "H0008", "types": ["birth"], "filter": ["Hollett"], "in": 1427, "out": 14, "usd": 0.001497, "cached": true}
+{"qid": "H0009", "types": ["birth"], "filter": ["Wexwood"], "in": 1424, "out": 15, "usd": 0.001499, "cached": true}
+{"qid": "H0010", "types": ["birth"], "filter": ["Hollwood"], "in": 1426, "out": 14, "usd": 0.001496, "cached": true}
+{"qid": "H0011", "types": ["birth"], "filter": ["Lindner"], "in": 1427, "out": 14, "usd": 0.001497, "cached": true}
+{"qid": "H0012", "types": ["birth"], "filter": ["Orlwood"], "in": 1425, "out": 14, "usd": 0.001495, "cached": true}
+{"qid": "H0013", "types": ["marriage", "engagement"], "filter": ["Hollmere"], "in": 1433, "out": 17, "usd": 0.001518, "cached": true}
+{"qid": "H0014", "types": ["marriage", "engagement"], "filter": ["Lindson"], "in": 1434, "out": 16, "usd": 0.001514, "cached": true}
+{"qid": "H0015", "types": ["marriage", "engagement"], "filter": ["Corrett"], "in": 1435, "out": 16, "usd": 0.001515, "cached": true}
+{"qid": "H0016", "types": ["marriage", "engagement"], "filter": ["Lindner"], "in": 1433, "out": 16, "usd": 0.001513, "cached": true}
+{"qid": "H0017", "types": ["marriage", "engagement"], "filter": ["Orlwood"], "in": 1431, "out": 16, "usd": 0.001511, "cached": true}
+{"qid": "H0018", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1463, "out": 52, "usd": 0.0017230000000000001, "cached": true}
+{"qid": "H0019", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1464, "out": 52, "usd": 0.001724, "cached": true}
+{"qid": "H0020", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1459, "out": 52, "usd": 0.001719, "cached": true}
+{"qid": "H0021", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1462, "out": 52, "usd": 0.001722, "cached": true}
+{"qid": "H0022", "types": ["marriage", "engagement"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1468, "out": 54, "usd": 0.001738, "cached": true}
+{"qid": "H0023", "types": ["marriage", "engagement"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1470, "out": 54, "usd": 0.00174, "cached": true}
+{"qid": "H0024", "types": ["marriage", "engagement"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1472, "out": 54, "usd": 0.001742, "cached": true}
+{"qid": "H0025", "types": ["marriage", "engagement"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1471, "out": 54, "usd": 0.0017410000000000001, "cached": true}
+{"qid": "H0026", "types": ["death", "burial"], "filter": ["Mirecombe"], "in": 1418, "out": 17, "usd": 0.001503, "cached": true}
+{"qid": "H0027", "types": ["death", "burial"], "filter": ["Coldcombe"], "in": 1416, "out": 17, "usd": 0.001501, "cached": true}
+{"qid": "H0028", "types": ["death", "burial"], "filter": ["Wilhaven"], "in": 1416, "out": 17, "usd": 0.001501, "cached": true}
+{"qid": "H0029", "types": ["death", "burial"], "filter": ["Fenmere"], "in": 1419, "out": 17, "usd": 0.001504, "cached": true}
+{"qid": "H0030", "types": ["death", "burial"], "filter": ["Salford"], "in": 1408, "out": 16, "usd": 0.001488, "cached": true}
+{"qid": "H0031", "types": ["death", "burial"], "filter": ["Dunholt"], "in": 1416, "out": 17, "usd": 0.001501, "cached": true}
+{"qid": "H0032", "types": ["birth"], "filter": ["Harrowgate"], "in": 1414, "out": 15, "usd": 0.0014889999999999999, "cached": true}
+{"qid": "H0033", "types": ["birth"], "filter": ["Fenmere"], "in": 1415, "out": 18, "usd": 0.001505, "cached": true}
+{"qid": "H0034", "types": ["birth"], "filter": ["Staveton"], "in": 1414, "out": 14, "usd": 0.0014839999999999999, "cached": true}
+{"qid": "H0035", "types": ["birth"], "filter": ["Gulton"], "in": 1411, "out": 17, "usd": 0.001496, "cached": true}
+{"qid": "H0036", "types": ["birth"], "filter": ["Salmere"], "in": 1413, "out": 15, "usd": 0.001488, "cached": true}
+{"qid": "H0037", "types": ["birth"], "filter": ["Miremere"], "in": 1414, "out": 15, "usd": 0.0014889999999999999, "cached": true}
+{"qid": "H0000", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1466, "out": 52, "usd": 0.001726, "cached": true}
+{"qid": "H0003", "types": ["death"], "filter": ["Corrett"], "in": 1424, "out": 14, "usd": 0.0014939999999999999, "cached": true}
+{"qid": "H0002", "types": ["marriage", "engagement"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1473, "out": 54, "usd": 0.001743, "cached": true}
+{"qid": "H0001", "types": ["birth"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1466, "out": 52, "usd": 0.001726, "cached": true}
+{"qid": "H0004", "types": ["death"], "filter": ["Hollett"], "in": 1425, "out": 14, "usd": 0.001495, "cached": true}
+{"qid": "H0005", "types": ["death"], "filter": ["Lindner"], "in": 1425, "out": 14, "usd": 0.001495, "cached": true}
+{"qid": "H0006", "types": ["death"], "filter": ["Orlwood"], "in": 1424, "out": 14, "usd": 0.0014939999999999999, "cached": true}
+{"qid": "H0007", "types": ["birth"], "filter": ["Lindson"], "in": 1425, "out": 14, "usd": 0.001495, "cached": true}
+{"qid": "H0008", "types": ["birth"], "filter": ["Hollett"], "in": 1427, "out": 14, "usd": 0.001497, "cached": true}
+{"qid": "H0009", "types": ["birth"], "filter": ["Wexwood"], "in": 1424, "out": 15, "usd": 0.001499, "cached": true}
+{"qid": "H0010", "types": ["birth"], "filter": ["Hollwood"], "in": 1426, "out": 14, "usd": 0.001496, "cached": true}
+{"qid": "H0011", "types": ["birth"], "filter": ["Lindner"], "in": 1427, "out": 14, "usd": 0.001497, "cached": true}
+{"qid": "H0012", "types": ["birth"], "filter": ["Orlwood"], "in": 1425, "out": 14, "usd": 0.001495, "cached": true}
+{"qid": "H0013", "types": ["marriage", "engagement"], "filter": ["Hollmere"], "in": 1433, "out": 17, "usd": 0.001518, "cached": true}
+{"qid": "H0014", "types": ["marriage", "engagement"], "filter": ["Lindson"], "in": 1434, "out": 16, "usd": 0.001514, "cached": true}
+{"qid": "H0015", "types": ["marriage", "engagement"], "filter": ["Corrett"], "in": 1435, "out": 16, "usd": 0.001515, "cached": true}
+{"qid": "H0016", "types": ["marriage", "engagement"], "filter": ["Lindner"], "in": 1433, "out": 16, "usd": 0.001513, "cached": true}
+{"qid": "H0017", "types": ["marriage", "engagement"], "filter": ["Orlwood"], "in": 1431, "out": 16, "usd": 0.001511, "cached": true}
+{"qid": "H0018", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1463, "out": 52, "usd": 0.0017230000000000001, "cached": true}
+{"qid": "H0019", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1464, "out": 52, "usd": 0.001724, "cached": true}
+{"qid": "H0020", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1459, "out": 52, "usd": 0.001719, "cached": true}
+{"qid": "H0021", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1462, "out": 52, "usd": 0.001722, "cached": true}
+{"qid": "H0022", "types": ["marriage", "engagement"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1468, "out": 54, "usd": 0.001738, "cached": true}
+{"qid": "H0023", "types": ["marriage", "engagement"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1470, "out": 54, "usd": 0.00174, "cached": true}
+{"qid": "H0024", "types": ["marriage", "engagement"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1472, "out": 54, "usd": 0.001742, "cached": true}
+{"qid": "H0025", "types": ["marriage", "engagement"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1471, "out": 54, "usd": 0.0017410000000000001, "cached": true}
+{"qid": "H0026", "types": ["death", "burial"], "filter": ["Mirecombe"], "in": 1418, "out": 17, "usd": 0.001503, "cached": true}
+{"qid": "H0027", "types": ["death", "burial"], "filter": ["Coldcombe"], "in": 1416, "out": 17, "usd": 0.001501, "cached": true}
+{"qid": "H0028", "types": ["death", "burial"], "filter": ["Wilhaven"], "in": 1416, "out": 17, "usd": 0.001501, "cached": true}
+{"qid": "H0029", "types": ["death", "burial"], "filter": ["Fenmere"], "in": 1419, "out": 17, "usd": 0.001504, "cached": true}
+{"qid": "H0030", "types": ["death", "burial"], "filter": ["Salford"], "in": 1408, "out": 16, "usd": 0.001488, "cached": true}
+{"qid": "H0031", "types": ["death", "burial"], "filter": ["Dunholt"], "in": 1416, "out": 17, "usd": 0.001501, "cached": true}
+{"qid": "H0032", "types": ["birth"], "filter": ["Harrowgate"], "in": 1414, "out": 15, "usd": 0.0014889999999999999, "cached": true}
+{"qid": "H0033", "types": ["birth"], "filter": ["Fenmere"], "in": 1415, "out": 18, "usd": 0.001505, "cached": true}
+{"qid": "H0034", "types": ["birth"], "filter": ["Staveton"], "in": 1414, "out": 14, "usd": 0.0014839999999999999, "cached": true}
+{"qid": "H0035", "types": ["birth"], "filter": ["Gulton"], "in": 1411, "out": 17, "usd": 0.001496, "cached": true}
+{"qid": "H0036", "types": ["birth"], "filter": ["Salmere"], "in": 1413, "out": 15, "usd": 0.001488, "cached": true}
+{"qid": "H0037", "types": ["birth"], "filter": ["Miremere"], "in": 1414, "out": 15, "usd": 0.0014889999999999999, "cached": true}
+{"qid": "H0000", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1466, "out": 52, "usd": 0.001726, "cached": true}
+{"qid": "H0001", "types": ["birth"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1466, "out": 52, "usd": 0.001726, "cached": true}
+{"qid": "H0002", "types": ["marriage", "engagement"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1473, "out": 54, "usd": 0.001743, "cached": true}
+{"qid": "H0003", "types": ["death"], "filter": ["Corrett"], "in": 1424, "out": 14, "usd": 0.0014939999999999999, "cached": true}
+{"qid": "H0004", "types": ["death"], "filter": ["Hollett"], "in": 1425, "out": 14, "usd": 0.001495, "cached": true}
+{"qid": "H0005", "types": ["death"], "filter": ["Lindner"], "in": 1425, "out": 14, "usd": 0.001495, "cached": true}
+{"qid": "H0006", "types": ["death"], "filter": ["Orlwood"], "in": 1424, "out": 14, "usd": 0.0014939999999999999, "cached": true}
+{"qid": "H0007", "types": ["birth"], "filter": ["Lindson"], "in": 1425, "out": 14, "usd": 0.001495, "cached": true}
+{"qid": "H0008", "types": ["birth"], "filter": ["Hollett"], "in": 1427, "out": 14, "usd": 0.001497, "cached": true}
+{"qid": "H0009", "types": ["birth"], "filter": ["Wexwood"], "in": 1424, "out": 15, "usd": 0.001499, "cached": true}
+{"qid": "H0010", "types": ["birth"], "filter": ["Hollwood"], "in": 1426, "out": 14, "usd": 0.001496, "cached": true}
+{"qid": "H0011", "types": ["birth"], "filter": ["Lindner"], "in": 1427, "out": 14, "usd": 0.001497, "cached": true}
+{"qid": "H0012", "types": ["birth"], "filter": ["Orlwood"], "in": 1425, "out": 14, "usd": 0.001495, "cached": true}
+{"qid": "H0013", "types": ["marriage", "engagement"], "filter": ["Hollmere"], "in": 1433, "out": 17, "usd": 0.001518, "cached": true}
+{"qid": "H0014", "types": ["marriage", "engagement"], "filter": ["Lindson"], "in": 1434, "out": 16, "usd": 0.001514, "cached": true}
+{"qid": "H0015", "types": ["marriage", "engagement"], "filter": ["Corrett"], "in": 1435, "out": 16, "usd": 0.001515, "cached": true}
+{"qid": "H0016", "types": ["marriage", "engagement"], "filter": ["Lindner"], "in": 1433, "out": 16, "usd": 0.001513, "cached": true}
+{"qid": "H0017", "types": ["marriage", "engagement"], "filter": ["Orlwood"], "in": 1431, "out": 16, "usd": 0.001511, "cached": true}
+{"qid": "H0018", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1463, "out": 52, "usd": 0.0017230000000000001, "cached": true}
+{"qid": "H0019", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1464, "out": 52, "usd": 0.001724, "cached": true}
+{"qid": "H0020", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1459, "out": 52, "usd": 0.001719, "cached": true}
+{"qid": "H0021", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1462, "out": 52, "usd": 0.001722, "cached": true}
+{"qid": "H0022", "types": ["marriage", "engagement"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1468, "out": 54, "usd": 0.001738, "cached": true}
+{"qid": "H0023", "types": ["marriage", "engagement"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1470, "out": 54, "usd": 0.00174, "cached": true}
+{"qid": "H0024", "types": ["marriage", "engagement"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1472, "out": 54, "usd": 0.001742, "cached": true}
+{"qid": "H0025", "types": ["marriage", "engagement"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1471, "out": 54, "usd": 0.0017410000000000001, "cached": true}
+{"qid": "H0026", "types": ["death", "burial"], "filter": ["Mirecombe"], "in": 1418, "out": 17, "usd": 0.001503, "cached": true}
+{"qid": "H0027", "types": ["death", "burial"], "filter": ["Coldcombe"], "in": 1416, "out": 17, "usd": 0.001501, "cached": true}
+{"qid": "H0028", "types": ["death", "burial"], "filter": ["Wilhaven"], "in": 1416, "out": 17, "usd": 0.001501, "cached": true}
+{"qid": "H0029", "types": ["death", "burial"], "filter": ["Fenmere"], "in": 1419, "out": 17, "usd": 0.001504, "cached": true}
+{"qid": "H0030", "types": ["death", "burial"], "filter": ["Salford"], "in": 1408, "out": 16, "usd": 0.001488, "cached": true}
+{"qid": "H0031", "types": ["death", "burial"], "filter": ["Dunholt"], "in": 1416, "out": 17, "usd": 0.001501, "cached": true}
+{"qid": "H0032", "types": ["birth"], "filter": ["Harrowgate"], "in": 1414, "out": 15, "usd": 0.0014889999999999999, "cached": true}
+{"qid": "H0033", "types": ["birth"], "filter": ["Fenmere"], "in": 1415, "out": 18, "usd": 0.001505, "cached": true}
+{"qid": "H0034", "types": ["birth"], "filter": ["Staveton"], "in": 1414, "out": 14, "usd": 0.0014839999999999999, "cached": true}
+{"qid": "H0035", "types": ["birth"], "filter": ["Gulton"], "in": 1411, "out": 17, "usd": 0.001496, "cached": true}
+{"qid": "H0036", "types": ["birth"], "filter": ["Salmere"], "in": 1413, "out": 15, "usd": 0.001488, "cached": true}
+{"qid": "H0037", "types": ["birth"], "filter": ["Miremere"], "in": 1414, "out": 15, "usd": 0.0014889999999999999, "cached": true}
+{"qid": "H0000", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1466, "out": 52, "usd": 0.001726, "cached": true}
+{"qid": "H0003", "types": ["death"], "filter": ["Corrett"], "in": 1424, "out": 14, "usd": 0.0014939999999999999, "cached": true}
+{"qid": "H0002", "types": ["marriage", "engagement"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1473, "out": 54, "usd": 0.001743, "cached": true}
+{"qid": "H0001", "types": ["birth"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1466, "out": 52, "usd": 0.001726, "cached": true}
+{"qid": "H0004", "types": ["death"], "filter": ["Hollett"], "in": 1425, "out": 14, "usd": 0.001495, "cached": true}
+{"qid": "H0005", "types": ["death"], "filter": ["Lindner"], "in": 1425, "out": 14, "usd": 0.001495, "cached": true}
+{"qid": "H0006", "types": ["death"], "filter": ["Orlwood"], "in": 1424, "out": 14, "usd": 0.0014939999999999999, "cached": true}
+{"qid": "H0007", "types": ["birth"], "filter": ["Lindson"], "in": 1425, "out": 14, "usd": 0.001495, "cached": true}
+{"qid": "H0008", "types": ["birth"], "filter": ["Hollett"], "in": 1427, "out": 14, "usd": 0.001497, "cached": true}
+{"qid": "H0009", "types": ["birth"], "filter": ["Wexwood"], "in": 1424, "out": 15, "usd": 0.001499, "cached": true}
+{"qid": "H0010", "types": ["birth"], "filter": ["Hollwood"], "in": 1426, "out": 14, "usd": 0.001496, "cached": true}
+{"qid": "H0011", "types": ["birth"], "filter": ["Lindner"], "in": 1427, "out": 14, "usd": 0.001497, "cached": true}
+{"qid": "H0012", "types": ["birth"], "filter": ["Orlwood"], "in": 1425, "out": 14, "usd": 0.001495, "cached": true}
+{"qid": "H0013", "types": ["marriage", "engagement"], "filter": ["Hollmere"], "in": 1433, "out": 17, "usd": 0.001518, "cached": true}
+{"qid": "H0014", "types": ["marriage", "engagement"], "filter": ["Lindson"], "in": 1434, "out": 16, "usd": 0.001514, "cached": true}
+{"qid": "H0015", "types": ["marriage", "engagement"], "filter": ["Corrett"], "in": 1435, "out": 16, "usd": 0.001515, "cached": true}
+{"qid": "H0016", "types": ["marriage", "engagement"], "filter": ["Lindner"], "in": 1433, "out": 16, "usd": 0.001513, "cached": true}
+{"qid": "H0017", "types": ["marriage", "engagement"], "filter": ["Orlwood"], "in": 1431, "out": 16, "usd": 0.001511, "cached": true}
+{"qid": "H0018", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1463, "out": 52, "usd": 0.0017230000000000001, "cached": true}
+{"qid": "H0019", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1464, "out": 52, "usd": 0.001724, "cached": true}
+{"qid": "H0020", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1459, "out": 52, "usd": 0.001719, "cached": true}
+{"qid": "H0021", "types": ["death"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1462, "out": 52, "usd": 0.001722, "cached": true}
+{"qid": "H0022", "types": ["marriage", "engagement"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1468, "out": 54, "usd": 0.001738, "cached": true}
+{"qid": "H0023", "types": ["marriage", "engagement"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1470, "out": 54, "usd": 0.00174, "cached": true}
+{"qid": "H0024", "types": ["marriage", "engagement"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1472, "out": 54, "usd": 0.001742, "cached": true}
+{"qid": "H0025", "types": ["marriage", "engagement"], "filter": ["Lindner", "Orlwood", "Hollett", "Hollmere", "Corrett", "Hollwood", "Brackwood", "Lindson", "Stenworth", "Wexwood"], "in": 1471, "out": 54, "usd": 0.0017410000000000001, "cached": true}
+{"qid": "H0026", "types": ["death", "burial"], "filter": ["Mirecombe"], "in": 1418, "out": 17, "usd": 0.001503, "cached": true}
+{"qid": "H0027", "types": ["death", "burial"], "filter": ["Coldcombe"], "in": 1416, "out": 17, "usd": 0.001501, "cached": true}
+{"qid": "H0028", "types": ["death", "burial"], "filter": ["Wilhaven"], "in": 1416, "out": 17, "usd": 0.001501, "cached": true}
+{"qid": "H0029", "types": ["death", "burial"], "filter": ["Fenmere"], "in": 1419, "out": 17, "usd": 0.001504, "cached": true}
+{"qid": "H0030", "types": ["death", "burial"], "filter": ["Salford"], "in": 1408, "out": 16, "usd": 0.001488, "cached": true}
+{"qid": "H0031", "types": ["death", "burial"], "filter": ["Dunholt"], "in": 1416, "out": 17, "usd": 0.001501, "cached": true}
+{"qid": "H0032", "types": ["birth"], "filter": ["Harrowgate"], "in": 1414, "out": 15, "usd": 0.0014889999999999999, "cached": true}
+{"qid": "H0033", "types": ["birth"], "filter": ["Fenmere"], "in": 1415, "out": 18, "usd": 0.001505, "cached": true}
+{"qid": "H0034", "types": ["birth"], "filter": ["Staveton"], "in": 1414, "out": 14, "usd": 0.0014839999999999999, "cached": true}
+{"qid": "H0035", "types": ["birth"], "filter": ["Gulton"], "in": 1411, "out": 17, "usd": 0.001496, "cached": true}
+{"qid": "H0036", "types": ["birth"], "filter": ["Salmere"], "in": 1413, "out": 15, "usd": 0.001488, "cached": true}
+{"qid": "H0037", "types": ["birth"], "filter": ["Miremere"], "in": 1414, "out": 15, "usd": 0.0014889999999999999, "cached": true}

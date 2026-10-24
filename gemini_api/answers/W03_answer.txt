@@ -1,0 +1,22 @@
+To answer the questions accurately based on the provided transcripts and character mappings, we extract the relevant game statistics across all 16 episodes:
+
+Q01: \boxed{Attack}
+Q02: \boxed{Pass Without a Trace}
+Q03: \boxed{10}
+Q04: \boxed{1}
+Q05: \boxed{0}
+Q06: \boxed{Prestidigitation, Silence, Prestidigitation, Enhance Ability, Prestidigitation, Mass Cure Wounds, Greater Restoration, Dispel Magic, Call Lightning, Beacon of Hope, Skywrite, Scrying, Cure Wounds, Hunter's Mark, Plane Shift, Pass Without a Trace}
+Q07: \boxed{46}
+Q08: \boxed{2}
+Q09: \boxed{24}
+Q10: \boxed{1}
+Q11: \boxed{Blight}
+Q12: \boxed{75}
+Q13: \boxed{6}
+Q14: \boxed{Druidcraft}
+Q15: \boxed{27}
+Q16: \boxed{1045}
+Q17: \boxed{157}
+Q18: \boxed{0}
+Q19: \boxed{None, None, None, None, None, None, None, None, None, Lay on Hands, None, None, None, None, None, None}
+Q20: \boxed{27}

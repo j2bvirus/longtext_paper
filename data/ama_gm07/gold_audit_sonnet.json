@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "Move South at step 11 put the agent next to the tree and facing it. At step 10 the tree was still 2 steps away.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "Iron needs a stone pickaxe or better, so having one would have let the Do at step 98 succeed.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "wrong",
+  "reason": "Mining iron needs a stone pickaxe, not an iron pickaxe. The agent lacks a stone pickaxe, since its later Make Stone Pickaxe attempts keep failing.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "Move East at step 37 left the agent facing the tree, so the Do at step 38 worked.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "Moving South closed the distance to 1 and left the agent facing the tree.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "Wood was added to the inventory, and wood is needed for the table and tools.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "The inventory now holds wood, which is needed for the table and later crafting.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "The agent lacks a stone pickaxe or better, so Do on iron fails even when adjacent.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "Steps 34-36 moved north and step 37 moved east, bringing the agent beside the tree.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "At step 11 the agent was adjacent to and facing the tree, which the other moves never achieved.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "Do chopped the tree after the moves put the agent next to it.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "The wood achievement was most likely already unlocked at step 12, so step 38 gave 0.0.",
+  "evidence": "whole trajectory"
+ }
+}

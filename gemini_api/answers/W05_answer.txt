@@ -1,0 +1,20 @@
+Q01: \boxed{1}
+Q02: \boxed{214}
+Q03: \boxed{Dominate Monster}
+Q04: \boxed{5}
+Q05: \boxed{Pass Without a Trace}
+Q06: \boxed{None, None, None, None, None, None, Hex, None, None, None, Minor Illusion, Hex, Hex, None, None, Hex}
+Q07: \boxed{Mage Hand, Pass Without a Trace, Silence, Stoneskin, Hunter's Mark, Pass Without a Trace, Pass Without a Trace, Pass Without a Trace, Lay on Hands, Create Water, Control Water, Pass Without a Trace, Pass Without a Trace, Locate Object, Seeming, Major Image}
+Q08: \boxed{1}
+Q09: \boxed{Cone of Cold}
+Q10: \boxed{Tsunami}
+Q11: \boxed{Cure Wounds, Hail of Thorns, Guiding Bolt, Fly, Fireball, Healing Word, Thunderwave, Conjure Barrage, Counterspell, Bigby's Hand, Lightning Bolt, Disintegrate, Heal, Mass Cure Wounds}
+Q12: \boxed{303}
+Q13: \boxed{1}
+Q14: \boxed{1}
+Q15: \boxed{28}
+Q16: \boxed{None, None, None, None, None, None, Hex, None, None, None, Hex, Hex, Hex, None, None, Hex}
+Q17: \boxed{0}
+Q18: \boxed{157}
+Q19: \boxed{259}
+Q20: \boxed{1}

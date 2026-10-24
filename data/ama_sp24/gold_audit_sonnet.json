@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "Step 13 has the four stages described: repos_without_python, files_from_repos, files_with_content and the final proportion SELECT.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "Steps 16, 17, 21 and 22 each show the single match (waydelyle/openfund README.md) and the count of 1.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "The conceptual point holds: INNER JOIN shrinks the denominator while the numerator stays 1, so the proportion rises.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "Step 13 gave 1 / 235,921 = 4.2387e-06 and step 16 gave 1 / 342,043 = 2.9236e-06.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "Steps 14 and 15 show 59,686 repos in SAMPLE_FILES against 53,141 in LANGUAGES, with 6,545 missing from LANGUAGES.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "The path, NULL and phrase-matching conditions are accurately described, and the case-sensitivity point is hedged rather than asserted.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "The suggested diagnostics are reasonable and consistent with the nearby steps (18, 20, 21).",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "The proportion changed at step 16 and was identical at steps 21 and 26.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "It is framed as an inference, and the cited evidence from steps 4, 8 and 9 is consistent with the trajectory.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "Step 19 is a transport-level read timeout, while steps 18, 20 and 21 succeeded, which supports a tooling constraint.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "The three tables, the per-table step lists (17, 14 and 11) and the 19 successes plus 1 failure all match the trajectory.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "The discoveries and the corrective sequence match the trajectory.",
+  "evidence": "whole trajectory"
+ }
+}

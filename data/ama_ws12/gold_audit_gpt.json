@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "Step 73 viewed lines 464-478 of the specified file.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "wrong",
+  "reason": "Step 35 ran admin_filters tests; the core logic was analyzed at Step 20.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "The fix retained primary-key OneToOneField components in relation_parts, and Step 65 passed.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "The added condition required both primary_key=True and one_to_one=True.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "wrong",
+  "reason": "Step 35 showed passing admin_filters tests, not the original lookup_allowed logic.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "wrong",
+  "reason": "Step 40 showed a failing test, not relation_parts code; later exploration revealed the separate /testbed implementation.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "Membership in target_fields caused the primary-key OneToOneField component to be skipped.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "wrong",
+  "reason": "lookup_allowed() itself returned False; its caller in get_filters() would raise the exception.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "wrong",
+  "reason": "Step 50 added condition variables and debug output to the workspace options.py.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "wrong",
+  "reason": "Step 60 listed /testbed; no reproduction script confirmed that exception.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "wrong",
+  "reason": "The root cause is accurate, but reproduction and exploration occurred at Steps 15-26, not the cited steps.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "The added condition preserved primary-key OneToOneField components even when present in target_fields.",
+  "evidence": "whole trajectory"
+ }
+}

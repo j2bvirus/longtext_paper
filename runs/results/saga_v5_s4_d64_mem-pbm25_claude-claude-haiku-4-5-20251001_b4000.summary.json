@@ -1,0 +1,42 @@
+{
+ "name": "saga_v5_s4_d64_mem-pbm25_claude-claude-haiku-4-5-20251001_b4000",
+ "n": 226,
+ "acc": 0.8451327433628318,
+ "by_qtype": {
+  "ALIVE": 0.92,
+  "BIRTHPLACE": 0.917,
+  "EVER_VISITED": 1.0,
+  "GRANDPARENT": 0.412,
+  "KNOWS": 0.933,
+  "LOC_AT_EVENT": 0.882,
+  "LOC_NOW": 0.846,
+  "OCCUPATION_NOW": 0.8,
+  "OWNER_NOW": 0.75,
+  "OWNER_PREV": 1.0,
+  "PROMISE": 1.0,
+  "RULE_BRIDGE": 0.857,
+  "RULE_VAULT": 0.5,
+  "SPOUSE_NOW": 0.682
+ },
+ "mean_ctx_tokens": 4007.2964601769913,
+ "sum_in_tokens": 1264944,
+ "sum_out_tokens": 52883,
+ "sum_usd": 1.529359,
+ "sum_wall_s": 1219.5614411830902,
+ "build": {
+  "embed_tokens": 0,
+  "llm_in": 0,
+  "llm_out": 0,
+  "usd": 0.0,
+  "wall_s": 0.5739772319793701,
+  "lazy": {
+   "llm_in": 0,
+   "llm_out": 0,
+   "usd": 0.0,
+   "calls": 0
+  }
+ },
+ "record_tokens": 1841142,
+ "n_chunks": 7742,
+ "mean_ev_recall": 0.836340542605632
+}

@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "wrong",
+  "reason": "Step 8 executed `grep -n \"def where\" xarray/core/computation.py`.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "wrong",
+  "reason": "The trajectory shows `apply_ufunc`, not `_apply_ufunc`, and no examination of line 1915.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "wrong",
+  "reason": "The agent was examining `merge_collected` in `xarray/core/merge.py`.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "wrong",
+  "reason": "`merge_attrs` handles coordinate attributes too; understanding the lambda’s use for both was essential.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "wrong",
+  "reason": "Step 45 expanded a verification script; no `_merge_coord_attrs` discovery occurred.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "Later tests show `keep_attrs=False` produces empty coordinate attributes.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ambiguous",
+  "reason": "Several investigation actions were reasonable; Step 43 implemented experimental logic rather than recording that observation.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "wrong",
+  "reason": "Step 56 changed the callback to check whether `x_attrs` appeared anywhere in the attribute list.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "wrong",
+  "reason": "The lambda introduced by PR #6461 returned `x.attrs` even when merging coordinate attributes.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "wrong",
+  "reason": "Step 53 created a debugging script for a test failure; no such realization or function appeared.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "wrong",
+  "reason": "The culprit was the `where` callback returning `x.attrs` for every attribute merge, including coordinates.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ambiguous",
+  "reason": "Six comprehensive checks passed, but other runs reported 1, 2, 58, 31, and 281 passing tests; the question does not specify a run.",
+  "evidence": "whole trajectory"
+ }
+}

@@ -1,0 +1,20 @@
+Q01: \boxed{150}
+Q02: \boxed{Fly, Earthen Pillar}
+Q03: \boxed{42}
+Q04: \boxed{3}
+Q05: \boxed{765}
+Q06: \boxed{25}
+Q07: \boxed{35}
+Q08: \boxed{1}
+Q09: \boxed{0}
+Q10: \boxed{Greater Restoration}
+Q11: \boxed{1380}
+Q12: \boxed{Cure Wounds}
+Q13: \boxed{Greater Restoration}
+Q14: \boxed{Speak with Animals}
+Q15: \boxed{1}
+Q16: \boxed{15}
+Q17: \boxed{165}
+Q18: \boxed{Attack}
+Q19: \boxed{1}
+Q20: \boxed{Banishment, Bigby's Hand, Blindness/Deafness, Call Lightning, Circle of Death, Counterspell, Cure Wounds, Disintegrate, Dispel Magic,False Life, Fireball, Flaming Sphere, Guiding Bolt, Hail of Thorns, Heal, Healing Word, Hold Monster, Insect Plague, Lightning Arrow, Lightning Bolt, Mass Cure Wounds, Modify Memory, Moonbeam, Otiluke's Resilient Sphere, Scorching Ray,Sleep, Spiritual Weapon}

@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "The table is solid and blocks the move south.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "wrong",
+  "reason": "Step 11 killed and ate the cow, not grass. The tree at step 13 was chopped (it vanished), not a failed chop.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "Drinking needs facing water, so Move South would not have given the reward.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "The failure implies there was no iron pickaxe.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "wrong",
+  "reason": "A table can't be collected with Do (the Do at step 60 changed nothing). The fix is to move around it.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "wrong",
+  "reason": "The agent already faced the tree at step 12, and its Do at step 13 chopped it. The cow-attack claim is false.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "The position is unchanged because the table blocks it.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "The tree disappeared, so wood was gained.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "The diamond remained, so the agent lacked an iron pickaxe.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "All five moves were blocked by the table.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "wrong",
+  "reason": "The target at step 11 was a cow, not grass. The tree Do actions did chop wood.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "The table blocks movement and the agent should go around it.",
+  "evidence": "whole trajectory"
+ }
+}

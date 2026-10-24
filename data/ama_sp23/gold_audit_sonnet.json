@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "The step 10 CTEs, selected columns and the CPC_CURRENT INNER JOIN all match the trajectory, and the join explains the 10 duplicate rows.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "Steps 11–12 timed out, steps 14–16 gave the row counts, and steps 19–21 timed out again, as described.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "Replacing the join with EXISTS would remove the duplicates, which matches the step 12 approach.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "Step 14 returned 659007, and steps 15 and 16 gave the other table sizes.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "The conditions listed match the step 10 forward-citation logic; the BETWEEN form is equivalent to the `>= 0` and `<=` checks used.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "The plan is reasonable, and step 26 indeed had no CPC category filter.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "The listed optimizer preconditions are sound and fit the step 18 query.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "Step 25's `SELECT *` on CPC_CURRENT is the last step that revealed new schema values.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "Step 25 is the last successful step that returned actual rows, after step 24.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "The one-to-many relationship is supported by the duplicates in step 10, the DISTINCT in step 11 and the EXISTS in step 12.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "The counts check out: 8 bash calls, 17 SQL calls (6 succeeded, 11 timed out), and the per-table step lists are accurate.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "The blockers described match the trajectory: duplicate rows at step 10, then repeated timeouts.",
+  "evidence": "whole trajectory"
+ }
+}

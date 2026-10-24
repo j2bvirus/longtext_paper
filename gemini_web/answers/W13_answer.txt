@@ -1,0 +1,105 @@
+Based on the transcripts provided in the attached file, here is the step-by-step breakdown and final answers to the 20 questions:
+
+### Step-by-Step Breakdown
+
+* **Episode 1:**
+* **First Spell:** Pass Without a Trace (cast by Keyleth).
+
+
+* **Tiberius's First Spell:** Prestidigitation.
+
+
+* **Total Spells in Ep 1:** 15 (Keyleth: 5, Taryon/Scanlan: 4, Pike: 2, Tiberius: 4).
+
+
+
+
+* **Episode 2:**
+* **First Spell:** Silence (cast by Tiberius).
+
+
+* **Tiberius's First Spell:** Silence.
+
+
+* **Total Spells in Ep 2:** 22 (Tiberius: 10, Taryon/Scanlan: 5, Vex'ahlia: 4, Pike: 2, Keyleth: 1).
+
+
+* **Cumulative Spells by end of Ep 2:** $15 + 22 = 37$.
+
+
+
+
+* **Episode 3:**
+* **First Spell:** Prestidigitation (cast by Tiberius).
+
+
+* **Tiberius's First Spell:** Prestidigitation.
+
+
+
+
+* **Episode 4:**
+* **First Spell:** Light (cast by Tiberius).
+
+
+* **Tiberius's First Spell:** Light.
+
+
+
+
+* **Episode 5:**
+* **First Spell:** Seeming (cast by Taryon/Scanlan).
+
+
+* **Second Spell:** Invisibility (cast by Taryon/Scanlan).
+
+
+* **Cumulative Spells by end of Ep 5:** 71.
+
+
+
+
+* **Episode 8:**
+* **Gern's First Spell:** Cone of Cold.
+
+
+
+
+* **Episode 18:**
+* **First Spell:** Cure Wounds (cast by Vex'ahlia).
+
+
+* **Cumulative Vex'ahlia rolls by end of Ep 18:** 181.
+
+
+
+
+* **Episode 22:**
+* **Cumulative Spells by end of Ep 22:** 356.
+
+
+
+
+
+---
+
+Q01: \boxed{Animal Handling,Charisma,Medicine}
+Q02: \boxed{37}
+Q03: \boxed{21}
+Q04: \boxed{227}
+Q05: \boxed{157}
+Q06: \boxed{2}
+Q07: \boxed{Seeming}
+Q08: \boxed{Hunter's Mark}
+Q09: \boxed{181}
+Q10: \boxed{Alter Self,Bigby's Hand,Blindness/Deafness,Blur,Call Lightning,Chain Lightning,Commune,Commune with Nature,Confusion,Conjure Animals,Conjure Barrage,Conjure Woodland Beings,Control Flames,Control Water,Create or Destroy Water,Druidcraft,Earthbind,Earthquake,Eyebite,Wind Walk}
+Q11: \boxed{Pass Without a Trace,Silence,Prestidigitation,Light,Seeming,Mass Cure Wounds,Enhance Ability,Pass Without a Trace,Glyph of Warding,Scrying,Dispel Magic,Lightning Bolt,Detect Magic,Locate Object,Cure Wounds,Tree Stride,Beacon of Hope,Prismatic Spray,Gust of Wind,Modify Memory,Freedom of Movement,Transport via Plants,Cure Wounds,Guiding Bolt}
+Q12: \boxed{Light}
+Q13: \boxed{Prestidigitation,Silence,Prestidigitation,Light}
+Q14: \boxed{Cure Wounds}
+Q15: \boxed{71}
+Q16: \boxed{Cone of Cold}
+Q17: \boxed{46}
+Q18: \boxed{13}
+Q19: \boxed{Invisibility}
+Q20: \boxed{356}

@@ -1,0 +1,26 @@
+set,reader,method,n,length_tokens,accuracy
+D2-D3,Haiku 4.5,CMM v2 + cards,440,44266,96.82
+D2-D3,Haiku 4.5,CMM v2 + cards,440,493575,92.95
+D2-D3,Haiku 4.5,CMM v2 + cards,440,1955438,90.45
+D2-D3,Haiku 4.5,Paragraph BM25,440,44266,95.91
+D2-D3,Haiku 4.5,Paragraph BM25,440,493575,89.55
+D2-D3,Haiku 4.5,Paragraph BM25,440,1955438,85.45
+D2-D3,Haiku 4.5,NameGrep+co,440,44266,95.45
+D2-D3,Haiku 4.5,NameGrep+co,440,493575,93.41
+D2-D3,Haiku 4.5,NameGrep+co,440,1955438,85.00
+D2-D3,Haiku 4.5,Hybrid retrieval,440,44266,83.64
+D2-D3,Haiku 4.5,Hybrid retrieval,440,493575,77.73
+D2-D3,Haiku 4.5,Hybrid retrieval,440,1955438,67.50
+D2-D3,Haiku 4.5,Chunk BM25,440,44266,80.45
+D2-D3,Haiku 4.5,Chunk BM25,440,493575,73.41
+D2-D3,Haiku 4.5,Chunk BM25,440,1955438,61.59
+T1-T2,Haiku 4.5,CMM v4-adaptive,459,493726,95.21
+T1-T2,Haiku 4.5,CMM v4-adaptive,459,1911968,92.37
+T1-T2,Haiku 4.5,CMM v4,459,493726,94.34
+T1-T2,Haiku 4.5,CMM v4,459,1911968,89.32
+T1-T2,Haiku 4.5,Paragraph BM25,459,493726,88.24
+T1-T2,Haiku 4.5,Paragraph BM25,459,1911968,86.06
+T1-T2,Haiku 4.5,NameGrep+co,459,493726,92.37
+T1-T2,Haiku 4.5,NameGrep+co,459,1911968,86.93
+T1-T2,Haiku 4.5,Hybrid retrieval,459,493726,77.12
+T1-T2,Haiku 4.5,Hybrid retrieval,459,1911968,72.77

@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "The command text matches, and the step 8 grep output lists all five columns.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "Step 6's grep of DICOM_METADATA.json returned nothing, and step 8 confirmed DICOM_ALL has both fields.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "Step 11 shows populated SourceImageSequence values, so dropping that filter would admit reference-bearing rows.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "The `'[]'` equality is supported by the step 9 snippets and the successful step 12 query.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "The preconditions listed are consistent with steps 8, 9 and 12.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "Step 6's empty grep is the evidence that the collection and size fields were missing from DICOM_METADATA.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "Rerunning the aggregation with the validated filters is what step 13 did.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "The step 14 count and step 15 top-10 preview are the validations the trajectory shows.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "The switch to DICOM_ALL happened at steps 7–8, and all later queries use it.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "The agent relied on the `= '[]'` emptiness test, which steps 9, 11, 12 and 14 support.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "The counts match: 4 artifacts plus 1 table, 8 bash and 6 SQL executions, 5 successes and 1 failure.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "Steps 9–12 are described correctly, and the 500 error at step 10 cleared on retry.",
+  "evidence": "whole trajectory"
+ }
+}

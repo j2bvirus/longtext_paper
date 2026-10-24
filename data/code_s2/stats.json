@@ -1,0 +1,72 @@
+{
+ "events": 341,
+ "questions": 231,
+ "qtypes": {
+  "FN_NAME_NOW": 14,
+  "FN_MODULE_NOW": 22,
+  "FN_DEFAULT_NOW": 22,
+  "FN_NPARAMS": 22,
+  "CONFIG_NOW": 12,
+  "CONFIG_AT_TICKET": 15,
+  "OWNER_NOW": 14,
+  "BUG_STATUS": 15,
+  "DEPRECATED_BY": 10,
+  "LIB_VERSION": 21,
+  "RULE_CALL": 14,
+  "RULE_FLAG": 1,
+  "EVER_IN_MODULE": 22,
+  "ACCESS_NOW": 12,
+  "DECISION_NOW": 4,
+  "ABSTAIN": 11
+ },
+ "event_types": {
+  "INIT_TEAM": 1,
+  "INIT_MODULE": 14,
+  "INIT_FN": 30,
+  "INIT_CONFIG": 12,
+  "INIT_ACCESS": 2,
+  "RULE_CALL": 1,
+  "RULE_FLAG": 1,
+  "RULE_OWNER": 1,
+  "DECISION": 12,
+  "PROPOSAL": 16,
+  "CONFIG": 45,
+  "ADD_PARAM": 16,
+  "BUG_OPEN": 15,
+  "ACCESS": 17,
+  "MOVE": 19,
+  "LIB_ADD": 21,
+  "OWNER": 19,
+  "RENAME": 23,
+  "DEPRECATE": 10,
+  "DEFAULT": 15,
+  "CLAIM": 20,
+  "LEAVE": 6,
+  "BUG_FIXED": 8,
+  "DROP_PARAM": 8,
+  "LIB_UPGRADE": 4,
+  "BUG_WONTFIX": 2,
+  "LIB_REMOVE": 2,
+  "BUG_REOPENED": 1
+ },
+ "d0": {
+  "chars": 29514,
+  "tokens_cl100k": 7659
+ },
+ "d4": {
+  "chars": 124557,
+  "tokens_cl100k": 31590
+ },
+ "d16": {
+  "chars": 406885,
+  "tokens_cl100k": 102826
+ },
+ "d64": {
+  "chars": 1536709,
+  "tokens_cl100k": 387756
+ },
+ "d256": {
+  "chars": 6084081,
+  "tokens_cl100k": 1532092
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "Step 15's SQL and the target application number 'US-69777507-A' match the trajectory.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "Step 18 cast a DATE to NUMBER and failed, and step 19 fixed it with TO_NUMBER(TO_CHAR(DATEADD(...))).",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "The WHERE filter on a LEFT JOIN drops uncited patents; moving it into the join keeps the 313 zero-citation patents.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "Step 23 shows 313 with zero and 8 with one, totalling 321, which matches step 21.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "The listed preconditions (parseable JSON, publication_number join key, YYYYMMDD integer dates) are supported by steps 12, 14, 15, 18 and 19.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "The two diagnostic proposals are reasonable and grounded in the observed 0/1 distribution and step 15's empty application_number field.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "The country_code and kind_code filter was first added at step 14 and stayed unchanged afterwards.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "Step 15 was where the agent saw a populated JSON citation array instead of the misleading metadata.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "The timeout pattern is consistent with the expensive citation scanning and flattening, and the inference is reasonable.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "A limited sample dataset is a plausible inference from the 321 patents with only 0 or 1 citations.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "The counts match the trajectory: 9 bash calls with the step 6 failure, 15 SQL calls (11 successes, 3 timeouts, 1 compilation error), and 4 objects.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "The insights, failures, fix and minimal step sequence are consistent with the trajectory.",
+  "evidence": "whole trajectory"
+ }
+}

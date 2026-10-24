@@ -1,0 +1,2772 @@
+[
+ {
+  "id": "E0000",
+  "type": "INIT_TEAM",
+  "sprint": 1,
+  "text": "Project kickoff notes. The team: Dana Okafor, Sefa Nakamura, Kesh Nakamura, Lune Okafor, Rhea Tsang, Hadi Lindqvist, Pell Nakamura, Maren Marchetti, Ilya Kroll, Brann Ibarra, Corin Halvorsen, Oriel Abernet.",
+  "devs": [
+   "D00",
+   "D01",
+   "D02",
+   "D03",
+   "D04",
+   "D05",
+   "D06",
+   "D07",
+   "D08",
+   "D09",
+   "D10",
+   "D11"
+  ]
+ },
+ {
+  "id": "E0001",
+  "type": "INIT_MODULE",
+  "sprint": 1,
+  "text": "Module ownership table: notify/jobs.py is owned by Rhea Tsang, with Oriel Abernet as designated reviewer.",
+  "module": "notify/jobs.py",
+  "owner": "D04",
+  "reviewer": "D11"
+ },
+ {
+  "id": "E0002",
+  "type": "INIT_MODULE",
+  "sprint": 1,
+  "text": "Module ownership table: report/store.py is owned by Pell Nakamura, with Kesh Nakamura as designated reviewer.",
+  "module": "report/store.py",
+  "owner": "D06",
+  "reviewer": "D02"
+ },
+ {
+  "id": "E0003",
+  "type": "INIT_MODULE",
+  "sprint": 1,
+  "text": "Module ownership table: audit/store.py is owned by Dana Okafor, with Brann Ibarra as designated reviewer.",
+  "module": "audit/store.py",
+  "owner": "D00",
+  "reviewer": "D09"
+ },
+ {
+  "id": "E0004",
+  "type": "INIT_MODULE",
+  "sprint": 1,
+  "text": "Module ownership table: geo/handlers.py is owned by Brann Ibarra, with Dana Okafor as designated reviewer.",
+  "module": "geo/handlers.py",
+  "owner": "D09",
+  "reviewer": "D00"
+ },
+ {
+  "id": "E0005",
+  "type": "INIT_MODULE",
+  "sprint": 1,
+  "text": "Module ownership table: cache/api.py is owned by Dana Okafor, with Pell Nakamura as designated reviewer.",
+  "module": "cache/api.py",
+  "owner": "D00",
+  "reviewer": "D06"
+ },
+ {
+  "id": "E0006",
+  "type": "INIT_MODULE",
+  "sprint": 1,
+  "text": "Module ownership table: billing/handlers.py is owned by Kesh Nakamura, with Lune Okafor as designated reviewer.",
+  "module": "billing/handlers.py",
+  "owner": "D02",
+  "reviewer": "D03"
+ },
+ {
+  "id": "E0007",
+  "type": "INIT_MODULE",
+  "sprint": 1,
+  "text": "Module ownership table: auth/worker.py is owned by Rhea Tsang, with Pell Nakamura as designated reviewer.",
+  "module": "auth/worker.py",
+  "owner": "D04",
+  "reviewer": "D06"
+ },
+ {
+  "id": "E0008",
+  "type": "INIT_MODULE",
+  "sprint": 1,
+  "text": "Module ownership table: sync/client.py is owned by Sefa Nakamura, with Dana Okafor as designated reviewer.",
+  "module": "sync/client.py",
+  "owner": "D01",
+  "reviewer": "D00"
+ },
+ {
+  "id": "E0009",
+  "type": "INIT_MODULE",
+  "sprint": 1,
+  "text": "Module ownership table: export/core.py is owned by Hadi Lindqvist, with Dana Okafor as designated reviewer.",
+  "module": "export/core.py",
+  "owner": "D05",
+  "reviewer": "D00"
+ },
+ {
+  "id": "E0010",
+  "type": "INIT_MODULE",
+  "sprint": 1,
+  "text": "Module ownership table: ledger/jobs.py is owned by Oriel Abernet, with Sefa Nakamura as designated reviewer.",
+  "module": "ledger/jobs.py",
+  "owner": "D11",
+  "reviewer": "D01"
+ },
+ {
+  "id": "E0011",
+  "type": "INIT_MODULE",
+  "sprint": 1,
+  "text": "Module ownership table: cache/store.py is owned by Dana Okafor, with Lune Okafor as designated reviewer.",
+  "module": "cache/store.py",
+  "owner": "D00",
+  "reviewer": "D03"
+ },
+ {
+  "id": "E0012",
+  "type": "INIT_MODULE",
+  "sprint": 1,
+  "text": "Module ownership table: report/jobs.py is owned by Ilya Kroll, with Kesh Nakamura as designated reviewer.",
+  "module": "report/jobs.py",
+  "owner": "D08",
+  "reviewer": "D02"
+ },
+ {
+  "id": "E0013",
+  "type": "INIT_MODULE",
+  "sprint": 1,
+  "text": "Module ownership table: export/rules.py is owned by Sefa Nakamura, with Lune Okafor as designated reviewer.",
+  "module": "export/rules.py",
+  "owner": "D01",
+  "reviewer": "D03"
+ },
+ {
+  "id": "E0014",
+  "type": "INIT_MODULE",
+  "sprint": 1,
+  "text": "Module ownership table: notify/worker.py is owned by Lune Okafor, with Pell Nakamura as designated reviewer.",
+  "module": "notify/worker.py",
+  "owner": "D03",
+  "reviewer": "D06"
+ },
+ {
+  "id": "E0015",
+  "type": "INIT_FN",
+  "sprint": 1,
+  "text": "Initial import: `apply_batch(cursor, max_age=1, tenant=100)` lives in sync/client.py.",
+  "fn": "F00"
+ },
+ {
+  "id": "E0016",
+  "type": "INIT_FN",
+  "sprint": 1,
+  "text": "Initial import: `apply_bundle(batch_size, limit=5, timeout=2)` lives in report/jobs.py.",
+  "fn": "F01"
+ },
+ {
+  "id": "E0017",
+  "type": "INIT_FN",
+  "sprint": 1,
+  "text": "Initial import: `compute_policy(verbose, currency=3, tenant=100, retries=60)` lives in cache/api.py.",
+  "fn": "F02"
+ },
+ {
+  "id": "E0018",
+  "type": "INIT_FN",
+  "sprint": 1,
+  "text": "Initial import: `compute_session(currency, timeout=10, dry_run=1)` lives in geo/handlers.py.",
+  "fn": "F03"
+ },
+ {
+  "id": "E0019",
+  "type": "INIT_FN",
+  "sprint": 1,
+  "text": "Initial import: `emit_receipt(max_age, currency=5, locale=2, region=2)` lives in export/core.py.",
+  "fn": "F04"
+ },
+ {
+  "id": "E0020",
+  "type": "INIT_FN",
+  "sprint": 1,
+  "text": "Initial import: `fetch_cursor(batch_size, tenant=5, cursor=2)` lives in export/rules.py.",
+  "fn": "F05"
+ },
+ {
+  "id": "E0021",
+  "type": "INIT_FN",
+  "sprint": 1,
+  "text": "Initial import: `fetch_ledger(region, verbose=5, user_id=1)` lives in ledger/jobs.py.",
+  "fn": "F06"
+ },
+ {
+  "id": "E0022",
+  "type": "INIT_FN",
+  "sprint": 1,
+  "text": "Initial import: `fetch_shard(strict, max_age=10, limit=1, timeout=5)` lives in report/jobs.py.",
+  "fn": "F07"
+ },
+ {
+  "id": "E0023",
+  "type": "INIT_FN",
+  "sprint": 1,
+  "text": "Initial import: `flush_cursor(user_id, dry_run=10, verbose=30)` lives in audit/store.py.",
+  "fn": "F08"
+ },
+ {
+  "id": "E0024",
+  "type": "INIT_FN",
+  "sprint": 1,
+  "text": "Initial import: `flush_session(strict, locale=100, currency=1)` lives in ledger/jobs.py.",
+  "fn": "F09"
+ },
+ {
+  "id": "E0025",
+  "type": "INIT_FN",
+  "sprint": 1,
+  "text": "Initial import: `index_ledger(limit, max_age=60, cursor=100, user_id=3)` lives in cache/api.py.",
+  "fn": "F10"
+ },
+ {
+  "id": "E0026",
+  "type": "INIT_FN",
+  "sprint": 1,
+  "text": "Initial import: `index_receipt(region, verbose=2, limit=10, cursor=30)` lives in audit/store.py.",
+  "fn": "F11"
+ },
+ {
+  "id": "E0027",
+  "type": "INIT_FN",
+  "sprint": 1,
+  "text": "Initial import: `index_tariff(batch_size, strict=100)` lives in notify/worker.py.",
+  "fn": "F12"
+ },
+ {
+  "id": "E0028",
+  "type": "INIT_FN",
+  "sprint": 1,
+  "text": "Initial import: `load_invoice(region, cursor=2)` lives in report/jobs.py.",
+  "fn": "F13"
+ },
+ {
+  "id": "E0029",
+  "type": "INIT_FN",
+  "sprint": 1,
+  "text": "Initial import: `merge_batch(max_age, retries=60, user_id=60)` lives in ledger/jobs.py.",
+  "fn": "F14"
+ },
+ {
+  "id": "E0030",
+  "type": "INIT_FN",
+  "sprint": 1,
+  "text": "Initial import: `merge_token(locale, user_id=5, strict=30)` lives in notify/worker.py.",
+  "fn": "F15"
+ },
+ {
+  "id": "E0031",
+  "type": "INIT_FN",
+  "sprint": 1,
+  "text": "Initial import: `render_batch(batch_size, locale=10)` lives in notify/worker.py.",
+  "fn": "F16"
+ },
+ {
+  "id": "E0032",
+  "type": "INIT_FN",
+  "sprint": 1,
+  "text": "Initial import: `render_receipt(user_id, verbose=30, limit=30, tenant=100)` lives in cache/api.py.",
+  "fn": "F17"
+ },
+ {
+  "id": "E0033",
+  "type": "INIT_FN",
+  "sprint": 1,
+  "text": "Initial import: `render_session(dry_run, timeout=100, cursor=5)` lives in export/core.py.",
+  "fn": "F18"
+ },
+ {
+  "id": "E0034",
+  "type": "INIT_FN",
+  "sprint": 1,
+  "text": "Initial import: `render_snapshot(limit, batch_size=10, cursor=1, timeout=3)` lives in audit/store.py.",
+  "fn": "F19"
+ },
+ {
+  "id": "E0035",
+  "type": "INIT_FN",
+  "sprint": 1,
+  "text": "Initial import: `resolve_ledger(limit, tenant=30)` lives in cache/store.py.",
+  "fn": "F20"
+ },
+ {
+  "id": "E0036",
+  "type": "INIT_FN",
+  "sprint": 1,
+  "text": "Initial import: `resolve_token(timeout, locale=3, user_id=2)` lives in auth/worker.py.",
+  "fn": "F21"
+ },
+ {
+  "id": "E0037",
+  "type": "INIT_FN",
+  "sprint": 1,
+  "text": "Initial import: `rotate_ledger(max_age, region=2, retries=1)` lives in cache/api.py.",
+  "fn": "F22"
+ },
+ {
+  "id": "E0038",
+  "type": "INIT_FN",
+  "sprint": 1,
+  "text": "Initial import: `rotate_session(max_age, currency=1, region=3, retries=1)` lives in notify/jobs.py.",
+  "fn": "F23"
+ },
+ {
+  "id": "E0039",
+  "type": "INIT_FN",
+  "sprint": 1,
+  "text": "Initial import: `score_digest(region, strict=10, limit=10)` lives in cache/store.py.",
+  "fn": "F24"
+ },
+ {
+  "id": "E0040",
+  "type": "INIT_FN",
+  "sprint": 1,
+  "text": "Initial import: `score_policy(limit, verbose=10, tenant=10, max_age=3)` lives in ledger/jobs.py.",
+  "fn": "F25"
+ },
+ {
+  "id": "E0041",
+  "type": "INIT_FN",
+  "sprint": 1,
+  "text": "Initial import: `score_shard(max_age, strict=60, verbose=100)` lives in report/jobs.py.",
+  "fn": "F26"
+ },
+ {
+  "id": "E0042",
+  "type": "INIT_FN",
+  "sprint": 1,
+  "text": "Initial import: `score_tariff(region, currency=100, limit=5)` lives in notify/worker.py.",
+  "fn": "F27"
+ },
+ {
+  "id": "E0043",
+  "type": "INIT_FN",
+  "sprint": 1,
+  "text": "Initial import: `sync_digest(cursor, retries=5, dry_run=10)` lives in report/store.py.",
+  "fn": "F28"
+ },
+ {
+  "id": "E0044",
+  "type": "INIT_FN",
+  "sprint": 1,
+  "text": "Initial import: `sync_report(strict, tenant=100)` lives in notify/jobs.py.",
+  "fn": "F29"
+ },
+ {
+  "id": "E0045",
+  "type": "INIT_CONFIG",
+  "sprint": 1,
+  "text": "Config/defaults.yaml sets RETRY_LIMIT: 10.",
+  "key": "RETRY_LIMIT",
+  "value": "10"
+ },
+ {
+  "id": "E0046",
+  "type": "INIT_CONFIG",
+  "sprint": 1,
+  "text": "Config/defaults.yaml sets CACHE_TTL_SECONDS: 90.",
+  "key": "CACHE_TTL_SECONDS",
+  "value": "90"
+ },
+ {
+  "id": "E0047",
+  "type": "INIT_CONFIG",
+  "sprint": 1,
+  "text": "Config/defaults.yaml sets MAX_UPLOAD_MB: 5.",
+  "key": "MAX_UPLOAD_MB",
+  "value": "5"
+ },
+ {
+  "id": "E0048",
+  "type": "INIT_CONFIG",
+  "sprint": 1,
+  "text": "Config/defaults.yaml sets SESSION_TIMEOUT_MIN: 120.",
+  "key": "SESSION_TIMEOUT_MIN",
+  "value": "120"
+ },
+ {
+  "id": "E0049",
+  "type": "INIT_CONFIG",
+  "sprint": 1,
+  "text": "Config/defaults.yaml sets BATCH_WINDOW_SEC: 90.",
+  "key": "BATCH_WINDOW_SEC",
+  "value": "90"
+ },
+ {
+  "id": "E0050",
+  "type": "INIT_CONFIG",
+  "sprint": 1,
+  "text": "Config/defaults.yaml sets RATE_LIMIT_RPS: 60.",
+  "key": "RATE_LIMIT_RPS",
+  "value": "60"
+ },
+ {
+  "id": "E0051",
+  "type": "INIT_CONFIG",
+  "sprint": 1,
+  "text": "Config/defaults.yaml sets EXPORT_CHUNK_ROWS: 300.",
+  "key": "EXPORT_CHUNK_ROWS",
+  "value": "300"
+ },
+ {
+  "id": "E0052",
+  "type": "INIT_CONFIG",
+  "sprint": 1,
+  "text": "Config/defaults.yaml sets AUDIT_RETENTION_DAYS: 15.",
+  "key": "AUDIT_RETENTION_DAYS",
+  "value": "15"
+ },
+ {
+  "id": "E0053",
+  "type": "INIT_CONFIG",
+  "sprint": 1,
+  "text": "Config/defaults.yaml sets SEARCH_PAGE_SIZE: 90.",
+  "key": "SEARCH_PAGE_SIZE",
+  "value": "90"
+ },
+ {
+  "id": "E0054",
+  "type": "INIT_CONFIG",
+  "sprint": 1,
+  "text": "Config/defaults.yaml sets SYNC_INTERVAL_SEC: 15.",
+  "key": "SYNC_INTERVAL_SEC",
+  "value": "15"
+ },
+ {
+  "id": "E0055",
+  "type": "INIT_CONFIG",
+  "sprint": 1,
+  "text": "Config/defaults.yaml sets TOKEN_TTL_MIN: 5.",
+  "key": "TOKEN_TTL_MIN",
+  "value": "5"
+ },
+ {
+  "id": "E0056",
+  "type": "INIT_CONFIG",
+  "sprint": 1,
+  "text": "Config/defaults.yaml sets NOTIFY_BATCH_SIZE: 30.",
+  "key": "NOTIFY_BATCH_SIZE",
+  "value": "30"
+ },
+ {
+  "id": "E0057",
+  "type": "INIT_ACCESS",
+  "sprint": 1,
+  "text": "Kesh Nakamura holds production database access.",
+  "dev": "D02"
+ },
+ {
+  "id": "E0058",
+  "type": "INIT_ACCESS",
+  "sprint": 1,
+  "text": "Oriel Abernet holds production database access.",
+  "dev": "D11"
+ },
+ {
+  "id": "E0059",
+  "type": "RULE_CALL",
+  "sprint": 1,
+  "text": "Architecture rule (ADR-001): functions in the billing package may only be called by the reporting and scheduler services.",
+  "domain": "billing",
+  "services": [
+   "reporting",
+   "scheduler"
+  ]
+ },
+ {
+  "id": "E0060",
+  "type": "RULE_FLAG",
+  "sprint": 1,
+  "text": "Ops rule: the ENABLE_PREFETCH feature flag may be turned on only while CACHE_TTL_SECONDS is at least 60.",
+  "flag": "ENABLE_PREFETCH",
+  "key": "CACHE_TTL_SECONDS",
+  "min": 60
+ },
+ {
+  "id": "E0061",
+  "type": "RULE_OWNER",
+  "sprint": 1,
+  "text": "Team policy: when a module owner leaves the team, ownership passes automatically to that module's designated reviewer; no announcement is made."
+ },
+ {
+  "id": "E0062",
+  "type": "DECISION",
+  "sprint": 2,
+  "text": "ADR by Brann Ibarra: we will use quarkjson for message queue.",
+  "topic": "message queue",
+  "lib": "quarkjson"
+ },
+ {
+  "id": "E0063",
+  "type": "PROPOSAL",
+  "sprint": 2,
+  "text": "PR #400 by Ilya Kroll proposes moving `resolve_token` to audit/store.py; closed without merging after review.",
+  "fn": "F21",
+  "dest": "audit/store.py",
+  "pr": 400
+ },
+ {
+  "id": "E0064",
+  "type": "CONFIG",
+  "sprint": 2,
+  "text": "Incident follow-up (Sefa Nakamura): CACHE_TTL_SECONDS changed from 90 to 300.",
+  "key": "CACHE_TTL_SECONDS",
+  "value": "300"
+ },
+ {
+  "id": "E0065",
+  "type": "ADD_PARAM",
+  "sprint": 2,
+  "text": "Dana Okafor: added keyword argument verbose=1 to `index_ledger`.",
+  "fn": "F10"
+ },
+ {
+  "id": "E0066",
+  "type": "CONFIG",
+  "sprint": 2,
+  "text": "Config PR by Pell Nakamura merged: MAX_UPLOAD_MB = 30.",
+  "key": "MAX_UPLOAD_MB",
+  "value": "30"
+ },
+ {
+  "id": "E0067",
+  "type": "BUG_OPEN",
+  "sprint": 2,
+  "text": "New ticket PRJ-100 opened: missing audit record in `render_batch` (reported by Dana Okafor); status open.",
+  "bug": "PRJ-100",
+  "status": "open",
+  "fn": "F16"
+ },
+ {
+  "id": "E0068",
+  "type": "CONFIG",
+  "sprint": 3,
+  "text": "Config PR by Maren Marchetti merged: SESSION_TIMEOUT_MIN = 60.",
+  "key": "SESSION_TIMEOUT_MIN",
+  "value": "60"
+ },
+ {
+  "id": "E0069",
+  "type": "ACCESS",
+  "sprint": 3,
+  "text": "Security: Rhea Tsang granted Lune Okafor production database access for the migration.",
+  "dev": "D03",
+  "granted": true
+ },
+ {
+  "id": "E0070",
+  "type": "BUG_OPEN",
+  "sprint": 3,
+  "text": "New ticket PRJ-101 opened: stale cache entry in `sync_digest` (reported by Dana Okafor); status open.",
+  "bug": "PRJ-101",
+  "status": "open",
+  "fn": "F28"
+ },
+ {
+  "id": "E0071",
+  "type": "MOVE",
+  "sprint": 3,
+  "text": "Pell Nakamura relocated `score_policy` into notify/jobs.py to break an import cycle.",
+  "fn": "F25",
+  "dest": "notify/jobs.py"
+ },
+ {
+  "id": "E0072",
+  "type": "CONFIG",
+  "sprint": 3,
+  "text": "[ops] Brann Ibarra set SEARCH_PAGE_SIZE to 3 in production after the load test.",
+  "key": "SEARCH_PAGE_SIZE",
+  "value": "3"
+ },
+ {
+  "id": "E0073",
+  "type": "PROPOSAL",
+  "sprint": 3,
+  "text": "Sefa Nakamura opened PR #401 to move `compute_session` into auth/worker.py, but it was abandoned.",
+  "fn": "F03",
+  "dest": "auth/worker.py",
+  "pr": 401
+ },
+ {
+  "id": "E0074",
+  "type": "LIB_ADD",
+  "sprint": 3,
+  "text": "[commit by Ilya Kroll] The scheduler service now depends on glyphmail 3.5.9.",
+  "service": "scheduler",
+  "lib": "glyphmail",
+  "version": "3.5.9"
+ },
+ {
+  "id": "E0075",
+  "type": "OWNER",
+  "sprint": 3,
+  "text": "Ownership update: Ilya Kroll takes over cache/store.py.",
+  "module": "cache/store.py",
+  "owner": "D08"
+ },
+ {
+  "id": "E0076",
+  "type": "RENAME",
+  "sprint": 3,
+  "text": "Maren Marchetti merged a refactor: `resolve_ledger` is now called `emit_invoice` (same behaviour).",
+  "fn": "F20",
+  "old": "resolve_ledger",
+  "new": "emit_invoice"
+ },
+ {
+  "id": "E0077",
+  "type": "CONFIG",
+  "sprint": 4,
+  "text": "Config PR by Pell Nakamura merged: TOKEN_TTL_MIN = 45.",
+  "key": "TOKEN_TTL_MIN",
+  "value": "45"
+ },
+ {
+  "id": "E0078",
+  "type": "DECISION",
+  "sprint": 4,
+  "text": "ADR by Kesh Nakamura: we will use ironcache for caching.",
+  "topic": "caching",
+  "lib": "ironcache"
+ },
+ {
+  "id": "E0079",
+  "type": "DEPRECATE",
+  "sprint": 4,
+  "text": "[commit by Pell Nakamura] Deprecated `resolve_token`; callers should use `emit_receipt` instead.",
+  "fn": "F21",
+  "replacement": "F04",
+  "replacement_name": "emit_receipt"
+ },
+ {
+  "id": "E0080",
+  "type": "MOVE",
+  "sprint": 4,
+  "text": "[commit by Hadi Lindqvist] Moved `fetch_ledger` from ledger/jobs.py to report/store.py.",
+  "fn": "F06",
+  "dest": "report/store.py"
+ },
+ {
+  "id": "E0081",
+  "type": "DEFAULT",
+  "sprint": 4,
+  "text": "[commit by Hadi Lindqvist] `emit_invoice`: default tenant changed to 1.",
+  "fn": "F20"
+ },
+ {
+  "id": "E0082",
+  "type": "MOVE",
+  "sprint": 4,
+  "text": "[commit by Ilya Kroll] Moved `render_snapshot` from audit/store.py to notify/jobs.py.",
+  "fn": "F19",
+  "dest": "notify/jobs.py"
+ },
+ {
+  "id": "E0083",
+  "type": "CONFIG",
+  "sprint": 5,
+  "text": "[ops] Lune Okafor set RATE_LIMIT_RPS to 10 in production after the load test.",
+  "key": "RATE_LIMIT_RPS",
+  "value": "10"
+ },
+ {
+  "id": "E0084",
+  "type": "OWNER",
+  "sprint": 5,
+  "text": "From this sprint notify/jobs.py is maintained by Ilya Kroll (previously Rhea Tsang).",
+  "module": "notify/jobs.py",
+  "owner": "D08"
+ },
+ {
+  "id": "E0085",
+  "type": "ACCESS",
+  "sprint": 5,
+  "text": "Security: Lune Okafor's production database access was revoked by Hadi Lindqvist.",
+  "dev": "D03",
+  "granted": false
+ },
+ {
+  "id": "E0086",
+  "type": "LIB_ADD",
+  "sprint": 5,
+  "text": "[commit by Ilya Kroll] The worker service now depends on quarkjson 2.7.8.",
+  "service": "worker",
+  "lib": "quarkjson",
+  "version": "2.7.8"
+ },
+ {
+  "id": "E0087",
+  "type": "RENAME",
+  "sprint": 5,
+  "text": "[commit by Brann Ibarra] Rename `score_policy` to `score_receipt` in notify/jobs.py; all call sites updated.",
+  "fn": "F25",
+  "old": "score_policy",
+  "new": "score_receipt"
+ },
+ {
+  "id": "E0088",
+  "type": "LIB_ADD",
+  "sprint": 5,
+  "text": "[commit by Pell Nakamura] The worker service now depends on tidepool 1.5.7.",
+  "service": "worker",
+  "lib": "tidepool",
+  "version": "1.5.7"
+ },
+ {
+  "id": "E0089",
+  "type": "RENAME",
+  "sprint": 5,
+  "text": "Pell Nakamura merged a refactor: `fetch_ledger` is now called `parse_receipt` (same behaviour).",
+  "fn": "F06",
+  "old": "fetch_ledger",
+  "new": "parse_receipt"
+ },
+ {
+  "id": "E0090",
+  "type": "DECISION",
+  "sprint": 5,
+  "text": "ADR by Dana Okafor: we will use velvetlog for JSON parsing.",
+  "topic": "JSON parsing",
+  "lib": "velvetlog"
+ },
+ {
+  "id": "E0091",
+  "type": "PROPOSAL",
+  "sprint": 6,
+  "text": "Kesh Nakamura opened PR #402 to move `apply_bundle` into notify/worker.py, but it was abandoned.",
+  "fn": "F01",
+  "dest": "notify/worker.py",
+  "pr": 402
+ },
+ {
+  "id": "E0092",
+  "type": "CLAIM",
+  "sprint": 6,
+  "text": "Corin Halvorsen mentioned in passing that SYNC_INTERVAL_SEC had been set to 75, but nobody checked.",
+  "key": "SYNC_INTERVAL_SEC",
+  "claimed": "75"
+ },
+ {
+  "id": "E0093",
+  "type": "LIB_ADD",
+  "sprint": 6,
+  "text": "[commit by Maren Marchetti] The scheduler service now depends on fastlane-http 3.2.3.",
+  "service": "scheduler",
+  "lib": "fastlane-http",
+  "version": "3.2.3"
+ },
+ {
+  "id": "E0094",
+  "type": "CONFIG",
+  "sprint": 6,
+  "text": "Config PR by Pell Nakamura merged: NOTIFY_BATCH_SIZE = 3.",
+  "key": "NOTIFY_BATCH_SIZE",
+  "value": "3"
+ },
+ {
+  "id": "E0095",
+  "type": "CONFIG",
+  "sprint": 6,
+  "text": "Config PR by Ilya Kroll merged: AUDIT_RETENTION_DAYS = 90.",
+  "key": "AUDIT_RETENTION_DAYS",
+  "value": "90"
+ },
+ {
+  "id": "E0096",
+  "type": "CONFIG",
+  "sprint": 6,
+  "text": "Config PR by Corin Halvorsen merged: RATE_LIMIT_RPS = 600.",
+  "key": "RATE_LIMIT_RPS",
+  "value": "600"
+ },
+ {
+  "id": "E0097",
+  "type": "DEFAULT",
+  "sprint": 6,
+  "text": "[commit by Corin Halvorsen] `render_receipt`: default tenant changed to 5.",
+  "fn": "F17"
+ },
+ {
+  "id": "E0098",
+  "type": "MOVE",
+  "sprint": 6,
+  "text": "[commit by Dana Okafor] Moved `index_ledger` from cache/api.py to sync/client.py.",
+  "fn": "F10",
+  "dest": "sync/client.py"
+ },
+ {
+  "id": "E0099",
+  "type": "CONFIG",
+  "sprint": 6,
+  "text": "Incident follow-up (Sefa Nakamura): NOTIFY_BATCH_SIZE changed from 3 to 180.",
+  "key": "NOTIFY_BATCH_SIZE",
+  "value": "180"
+ },
+ {
+  "id": "E0100",
+  "type": "BUG_OPEN",
+  "sprint": 7,
+  "text": "New ticket PRJ-102 opened: locale mix-up in `score_shard` (reported by Maren Marchetti); status open.",
+  "bug": "PRJ-102",
+  "status": "open",
+  "fn": "F26"
+ },
+ {
+  "id": "E0101",
+  "type": "CONFIG",
+  "sprint": 7,
+  "text": "Incident follow-up (Pell Nakamura): RETRY_LIMIT changed from 10 to 15.",
+  "key": "RETRY_LIMIT",
+  "value": "15"
+ },
+ {
+  "id": "E0102",
+  "type": "OWNER",
+  "sprint": 7,
+  "text": "Ownership update: Sefa Nakamura takes over export/core.py.",
+  "module": "export/core.py",
+  "owner": "D01"
+ },
+ {
+  "id": "E0103",
+  "type": "CONFIG",
+  "sprint": 7,
+  "text": "[ops] Rhea Tsang set RATE_LIMIT_RPS to 120 in production after the load test.",
+  "key": "RATE_LIMIT_RPS",
+  "value": "120"
+ },
+ {
+  "id": "E0104",
+  "type": "LIB_ADD",
+  "sprint": 7,
+  "text": "[commit by Corin Halvorsen] The reporting service now depends on glyphmail 2.2.1.",
+  "service": "reporting",
+  "lib": "glyphmail",
+  "version": "2.2.1"
+ },
+ {
+  "id": "E0105",
+  "type": "CLAIM",
+  "sprint": 7,
+  "text": "Chat \u2014 Dana Okafor: pretty sure TOKEN_TTL_MIN is 250 now, someone told me in standup.",
+  "key": "TOKEN_TTL_MIN",
+  "claimed": "250"
+ },
+ {
+  "id": "E0106",
+  "type": "ACCESS",
+  "sprint": 7,
+  "text": "Security: Brann Ibarra granted Hadi Lindqvist production database access for the migration.",
+  "dev": "D05",
+  "granted": true
+ },
+ {
+  "id": "E0107",
+  "type": "ADD_PARAM",
+  "sprint": 8,
+  "text": "Ilya Kroll: added keyword argument tenant=5 to `sync_digest`.",
+  "fn": "F28"
+ },
+ {
+  "id": "E0108",
+  "type": "MOVE",
+  "sprint": 8,
+  "text": "Oriel Abernet relocated `fetch_cursor` into audit/store.py to break an import cycle.",
+  "fn": "F05",
+  "dest": "audit/store.py"
+ },
+ {
+  "id": "E0109",
+  "type": "PROPOSAL",
+  "sprint": 8,
+  "text": "Hadi Lindqvist opened PR #403 to move `flush_cursor` into export/rules.py, but it was abandoned.",
+  "fn": "F08",
+  "dest": "export/rules.py",
+  "pr": 403
+ },
+ {
+  "id": "E0110",
+  "type": "LEAVE",
+  "sprint": 8,
+  "text": "HR note: Maren Marchetti's last day was today.",
+  "dev": "D07"
+ },
+ {
+  "id": "E0111",
+  "type": "OWNER",
+  "sprint": 8,
+  "text": "From this sprint auth/worker.py is maintained by Dana Okafor (previously Rhea Tsang).",
+  "module": "auth/worker.py",
+  "owner": "D00"
+ },
+ {
+  "id": "E0112",
+  "type": "ACCESS",
+  "sprint": 8,
+  "text": "Security: Oriel Abernet's production database access was revoked by Sefa Nakamura.",
+  "dev": "D11",
+  "granted": false
+ },
+ {
+  "id": "E0113",
+  "type": "ADD_PARAM",
+  "sprint": 9,
+  "text": "Oriel Abernet: added keyword argument locale=5 to `emit_invoice`.",
+  "fn": "F20"
+ },
+ {
+  "id": "E0114",
+  "type": "RENAME",
+  "sprint": 9,
+  "text": "Code review (Pell Nakamura): approved renaming `fetch_cursor` \u2192 `flush_report`.",
+  "fn": "F05",
+  "old": "fetch_cursor",
+  "new": "flush_report"
+ },
+ {
+  "id": "E0115",
+  "type": "CONFIG",
+  "sprint": 9,
+  "text": "Config PR by Corin Halvorsen merged: EXPORT_CHUNK_ROWS = 600.",
+  "key": "EXPORT_CHUNK_ROWS",
+  "value": "600"
+ },
+ {
+  "id": "E0116",
+  "type": "CONFIG",
+  "sprint": 9,
+  "text": "[ops] Lune Okafor set RATE_LIMIT_RPS to 300 in production after the load test.",
+  "key": "RATE_LIMIT_RPS",
+  "value": "300"
+ },
+ {
+  "id": "E0117",
+  "type": "OWNER",
+  "sprint": 9,
+  "text": "From this sprint notify/worker.py is maintained by Sefa Nakamura (previously Lune Okafor).",
+  "module": "notify/worker.py",
+  "owner": "D01"
+ },
+ {
+  "id": "E0118",
+  "type": "ACCESS",
+  "sprint": 10,
+  "text": "Security: Pell Nakamura granted Pell Nakamura production database access for the migration.",
+  "dev": "D06",
+  "granted": true
+ },
+ {
+  "id": "E0119",
+  "type": "BUG_FIXED",
+  "sprint": 10,
+  "text": "[commit by Pell Nakamura] Fixes PRJ-100 (missing audit record in `render_batch`).",
+  "bug": "PRJ-100",
+  "status": "fixed"
+ },
+ {
+  "id": "E0120",
+  "type": "LIB_ADD",
+  "sprint": 10,
+  "text": "[commit by Pell Nakamura] The api-gateway service now depends on velvetlog 3.4.2.",
+  "service": "api-gateway",
+  "lib": "velvetlog",
+  "version": "3.4.2"
+ },
+ {
+  "id": "E0121",
+  "type": "CONFIG",
+  "sprint": 10,
+  "text": "[ops] Oriel Abernet set AUDIT_RETENTION_DAYS to 600 in production after the load test.",
+  "key": "AUDIT_RETENTION_DAYS",
+  "value": "600"
+ },
+ {
+  "id": "E0122",
+  "type": "CONFIG",
+  "sprint": 10,
+  "text": "Incident follow-up (Sefa Nakamura): RETRY_LIMIT changed from 15 to 20.",
+  "key": "RETRY_LIMIT",
+  "value": "20"
+ },
+ {
+  "id": "E0123",
+  "type": "ADD_PARAM",
+  "sprint": 10,
+  "text": "Rhea Tsang: added keyword argument currency=0 to `render_snapshot`.",
+  "fn": "F19"
+ },
+ {
+  "id": "E0124",
+  "type": "DECISION",
+  "sprint": 11,
+  "text": "ADR by Rhea Tsang: we will use nimbus-orm for JSON parsing, superseding the earlier choice of velvetlog.",
+  "topic": "JSON parsing",
+  "lib": "nimbus-orm"
+ },
+ {
+  "id": "E0125",
+  "type": "CONFIG",
+  "sprint": 11,
+  "text": "Config PR by Brann Ibarra merged: NOTIFY_BATCH_SIZE = 120.",
+  "key": "NOTIFY_BATCH_SIZE",
+  "value": "120"
+ },
+ {
+  "id": "E0126",
+  "type": "CONFIG",
+  "sprint": 11,
+  "text": "Config PR by Pell Nakamura merged: SEARCH_PAGE_SIZE = 60.",
+  "key": "SEARCH_PAGE_SIZE",
+  "value": "60"
+ },
+ {
+  "id": "E0127",
+  "type": "OWNER",
+  "sprint": 11,
+  "text": "Ownership update: Pell Nakamura takes over audit/store.py.",
+  "module": "audit/store.py",
+  "owner": "D06"
+ },
+ {
+  "id": "E0128",
+  "type": "PROPOSAL",
+  "sprint": 11,
+  "text": "Kesh Nakamura opened PR #404 to move `emit_receipt` into export/rules.py, but it was abandoned.",
+  "fn": "F04",
+  "dest": "export/rules.py",
+  "pr": 404
+ },
+ {
+  "id": "E0129",
+  "type": "DROP_PARAM",
+  "sprint": 11,
+  "text": "[commit by Hadi Lindqvist] Removed the unused parameter verbose from `flush_cursor`.",
+  "fn": "F08"
+ },
+ {
+  "id": "E0130",
+  "type": "CONFIG",
+  "sprint": 11,
+  "text": "Incident follow-up (Sefa Nakamura): RATE_LIMIT_RPS changed from 300 to 20.",
+  "key": "RATE_LIMIT_RPS",
+  "value": "20"
+ },
+ {
+  "id": "E0131",
+  "type": "MOVE",
+  "sprint": 11,
+  "text": "Brann Ibarra relocated `score_tariff` into export/core.py to break an import cycle.",
+  "fn": "F27",
+  "dest": "export/core.py"
+ },
+ {
+  "id": "E0132",
+  "type": "RENAME",
+  "sprint": 11,
+  "text": "Sefa Nakamura merged a refactor: `sync_digest` is now called `sync_receipt` (same behaviour).",
+  "fn": "F28",
+  "old": "sync_digest",
+  "new": "sync_receipt"
+ },
+ {
+  "id": "E0133",
+  "type": "CONFIG",
+  "sprint": 12,
+  "text": "Config PR by Corin Halvorsen merged: RATE_LIMIT_RPS = 30.",
+  "key": "RATE_LIMIT_RPS",
+  "value": "30"
+ },
+ {
+  "id": "E0134",
+  "type": "OWNER",
+  "sprint": 12,
+  "text": "From this sprint cache/api.py is maintained by Oriel Abernet (previously Dana Okafor).",
+  "module": "cache/api.py",
+  "owner": "D11"
+ },
+ {
+  "id": "E0135",
+  "type": "LIB_ADD",
+  "sprint": 12,
+  "text": "[commit by Lune Okafor] The api-gateway service now depends on tidepool 1.8.0.",
+  "service": "api-gateway",
+  "lib": "tidepool",
+  "version": "1.8.0"
+ },
+ {
+  "id": "E0136",
+  "type": "LIB_ADD",
+  "sprint": 12,
+  "text": "[commit by Hadi Lindqvist] The scheduler service now depends on quarkjson 2.4.9.",
+  "service": "scheduler",
+  "lib": "quarkjson",
+  "version": "2.4.9"
+ },
+ {
+  "id": "E0137",
+  "type": "RENAME",
+  "sprint": 12,
+  "text": "Code review (Kesh Nakamura): approved renaming `index_tariff` \u2192 `rotate_policy`.",
+  "fn": "F12",
+  "old": "index_tariff",
+  "new": "rotate_policy"
+ },
+ {
+  "id": "E0138",
+  "type": "CONFIG",
+  "sprint": 12,
+  "text": "Config PR by Corin Halvorsen merged: EXPORT_CHUNK_ROWS = 5.",
+  "key": "EXPORT_CHUNK_ROWS",
+  "value": "5"
+ },
+ {
+  "id": "E0139",
+  "type": "OWNER",
+  "sprint": 13,
+  "text": "Ownership update: Corin Halvorsen takes over export/core.py.",
+  "module": "export/core.py",
+  "owner": "D10"
+ },
+ {
+  "id": "E0140",
+  "type": "DEFAULT",
+  "sprint": 13,
+  "text": "[commit by Dana Okafor] `render_snapshot`: default batch_size changed to 3.",
+  "fn": "F19"
+ },
+ {
+  "id": "E0141",
+  "type": "DEPRECATE",
+  "sprint": 13,
+  "text": "[commit by Lune Okafor] Deprecated `score_shard`; callers should use `render_batch` instead.",
+  "fn": "F26",
+  "replacement": "F16",
+  "replacement_name": "render_batch"
+ },
+ {
+  "id": "E0142",
+  "type": "MOVE",
+  "sprint": 13,
+  "text": "Ilya Kroll relocated `rotate_ledger` into sync/client.py to break an import cycle.",
+  "fn": "F22",
+  "dest": "sync/client.py"
+ },
+ {
+  "id": "E0143",
+  "type": "DROP_PARAM",
+  "sprint": 13,
+  "text": "[commit by Brann Ibarra] Removed the unused parameter max_age from `score_receipt`.",
+  "fn": "F25"
+ },
+ {
+  "id": "E0144",
+  "type": "OWNER",
+  "sprint": 13,
+  "text": "From this sprint notify/worker.py is maintained by Dana Okafor (previously Sefa Nakamura).",
+  "module": "notify/worker.py",
+  "owner": "D00"
+ },
+ {
+  "id": "E0145",
+  "type": "MOVE",
+  "sprint": 13,
+  "text": "Ilya Kroll relocated `render_snapshot` into report/jobs.py to break an import cycle.",
+  "fn": "F19",
+  "dest": "report/jobs.py"
+ },
+ {
+  "id": "E0146",
+  "type": "ACCESS",
+  "sprint": 13,
+  "text": "Security: Hadi Lindqvist's production database access was revoked by Corin Halvorsen.",
+  "dev": "D05",
+  "granted": false
+ },
+ {
+  "id": "E0147",
+  "type": "OWNER",
+  "sprint": 14,
+  "text": "Ownership update: Dana Okafor takes over notify/jobs.py.",
+  "module": "notify/jobs.py",
+  "owner": "D00"
+ },
+ {
+  "id": "E0148",
+  "type": "DECISION",
+  "sprint": 14,
+  "text": "ADR by Dana Okafor: we will use pikebus for message queue, superseding the earlier choice of quarkjson.",
+  "topic": "message queue",
+  "lib": "pikebus"
+ },
+ {
+  "id": "E0149",
+  "type": "BUG_OPEN",
+  "sprint": 14,
+  "text": "New ticket PRJ-103 opened: missing audit record in `merge_token` (reported by Sefa Nakamura); status open.",
+  "bug": "PRJ-103",
+  "status": "open",
+  "fn": "F15"
+ },
+ {
+  "id": "E0150",
+  "type": "LIB_ADD",
+  "sprint": 14,
+  "text": "[commit by Ilya Kroll] The scheduler service now depends on pikebus 2.7.5.",
+  "service": "scheduler",
+  "lib": "pikebus",
+  "version": "2.7.5"
+ },
+ {
+  "id": "E0151",
+  "type": "RENAME",
+  "sprint": 14,
+  "text": "Lune Okafor merged a refactor: `parse_receipt` is now called `merge_shard` (same behaviour).",
+  "fn": "F06",
+  "old": "parse_receipt",
+  "new": "merge_shard"
+ },
+ {
+  "id": "E0152",
+  "type": "CONFIG",
+  "sprint": 14,
+  "text": "Config PR by Oriel Abernet merged: MAX_UPLOAD_MB = 90.",
+  "key": "MAX_UPLOAD_MB",
+  "value": "90"
+ },
+ {
+  "id": "E0153",
+  "type": "OWNER",
+  "sprint": 14,
+  "text": "Ownership update: Oriel Abernet takes over export/rules.py.",
+  "module": "export/rules.py",
+  "owner": "D11"
+ },
+ {
+  "id": "E0154",
+  "type": "PROPOSAL",
+  "sprint": 14,
+  "text": "Kesh Nakamura opened PR #405 to move `fetch_shard` into export/rules.py, but it was abandoned.",
+  "fn": "F07",
+  "dest": "export/rules.py",
+  "pr": 405
+ },
+ {
+  "id": "E0155",
+  "type": "PROPOSAL",
+  "sprint": 14,
+  "text": "Pell Nakamura opened PR #406 to move `render_snapshot` into geo/handlers.py, but it was abandoned.",
+  "fn": "F19",
+  "dest": "geo/handlers.py",
+  "pr": 406
+ },
+ {
+  "id": "E0156",
+  "type": "OWNER",
+  "sprint": 15,
+  "text": "From this sprint export/rules.py is maintained by Kesh Nakamura (previously Oriel Abernet).",
+  "module": "export/rules.py",
+  "owner": "D02"
+ },
+ {
+  "id": "E0157",
+  "type": "RENAME",
+  "sprint": 15,
+  "text": "[commit by Corin Halvorsen] Rename `render_snapshot` to `render_bundle` in report/jobs.py; all call sites updated.",
+  "fn": "F19",
+  "old": "render_snapshot",
+  "new": "render_bundle"
+ },
+ {
+  "id": "E0158",
+  "type": "LIB_UPGRADE",
+  "sprint": 15,
+  "text": "[dependency] Corin Halvorsen upgraded quarkjson in scheduler from 2.4.9 to 3.0.0.",
+  "service": "scheduler",
+  "lib": "quarkjson",
+  "version": "3.0.0"
+ },
+ {
+  "id": "E0159",
+  "type": "CONFIG",
+  "sprint": 15,
+  "text": "Incident follow-up (Hadi Lindqvist): CACHE_TTL_SECONDS changed from 300 to 10.",
+  "key": "CACHE_TTL_SECONDS",
+  "value": "10"
+ },
+ {
+  "id": "E0160",
+  "type": "CONFIG",
+  "sprint": 15,
+  "text": "[ops] Lune Okafor set BATCH_WINDOW_SEC to 45 in production after the load test.",
+  "key": "BATCH_WINDOW_SEC",
+  "value": "45"
+ },
+ {
+  "id": "E0161",
+  "type": "ADD_PARAM",
+  "sprint": 15,
+  "text": "[commit by Oriel Abernet] `compute_policy` gains an optional parameter limit (default 10).",
+  "fn": "F02"
+ },
+ {
+  "id": "E0162",
+  "type": "RENAME",
+  "sprint": 15,
+  "text": "Code review (Ilya Kroll): approved renaming `merge_token` \u2192 `flush_shard`.",
+  "fn": "F15",
+  "old": "merge_token",
+  "new": "flush_shard"
+ },
+ {
+  "id": "E0163",
+  "type": "DEFAULT",
+  "sprint": 15,
+  "text": "[commit by Lune Okafor] `merge_batch`: default retries changed to 10.",
+  "fn": "F14"
+ },
+ {
+  "id": "E0164",
+  "type": "RENAME",
+  "sprint": 15,
+  "text": "Code review (Ilya Kroll): approved renaming `apply_bundle` \u2192 `parse_token`.",
+  "fn": "F01",
+  "old": "apply_bundle",
+  "new": "parse_token"
+ },
+ {
+  "id": "E0165",
+  "type": "MOVE",
+  "sprint": 16,
+  "text": "[commit by Kesh Nakamura] Moved `score_tariff` from export/core.py to geo/handlers.py.",
+  "fn": "F27",
+  "dest": "geo/handlers.py"
+ },
+ {
+  "id": "E0166",
+  "type": "PROPOSAL",
+  "sprint": 16,
+  "text": "Oriel Abernet opened PR #407 to move `flush_session` into cache/api.py, but it was abandoned.",
+  "fn": "F09",
+  "dest": "cache/api.py",
+  "pr": 407
+ },
+ {
+  "id": "E0167",
+  "type": "ACCESS",
+  "sprint": 16,
+  "text": "Security: Rhea Tsang granted Oriel Abernet production database access for the migration.",
+  "dev": "D11",
+  "granted": true
+ },
+ {
+  "id": "E0168",
+  "type": "BUG_OPEN",
+  "sprint": 16,
+  "text": "New ticket PRJ-104 opened: locale mix-up in `compute_policy` (reported by Dana Okafor); status open.",
+  "bug": "PRJ-104",
+  "status": "open",
+  "fn": "F02"
+ },
+ {
+  "id": "E0169",
+  "type": "MOVE",
+  "sprint": 16,
+  "text": "Ilya Kroll relocated `render_bundle` into billing/handlers.py to break an import cycle.",
+  "fn": "F19",
+  "dest": "billing/handlers.py"
+ },
+ {
+  "id": "E0170",
+  "type": "BUG_WONTFIX",
+  "sprint": 16,
+  "text": "PRJ-104 closed as won't-fix by Oriel Abernet: locale mix-up in `compute_policy` is expected behaviour.",
+  "bug": "PRJ-104",
+  "status": "wontfix"
+ },
+ {
+  "id": "E0171",
+  "type": "DEPRECATE",
+  "sprint": 16,
+  "text": "[commit by Hadi Lindqvist] Deprecated `flush_shard`; callers should use `rotate_ledger` instead.",
+  "fn": "F15",
+  "replacement": "F22",
+  "replacement_name": "rotate_ledger"
+ },
+ {
+  "id": "E0172",
+  "type": "CLAIM",
+  "sprint": 17,
+  "text": "Chat \u2014 Pell Nakamura: pretty sure SYNC_INTERVAL_SEC is 40 now, someone told me in standup.",
+  "key": "SYNC_INTERVAL_SEC",
+  "claimed": "40"
+ },
+ {
+  "id": "E0173",
+  "type": "CLAIM",
+  "sprint": 17,
+  "text": "Pell Nakamura mentioned in passing that MAX_UPLOAD_MB had been set to 150, but nobody checked.",
+  "key": "MAX_UPLOAD_MB",
+  "claimed": "150"
+ },
+ {
+  "id": "E0174",
+  "type": "CONFIG",
+  "sprint": 17,
+  "text": "Incident follow-up (Sefa Nakamura): BATCH_WINDOW_SEC changed from 45 to 180.",
+  "key": "BATCH_WINDOW_SEC",
+  "value": "180"
+ },
+ {
+  "id": "E0175",
+  "type": "OWNER",
+  "sprint": 17,
+  "text": "Ownership update: Hadi Lindqvist takes over billing/handlers.py.",
+  "module": "billing/handlers.py",
+  "owner": "D05"
+ },
+ {
+  "id": "E0176",
+  "type": "RENAME",
+  "sprint": 17,
+  "text": "[commit by Lune Okafor] Rename `emit_invoice` to `flush_tariff` in cache/store.py; all call sites updated.",
+  "fn": "F20",
+  "old": "emit_invoice",
+  "new": "flush_tariff"
+ },
+ {
+  "id": "E0177",
+  "type": "CONFIG",
+  "sprint": 17,
+  "text": "[ops] Hadi Lindqvist set RETRY_LIMIT to 90 in production after the load test.",
+  "key": "RETRY_LIMIT",
+  "value": "90"
+ },
+ {
+  "id": "E0178",
+  "type": "PROPOSAL",
+  "sprint": 17,
+  "text": "PR #408 by Hadi Lindqvist proposes moving `render_session` to report/jobs.py; closed without merging after review.",
+  "fn": "F18",
+  "dest": "report/jobs.py",
+  "pr": 408
+ },
+ {
+  "id": "E0179",
+  "type": "CONFIG",
+  "sprint": 17,
+  "text": "Incident follow-up (Sefa Nakamura): CACHE_TTL_SECONDS changed from 10 to 15.",
+  "key": "CACHE_TTL_SECONDS",
+  "value": "15"
+ },
+ {
+  "id": "E0180",
+  "type": "CONFIG",
+  "sprint": 18,
+  "text": "Incident follow-up (Lune Okafor): MAX_UPLOAD_MB changed from 90 to 300.",
+  "key": "MAX_UPLOAD_MB",
+  "value": "300"
+ },
+ {
+  "id": "E0181",
+  "type": "ADD_PARAM",
+  "sprint": 18,
+  "text": "Sefa Nakamura: added keyword argument dry_run=0 to `sync_report`.",
+  "fn": "F29"
+ },
+ {
+  "id": "E0182",
+  "type": "DROP_PARAM",
+  "sprint": 18,
+  "text": "[commit by Sefa Nakamura] Removed the unused parameter limit from `compute_policy`.",
+  "fn": "F02"
+ },
+ {
+  "id": "E0183",
+  "type": "DEPRECATE",
+  "sprint": 18,
+  "text": "[commit by Dana Okafor] Deprecated `parse_token`; callers should use `flush_tariff` instead.",
+  "fn": "F01",
+  "replacement": "F20",
+  "replacement_name": "flush_tariff"
+ },
+ {
+  "id": "E0184",
+  "type": "LIB_UPGRADE",
+  "sprint": 18,
+  "text": "[dependency] Dana Okafor upgraded glyphmail in reporting from 2.2.1 to 2.3.0.",
+  "service": "reporting",
+  "lib": "glyphmail",
+  "version": "2.3.0"
+ },
+ {
+  "id": "E0185",
+  "type": "PROPOSAL",
+  "sprint": 18,
+  "text": "PR #409 by Ilya Kroll proposes moving `rotate_ledger` to ledger/jobs.py; closed without merging after review.",
+  "fn": "F22",
+  "dest": "ledger/jobs.py",
+  "pr": 409
+ },
+ {
+  "id": "E0186",
+  "type": "LIB_ADD",
+  "sprint": 18,
+  "text": "[commit by Hadi Lindqvist] The api-gateway service now depends on ironcache 1.0.3.",
+  "service": "api-gateway",
+  "lib": "ironcache",
+  "version": "1.0.3"
+ },
+ {
+  "id": "E0187",
+  "type": "CLAIM",
+  "sprint": 18,
+  "text": "Chat \u2014 Ilya Kroll: pretty sure EXPORT_CHUNK_ROWS is 250 now, someone told me in standup.",
+  "key": "EXPORT_CHUNK_ROWS",
+  "claimed": "250"
+ },
+ {
+  "id": "E0188",
+  "type": "DEPRECATE",
+  "sprint": 19,
+  "text": "[commit by Sefa Nakamura] Deprecated `score_receipt`; callers should use `flush_session` instead.",
+  "fn": "F25",
+  "replacement": "F09",
+  "replacement_name": "flush_session"
+ },
+ {
+  "id": "E0189",
+  "type": "ACCESS",
+  "sprint": 19,
+  "text": "Security: Lune Okafor granted Brann Ibarra production database access for the migration.",
+  "dev": "D09",
+  "granted": true
+ },
+ {
+  "id": "E0190",
+  "type": "DEFAULT",
+  "sprint": 19,
+  "text": "[commit by Pell Nakamura] `rotate_ledger`: default region changed to 100.",
+  "fn": "F22"
+ },
+ {
+  "id": "E0191",
+  "type": "CLAIM",
+  "sprint": 19,
+  "text": "Chat \u2014 Dana Okafor: pretty sure BATCH_WINDOW_SEC is 40 now, someone told me in standup.",
+  "key": "BATCH_WINDOW_SEC",
+  "claimed": "40"
+ },
+ {
+  "id": "E0192",
+  "type": "RENAME",
+  "sprint": 19,
+  "text": "Code review (Ilya Kroll): approved renaming `rotate_policy` \u2192 `load_batch`.",
+  "fn": "F12",
+  "old": "rotate_policy",
+  "new": "load_batch"
+ },
+ {
+  "id": "E0193",
+  "type": "DEFAULT",
+  "sprint": 19,
+  "text": "[commit by Brann Ibarra] `emit_receipt`: default locale changed to 20.",
+  "fn": "F04"
+ },
+ {
+  "id": "E0194",
+  "type": "OWNER",
+  "sprint": 19,
+  "text": "Ownership update: Dana Okafor takes over cache/store.py.",
+  "module": "cache/store.py",
+  "owner": "D00"
+ },
+ {
+  "id": "E0195",
+  "type": "RENAME",
+  "sprint": 19,
+  "text": "Kesh Nakamura merged a refactor: `render_bundle` is now called `rotate_tariff` (same behaviour).",
+  "fn": "F19",
+  "old": "render_bundle",
+  "new": "rotate_tariff"
+ },
+ {
+  "id": "E0196",
+  "type": "RENAME",
+  "sprint": 20,
+  "text": "[commit by Dana Okafor] Rename `flush_session` to `parse_snapshot` in ledger/jobs.py; all call sites updated.",
+  "fn": "F09",
+  "old": "flush_session",
+  "new": "parse_snapshot"
+ },
+ {
+  "id": "E0197",
+  "type": "BUG_OPEN",
+  "sprint": 20,
+  "text": "New ticket PRJ-105 opened: timeout under load in `rotate_tariff` (reported by Pell Nakamura); status open.",
+  "bug": "PRJ-105",
+  "status": "open",
+  "fn": "F19"
+ },
+ {
+  "id": "E0198",
+  "type": "ACCESS",
+  "sprint": 20,
+  "text": "Security: Oriel Abernet granted Rhea Tsang production database access for the migration.",
+  "dev": "D04",
+  "granted": true
+ },
+ {
+  "id": "E0199",
+  "type": "MOVE",
+  "sprint": 20,
+  "text": "Pell Nakamura relocated `flush_tariff` into geo/handlers.py to break an import cycle.",
+  "fn": "F20",
+  "dest": "geo/handlers.py"
+ },
+ {
+  "id": "E0200",
+  "type": "CLAIM",
+  "sprint": 20,
+  "text": "Chat \u2014 Corin Halvorsen: pretty sure CACHE_TTL_SECONDS is 250 now, someone told me in standup.",
+  "key": "CACHE_TTL_SECONDS",
+  "claimed": "250"
+ },
+ {
+  "id": "E0201",
+  "type": "CLAIM",
+  "sprint": 20,
+  "text": "Rhea Tsang mentioned in passing that AUDIT_RETENTION_DAYS had been set to 900, but nobody checked.",
+  "key": "AUDIT_RETENTION_DAYS",
+  "claimed": "900"
+ },
+ {
+  "id": "E0202",
+  "type": "CLAIM",
+  "sprint": 20,
+  "text": "Chat \u2014 Corin Halvorsen: pretty sure AUDIT_RETENTION_DAYS is 75 now, someone told me in standup.",
+  "key": "AUDIT_RETENTION_DAYS",
+  "claimed": "75"
+ },
+ {
+  "id": "E0203",
+  "type": "LEAVE",
+  "sprint": 20,
+  "text": "Ilya Kroll has left the company; farewell lunch on Friday.",
+  "dev": "D08"
+ },
+ {
+  "id": "E0204",
+  "type": "CLAIM",
+  "sprint": 21,
+  "text": "Chat \u2014 Hadi Lindqvist: pretty sure EXPORT_CHUNK_ROWS is 75 now, someone told me in standup.",
+  "key": "EXPORT_CHUNK_ROWS",
+  "claimed": "75"
+ },
+ {
+  "id": "E0205",
+  "type": "CONFIG",
+  "sprint": 21,
+  "text": "Incident follow-up (Dana Okafor): NOTIFY_BATCH_SIZE changed from 120 to 30.",
+  "key": "NOTIFY_BATCH_SIZE",
+  "value": "30"
+ },
+ {
+  "id": "E0206",
+  "type": "BUG_OPEN",
+  "sprint": 21,
+  "text": "New ticket PRJ-106 opened: locale mix-up in `flush_shard` (reported by Dana Okafor); status open.",
+  "bug": "PRJ-106",
+  "status": "open",
+  "fn": "F15"
+ },
+ {
+  "id": "E0207",
+  "type": "CONFIG",
+  "sprint": 21,
+  "text": "[ops] Sefa Nakamura set RETRY_LIMIT to 15 in production after the load test.",
+  "key": "RETRY_LIMIT",
+  "value": "15"
+ },
+ {
+  "id": "E0208",
+  "type": "DECISION",
+  "sprint": 21,
+  "text": "ADR by Brann Ibarra: we will use ironcache for message queue, superseding the earlier choice of pikebus.",
+  "topic": "message queue",
+  "lib": "ironcache"
+ },
+ {
+  "id": "E0209",
+  "type": "OWNER",
+  "sprint": 21,
+  "text": "Ownership update: Hadi Lindqvist takes over notify/jobs.py.",
+  "module": "notify/jobs.py",
+  "owner": "D05"
+ },
+ {
+  "id": "E0210",
+  "type": "DEPRECATE",
+  "sprint": 21,
+  "text": "[commit by Kesh Nakamura] Deprecated `rotate_session`; callers should use `render_session` instead.",
+  "fn": "F23",
+  "replacement": "F18",
+  "replacement_name": "render_session"
+ },
+ {
+  "id": "E0211",
+  "type": "ADD_PARAM",
+  "sprint": 22,
+  "text": "[commit by Sefa Nakamura] `sync_receipt` gains an optional parameter region (default 0).",
+  "fn": "F28"
+ },
+ {
+  "id": "E0212",
+  "type": "OWNER",
+  "sprint": 22,
+  "text": "Ownership update: Rhea Tsang takes over cache/store.py.",
+  "module": "cache/store.py",
+  "owner": "D04"
+ },
+ {
+  "id": "E0213",
+  "type": "BUG_OPEN",
+  "sprint": 22,
+  "text": "New ticket PRJ-107 opened: missing audit record in `render_session` (reported by Corin Halvorsen); status open.",
+  "bug": "PRJ-107",
+  "status": "open",
+  "fn": "F18"
+ },
+ {
+  "id": "E0214",
+  "type": "CLAIM",
+  "sprint": 22,
+  "text": "Sefa Nakamura mentioned in passing that RETRY_LIMIT had been set to 75, but nobody checked.",
+  "key": "RETRY_LIMIT",
+  "claimed": "75"
+ },
+ {
+  "id": "E0215",
+  "type": "RENAME",
+  "sprint": 22,
+  "text": "Sefa Nakamura merged a refactor: `flush_report` is now called `apply_profile` (same behaviour).",
+  "fn": "F05",
+  "old": "flush_report",
+  "new": "apply_profile"
+ },
+ {
+  "id": "E0216",
+  "type": "ADD_PARAM",
+  "sprint": 22,
+  "text": "[commit by Pell Nakamura] `score_tariff` gains an optional parameter tenant (default 0).",
+  "fn": "F27"
+ },
+ {
+  "id": "E0217",
+  "type": "DEFAULT",
+  "sprint": 22,
+  "text": "[commit by Oriel Abernet] `sync_report`: default dry_run changed to 100.",
+  "fn": "F29"
+ },
+ {
+  "id": "E0218",
+  "type": "ADD_PARAM",
+  "sprint": 22,
+  "text": "Brann Ibarra: added keyword argument cursor=50 to `parse_snapshot`.",
+  "fn": "F09"
+ },
+ {
+  "id": "E0219",
+  "type": "BUG_FIXED",
+  "sprint": 23,
+  "text": "[commit by Dana Okafor] Fixes PRJ-106 (locale mix-up in `flush_shard`).",
+  "bug": "PRJ-106",
+  "status": "fixed"
+ },
+ {
+  "id": "E0220",
+  "type": "RENAME",
+  "sprint": 23,
+  "text": "[commit by Kesh Nakamura] Rename `score_digest` to `sync_snapshot` in cache/store.py; all call sites updated.",
+  "fn": "F24",
+  "old": "score_digest",
+  "new": "sync_snapshot"
+ },
+ {
+  "id": "E0221",
+  "type": "MOVE",
+  "sprint": 23,
+  "text": "Dana Okafor relocated `render_batch` into ledger/jobs.py to break an import cycle.",
+  "fn": "F16",
+  "dest": "ledger/jobs.py"
+ },
+ {
+  "id": "E0222",
+  "type": "CONFIG",
+  "sprint": 23,
+  "text": "Config PR by Lune Okafor merged: MAX_UPLOAD_MB = 30.",
+  "key": "MAX_UPLOAD_MB",
+  "value": "30"
+ },
+ {
+  "id": "E0223",
+  "type": "RENAME",
+  "sprint": 23,
+  "text": "Pell Nakamura merged a refactor: `render_batch` is now called `emit_report` (same behaviour).",
+  "fn": "F16",
+  "old": "render_batch",
+  "new": "emit_report"
+ },
+ {
+  "id": "E0224",
+  "type": "DECISION",
+  "sprint": 23,
+  "text": "ADR by Oriel Abernet: we will use tidepool for caching, superseding the earlier choice of ironcache.",
+  "topic": "caching",
+  "lib": "tidepool"
+ },
+ {
+  "id": "E0225",
+  "type": "BUG_OPEN",
+  "sprint": 24,
+  "text": "New ticket PRJ-108 opened: missing audit record in `compute_session` (reported by Brann Ibarra); status open.",
+  "bug": "PRJ-108",
+  "status": "open",
+  "fn": "F03"
+ },
+ {
+  "id": "E0226",
+  "type": "DEFAULT",
+  "sprint": 24,
+  "text": "[commit by Oriel Abernet] `apply_batch`: default tenant changed to 1.",
+  "fn": "F00"
+ },
+ {
+  "id": "E0227",
+  "type": "RENAME",
+  "sprint": 24,
+  "text": "[commit by Hadi Lindqvist] Rename `emit_receipt` to `rotate_cursor` in export/core.py; all call sites updated.",
+  "fn": "F04",
+  "old": "emit_receipt",
+  "new": "rotate_cursor"
+ },
+ {
+  "id": "E0228",
+  "type": "DECISION",
+  "sprint": 24,
+  "text": "ADR by Brann Ibarra: we will use fastlane-http for caching, superseding the earlier choice of tidepool.",
+  "topic": "caching",
+  "lib": "fastlane-http"
+ },
+ {
+  "id": "E0229",
+  "type": "ACCESS",
+  "sprint": 24,
+  "text": "Security: Brann Ibarra's production database access was revoked by Sefa Nakamura.",
+  "dev": "D09",
+  "granted": false
+ },
+ {
+  "id": "E0230",
+  "type": "ACCESS",
+  "sprint": 24,
+  "text": "Security: Kesh Nakamura granted Corin Halvorsen production database access for the migration.",
+  "dev": "D10",
+  "granted": true
+ },
+ {
+  "id": "E0231",
+  "type": "CONFIG",
+  "sprint": 24,
+  "text": "Config PR by Dana Okafor merged: TOKEN_TTL_MIN = 3.",
+  "key": "TOKEN_TTL_MIN",
+  "value": "3"
+ },
+ {
+  "id": "E0232",
+  "type": "LIB_REMOVE",
+  "sprint": 24,
+  "text": "[commit by Brann Ibarra] Removed quarkjson from the scheduler service; it is no longer used there.",
+  "service": "scheduler",
+  "lib": "quarkjson",
+  "version": null
+ },
+ {
+  "id": "E0233",
+  "type": "LIB_ADD",
+  "sprint": 24,
+  "text": "[commit by Corin Halvorsen] The worker service now depends on velvetlog 1.0.8.",
+  "service": "worker",
+  "lib": "velvetlog",
+  "version": "1.0.8"
+ },
+ {
+  "id": "E0234",
+  "type": "LEAVE",
+  "sprint": 25,
+  "text": "Dana Okafor has left the company; farewell lunch on Friday.",
+  "dev": "D00"
+ },
+ {
+  "id": "E0235",
+  "type": "LEAVE",
+  "sprint": 25,
+  "text": "HR note: Brann Ibarra's last day was today.",
+  "dev": "D09"
+ },
+ {
+  "id": "E0236",
+  "type": "CONFIG",
+  "sprint": 25,
+  "text": "Incident follow-up (Rhea Tsang): SYNC_INTERVAL_SEC changed from 15 to 120.",
+  "key": "SYNC_INTERVAL_SEC",
+  "value": "120"
+ },
+ {
+  "id": "E0237",
+  "type": "MOVE",
+  "sprint": 26,
+  "text": "[commit by Hadi Lindqvist] Moved `merge_shard` from report/store.py to audit/store.py.",
+  "fn": "F06",
+  "dest": "audit/store.py"
+ },
+ {
+  "id": "E0238",
+  "type": "DROP_PARAM",
+  "sprint": 26,
+  "text": "[commit by Rhea Tsang] Removed the unused parameter currency from `rotate_tariff`.",
+  "fn": "F19"
+ },
+ {
+  "id": "E0239",
+  "type": "RENAME",
+  "sprint": 26,
+  "text": "Code review (Lune Okafor): approved renaming `parse_snapshot` \u2192 `index_invoice`.",
+  "fn": "F09",
+  "old": "parse_snapshot",
+  "new": "index_invoice"
+ },
+ {
+  "id": "E0240",
+  "type": "BUG_WONTFIX",
+  "sprint": 26,
+  "text": "PRJ-107 closed as won't-fix by Rhea Tsang: missing audit record in `render_session` is expected behaviour.",
+  "bug": "PRJ-107",
+  "status": "wontfix"
+ },
+ {
+  "id": "E0241",
+  "type": "LIB_ADD",
+  "sprint": 26,
+  "text": "[commit by Sefa Nakamura] The frontend service now depends on quarkjson 1.6.9.",
+  "service": "frontend",
+  "lib": "quarkjson",
+  "version": "1.6.9"
+ },
+ {
+  "id": "E0242",
+  "type": "CLAIM",
+  "sprint": 26,
+  "text": "Hadi Lindqvist mentioned in passing that EXPORT_CHUNK_ROWS had been set to 75, but nobody checked.",
+  "key": "EXPORT_CHUNK_ROWS",
+  "claimed": "75"
+ },
+ {
+  "id": "E0243",
+  "type": "DEPRECATE",
+  "sprint": 27,
+  "text": "[commit by Lune Okafor] Deprecated `index_ledger`; callers should use `sync_receipt` instead.",
+  "fn": "F10",
+  "replacement": "F28",
+  "replacement_name": "sync_receipt"
+ },
+ {
+  "id": "E0244",
+  "type": "DECISION",
+  "sprint": 27,
+  "text": "ADR by Hadi Lindqvist: we will use tidepool for caching, superseding the earlier choice of fastlane-http.",
+  "topic": "caching",
+  "lib": "tidepool"
+ },
+ {
+  "id": "E0245",
+  "type": "LIB_ADD",
+  "sprint": 27,
+  "text": "[commit by Sefa Nakamura] The scheduler service now depends on ironcache 2.5.9.",
+  "service": "scheduler",
+  "lib": "ironcache",
+  "version": "2.5.9"
+ },
+ {
+  "id": "E0246",
+  "type": "ADD_PARAM",
+  "sprint": 27,
+  "text": "[commit by Pell Nakamura] `rotate_ledger` gains an optional parameter timeout (default 5).",
+  "fn": "F22"
+ },
+ {
+  "id": "E0247",
+  "type": "ADD_PARAM",
+  "sprint": 27,
+  "text": "[commit by Kesh Nakamura] `index_receipt` gains an optional parameter strict (default 0).",
+  "fn": "F11"
+ },
+ {
+  "id": "E0248",
+  "type": "BUG_FIXED",
+  "sprint": 27,
+  "text": "[commit by Sefa Nakamura] Fixes PRJ-105 (timeout under load in `rotate_tariff`).",
+  "bug": "PRJ-105",
+  "status": "fixed"
+ },
+ {
+  "id": "E0249",
+  "type": "DEFAULT",
+  "sprint": 27,
+  "text": "[commit by Pell Nakamura] `rotate_tariff`: default cursor changed to 2.",
+  "fn": "F19"
+ },
+ {
+  "id": "E0250",
+  "type": "BUG_FIXED",
+  "sprint": 27,
+  "text": "[commit by Sefa Nakamura] Fixes PRJ-101 (stale cache entry in `sync_digest`).",
+  "bug": "PRJ-101",
+  "status": "fixed"
+ },
+ {
+  "id": "E0251",
+  "type": "DEFAULT",
+  "sprint": 28,
+  "text": "[commit by Hadi Lindqvist] `apply_batch`: default tenant changed to 45.",
+  "fn": "F00"
+ },
+ {
+  "id": "E0252",
+  "type": "LEAVE",
+  "sprint": 28,
+  "text": "Sefa Nakamura has left the company; farewell lunch on Friday.",
+  "dev": "D01"
+ },
+ {
+  "id": "E0253",
+  "type": "CLAIM",
+  "sprint": 28,
+  "text": "Chat \u2014 Corin Halvorsen: pretty sure RATE_LIMIT_RPS is 900 now, someone told me in standup.",
+  "key": "RATE_LIMIT_RPS",
+  "claimed": "900"
+ },
+ {
+  "id": "E0254",
+  "type": "CONFIG",
+  "sprint": 28,
+  "text": "[ops] Pell Nakamura set MAX_UPLOAD_MB to 3 in production after the load test.",
+  "key": "MAX_UPLOAD_MB",
+  "value": "3"
+ },
+ {
+  "id": "E0255",
+  "type": "RENAME",
+  "sprint": 28,
+  "text": "Code review (Rhea Tsang): approved renaming `rotate_tariff` \u2192 `render_batch`.",
+  "fn": "F19",
+  "old": "rotate_tariff",
+  "new": "render_batch"
+ },
+ {
+  "id": "E0256",
+  "type": "LIB_ADD",
+  "sprint": 29,
+  "text": "[commit by Corin Halvorsen] The frontend service now depends on tidepool 3.4.4.",
+  "service": "frontend",
+  "lib": "tidepool",
+  "version": "3.4.4"
+ },
+ {
+  "id": "E0257",
+  "type": "OWNER",
+  "sprint": 29,
+  "text": "From this sprint audit/store.py is maintained by Lune Okafor (previously Pell Nakamura).",
+  "module": "audit/store.py",
+  "owner": "D03"
+ },
+ {
+  "id": "E0258",
+  "type": "DECISION",
+  "sprint": 29,
+  "text": "ADR by Kesh Nakamura: we will use pikebus for HTTP client.",
+  "topic": "HTTP client",
+  "lib": "pikebus"
+ },
+ {
+  "id": "E0259",
+  "type": "CONFIG",
+  "sprint": 29,
+  "text": "Config PR by Lune Okafor merged: TOKEN_TTL_MIN = 30.",
+  "key": "TOKEN_TTL_MIN",
+  "value": "30"
+ },
+ {
+  "id": "E0260",
+  "type": "LIB_ADD",
+  "sprint": 29,
+  "text": "[commit by Oriel Abernet] The worker service now depends on fastlane-http 3.6.4.",
+  "service": "worker",
+  "lib": "fastlane-http",
+  "version": "3.6.4"
+ },
+ {
+  "id": "E0261",
+  "type": "CONFIG",
+  "sprint": 29,
+  "text": "Config PR by Hadi Lindqvist merged: BATCH_WINDOW_SEC = 10.",
+  "key": "BATCH_WINDOW_SEC",
+  "value": "10"
+ },
+ {
+  "id": "E0262",
+  "type": "ADD_PARAM",
+  "sprint": 29,
+  "text": "Pell Nakamura: added keyword argument currency=1 to `flush_tariff`.",
+  "fn": "F20"
+ },
+ {
+  "id": "E0263",
+  "type": "CLAIM",
+  "sprint": 29,
+  "text": "Lune Okafor mentioned in passing that NOTIFY_BATCH_SIZE had been set to 40, but nobody checked.",
+  "key": "NOTIFY_BATCH_SIZE",
+  "claimed": "40"
+ },
+ {
+  "id": "E0264",
+  "type": "DEPRECATE",
+  "sprint": 30,
+  "text": "[commit by Kesh Nakamura] Deprecated `sync_receipt`; callers should use `apply_batch` instead.",
+  "fn": "F28",
+  "replacement": "F00",
+  "replacement_name": "apply_batch"
+ },
+ {
+  "id": "E0265",
+  "type": "PROPOSAL",
+  "sprint": 30,
+  "text": "Corin Halvorsen opened PR #410 to move `index_receipt` into report/jobs.py, but it was abandoned.",
+  "fn": "F11",
+  "dest": "report/jobs.py",
+  "pr": 410
+ },
+ {
+  "id": "E0266",
+  "type": "CONFIG",
+  "sprint": 30,
+  "text": "Incident follow-up (Rhea Tsang): MAX_UPLOAD_MB changed from 3 to 300.",
+  "key": "MAX_UPLOAD_MB",
+  "value": "300"
+ },
+ {
+  "id": "E0267",
+  "type": "MOVE",
+  "sprint": 30,
+  "text": "Hadi Lindqvist relocated `flush_cursor` into export/rules.py to break an import cycle.",
+  "fn": "F08",
+  "dest": "export/rules.py"
+ },
+ {
+  "id": "E0268",
+  "type": "LIB_UPGRADE",
+  "sprint": 30,
+  "text": "[dependency] Rhea Tsang upgraded fastlane-http in scheduler from 3.2.3 to 3.3.0.",
+  "service": "scheduler",
+  "lib": "fastlane-http",
+  "version": "3.3.0"
+ },
+ {
+  "id": "E0269",
+  "type": "LEAVE",
+  "sprint": 30,
+  "text": "Lune Okafor has left the company; farewell lunch on Friday.",
+  "dev": "D03"
+ },
+ {
+  "id": "E0270",
+  "type": "DEFAULT",
+  "sprint": 31,
+  "text": "[commit by Corin Halvorsen] `render_receipt`: default tenant changed to 30.",
+  "fn": "F17"
+ },
+ {
+  "id": "E0271",
+  "type": "ACCESS",
+  "sprint": 31,
+  "text": "Security: Kesh Nakamura's production database access was revoked by Kesh Nakamura.",
+  "dev": "D02",
+  "granted": false
+ },
+ {
+  "id": "E0272",
+  "type": "CONFIG",
+  "sprint": 31,
+  "text": "Config PR by Pell Nakamura merged: AUDIT_RETENTION_DAYS = 30.",
+  "key": "AUDIT_RETENTION_DAYS",
+  "value": "30"
+ },
+ {
+  "id": "E0273",
+  "type": "MOVE",
+  "sprint": 31,
+  "text": "Kesh Nakamura relocated `load_invoice` into export/rules.py to break an import cycle.",
+  "fn": "F13",
+  "dest": "export/rules.py"
+ },
+ {
+  "id": "E0274",
+  "type": "CONFIG",
+  "sprint": 31,
+  "text": "[ops] Corin Halvorsen set SESSION_TIMEOUT_MIN to 3 in production after the load test.",
+  "key": "SESSION_TIMEOUT_MIN",
+  "value": "3"
+ },
+ {
+  "id": "E0275",
+  "type": "DEFAULT",
+  "sprint": 31,
+  "text": "[commit by Pell Nakamura] `merge_batch`: default retries changed to 2.",
+  "fn": "F14"
+ },
+ {
+  "id": "E0276",
+  "type": "BUG_OPEN",
+  "sprint": 31,
+  "text": "New ticket PRJ-109 opened: locale mix-up in `flush_shard` (reported by Pell Nakamura); status open.",
+  "bug": "PRJ-109",
+  "status": "open",
+  "fn": "F15"
+ },
+ {
+  "id": "E0277",
+  "type": "CONFIG",
+  "sprint": 31,
+  "text": "[ops] Oriel Abernet set NOTIFY_BATCH_SIZE to 600 in production after the load test.",
+  "key": "NOTIFY_BATCH_SIZE",
+  "value": "600"
+ },
+ {
+  "id": "E0278",
+  "type": "BUG_FIXED",
+  "sprint": 31,
+  "text": "[commit by Pell Nakamura] Fixes PRJ-109 (locale mix-up in `flush_shard`).",
+  "bug": "PRJ-109",
+  "status": "fixed"
+ },
+ {
+  "id": "E0279",
+  "type": "DECISION",
+  "sprint": 32,
+  "text": "ADR by Rhea Tsang: we will use quarkjson for HTTP client, superseding the earlier choice of pikebus.",
+  "topic": "HTTP client",
+  "lib": "quarkjson"
+ },
+ {
+  "id": "E0280",
+  "type": "LIB_ADD",
+  "sprint": 32,
+  "text": "[commit by Rhea Tsang] The reporting service now depends on velvetlog 2.7.4.",
+  "service": "reporting",
+  "lib": "velvetlog",
+  "version": "2.7.4"
+ },
+ {
+  "id": "E0281",
+  "type": "RENAME",
+  "sprint": 32,
+  "text": "Code review (Pell Nakamura): approved renaming `flush_tariff` \u2192 `parse_invoice`.",
+  "fn": "F20",
+  "old": "flush_tariff",
+  "new": "parse_invoice"
+ },
+ {
+  "id": "E0282",
+  "type": "CONFIG",
+  "sprint": 32,
+  "text": "Incident follow-up (Oriel Abernet): TOKEN_TTL_MIN changed from 30 to 180.",
+  "key": "TOKEN_TTL_MIN",
+  "value": "180"
+ },
+ {
+  "id": "E0283",
+  "type": "LIB_ADD",
+  "sprint": 32,
+  "text": "[commit by Hadi Lindqvist] The frontend service now depends on ironcache 3.5.6.",
+  "service": "frontend",
+  "lib": "ironcache",
+  "version": "3.5.6"
+ },
+ {
+  "id": "E0284",
+  "type": "DROP_PARAM",
+  "sprint": 32,
+  "text": "[commit by Rhea Tsang] Removed the unused parameter strict from `index_receipt`.",
+  "fn": "F11"
+ },
+ {
+  "id": "E0285",
+  "type": "DROP_PARAM",
+  "sprint": 32,
+  "text": "[commit by Oriel Abernet] Removed the unused parameter cursor from `render_session`.",
+  "fn": "F18"
+ },
+ {
+  "id": "E0286",
+  "type": "CLAIM",
+  "sprint": 32,
+  "text": "Oriel Abernet mentioned in passing that NOTIFY_BATCH_SIZE had been set to 7, but nobody checked.",
+  "key": "NOTIFY_BATCH_SIZE",
+  "claimed": "7"
+ },
+ {
+  "id": "E0287",
+  "type": "CLAIM",
+  "sprint": 33,
+  "text": "Chat \u2014 Hadi Lindqvist: pretty sure CACHE_TTL_SECONDS is 250 now, someone told me in standup.",
+  "key": "CACHE_TTL_SECONDS",
+  "claimed": "250"
+ },
+ {
+  "id": "E0288",
+  "type": "DECISION",
+  "sprint": 33,
+  "text": "ADR by Rhea Tsang: we will use pikebus for caching, superseding the earlier choice of tidepool.",
+  "topic": "caching",
+  "lib": "pikebus"
+ },
+ {
+  "id": "E0289",
+  "type": "ACCESS",
+  "sprint": 33,
+  "text": "Security: Pell Nakamura's production database access was revoked by Kesh Nakamura.",
+  "dev": "D06",
+  "granted": false
+ },
+ {
+  "id": "E0290",
+  "type": "ADD_PARAM",
+  "sprint": 33,
+  "text": "Pell Nakamura: added keyword argument max_age=5 to `index_receipt`.",
+  "fn": "F11"
+ },
+ {
+  "id": "E0291",
+  "type": "PROPOSAL",
+  "sprint": 33,
+  "text": "PR #411 by Hadi Lindqvist proposes moving `index_receipt` to report/store.py; closed without merging after review.",
+  "fn": "F11",
+  "dest": "report/store.py",
+  "pr": 411
+ },
+ {
+  "id": "E0292",
+  "type": "CONFIG",
+  "sprint": 33,
+  "text": "Incident follow-up (Rhea Tsang): BATCH_WINDOW_SEC changed from 10 to 15.",
+  "key": "BATCH_WINDOW_SEC",
+  "value": "15"
+ },
+ {
+  "id": "E0293",
+  "type": "ADD_PARAM",
+  "sprint": 34,
+  "text": "Pell Nakamura: added keyword argument region=50 to `render_receipt`.",
+  "fn": "F17"
+ },
+ {
+  "id": "E0294",
+  "type": "ACCESS",
+  "sprint": 34,
+  "text": "Security: Pell Nakamura granted Hadi Lindqvist production database access for the migration.",
+  "dev": "D05",
+  "granted": true
+ },
+ {
+  "id": "E0295",
+  "type": "LIB_ADD",
+  "sprint": 34,
+  "text": "[commit by Rhea Tsang] The api-gateway service now depends on quarkjson 3.0.8.",
+  "service": "api-gateway",
+  "lib": "quarkjson",
+  "version": "3.0.8"
+ },
+ {
+  "id": "E0296",
+  "type": "RENAME",
+  "sprint": 34,
+  "text": "Oriel Abernet merged a refactor: `apply_batch` is now called `build_snapshot` (same behaviour).",
+  "fn": "F00",
+  "old": "apply_batch",
+  "new": "build_snapshot"
+ },
+ {
+  "id": "E0297",
+  "type": "PROPOSAL",
+  "sprint": 34,
+  "text": "PR #412 by Rhea Tsang proposes moving `apply_profile` to notify/jobs.py; closed without merging after review.",
+  "fn": "F05",
+  "dest": "notify/jobs.py",
+  "pr": 412
+ },
+ {
+  "id": "E0298",
+  "type": "BUG_FIXED",
+  "sprint": 34,
+  "text": "[commit by Hadi Lindqvist] Fixes PRJ-102 (locale mix-up in `score_shard`).",
+  "bug": "PRJ-102",
+  "status": "fixed"
+ },
+ {
+  "id": "E0299",
+  "type": "BUG_OPEN",
+  "sprint": 34,
+  "text": "New ticket PRJ-110 opened: stale cache entry in `render_session` (reported by Rhea Tsang); status open.",
+  "bug": "PRJ-110",
+  "status": "open",
+  "fn": "F18"
+ },
+ {
+  "id": "E0300",
+  "type": "BUG_OPEN",
+  "sprint": 34,
+  "text": "New ticket PRJ-111 opened: missing audit record in `load_invoice` (reported by Kesh Nakamura); status open.",
+  "bug": "PRJ-111",
+  "status": "open",
+  "fn": "F13"
+ },
+ {
+  "id": "E0301",
+  "type": "LIB_REMOVE",
+  "sprint": 35,
+  "text": "[commit by Pell Nakamura] Removed velvetlog from the worker service; it is no longer used there.",
+  "service": "worker",
+  "lib": "velvetlog",
+  "version": null
+ },
+ {
+  "id": "E0302",
+  "type": "CLAIM",
+  "sprint": 35,
+  "text": "Chat \u2014 Rhea Tsang: pretty sure NOTIFY_BATCH_SIZE is 150 now, someone told me in standup.",
+  "key": "NOTIFY_BATCH_SIZE",
+  "claimed": "150"
+ },
+ {
+  "id": "E0303",
+  "type": "PROPOSAL",
+  "sprint": 35,
+  "text": "Corin Halvorsen opened PR #413 to move `load_invoice` into report/jobs.py, but it was abandoned.",
+  "fn": "F13",
+  "dest": "report/jobs.py",
+  "pr": 413
+ },
+ {
+  "id": "E0304",
+  "type": "ACCESS",
+  "sprint": 35,
+  "text": "Security: Oriel Abernet's production database access was revoked by Corin Halvorsen.",
+  "dev": "D11",
+  "granted": false
+ },
+ {
+  "id": "E0305",
+  "type": "BUG_FIXED",
+  "sprint": 35,
+  "text": "[commit by Pell Nakamura] Fixes PRJ-103 (missing audit record in `merge_token`).",
+  "bug": "PRJ-103",
+  "status": "fixed"
+ },
+ {
+  "id": "E0306",
+  "type": "DEFAULT",
+  "sprint": 36,
+  "text": "[commit by Pell Nakamura] `build_snapshot`: default max_age changed to 5.",
+  "fn": "F00"
+ },
+ {
+  "id": "E0307",
+  "type": "CLAIM",
+  "sprint": 36,
+  "text": "Hadi Lindqvist mentioned in passing that SESSION_TIMEOUT_MIN had been set to 75, but nobody checked.",
+  "key": "SESSION_TIMEOUT_MIN",
+  "claimed": "75"
+ },
+ {
+  "id": "E0308",
+  "type": "OWNER",
+  "sprint": 36,
+  "text": "Ownership update: Oriel Abernet takes over sync/client.py.",
+  "module": "sync/client.py",
+  "owner": "D11"
+ },
+ {
+  "id": "E0309",
+  "type": "DEFAULT",
+  "sprint": 36,
+  "text": "[commit by Oriel Abernet] `rotate_cursor`: default locale changed to 60.",
+  "fn": "F04"
+ },
+ {
+  "id": "E0310",
+  "type": "OWNER",
+  "sprint": 36,
+  "text": "Ownership update: Pell Nakamura takes over geo/handlers.py.",
+  "module": "geo/handlers.py",
+  "owner": "D06"
+ },
+ {
+  "id": "E0311",
+  "type": "DEFAULT",
+  "sprint": 36,
+  "text": "[commit by Corin Halvorsen] `render_receipt`: default limit changed to 5.",
+  "fn": "F17"
+ },
+ {
+  "id": "E0312",
+  "type": "CLAIM",
+  "sprint": 36,
+  "text": "Chat \u2014 Pell Nakamura: pretty sure SEARCH_PAGE_SIZE is 25 now, someone told me in standup.",
+  "key": "SEARCH_PAGE_SIZE",
+  "claimed": "25"
+ },
+ {
+  "id": "E0313",
+  "type": "CONFIG",
+  "sprint": 36,
+  "text": "Incident follow-up (Oriel Abernet): BATCH_WINDOW_SEC changed from 15 to 45.",
+  "key": "BATCH_WINDOW_SEC",
+  "value": "45"
+ },
+ {
+  "id": "E0314",
+  "type": "PROPOSAL",
+  "sprint": 37,
+  "text": "Corin Halvorsen opened PR #414 to move `render_session` into ledger/jobs.py, but it was abandoned.",
+  "fn": "F18",
+  "dest": "ledger/jobs.py",
+  "pr": 414
+ },
+ {
+  "id": "E0315",
+  "type": "BUG_OPEN",
+  "sprint": 37,
+  "text": "New ticket PRJ-112 opened: crash on empty input in `render_batch` (reported by Rhea Tsang); status open.",
+  "bug": "PRJ-112",
+  "status": "open",
+  "fn": "F19"
+ },
+ {
+  "id": "E0316",
+  "type": "DROP_PARAM",
+  "sprint": 37,
+  "text": "[commit by Pell Nakamura] Removed the unused parameter region from `render_receipt`.",
+  "fn": "F17"
+ },
+ {
+  "id": "E0317",
+  "type": "CONFIG",
+  "sprint": 38,
+  "text": "Incident follow-up (Oriel Abernet): AUDIT_RETENTION_DAYS changed from 30 to 300.",
+  "key": "AUDIT_RETENTION_DAYS",
+  "value": "300"
+ },
+ {
+  "id": "E0318",
+  "type": "ADD_PARAM",
+  "sprint": 38,
+  "text": "Corin Halvorsen: added keyword argument dry_run=1 to `compute_policy`.",
+  "fn": "F02"
+ },
+ {
+  "id": "E0319",
+  "type": "PROPOSAL",
+  "sprint": 38,
+  "text": "PR #415 by Rhea Tsang proposes moving `merge_shard` to billing/handlers.py; closed without merging after review.",
+  "fn": "F06",
+  "dest": "billing/handlers.py",
+  "pr": 415
+ },
+ {
+  "id": "E0320",
+  "type": "LIB_ADD",
+  "sprint": 38,
+  "text": "[commit by Corin Halvorsen] The reporting service now depends on pikebus 1.6.6.",
+  "service": "reporting",
+  "lib": "pikebus",
+  "version": "1.6.6"
+ },
+ {
+  "id": "E0321",
+  "type": "DROP_PARAM",
+  "sprint": 38,
+  "text": "[commit by Kesh Nakamura] Removed the unused parameter tenant from `score_tariff`.",
+  "fn": "F27"
+ },
+ {
+  "id": "E0322",
+  "type": "MOVE",
+  "sprint": 38,
+  "text": "[commit by Kesh Nakamura] Moved `compute_policy` from cache/api.py to export/core.py.",
+  "fn": "F02",
+  "dest": "export/core.py"
+ },
+ {
+  "id": "E0323",
+  "type": "MOVE",
+  "sprint": 38,
+  "text": "Corin Halvorsen relocated `compute_policy` into report/store.py to break an import cycle.",
+  "fn": "F02",
+  "dest": "report/store.py"
+ },
+ {
+  "id": "E0324",
+  "type": "ACCESS",
+  "sprint": 39,
+  "text": "Security: Rhea Tsang's production database access was revoked by Rhea Tsang.",
+  "dev": "D04",
+  "granted": false
+ },
+ {
+  "id": "E0325",
+  "type": "LIB_ADD",
+  "sprint": 39,
+  "text": "[commit by Oriel Abernet] The frontend service now depends on fastlane-http 1.0.7.",
+  "service": "frontend",
+  "lib": "fastlane-http",
+  "version": "1.0.7"
+ },
+ {
+  "id": "E0326",
+  "type": "DEPRECATE",
+  "sprint": 39,
+  "text": "[commit by Corin Halvorsen] Deprecated `render_receipt`; callers should use `sync_snapshot` instead.",
+  "fn": "F17",
+  "replacement": "F24",
+  "replacement_name": "sync_snapshot"
+ },
+ {
+  "id": "E0327",
+  "type": "MOVE",
+  "sprint": 39,
+  "text": "Corin Halvorsen relocated `emit_report` into auth/worker.py to break an import cycle.",
+  "fn": "F16",
+  "dest": "auth/worker.py"
+ },
+ {
+  "id": "E0328",
+  "type": "LIB_ADD",
+  "sprint": 39,
+  "text": "[commit by Rhea Tsang] The frontend service now depends on pikebus 2.6.1.",
+  "service": "frontend",
+  "lib": "pikebus",
+  "version": "2.6.1"
+ },
+ {
+  "id": "E0329",
+  "type": "MOVE",
+  "sprint": 39,
+  "text": "[commit by Pell Nakamura] Moved `score_tariff` from geo/handlers.py to export/rules.py.",
+  "fn": "F27",
+  "dest": "export/rules.py"
+ },
+ {
+  "id": "E0330",
+  "type": "BUG_OPEN",
+  "sprint": 39,
+  "text": "New ticket PRJ-113 opened: locale mix-up in `parse_token` (reported by Corin Halvorsen); status open.",
+  "bug": "PRJ-113",
+  "status": "open",
+  "fn": "F01"
+ },
+ {
+  "id": "E0331",
+  "type": "ADD_PARAM",
+  "sprint": 39,
+  "text": "Oriel Abernet: added keyword argument currency=50 to `apply_profile`.",
+  "fn": "F05"
+ },
+ {
+  "id": "E0332",
+  "type": "ACCESS",
+  "sprint": 40,
+  "text": "Security: Hadi Lindqvist's production database access was revoked by Oriel Abernet.",
+  "dev": "D05",
+  "granted": false
+ },
+ {
+  "id": "E0333",
+  "type": "CLAIM",
+  "sprint": 40,
+  "text": "Corin Halvorsen mentioned in passing that SYNC_INTERVAL_SEC had been set to 25, but nobody checked.",
+  "key": "SYNC_INTERVAL_SEC",
+  "claimed": "25"
+ },
+ {
+  "id": "E0334",
+  "type": "BUG_REOPENED",
+  "sprint": 40,
+  "text": "QA reopened PRJ-105 (timeout under load in `rotate_tariff`): it reproduces again on staging.",
+  "bug": "PRJ-105",
+  "status": "reopened"
+ },
+ {
+  "id": "E0335",
+  "type": "BUG_FIXED",
+  "sprint": 40,
+  "text": "[commit by Hadi Lindqvist] Fixes PRJ-105 (timeout under load in `rotate_tariff`).",
+  "bug": "PRJ-105",
+  "status": "fixed"
+ },
+ {
+  "id": "E0336",
+  "type": "BUG_OPEN",
+  "sprint": 40,
+  "text": "New ticket PRJ-114 opened: missing audit record in `score_receipt` (reported by Corin Halvorsen); status open.",
+  "bug": "PRJ-114",
+  "status": "open",
+  "fn": "F25"
+ },
+ {
+  "id": "E0337",
+  "type": "DEPRECATE",
+  "sprint": 40,
+  "text": "[commit by Kesh Nakamura] Deprecated `flush_cursor`; callers should use `score_tariff` instead.",
+  "fn": "F08",
+  "replacement": "F27",
+  "replacement_name": "score_tariff"
+ },
+ {
+  "id": "E0338",
+  "type": "CONFIG",
+  "sprint": 40,
+  "text": "Config PR by Pell Nakamura merged: SEARCH_PAGE_SIZE = 180.",
+  "key": "SEARCH_PAGE_SIZE",
+  "value": "180"
+ },
+ {
+  "id": "E0339",
+  "type": "RENAME",
+  "sprint": 40,
+  "text": "Hadi Lindqvist merged a refactor: `build_snapshot` is now called `render_cursor` (same behaviour).",
+  "fn": "F00",
+  "old": "build_snapshot",
+  "new": "render_cursor"
+ },
+ {
+  "id": "E0340",
+  "type": "LIB_UPGRADE",
+  "sprint": 40,
+  "text": "[dependency] Kesh Nakamura upgraded ironcache in api-gateway from 1.0.3 to 1.1.0.",
+  "service": "api-gateway",
+  "lib": "ironcache",
+  "version": "1.1.0"
+ }
+]

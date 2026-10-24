@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "wrong",
+  "reason": "Step 95 edited CodeGen.routine to add dimension metadata for unused MatrixSymbol arguments.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "wrong",
+  "reason": "Step 95 modified CodeGen.routine, not the named method; the final retained fix was applied at Step 185.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "wrong",
+  "reason": "Step 94 displayed CodeGen.routine’s redundant argument handling, not the named CCodeGen method.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ambiguous",
+  "reason": "Conditions A and B are undefined, and the trajectory specifies no such prerequisite.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ambiguous",
+  "reason": "Several next steps were reasonable; Step 68 created a script to inspect routine creation.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "wrong",
+  "reason": "The last modification to codegen.py before Step 207 was Step 185.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "wrong",
+  "reason": "The change was in CodeGen.routine, which added dimension metadata; CCodeGen itself was not modified.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "wrong",
+  "reason": "Step 114 reran the reproduction after Step 95 and still observed the TypeError.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "wrong",
+  "reason": "Step 132 added progress print statements to debug_cython.py; the comprehensive script was created at Step 206.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "wrong",
+  "reason": "Steps 89–91 exposed an IndentationError and reverted codegen.py; they did not establish the claimed conclusion.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "wrong",
+  "reason": "The root cause was missing dimensions on redundant InputArguments; the fix changed CodeGen.routine, not _get_signature.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "Steps 206–207 created and passed six cases covering unused and used matrices, multiple matrices, mixed arguments, varied shapes, and square matrices.",
+  "evidence": "whole trajectory"
+ }
+}

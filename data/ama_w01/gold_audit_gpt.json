@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "wrong",
+  "reason": "Step 68 ran the view-only permission test with runtests.py and verbosity 2.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "wrong",
+  "reason": "Steps 20–21 already located and identified the faulty InlineModelAdmin permission methods.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "wrong",
+  "reason": "Step 78 searched options.py; step 80 inspected related.py. Neither created a test nor implemented a fix.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "wrong",
+  "reason": "The edited method checks add permission on the related target model; it has no separate view-only check.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "wrong",
+  "reason": "Step 80 inspected auto-created model metadata rather than implementing a fix.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "wrong",
+  "reason": "Step 77 searched model options for auto_created and observed no reproduction test failure.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "wrong",
+  "reason": "At step 85, the latest test code modification was step 74; step 132 occurred later.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "wrong",
+  "reason": "Steps 68–71 showed a NameError and an unexpected permission result; the stated faulty logic was identified earlier.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "Step 133 ran admin_inlines.tests.TestInlinePermissions with verbosity 2.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "wrong",
+  "reason": "Steps 80–84 did not produce a passing test; the view-only test first passed at step 123.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "wrong",
+  "reason": "The faulty methods belonged to InlineModelAdmin and delegated mutation permissions to has_view_permission on the related model.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "wrong",
+  "reason": "Three InlineModelAdmin permission methods were modified: has_add_permission, has_change_permission, and has_delete_permission.",
+  "evidence": "whole trajectory"
+ }
+}

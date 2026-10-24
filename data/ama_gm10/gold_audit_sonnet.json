@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "Steps 210–212 are North, South, North, so the net change is one step north.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "Moving south would not face the tree, so the Do would not collect it. The \"non-interactive\" description of water is imprecise, since water can be drunk.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "wrong",
+  "reason": "The agent is still asleep until step 263, so energy was not full at step 253. No reward is shown in the trajectory.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "The idle back-and-forth movement uses up hidden survival stats without exploring new ground.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "wrong",
+  "reason": "Sleep at step 251 is correct, but the sleep lasts until step 263, not 253. The trajectory shows no reward.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "wrong",
+  "reason": "The agent does not move onto the tree's tile. Move North just turns it to face the tree, which blocks movement.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "Net vertical displacement is zero and the only lasting change is one step west.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "Wood increases, and that is the base material for the table and tools. The \"moves onto the tile\" detail is wrong but does not change the answer.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ambiguous",
+  "reason": "The West move at step 209 may have covered some new ground, so \"none relevant\" is debatable.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "wrong",
+  "reason": "A tree one step away is already adjacent. Move North only turned the agent to face it.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "wrong",
+  "reason": "Do and Move North are right, but the agent did not stand on the tree's tile. It only faced the tree.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "Wood is gained and is needed for the table, which unlocks tool crafting.",
+  "evidence": "whole trajectory"
+ }
+}

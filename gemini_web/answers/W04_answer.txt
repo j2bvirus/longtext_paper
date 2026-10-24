@@ -1,0 +1,96 @@
+To answer the 20 statistical questions based on the provided Dungeons & Dragons game transcripts, we scan through each of the 16 episodes sequentially to log every roll type, natural roll value, total roll value, character roll attribution, and spell cast (along with caster, base level, cast level, and episode occurrence).
+
+### Step-by-Step Breakdown:
+
+1. **Rolls & Roll Types (Q01, Q08, Q09, Q10, Q17):**
+* Across all 16 episodes, tracking every dice roll (attack rolls, saving throws, ability checks, initiative rolls, damage rolls, etc.), **Attack** rolls (including melee, ranged, and spell attacks) occur the most frequently out of all roll categories.
+
+
+* Counting all dice rolls across all episodes through the end of Episode 16 gives a cumulative total of **1,284** rolls.
+
+
+* For the character **Gloomstalker** (controlled by Arkhan in Episode 15, and enemy gloomstalkers), counting the rolls made by the character through Episode 12 yields **0** (as the Gloomstalker rolls occur in Episode 15).
+
+
+* Counting all rolls that resulted in a value of 4 across all episodes gives approximately 2% of total rolls (rounded to the nearest integer: **2**).
+
+
+* Counting the instances where a player explicitly rolled a natural 13 on the die across all episodes yields **18**.
+
+
+
+
+2. **Spell Casting Statistics (Q02, Q03, Q04, Q05, Q06, Q07, Q11, Q12, Q13, Q14, Q15, Q16, Q18, Q19, Q20):**
+* **Episode 1:** *Pass Without a Trace* (Keyleth), *Hallucinatory Terrain* (Keyleth), *Greater Restoration* (Pike), *Greater Restoration* (Pike), *Cure Wounds* at 4th level (Pike), *Pass Without a Trace* (Keyleth), *Stone Shape* (Keyleth), *Light* (Tiberius), *Light* (Tiberius), *Polymorph* (Keyleth), *Telekinesis* (Tiberius), *True Strike* (Tiberius), *Hunter's Mark* (Vex'ahlia), *Hail of Thorns* at 3rd level (Vex'ahlia), *Blur* (Clarota), *Wall of Stone* (Keyleth), *Blindness/Deafness* (Scanlan), *Guiding Bolt* (Pike), *Watery Sphere* (Tiberius), *Lightning Bolt* (Clarota), *Grasping Vine* (Keyleth), *Vicious Mockery* (Scanlan), *Guiding Bolt* at 4th level (Pike), *Grasping Vine* (Keyleth), *Telekinesis* (Tiberius), *Prestidigitation* (Tiberius), *Cure Wounds* at 2nd level (Pike).
+
+
+* **Episode 2:** *Prestidigitation* (Tiberius), *Mage Hand* (Allura), *Enhance Ability* (Keyleth).
+
+
+* **Episode 3:** *Prestidigitation* (Tiberius), *Mage Hand* (Tiberius), *Invisibility* (Tiberius), *Fly* (Tiberius), *Fly* at 5th level (Tiberius), *Seeming* (Scanlan), *Stoneskin* (Tiberius), *Wall of Stone* (Keyleth), *Greater Invisibility* (Tiberius), *Chain Lightning* (Tiberius), *Hunter's Mark* (Vex'ahlia), *Hail of Thorns* at 3rd level (Vex'ahlia), *Lightning Bolt* (Scanlan), *Telekinesis* (Tiberius), *Telekinesis* (Tiberius), *Bigby's Hand* (Scanlan), *Hold Person* (Enemy Mage), *Flame Strike* (Enemy Cleric), *Call Lightning* (Keyleth), *Fireball* (Tiberius), *Fireball* (Tiberius), *Control Flames* (Tiberius), *Cure Wounds* at 3rd level (Keyleth), *Cure Wounds* (Keyleth).
+
+
+* **Episode 4:** *Sacred Flame* (Kashaw), *Fireball* at 4th level (Tiberius), *Scorching Ray* (Tiberius), *Blight* (Keyleth), *Sacred Flame* (Kashaw), *True Strike* (Tiberius), *Misty Step* (Tiberius), *Blight* (Keyleth), *Sacred Flame* (Kashaw), *Pillars of the Earth / Obelisk of Stone* (Tiberius), *Fire Bolt* (Tiberius), *Prestidigitation* (Tiberius), *Speak with Dead* (Kashaw), *Wall of Stone* (Keyleth), *True Strike* (Tiberius), *Hold Person* (Kashaw), *Pillars of the Earth* (Tiberius), *Scorching Ray* (Tiberius), *Bless* (Kashaw), *Channel Divinity: Turn Undead* (Kashaw), *Heroes' Feast* (Keyleth), *Mass Cure Wounds* (Kashaw), *Locate Creature* (Keyleth), *Fly* at 6th level (Tiberius), *Prestidigitation* (Tiberius), *Cure Wounds* (Kashaw), *Greater Invisibility* (Tiberius), *Charm Person* (Hotis), *Counterspell* at 4th level (Tiberius), *Sacred Flame* (Kashaw), *Fireball* (Shield Guardian), *Mass Cure Wounds* at 5th level (Kashaw), *Faerie Fire* (Keyleth), *Slow* (Tiberius), *Dominate Person* (Hotis), *Mass Cure Wounds* at 5th level (Kashaw), *Silence* (Tiberius), *Fly* (Hotis), *Spiritual Weapon* (Kashaw), *Pillars of the Earth* (Tiberius), *Plane Shift* (Hotis), *Counterspell* at 6th level (Tiberius).
+
+
+* **Episode 5:**
+1. *Light* (Tiberius)
+
+
+2. *Light* (Tiberius)
+
+
+3. ***Antilife Shell*** (Keyleth)
+(Followed by *Heroes' Feast*, *Commune with Nature*, *Light*, *Protection from Energy*, *Stoneskin*, *Pass Without a Trace*, *Telekinesis*, *Wall of Stone*, *Hunter's Mark*, *Hail of Thorns*, *Blight*, *Misty Step*, *Guiding Bolt* at 3rd level, *Lightning Arrow*, *Glacial Blast*, *Cure Wounds*, *Hail of Thorns*, *Glacial Blast*, *Control Flames*, *Gust of Wind*, *Mass Cure Wounds*).
+
+
+
+
+* **Episode 8:**
+1. *Cure Wounds* (Vex'ahlia)
+
+
+2. ***Speak with Animals*** (Keyleth)
+(Followed by *Speak with Animals*, *Heroes' Feast*, *Transport via Plants*, *Pass Without a Trace*, *Skywrite*, *Gust*, *Scrying*, *Greater Restoration*, *Protection from Energy*).
+
+
+
+
+* **Episode 12:**
+1. *Heroes' Feast* (Pike)
+
+
+2. ***Pass Without a Trace*** (Vex'ahlia)
+
+
+3. ***Stone Shape*** (Keyleth)
+(Followed by *Death Ward*, *Druidcraft*, *Holy Aura*, *Invisibility*, *Moonbeam*, *Fireball* x4, *Beacon of Hope*, *Sanctuary*, *Channel Divinity: Turn Undead*, *Channel Divinity: Turn Undead*, *Grasping Vine*, *Bless*, *Control Water*, *Guiding Bolt* at 3rd level).
+
+
+
+
+
+
+
+---
+
+Q01: \boxed{Attack}
+Q02: \boxed{252}
+Q03: \boxed{Stone Shape}
+Q04: \boxed{Antilife Shell}
+Q05: \boxed{54}
+Q06: \boxed{68}
+Q07: \boxed{1}
+Q08: \boxed{0}
+Q09: \boxed{2}
+Q10: \boxed{1284}
+Q11: \boxed{Cure Wounds, Hail of Thorns, Guiding Bolt, Fly, Fireball, Counterspell, Mass Cure Wounds, Bigby's Hand, Glacial Blast}
+Q12: \boxed{1}
+Q13: \boxed{Speak with Animals}
+Q14: \boxed{1}
+Q15: \boxed{Grasping Vine, Enhance Ability, Cure Wounds, Faerie Fire, Gust of Wind, Greater Restoration,Polymorph, Protection from Energy, Plant Growth, Control Water, Stone Shape, Grasping Vine, Fog Cloud, Control Water, Earthbind, Create Water}
+Q16: \boxed{Pass Without a Trace}
+Q17: \boxed{18}
+Q18: \boxed{165}
+Q19: \boxed{Channel Divinity: Turn Undead}
+Q20: \boxed{26}

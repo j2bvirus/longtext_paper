@@ -1,0 +1,1624 @@
+
+
+Sprint 1
+
+Project kickoff notes. The team: Hadi Brandt, Pell Okafor, Tobin Brandt, Oriel Okafor, Maren Abernet, Vesna Marchetti, Rhea Tsang, Kesh Voss, Sefa Okafor, Lune Tsang, Nilo Nakamura, Yara Voss.
+
+Staging deploy 3479 rolled out to 10% then 100% without alerts.
+
+Module ownership table: upload/store.py is owned by Rhea Tsang, with Oriel Okafor as designated reviewer.
+
+Module ownership table: sync/client.py is owned by Pell Okafor, with Oriel Okafor as designated reviewer.
+
+[commit by Yara Voss] Added a missing newline at end of file in several fixtures.
+
+Coverage report: 2850.2334 percent lines covered.
+
+Module ownership table: notify/rules.py is owned by Maren Abernet, with Rhea Tsang as designated reviewer.
+
+Coverage report: 934.5347 percent lines covered.
+
+Coverage report: 3636.3246 percent lines covered.
+
+Module ownership table: notify/worker.py is owned by Oriel Okafor, with Vesna Marchetti as designated reviewer.
+
+[commit by Rhea Tsang] Added a missing newline at end of file in several fixtures.
+
+Module ownership table: auth/rules.py is owned by Hadi Brandt, with Pell Okafor as designated reviewer.
+
+Module ownership table: report/worker.py is owned by Kesh Voss, with Nilo Nakamura as designated reviewer.
+
+Nightly e2e suite: 7085 tests, 32 flaky, rerun green.
+
+Pell Okafor: the design review deck is in the shared drive.
+
+[commit by Tobin Brandt] Split a long unit test into two smaller ones.
+
+Module ownership table: notify/store.py is owned by Tobin Brandt, with Sefa Okafor as designated reviewer.
+
+Module ownership table: search/handlers.py is owned by Tobin Brandt, with Lune Tsang as designated reviewer.
+
+Module ownership table: auth/store.py is owned by Yara Voss, with Hadi Brandt as designated reviewer.
+
+Module ownership table: report/rules.py is owned by Pell Okafor, with Tobin Brandt as designated reviewer.
+
+[commit by Yara Voss] Added a missing newline at end of file in several fixtures.
+
+Module ownership table: ledger/worker.py is owned by Kesh Voss, with Sefa Okafor as designated reviewer.
+
+Hadi Brandt: pushed a fix for the flaky date test, nothing else changed.
+
+Module ownership table: export/api.py is owned by Kesh Voss, with Pell Okafor as designated reviewer.
+
+[commit by Yara Voss] Tweaked the dashboard colour palette per the design team.
+
+Vesna Marchetti: reminder that the retro is moved to Thursday.
+
+Module ownership table: export/store.py is owned by Nilo Nakamura, with Sefa Okafor as designated reviewer.
+
+Sefa Okafor: the design review deck is in the shared drive.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Module ownership table: geo/rules.py is owned by Oriel Okafor, with Hadi Brandt as designated reviewer.
+
+Initial import: `apply_invoice(limit, locale=5, batch_size=10)` lives in sync/client.py.
+
+Kesh Voss: anyone else seeing slow laptops after the OS update?
+
+Staging deploy 6778 rolled out to 10% then 100% without alerts.
+
+Nilo Nakamura: the design review deck is in the shared drive.
+
+Initial import: `apply_policy(region, strict=2)` lives in notify/store.py.
+
+Staging deploy 4203 rolled out to 10% then 100% without alerts.
+
+Initial import: `apply_report(retries, verbose=5)` lives in auth/store.py.
+
+Snippet from an unrelated helper:
+    def _load_digest_tmp(x):
+        return x  # TODO remove after the resolve migration
+
+Nilo Nakamura: reminder that the retro is moved to Thursday.
+
+Initial import: `apply_shard(limit, locale=3)` lives in sync/client.py.
+
+CI build #1472 passed in 37m38s.
+
+Oriel Okafor: I'll be out Friday afternoon.
+
+Initial import: `build_digest(strict, currency=2, max_age=100)` lives in report/worker.py.
+
+Hadi Brandt: pushed a fix for the flaky date test, nothing else changed.
+
+Initial import: `build_invoice(locale, strict=5)` lives in report/worker.py.
+
+Hadi Brandt: reminder that the retro is moved to Thursday.
+
+[commit by Maren Abernet] Bumped the base image patch version; no code changes.
+
+Initial import: `compute_quota(tenant, dry_run=30, retries=60)` lives in auth/rules.py.
+
+Sefa Okafor: I'll be out Friday afternoon.
+
+Initial import: `compute_shard(strict, max_age=30)` lives in report/rules.py.
+
+Initial import: `emit_batch(retries, tenant=2, timeout=30)` lives in ledger/worker.py.
+
+Initial import: `emit_shard(batch_size, user_id=10, timeout=60)` lives in export/store.py.
+
+Initial import: `fetch_invoice(locale, timeout=3)` lives in search/handlers.py.
+
+Nilo Nakamura: reminder that the retro is moved to Thursday.
+
+Initial import: `flush_bundle(region, user_id=5, currency=5)` lives in notify/store.py.
+
+[commit by Lune Tsang] Cleaned up unused imports flagged by the linter.
+
+Initial import: `flush_invoice(cursor, batch_size=100, tenant=10)` lives in report/worker.py.
+
+Initial import: `flush_profile(batch_size, verbose=60, dry_run=1)` lives in notify/worker.py.
+
+Initial import: `flush_token(batch_size, strict=10, currency=2)` lives in export/api.py.
+
+CI build #9804 passed in 33m32s.
+
+Initial import: `index_report(max_age, verbose=30)` lives in ledger/worker.py.
+
+Initial import: `index_shard(retries, dry_run=2, batch_size=3)` lives in auth/store.py.
+
+Oriel Okafor: the design review deck is in the shared drive.
+
+Nilo Nakamura: renamed a few variables in the docs examples for readability; no API change.
+
+[commit by Maren Abernet] Split a long unit test into two smaller ones.
+
+Initial import: `load_batch(region, verbose=5, limit=2, tenant=60)` lives in notify/rules.py.
+
+Initial import: `load_report(verbose, batch_size=10, limit=2)` lives in sync/client.py.
+
+Initial import: `merge_batch(user_id, currency=10)` lives in search/handlers.py.
+
+Rhea Tsang: renamed a few variables in the docs examples for readability; no API change.
+
+Initial import: `parse_cursor(timeout, verbose=10, currency=100)` lives in report/worker.py.
+
+Maren Abernet: renamed a few variables in the docs examples for readability; no API change.
+
+Initial import: `parse_snapshot(cursor, region=30, locale=30)` lives in export/api.py.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+[commit by Sefa Okafor] Bumped the base image patch version; no code changes.
+
+Pell Okafor: reminder that the retro is moved to Thursday.
+
+Pell Okafor: renamed a few variables in the docs examples for readability; no API change.
+
+Initial import: `render_batch(cursor, limit=3, retries=10)` lives in auth/rules.py.
+
+Initial import: `render_tariff(retries, limit=3)` lives in ledger/worker.py.
+
+Rhea Tsang: reminder that the retro is moved to Thursday.
+
+Maren Abernet: anyone else seeing slow laptops after the OS update?
+
+Initial import: `resolve_batch(limit, locale=3, user_id=60)` lives in auth/rules.py.
+
+Initial import: `rotate_profile(strict, cursor=10, currency=30, dry_run=2)` lives in auth/rules.py.
+
+Nilo Nakamura: reminder that the retro is moved to Thursday.
+
+Initial import: `score_shard(cursor, user_id=10, limit=5)` lives in sync/client.py.
+
+Snippet from an unrelated helper:
+    def _parse_invoice_tmp(x):
+        return x  # TODO remove after the index migration
+
+Initial import: `sync_receipt(retries, user_id=1)` lives in ledger/worker.py.
+
+Initial import: `sync_report(region, timeout=3, verbose=5, batch_size=10)` lives in geo/rules.py.
+
+CI build #2695 passed in 22m8s.
+
+Snippet from an unrelated helper:
+    def _validate_tariff_tmp(x):
+        return x  # TODO remove after the resolve migration
+
+Initial import: `sync_session(dry_run, limit=60, retries=2)` lives in search/handlers.py.
+
+Config/defaults.yaml sets RETRY_LIMIT: 300.
+
+Config/defaults.yaml sets CACHE_TTL_SECONDS: 3.
+
+[commit by Tobin Brandt] Added a missing newline at end of file in several fixtures.
+
+Config/defaults.yaml sets MAX_UPLOAD_MB: 90.
+
+Lint job warning count dropped to 26.
+
+Kesh Voss: renamed a few variables in the docs examples for readability; no API change.
+
+Config/defaults.yaml sets SESSION_TIMEOUT_MIN: 3.
+
+Config/defaults.yaml sets BATCH_WINDOW_SEC: 300.
+
+Nightly e2e suite: 4438 tests, 29 flaky, rerun green.
+
+[commit by Kesh Voss] Added a missing newline at end of file in several fixtures.
+
+Config/defaults.yaml sets RATE_LIMIT_RPS: 3.
+
+Config/defaults.yaml sets EXPORT_CHUNK_ROWS: 300.
+
+CI build #4259 passed in 11m34s.
+
+Pell Okafor: renamed a few variables in the docs examples for readability; no API change.
+
+Tobin Brandt: lunch order is in the channel, last call.
+
+Config/defaults.yaml sets AUDIT_RETENTION_DAYS: 10.
+
+Sefa Okafor: reminder that the retro is moved to Thursday.
+
+Config/defaults.yaml sets SEARCH_PAGE_SIZE: 15.
+
+Snippet from an unrelated helper:
+    def _compute_report_tmp(x):
+        return x  # TODO remove after the apply migration
+
+Config/defaults.yaml sets SYNC_INTERVAL_SEC: 60.
+
+Config/defaults.yaml sets TOKEN_TTL_MIN: 5.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Lint job warning count dropped to 22.
+
+Config/defaults.yaml sets NOTIFY_BATCH_SIZE: 5.
+
+Rhea Tsang: reminder that the retro is moved to Thursday.
+
+[commit by Kesh Voss] Refactored the README badges and fixed a broken link.
+
+Tobin Brandt holds production database access.
+
+Coverage report: 2253.1844 percent lines covered.
+
+Nilo Nakamura holds production database access.
+
+Lune Tsang: reminder that the retro is moved to Thursday.
+
+Architecture rule (ADR-001): functions in the upload package may only be called by the api-gateway and scheduler services.
+
+Coverage report: 2116.7062 percent lines covered.
+
+Ops rule: the ENABLE_PREFETCH feature flag may be turned on only while CACHE_TTL_SECONDS is at least 60.
+
+Team policy: when a module owner leaves the team, ownership passes automatically to that module's designated reviewer; no announcement is made.
+
+
+
+Sprint 2
+
+Staging deploy 4087 rolled out to 10% then 100% without alerts.
+
+Pell Okafor mentioned in passing that AUDIT_RETENTION_DAYS had been set to 150, but nobody checked.
+
+CI build #9223 passed in 3m42s.
+
+Lint job warning count dropped to 19.
+
+Incident follow-up (Yara Voss): MAX_UPLOAD_MB changed from 90 to 3.
+
+CI build #6299 passed in 19m54s.
+
+Oriel Okafor: lunch order is in the channel, last call.
+
+[commit by Pell Okafor] `sync_report`: default batch_size changed to 2.
+
+Kesh Voss opened PR #400 to move `apply_policy` into auth/rules.py, but it was abandoned.
+
+[commit by Lune Tsang] Cleaned up unused imports flagged by the linter.
+
+Nightly e2e suite: 1891 tests, 2 flaky, rerun green.
+
+PR #401 by Pell Okafor proposes moving `compute_quota` to search/handlers.py; closed without merging after review.
+
+Security: Oriel Okafor granted Lune Tsang production database access for the migration.
+
+[commit by Vesna Marchetti] Deprecated `flush_token`; callers should use `render_tariff` instead.
+
+
+
+Sprint 3
+
+From this sprint search/handlers.py is maintained by Vesna Marchetti (previously Tobin Brandt).
+
+Nightly e2e suite: 5839 tests, 39 flaky, rerun green.
+
+Lune Tsang merged a refactor: `merge_batch` is now called `index_quota` (same behaviour).
+
+[commit by Tobin Brandt] Updated copyright year in LICENSE headers.
+
+Oriel Okafor: the design review deck is in the shared drive.
+
+Staging deploy 4580 rolled out to 10% then 100% without alerts.
+
+[commit by Lune Tsang] Deprecated `render_batch`; callers should use `flush_invoice` instead.
+
+Code review (Nilo Nakamura): approved renaming `compute_quota` → `build_profile`.
+
+[commit by Yara Voss] Split a long unit test into two smaller ones.
+
+Tobin Brandt relocated `load_report` into export/store.py to break an import cycle.
+
+New ticket PRJ-100: timeout under load in `build_profile` (reported by Lune Tsang).
+
+Yara Voss: lunch order is in the channel, last call.
+
+
+
+Sprint 4
+
+[commit by Tobin Brandt] Refactored the README badges and fixed a broken link.
+
+Kesh Voss: lunch order is in the channel, last call.
+
+Incident follow-up (Nilo Nakamura): BATCH_WINDOW_SEC changed from 300 to 60.
+
+Snippet from an unrelated helper:
+    def _sync_cursor_tmp(x):
+        return x  # TODO remove after the load migration
+
+[commit by Yara Voss] Fixes PRJ-100 (timeout under load in `build_profile`).
+
+[commit by Vesna Marchetti] Refactored the README badges and fixed a broken link.
+
+[commit by Lune Tsang] Rename `apply_report` to `resolve_ledger` in auth/store.py; all call sites updated.
+
+[commit by Maren Abernet] Deprecated `resolve_ledger`; callers should use `index_shard` instead.
+
+Coverage report: 1217.2985 percent lines covered.
+
+[commit by Oriel Okafor] The api-gateway service now depends on tidepool 1.5.9.
+
+Yara Voss: renamed a few variables in the docs examples for readability; no API change.
+
+Hadi Brandt opened PR #402 to move `emit_batch` into notify/worker.py, but it was abandoned.
+
+QA reopened PRJ-100 (timeout under load in `build_profile`): it reproduces again on staging.
+
+Incident follow-up (Kesh Voss): SYNC_INTERVAL_SEC changed from 60 to 10.
+
+Snippet from an unrelated helper:
+    def _parse_token_tmp(x):
+        return x  # TODO remove after the rotate migration
+
+ADR by Maren Abernet: we will use ironcache for JSON parsing.
+
+Sefa Okafor: the design review deck is in the shared drive.
+
+[commit by Hadi Brandt] Split a long unit test into two smaller ones.
+
+
+
+Sprint 5
+
+CI build #2789 passed in 23m8s.
+
+[commit by Kesh Voss] Refactored the README badges and fixed a broken link.
+
+[commit by Sefa Okafor] Deprecated `parse_snapshot`; callers should use `index_shard` instead.
+
+[commit by Tobin Brandt] Cleaned up unused imports flagged by the linter.
+
+CI build #1684 passed in 34m38s.
+
+[commit by Lune Tsang] Fixes PRJ-100 (timeout under load in `build_profile`).
+
+[commit by Tobin Brandt] Added a missing newline at end of file in several fixtures.
+
+Staging deploy 7480 rolled out to 10% then 100% without alerts.
+
+[ops] Tobin Brandt set CACHE_TTL_SECONDS to 15 in production after the load test.
+
+QA reopened PRJ-100 (timeout under load in `build_profile`): it reproduces again on staging.
+
+Incident follow-up (Vesna Marchetti): BATCH_WINDOW_SEC changed from 60 to 30.
+
+Lune Tsang: renamed a few variables in the docs examples for readability; no API change.
+
+Security: Nilo Nakamura's production database access was revoked by Lune Tsang.
+
+Oriel Okafor: I'll be out Friday afternoon.
+
+Staging deploy 2963 rolled out to 10% then 100% without alerts.
+
+Chat — Nilo Nakamura: pretty sure RATE_LIMIT_RPS is 250 now, someone told me in standup.
+
+[commit by Kesh Voss] The worker service now depends on ironcache 3.7.1.
+
+[commit by Oriel Okafor] Fixes PRJ-100 (timeout under load in `build_profile`).
+
+
+
+Sprint 6
+
+CI build #6692 passed in 8m4s.
+
+Staging deploy 4294 rolled out to 10% then 100% without alerts.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+[commit by Pell Okafor] The scheduler service now depends on glyphmail 2.2.2.
+
+Snippet from an unrelated helper:
+    def _render_bundle_tmp(x):
+        return x  # TODO remove after the apply migration
+
+New ticket PRJ-101: stale cache entry in `flush_profile` (reported by Kesh Voss).
+
+Snippet from an unrelated helper:
+    def _apply_ledger_tmp(x):
+        return x  # TODO remove after the load migration
+
+Ownership update: Tobin Brandt takes over geo/rules.py.
+
+Pell Okafor: I'll be out Friday afternoon.
+
+Code review (Nilo Nakamura): approved renaming `apply_shard` → `load_digest`.
+
+[commit by Lune Tsang] Moved `load_report` from export/store.py to search/handlers.py.
+
+[commit by Nilo Nakamura] The worker service now depends on tidepool 2.5.5.
+
+Vesna Marchetti: I'll be out Friday afternoon.
+
+From this sprint upload/store.py is maintained by Lune Tsang (previously Rhea Tsang).
+
+[commit by Tobin Brandt] Cleaned up unused imports flagged by the linter.
+
+Lint job warning count dropped to 10.
+
+[commit by Lune Tsang] Moved `apply_invoice` from sync/client.py to geo/rules.py.
+
+[ops] Hadi Brandt set MAX_UPLOAD_MB to 90 in production after the load test.
+
+
+
+Sprint 7
+
+PR #403 by Lune Tsang proposes moving `flush_bundle` to notify/worker.py; closed without merging after review.
+
+[ops] Kesh Voss set RETRY_LIMIT to 180 in production after the load test.
+
+Security: Rhea Tsang granted Vesna Marchetti production database access for the migration.
+
+[commit by Hadi Brandt] Fixes PRJ-101 (stale cache entry in `flush_profile`).
+
+Nightly e2e suite: 3015 tests, 28 flaky, rerun green.
+
+Tobin Brandt: renamed a few variables in the docs examples for readability; no API change.
+
+Oriel Okafor merged a refactor: `score_shard` is now called `rotate_policy` (same behaviour).
+
+Staging deploy 5790 rolled out to 10% then 100% without alerts.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Snippet from an unrelated helper:
+    def _index_session_tmp(x):
+        return x  # TODO remove after the emit migration
+
+[commit by Maren Abernet] `sync_report`: default batch_size changed to 30.
+
+[ops] Hadi Brandt set SYNC_INTERVAL_SEC to 300 in production after the load test.
+
+Config PR by Kesh Voss merged: NOTIFY_BATCH_SIZE = 180.
+
+[commit by Nilo Nakamura] Added a missing newline at end of file in several fixtures.
+
+Sefa Okafor: I'll be out Friday afternoon.
+
+CI build #6945 passed in 15m40s.
+
+
+
+Sprint 8
+
+Nightly e2e suite: 1870 tests, 21 flaky, rerun green.
+
+[commit by Lune Tsang] The reporting service now depends on ironcache 2.2.9.
+
+New ticket PRJ-102: crash on empty input in `sync_report` (reported by Kesh Voss).
+
+[commit by Nilo Nakamura] Bumped the base image patch version; no code changes.
+
+New ticket PRJ-103: wrong rounding in `build_digest` (reported by Yara Voss).
+
+Nightly e2e suite: 7393 tests, 13 flaky, rerun green.
+
+[commit by Lune Tsang] Updated copyright year in LICENSE headers.
+
+Chat — Nilo Nakamura: pretty sure SYNC_INTERVAL_SEC is 250 now, someone told me in standup.
+
+[commit by Sefa Okafor] `resolve_batch`: default user_id changed to 100.
+
+Lune Tsang merged a refactor: `apply_invoice` is now called `resolve_snapshot` (same behaviour).
+
+Lint job warning count dropped to 13.
+
+Pell Okafor: the design review deck is in the shared drive.
+
+[commit by Lune Tsang] Removed ironcache from the reporting service; it is no longer used there.
+
+Staging deploy 5951 rolled out to 10% then 100% without alerts.
+
+
+
+Sprint 9
+
+Security: Vesna Marchetti's production database access was revoked by Nilo Nakamura.
+
+Security: Tobin Brandt's production database access was revoked by Yara Voss.
+
+Coverage report: 527.5789 percent lines covered.
+
+From this sprint auth/rules.py is maintained by Lune Tsang (previously Hadi Brandt).
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Lune Tsang mentioned in passing that NOTIFY_BATCH_SIZE had been set to 25, but nobody checked.
+
+Snippet from an unrelated helper:
+    def _load_tariff_tmp(x):
+        return x  # TODO remove after the apply migration
+
+[commit by Pell Okafor] The api-gateway service now depends on fastlane-http 3.7.9.
+
+Pell Okafor merged a refactor: `load_batch` is now called `apply_batch` (same behaviour).
+
+Kesh Voss: reminder that the retro is moved to Thursday.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Pell Okafor: I'll be out Friday afternoon.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Security: Pell Okafor granted Yara Voss production database access for the migration.
+
+
+
+Sprint 10
+
+Pell Okafor: I'll be out Friday afternoon.
+
+[commit by Kesh Voss] Fixes PRJ-103 (wrong rounding in `build_digest`).
+
+New ticket PRJ-104: wrong rounding in `build_digest` (reported by Oriel Okafor).
+
+Pell Okafor: the design review deck is in the shared drive.
+
+New ticket PRJ-105: stale cache entry in `parse_cursor` (reported by Rhea Tsang).
+
+ADR by Pell Okafor: we will use ironcache for caching.
+
+Security: Pell Okafor granted Oriel Okafor production database access for the migration.
+
+QA reopened PRJ-100 (timeout under load in `build_profile`): it reproduces again on staging.
+
+Rhea Tsang: anyone else seeing slow laptops after the OS update?
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Snippet from an unrelated helper:
+    def _resolve_session_tmp(x):
+        return x  # TODO remove after the compute migration
+
+Coverage report: 452.7184 percent lines covered.
+
+
+
+Sprint 11
+
+Nilo Nakamura merged a refactor: `load_digest` is now called `parse_invoice` (same behaviour).
+
+New ticket PRJ-106: locale mix-up in `compute_shard` (reported by Hadi Brandt).
+
+[commit by Maren Abernet] `apply_batch`: default verbose changed to 45.
+
+CI build #6464 passed in 24m0s.
+
+[commit by Oriel Okafor] Deprecated `emit_batch`; callers should use `load_report` instead.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Coverage report: 159.3294 percent lines covered.
+
+Incident follow-up (Nilo Nakamura): TOKEN_TTL_MIN changed from 5 to 600.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Staging deploy 6116 rolled out to 10% then 100% without alerts.
+
+[commit by Nilo Nakamura] `sync_report`: default timeout changed to 100.
+
+Nightly e2e suite: 5490 tests, 24 flaky, rerun green.
+
+[commit by Hadi Brandt] Updated copyright year in LICENSE headers.
+
+New ticket PRJ-107: stale cache entry in `compute_shard` (reported by Maren Abernet).
+
+Rhea Tsang: renamed a few variables in the docs examples for readability; no API change.
+
+Hadi Brandt: added keyword argument dry_run=10 to `apply_policy`.
+
+
+
+Sprint 12
+
+[commit by Yara Voss] Tweaked the dashboard colour palette per the design team.
+
+Vesna Marchetti: added keyword argument tenant=10 to `build_digest`.
+
+Chat — Yara Voss: pretty sure SYNC_INTERVAL_SEC is 25 now, someone told me in standup.
+
+Staging deploy 2914 rolled out to 10% then 100% without alerts.
+
+[commit by Maren Abernet] The worker service now depends on glyphmail 3.2.1.
+
+Oriel Okafor: anyone else seeing slow laptops after the OS update?
+
+[commit by Kesh Voss] The scheduler service now depends on ironcache 3.4.3.
+
+Chat — Lune Tsang: pretty sure EXPORT_CHUNK_ROWS is 7 now, someone told me in standup.
+
+Oriel Okafor: reminder that the retro is moved to Thursday.
+
+[commit by Pell Okafor] The scheduler service now depends on quarkjson 2.7.9.
+
+Kesh Voss: renamed a few variables in the docs examples for readability; no API change.
+
+Snippet from an unrelated helper:
+    def _rotate_token_tmp(x):
+        return x  # TODO remove after the flush migration
+
+Pell Okafor: I'll be out Friday afternoon.
+
+New ticket PRJ-108: crash on empty input in `apply_batch` (reported by Yara Voss).
+
+[commit by Sefa Okafor] Split a long unit test into two smaller ones.
+
+From this sprint export/api.py is maintained by Vesna Marchetti (previously Kesh Voss).
+
+From this sprint export/api.py is maintained by Rhea Tsang (previously Vesna Marchetti).
+
+Tobin Brandt: the design review deck is in the shared drive.
+
+
+
+Sprint 13
+
+Security: Yara Voss granted Kesh Voss production database access for the migration.
+
+Pell Okafor: added keyword argument currency=0 to `build_invoice`.
+
+[commit by Vesna Marchetti] `load_report`: default limit changed to 3.
+
+Kesh Voss: renamed a few variables in the docs examples for readability; no API change.
+
+Tobin Brandt: anyone else seeing slow laptops after the OS update?
+
+Nilo Nakamura relocated `rotate_profile` into auth/store.py to break an import cycle.
+
+[commit by Pell Okafor] The scheduler service now depends on tidepool 1.9.0.
+
+Maren Abernet: anyone else seeing slow laptops after the OS update?
+
+[commit by Sefa Okafor] Updated copyright year in LICENSE headers.
+
+[commit by Nilo Nakamura] The worker service now depends on velvetlog 1.2.4.
+
+Maren Abernet relocated `compute_shard` into geo/rules.py to break an import cycle.
+
+Kesh Voss: lunch order is in the channel, last call.
+
+Incident follow-up (Kesh Voss): RATE_LIMIT_RPS changed from 3 to 120.
+
+[commit by Sefa Okafor] Added a missing newline at end of file in several fixtures.
+
+Lint job warning count dropped to 19.
+
+From this sprint auth/rules.py is maintained by Kesh Voss (previously Lune Tsang).
+
+Nilo Nakamura: reminder that the retro is moved to Thursday.
+
+Rhea Tsang: renamed a few variables in the docs examples for readability; no API change.
+
+
+
+Sprint 14
+
+Security: Sefa Okafor granted Nilo Nakamura production database access for the migration.
+
+Nightly e2e suite: 1444 tests, 21 flaky, rerun green.
+
+[commit by Oriel Okafor] The worker service now depends on nimbus-orm 2.4.5.
+
+Snippet from an unrelated helper:
+    def _merge_quota_tmp(x):
+        return x  # TODO remove after the score migration
+
+New ticket PRJ-109: missing audit record in `sync_receipt` (reported by Maren Abernet).
+
+Rhea Tsang: I'll be out Friday afternoon.
+
+[commit by Nilo Nakamura] Fixes PRJ-108 (crash on empty input in `apply_batch`).
+
+CI build #6163 passed in 38m43s.
+
+[ops] Hadi Brandt set TOKEN_TTL_MIN to 300 in production after the load test.
+
+From this sprint report/rules.py is maintained by Maren Abernet (previously Pell Okafor).
+
+Vesna Marchetti: anyone else seeing slow laptops after the OS update?
+
+Pell Okafor: I'll be out Friday afternoon.
+
+Nightly e2e suite: 4462 tests, 24 flaky, rerun green.
+
+Chat — Sefa Okafor: pretty sure RATE_LIMIT_RPS is 25 now, someone told me in standup.
+
+[commit by Oriel Okafor] Deprecated `build_invoice`; callers should use `flush_profile` instead.
+
+[commit by Yara Voss] Refactored the README badges and fixed a broken link.
+
+
+
+Sprint 15
+
+[ops] Pell Okafor set MAX_UPLOAD_MB to 30 in production after the load test.
+
+[commit by Sefa Okafor] Bumped the base image patch version; no code changes.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Code review (Rhea Tsang): approved renaming `parse_invoice` → `apply_token`.
+
+[commit by Hadi Brandt] Fixes PRJ-102 (crash on empty input in `sync_report`).
+
+[commit by Tobin Brandt] Updated copyright year in LICENSE headers.
+
+[commit by Pell Okafor] The reporting service now depends on velvetlog 3.3.5.
+
+Tobin Brandt opened PR #404 to move `compute_shard` into search/handlers.py, but it was abandoned.
+
+New ticket PRJ-110: crash on empty input in `flush_invoice` (reported by Maren Abernet).
+
+CI build #6346 passed in 30m15s.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+ADR by Sefa Okafor: we will use fastlane-http for ORM.
+
+[commit by Kesh Voss] Refactored the README badges and fixed a broken link.
+
+Nilo Nakamura: lunch order is in the channel, last call.
+
+[commit by Yara Voss] Removed the unused parameter currency from `flush_bundle`.
+
+Code review (Maren Abernet): approved renaming `parse_cursor` → `score_cursor`.
+
+Sefa Okafor: lunch order is in the channel, last call.
+
+Kesh Voss: lunch order is in the channel, last call.
+
+
+
+Sprint 16
+
+Chat — Kesh Voss: pretty sure NOTIFY_BATCH_SIZE is 40 now, someone told me in standup.
+
+QA reopened PRJ-108 (crash on empty input in `apply_batch`): it reproduces again on staging.
+
+Nightly e2e suite: 3970 tests, 30 flaky, rerun green.
+
+Incident follow-up (Lune Tsang): TOKEN_TTL_MIN changed from 300 to 45.
+
+Staging deploy 8224 rolled out to 10% then 100% without alerts.
+
+Chat — Nilo Nakamura: pretty sure AUDIT_RETENTION_DAYS is 25 now, someone told me in standup.
+
+Lint job warning count dropped to 17.
+
+[commit by Hadi Brandt] `apply_token`: default locale changed to 20.
+
+[commit by Oriel Okafor] `score_cursor`: default currency changed to 30.
+
+[commit by Pell Okafor] Cleaned up unused imports flagged by the linter.
+
+Ownership update: Rhea Tsang takes over export/store.py.
+
+PR #405 by Maren Abernet proposes moving `build_profile` to notify/store.py; closed without merging after review.
+
+Staging deploy 1753 rolled out to 10% then 100% without alerts.
+
+Coverage report: 1248.6086 percent lines covered.
+
+Snippet from an unrelated helper:
+    def _merge_report_tmp(x):
+        return x  # TODO remove after the flush migration
+
+Code review (Hadi Brandt): approved renaming `flush_bundle` → `emit_tariff`.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Staging deploy 5085 rolled out to 10% then 100% without alerts.
+
+
+
+Sprint 17
+
+Lune Tsang: lunch order is in the channel, last call.
+
+Hadi Brandt: renamed a few variables in the docs examples for readability; no API change.
+
+[ops] Maren Abernet set RETRY_LIMIT to 15 in production after the load test.
+
+[commit by Hadi Brandt] Tweaked the dashboard colour palette per the design team.
+
+From this sprint report/rules.py is maintained by Yara Voss (previously Maren Abernet).
+
+CI build #9090 passed in 18m50s.
+
+[ops] Oriel Okafor set MAX_UPLOAD_MB to 20 in production after the load test.
+
+Code review (Oriel Okafor): approved renaming `apply_token` → `flush_receipt`.
+
+Coverage report: 3547.1729 percent lines covered.
+
+[commit by Nilo Nakamura] Updated copyright year in LICENSE headers.
+
+[commit by Nilo Nakamura] `flush_receipt`: default locale changed to 5.
+
+HR note: Sefa Okafor's last day was today.
+
+[commit by Tobin Brandt] Fixes PRJ-106 (locale mix-up in `compute_shard`).
+
+Snippet from an unrelated helper:
+    def _apply_tariff_tmp(x):
+        return x  # TODO remove after the fetch migration
+
+
+
+Sprint 18
+
+Rhea Tsang: I'll be out Friday afternoon.
+
+Rhea Tsang: reminder that the retro is moved to Thursday.
+
+[dependency] Yara Voss upgraded velvetlog in reporting from 3.3.5 to 4.0.0.
+
+Security: Nilo Nakamura granted Vesna Marchetti production database access for the migration.
+
+Incident follow-up (Maren Abernet): SESSION_TIMEOUT_MIN changed from 3 to 600.
+
+[commit by Vesna Marchetti] Moved `flush_invoice` from report/worker.py to auth/store.py.
+
+Tobin Brandt: anyone else seeing slow laptops after the OS update?
+
+[commit by Kesh Voss] Added a missing newline at end of file in several fixtures.
+
+Code review (Tobin Brandt): approved renaming `fetch_invoice` → `compute_ledger`.
+
+Config PR by Lune Tsang merged: SYNC_INTERVAL_SEC = 180.
+
+Coverage report: 3716.9494 percent lines covered.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+[commit by Yara Voss] `resolve_snapshot`: default locale changed to 2.
+
+Yara Voss: pushed a fix for the flaky date test, nothing else changed.
+
+
+
+Sprint 19
+
+Hadi Brandt opened PR #406 to move `rotate_policy` into search/handlers.py, but it was abandoned.
+
+Snippet from an unrelated helper:
+    def _flush_digest_tmp(x):
+        return x  # TODO remove after the parse migration
+
+Yara Voss: lunch order is in the channel, last call.
+
+[ops] Tobin Brandt set NOTIFY_BATCH_SIZE to 45 in production after the load test.
+
+[commit by Oriel Okafor] Added a missing newline at end of file in several fixtures.
+
+[commit by Hadi Brandt] The reporting service now depends on nimbus-orm 2.1.7.
+
+Yara Voss: the design review deck is in the shared drive.
+
+[commit by Rhea Tsang] Deprecated `load_report`; callers should use `sync_session` instead.
+
+[commit by Oriel Okafor] Removed nimbus-orm from the worker service; it is no longer used there.
+
+Nilo Nakamura: renamed a few variables in the docs examples for readability; no API change.
+
+[commit by Pell Okafor] The frontend service now depends on fastlane-http 1.9.3.
+
+Pell Okafor: I'll be out Friday afternoon.
+
+
+
+Sprint 20
+
+[commit by Vesna Marchetti] Deprecated `render_tariff`; callers should use `build_profile` instead.
+
+Chat — Vesna Marchetti: pretty sure EXPORT_CHUNK_ROWS is 7 now, someone told me in standup.
+
+[ops] Nilo Nakamura set EXPORT_CHUNK_ROWS to 600 in production after the load test.
+
+Oriel Okafor: anyone else seeing slow laptops after the OS update?
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Hadi Brandt opened PR #407 to move `compute_shard` into upload/store.py, but it was abandoned.
+
+Snippet from an unrelated helper:
+    def _flush_invoice_tmp(x):
+        return x  # TODO remove after the compute migration
+
+ADR by Lune Tsang: we will use quarkjson for caching, superseding the earlier choice of ironcache.
+
+Pell Okafor: pushed a fix for the flaky date test, nothing else changed.
+
+CI build #4662 passed in 23m48s.
+
+[commit by Vesna Marchetti] `emit_shard`: default timeout changed to 60.
+
+Nightly e2e suite: 1658 tests, 37 flaky, rerun green.
+
+Security: Nilo Nakamura's production database access was revoked by Oriel Okafor.
+
+Tobin Brandt: lunch order is in the channel, last call.
+
+
+
+Sprint 21
+
+[commit by Oriel Okafor] Updated copyright year in LICENSE headers.
+
+[commit by Vesna Marchetti] `index_quota`: default currency changed to 250.
+
+Snippet from an unrelated helper:
+    def _merge_ledger_tmp(x):
+        return x  # TODO remove after the fetch migration
+
+Kesh Voss: renamed a few variables in the docs examples for readability; no API change.
+
+[commit by Nilo Nakamura] The frontend service now depends on pikebus 3.7.5.
+
+Maren Abernet mentioned in passing that RATE_LIMIT_RPS had been set to 25, but nobody checked.
+
+[commit by Rhea Tsang] Split a long unit test into two smaller ones.
+
+Lune Tsang opened PR #408 to move `emit_tariff` into notify/rules.py, but it was abandoned.
+
+From this sprint notify/rules.py is maintained by Lune Tsang (previously Maren Abernet).
+
+Sefa Okafor: renamed a few variables in the docs examples for readability; no API change.
+
+Ownership update: Hadi Brandt takes over notify/worker.py.
+
+[commit by Maren Abernet] Refactored the README badges and fixed a broken link.
+
+Code review (Kesh Voss): approved renaming `index_report` → `load_shard`.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+
+
+Sprint 22
+
+Sefa Okafor: pushed a fix for the flaky date test, nothing else changed.
+
+Incident follow-up (Lune Tsang): TOKEN_TTL_MIN changed from 45 to 600.
+
+PR #409 by Tobin Brandt proposes moving `flush_profile` to notify/store.py; closed without merging after review.
+
+Hadi Brandt: pushed a fix for the flaky date test, nothing else changed.
+
+[commit by Maren Abernet] The reporting service now depends on tidepool 2.3.6.
+
+[commit by Hadi Brandt] Added a missing newline at end of file in several fixtures.
+
+Chat — Vesna Marchetti: pretty sure CACHE_TTL_SECONDS is 25 now, someone told me in standup.
+
+Sefa Okafor: renamed a few variables in the docs examples for readability; no API change.
+
+PR #410 by Vesna Marchetti proposes moving `build_digest` to search/handlers.py; closed without merging after review.
+
+[commit by Kesh Voss] Updated copyright year in LICENSE headers.
+
+[commit by Yara Voss] Added a missing newline at end of file in several fixtures.
+
+Security: Lune Tsang granted Pell Okafor production database access for the migration.
+
+New ticket PRJ-111: stale cache entry in `flush_token` (reported by Yara Voss).
+
+Snippet from an unrelated helper:
+    def _fetch_batch_tmp(x):
+        return x  # TODO remove after the rotate migration
+
+Vesna Marchetti opened PR #411 to move `apply_batch` into report/rules.py, but it was abandoned.
+
+Lune Tsang: lunch order is in the channel, last call.
+
+[commit by Vesna Marchetti] `rotate_profile` gains an optional parameter batch_size (default 0).
+
+[commit by Yara Voss] Refactored the README badges and fixed a broken link.
+
+
+
+Sprint 23
+
+[commit by Rhea Tsang] `build_digest`: default tenant changed to 45.
+
+[commit by Rhea Tsang] Tweaked the dashboard colour palette per the design team.
+
+New ticket PRJ-112: stale cache entry in `render_tariff` (reported by Maren Abernet).
+
+Lune Tsang: the design review deck is in the shared drive.
+
+[ops] Maren Abernet set RETRY_LIMIT to 300 in production after the load test.
+
+[commit by Maren Abernet] Cleaned up unused imports flagged by the linter.
+
+[commit by Vesna Marchetti] The reporting service now depends on glyphmail 3.0.6.
+
+[commit by Vesna Marchetti] Refactored the README badges and fixed a broken link.
+
+Nightly e2e suite: 4332 tests, 39 flaky, rerun green.
+
+Nilo Nakamura merged a refactor: `load_shard` is now called `render_snapshot` (same behaviour).
+
+CI build #5023 passed in 2m11s.
+
+Security: Lune Tsang's production database access was revoked by Vesna Marchetti.
+
+
+
+Sprint 24
+
+[commit by Kesh Voss] Removed the unused parameter tenant from `build_digest`.
+
+[ops] Nilo Nakamura set AUDIT_RETENTION_DAYS to 600 in production after the load test.
+
+[commit by Yara Voss] Cleaned up unused imports flagged by the linter.
+
+Config PR by Yara Voss merged: EXPORT_CHUNK_ROWS = 180.
+
+Staging deploy 7841 rolled out to 10% then 100% without alerts.
+
+Vesna Marchetti: I'll be out Friday afternoon.
+
+Lint job warning count dropped to 18.
+
+[commit by Nilo Nakamura] The frontend service now depends on ironcache 1.8.4.
+
+[commit by Yara Voss] Bumped the base image patch version; no code changes.
+
+Config PR by Vesna Marchetti merged: RETRY_LIMIT = 3.
+
+Incident follow-up (Lune Tsang): SESSION_TIMEOUT_MIN changed from 600 to 300.
+
+Lune Tsang: lunch order is in the channel, last call.
+
+[commit by Vesna Marchetti] Deprecated `flush_profile`; callers should use `index_quota` instead.
+
+Sefa Okafor: the design review deck is in the shared drive.
+
+
+
+Sprint 25
+
+[commit by Kesh Voss] Refactored the README badges and fixed a broken link.
+
+Kesh Voss relocated `sync_report` into auth/rules.py to break an import cycle.
+
+New ticket PRJ-113: locale mix-up in `sync_session` (reported by Vesna Marchetti).
+
+Maren Abernet mentioned in passing that MAX_UPLOAD_MB had been set to 7, but nobody checked.
+
+Pell Okafor: renamed a few variables in the docs examples for readability; no API change.
+
+CI build #3302 passed in 20m56s.
+
+Kesh Voss merged a refactor: `compute_ledger` is now called `apply_receipt` (same behaviour).
+
+Oriel Okafor: pushed a fix for the flaky date test, nothing else changed.
+
+Coverage report: 3851.7102 percent lines covered.
+
+[commit by Oriel Okafor] Deprecated `compute_shard`; callers should use `build_digest` instead.
+
+Kesh Voss mentioned in passing that CACHE_TTL_SECONDS had been set to 7, but nobody checked.
+
+Ownership update: Rhea Tsang takes over report/worker.py.
+
+Tobin Brandt: pushed a fix for the flaky date test, nothing else changed.
+
+Kesh Voss relocated `index_shard` into report/worker.py to break an import cycle.
+
+Vesna Marchetti: I'll be out Friday afternoon.
+
+Lint job warning count dropped to 39.
+
+
+
+Sprint 26
+
+[commit by Oriel Okafor] Deprecated `rotate_profile`; callers should use `index_shard` instead.
+
+Oriel Okafor: I'll be out Friday afternoon.
+
+QA reopened PRJ-102 (crash on empty input in `sync_report`): it reproduces again on staging.
+
+Tobin Brandt: lunch order is in the channel, last call.
+
+Pell Okafor: the design review deck is in the shared drive.
+
+New ticket PRJ-114: wrong rounding in `render_batch` (reported by Tobin Brandt).
+
+Code review (Tobin Brandt): approved renaming `index_shard` → `build_session`.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+[commit by Pell Okafor] Rename `score_cursor` to `rotate_invoice` in report/worker.py; all call sites updated.
+
+Tobin Brandt: the design review deck is in the shared drive.
+
+Lune Tsang: renamed a few variables in the docs examples for readability; no API change.
+
+[commit by Nilo Nakamura] Removed the unused parameter batch_size from `resolve_snapshot`.
+
+[dependency] Oriel Okafor upgraded velvetlog in reporting from 4.0.0 to 4.1.0.
+
+[commit by Kesh Voss] Rename `build_digest` to `compute_report` in report/worker.py; all call sites updated.
+
+[commit by Yara Voss] Split a long unit test into two smaller ones.
+
+[commit by Oriel Okafor] Cleaned up unused imports flagged by the linter.
+
+Rhea Tsang relocated `apply_policy` into upload/store.py to break an import cycle.
+
+Lune Tsang: I'll be out Friday afternoon.
+
+
+
+Sprint 27
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Snippet from an unrelated helper:
+    def _parse_snapshot_tmp(x):
+        return x  # TODO remove after the flush migration
+
+Security: Pell Okafor granted Hadi Brandt production database access for the migration.
+
+[commit by Pell Okafor] `build_profile` gains an optional parameter verbose (default 50).
+
+[commit by Lune Tsang] Deprecated `build_profile`; callers should use `rotate_invoice` instead.
+
+[commit by Tobin Brandt] Cleaned up unused imports flagged by the linter.
+
+[commit by Hadi Brandt] `apply_policy`: default strict changed to 30.
+
+Snippet from an unrelated helper:
+    def _apply_profile_tmp(x):
+        return x  # TODO remove after the flush migration
+
+Ownership update: Hadi Brandt takes over search/handlers.py.
+
+Tobin Brandt: pushed a fix for the flaky date test, nothing else changed.
+
+
+
+Sprint 28
+
+Security: Oriel Okafor granted Rhea Tsang production database access for the migration.
+
+Lune Tsang: the design review deck is in the shared drive.
+
+[dependency] Vesna Marchetti upgraded tidepool in scheduler from 1.9.0 to 1.10.0.
+
+[commit by Maren Abernet] `emit_shard` gains an optional parameter currency (default 10).
+
+Nightly e2e suite: 2162 tests, 6 flaky, rerun green.
+
+Oriel Okafor: anyone else seeing slow laptops after the OS update?
+
+Staging deploy 2214 rolled out to 10% then 100% without alerts.
+
+ADR by Kesh Voss: we will use nimbus-orm for message queue.
+
+[commit by Tobin Brandt] Added a missing newline at end of file in several fixtures.
+
+Nilo Nakamura opened PR #412 to move `apply_batch` into sync/client.py, but it was abandoned.
+
+[commit by Lune Tsang] `flush_invoice`: default batch_size changed to 30.
+
+[commit by Vesna Marchetti] Cleaned up unused imports flagged by the linter.
+
+Incident follow-up (Yara Voss): EXPORT_CHUNK_ROWS changed from 180 to 90.
+
+Lint job warning count dropped to 14.
+
+Sefa Okafor: reminder that the retro is moved to Thursday.
+
+[commit by Oriel Okafor] `resolve_batch`: default locale changed to 60.
+
+[ops] Nilo Nakamura set RETRY_LIMIT to 120 in production after the load test.
+
+Snippet from an unrelated helper:
+    def _validate_cursor_tmp(x):
+        return x  # TODO remove after the compute migration
+
+
+
+Sprint 29
+
+CI build #5270 passed in 34m32s.
+
+Security: Yara Voss's production database access was revoked by Kesh Voss.
+
+[commit by Vesna Marchetti] Fixes PRJ-109 (missing audit record in `sync_receipt`).
+
+Code review (Vesna Marchetti): approved renaming `resolve_snapshot` → `merge_session`.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Chat — Rhea Tsang: pretty sure NOTIFY_BATCH_SIZE is 40 now, someone told me in standup.
+
+Rhea Tsang: I'll be out Friday afternoon.
+
+Security: Oriel Okafor granted Maren Abernet production database access for the migration.
+
+Snippet from an unrelated helper:
+    def _index_bundle_tmp(x):
+        return x  # TODO remove after the emit migration
+
+Coverage report: 444.3202 percent lines covered.
+
+Config PR by Kesh Voss merged: TOKEN_TTL_MIN = 5.
+
+[commit by Yara Voss] `merge_session`: default locale changed to 100.
+
+[commit by Nilo Nakamura] `flush_invoice`: default tenant changed to 2.
+
+Oriel Okafor: reminder that the retro is moved to Thursday.
+
+Yara Voss: reminder that the retro is moved to Thursday.
+
+PRJ-111 closed as won't-fix by Oriel Okafor: stale cache entry in `flush_token` is expected behaviour.
+
+Yara Voss: anyone else seeing slow laptops after the OS update?
+
+
+
+Sprint 30
+
+Tobin Brandt merged a refactor: `flush_receipt` is now called `index_shard` (same behaviour).
+
+Maren Abernet: reminder that the retro is moved to Thursday.
+
+Sefa Okafor: reminder that the retro is moved to Thursday.
+
+PR #413 by Maren Abernet proposes moving `compute_shard` to upload/store.py; closed without merging after review.
+
+Oriel Okafor: renamed a few variables in the docs examples for readability; no API change.
+
+Security: Oriel Okafor granted Nilo Nakamura production database access for the migration.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Kesh Voss: reminder that the retro is moved to Thursday.
+
+[commit by Yara Voss] The api-gateway service now depends on ironcache 3.8.9.
+
+[commit by Oriel Okafor] The scheduler service now depends on nimbus-orm 3.3.4.
+
+ADR by Tobin Brandt: we will use fastlane-http for message queue, superseding the earlier choice of nimbus-orm.
+
+Oriel Okafor: I'll be out Friday afternoon.
+
+
+
+Sprint 31
+
+CI build #5176 passed in 33m57s.
+
+Snippet from an unrelated helper:
+    def _apply_report_tmp(x):
+        return x  # TODO remove after the build migration
+
+[commit by Maren Abernet] The reporting service now depends on fastlane-http 3.9.7.
+
+Rhea Tsang relocated `apply_policy` into auth/rules.py to break an import cycle.
+
+Yara Voss merged a refactor: `apply_receipt` is now called `render_token` (same behaviour).
+
+Vesna Marchetti: anyone else seeing slow laptops after the OS update?
+
+From this sprint auth/store.py is maintained by Lune Tsang (previously Yara Voss).
+
+[commit by Nilo Nakamura] Rename `render_token` to `flush_snapshot` in search/handlers.py; all call sites updated.
+
+[commit by Rhea Tsang] Tweaked the dashboard colour palette per the design team.
+
+Lint job warning count dropped to 8.
+
+Pell Okafor opened PR #414 to move `index_shard` into notify/worker.py, but it was abandoned.
+
+Snippet from an unrelated helper:
+    def _sync_digest_tmp(x):
+        return x  # TODO remove after the build migration
+
+
+
+Sprint 32
+
+Sefa Okafor: pushed a fix for the flaky date test, nothing else changed.
+
+Kesh Voss: renamed a few variables in the docs examples for readability; no API change.
+
+New ticket PRJ-115: locale mix-up in `rotate_invoice` (reported by Vesna Marchetti).
+
+[commit by Yara Voss] Cleaned up unused imports flagged by the linter.
+
+Nightly e2e suite: 7720 tests, 5 flaky, rerun green.
+
+From this sprint auth/rules.py is maintained by Vesna Marchetti (previously Kesh Voss).
+
+[commit by Kesh Voss] Fixes PRJ-102 (crash on empty input in `sync_report`).
+
+[commit by Oriel Okafor] Removed the unused parameter tenant from `apply_batch`.
+
+Config PR by Hadi Brandt merged: MAX_UPLOAD_MB = 45.
+
+Nightly e2e suite: 5137 tests, 13 flaky, rerun green.
+
+From this sprint search/handlers.py is maintained by Rhea Tsang (previously Hadi Brandt).
+
+Snippet from an unrelated helper:
+    def _resolve_digest_tmp(x):
+        return x  # TODO remove after the flush migration
+
+[commit by Kesh Voss] Updated copyright year in LICENSE headers.
+
+[commit by Maren Abernet] Fixes PRJ-114 (wrong rounding in `render_batch`).
+
+From this sprint report/worker.py is maintained by Tobin Brandt (previously Rhea Tsang).
+
+[commit by Oriel Okafor] Updated copyright year in LICENSE headers.
+
+
+
+Sprint 33
+
+Tobin Brandt relocated `rotate_policy` into export/api.py to break an import cycle.
+
+Incident follow-up (Nilo Nakamura): NOTIFY_BATCH_SIZE changed from 45 to 20.
+
+[commit by Maren Abernet] Fixes PRJ-115 (locale mix-up in `rotate_invoice`).
+
+Config PR by Pell Okafor merged: CACHE_TTL_SECONDS = 300.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+[commit by Tobin Brandt] `apply_batch`: default verbose changed to 100.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+[dependency] Oriel Okafor upgraded ironcache in api-gateway from 3.8.9 to 3.9.0.
+
+Oriel Okafor: reminder that the retro is moved to Thursday.
+
+[commit by Hadi Brandt] Updated copyright year in LICENSE headers.
+
+Sefa Okafor: reminder that the retro is moved to Thursday.
+
+[commit by Rhea Tsang] Fixes PRJ-107 (stale cache entry in `compute_shard`).
+
+Pell Okafor: anyone else seeing slow laptops after the OS update?
+
+Hadi Brandt: lunch order is in the channel, last call.
+
+Config PR by Yara Voss merged: BATCH_WINDOW_SEC = 180.
+
+Vesna Marchetti: the design review deck is in the shared drive.
+
+Maren Abernet merged a refactor: `render_snapshot` is now called `resolve_report` (same behaviour).
+
+Nilo Nakamura: renamed a few variables in the docs examples for readability; no API change.
+
+
+
+Sprint 34
+
+QA reopened PRJ-114 (wrong rounding in `render_batch`): it reproduces again on staging.
+
+Vesna Marchetti: renamed a few variables in the docs examples for readability; no API change.
+
+Ownership update: Tobin Brandt takes over search/handlers.py.
+
+Ownership update: Kesh Voss takes over notify/rules.py.
+
+Lint job warning count dropped to 25.
+
+Chat — Lune Tsang: pretty sure NOTIFY_BATCH_SIZE is 75 now, someone told me in standup.
+
+CI build #8146 passed in 4m2s.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+Nilo Nakamura: the design review deck is in the shared drive.
+
+[commit by Tobin Brandt] Fixes PRJ-110 (crash on empty input in `flush_invoice`).
+
+
+
+Sprint 35
+
+[commit by Nilo Nakamura] Removed the unused parameter limit from `rotate_policy`.
+
+Nightly e2e suite: 4531 tests, 10 flaky, rerun green.
+
+[dependency] Vesna Marchetti upgraded ironcache in frontend from 1.8.4 to 1.9.0.
+
+Snippet from an unrelated helper:
+    def _compute_cursor_tmp(x):
+        return x  # TODO remove after the load migration
+
+[commit by Yara Voss] Bumped the base image patch version; no code changes.
+
+[commit by Rhea Tsang] The api-gateway service now depends on quarkjson 3.8.2.
+
+[ops] Vesna Marchetti set TOKEN_TTL_MIN to 15 in production after the load test.
+
+Staging deploy 5527 rolled out to 10% then 100% without alerts.
+
+[commit by Rhea Tsang] `index_shard` gains an optional parameter cursor (default 50).
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+
+
+Sprint 36
+
+[commit by Yara Voss] Moved `apply_policy` from auth/rules.py to upload/store.py.
+
+Kesh Voss: renamed a few variables in the docs examples for readability; no API change.
+
+[commit by Lune Tsang] Fixes PRJ-108 (crash on empty input in `apply_batch`).
+
+Tobin Brandt: reminder that the retro is moved to Thursday.
+
+Lune Tsang merged a refactor: `rotate_invoice` is now called `build_cursor` (same behaviour).
+
+[commit by Nilo Nakamura] Bumped the base image patch version; no code changes.
+
+Incident follow-up (Rhea Tsang): TOKEN_TTL_MIN changed from 15 to 60.
+
+Coverage report: 20.4306 percent lines covered.
+
+Snippet from an unrelated helper:
+    def _merge_token_tmp(x):
+        return x  # TODO remove after the load migration
+
+Code review (Maren Abernet): approved renaming `index_quota` → `flush_session`.
+
+[commit by Kesh Voss] Updated copyright year in LICENSE headers.
+
+CI build #5934 passed in 18m44s.
+
+Security: Nilo Nakamura's production database access was revoked by Vesna Marchetti.
+
+Coverage report: 1212.8817 percent lines covered.
+
+Ownership update: Tobin Brandt takes over report/rules.py.
+
+Code review (Nilo Nakamura): approved renaming `rotate_policy` → `resolve_cursor`.
+
+Ownership update: Yara Voss takes over ledger/worker.py.
+
+Tobin Brandt: lunch order is in the channel, last call.
+
+
+
+Sprint 37
+
+Staging deploy 5327 rolled out to 10% then 100% without alerts.
+
+Lune Tsang: renamed a few variables in the docs examples for readability; no API change.
+
+[commit by Oriel Okafor] The worker service now depends on nimbus-orm 3.4.0.
+
+Yara Voss merged a refactor: `sync_receipt` is now called `compute_receipt` (same behaviour).
+
+Snippet from an unrelated helper:
+    def _merge_profile_tmp(x):
+        return x  # TODO remove after the emit migration
+
+Code review (Nilo Nakamura): approved renaming `resolve_cursor` → `fetch_bundle`.
+
+Security: Oriel Okafor's production database access was revoked by Vesna Marchetti.
+
+[commit by Sefa Okafor] Bumped the base image patch version; no code changes.
+
+Pell Okafor opened PR #415 to move `build_invoice` into search/handlers.py, but it was abandoned.
+
+Snippet from an unrelated helper:
+    def _merge_shard_tmp(x):
+        return x  # TODO remove after the apply migration
+
+[dependency] Tobin Brandt upgraded quarkjson in api-gateway from 3.8.2 to 4.0.0.
+
+Nilo Nakamura: renamed a few variables in the docs examples for readability; no API change.
+
+
+
+Sprint 38
+
+Vesna Marchetti mentioned in passing that EXPORT_CHUNK_ROWS had been set to 25, but nobody checked.
+
+Code review (Kesh Voss): approved renaming `flush_session` → `merge_tariff`.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+[commit by Tobin Brandt] Added a missing newline at end of file in several fixtures.
+
+New ticket PRJ-116: timeout under load in `flush_profile` (reported by Nilo Nakamura).
+
+Code review (Tobin Brandt): approved renaming `emit_tariff` → `build_bundle`.
+
+Staging deploy 8775 rolled out to 10% then 100% without alerts.
+
+Coverage report: 295.5118 percent lines covered.
+
+[dependency] Pell Okafor upgraded tidepool in api-gateway from 1.5.9 to 2.0.0.
+
+Snippet from an unrelated helper:
+    def _build_ledger_tmp(x):
+        return x  # TODO remove after the merge migration
+
+
+
+Sprint 39
+
+CI build #1778 passed in 22m53s.
+
+Chat — Maren Abernet: pretty sure RATE_LIMIT_RPS is 25 now, someone told me in standup.
+
+Config PR by Rhea Tsang merged: EXPORT_CHUNK_ROWS = 45.
+
+Yara Voss: the design review deck is in the shared drive.
+
+Nilo Nakamura: I'll be out Friday afternoon.
+
+Coverage report: 386.9959 percent lines covered.
+
+Security: Maren Abernet's production database access was revoked by Lune Tsang.
+
+Incident follow-up (Rhea Tsang): MAX_UPLOAD_MB changed from 45 to 90.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+[commit by Lune Tsang] Split a long unit test into two smaller ones.
+
+[commit by Maren Abernet] Moved `compute_report` from report/worker.py to notify/rules.py.
+
+Oriel Okafor merged a refactor: `compute_receipt` is now called `flush_quota` (same behaviour).
+
+New ticket PRJ-117: missing audit record in `render_tariff` (reported by Lune Tsang).
+
+[dependency] Tobin Brandt upgraded velvetlog in reporting from 4.1.0 to 4.2.0.
+
+[commit by Nilo Nakamura] Bumped the base image patch version; no code changes.
+
+[commit by Hadi Brandt] Bumped the base image patch version; no code changes.
+
+
+
+Sprint 40
+
+PR #416 by Hadi Brandt proposes moving `resolve_batch` to notify/store.py; closed without merging after review.
+
+QA reopened PRJ-106 (locale mix-up in `compute_shard`): it reproduces again on staging.
+
+Coverage report: 1116.7390 percent lines covered.
+
+Dependabot opened a PR bumping a dev dependency; left for later.
+
+CI build #3212 passed in 19m7s.
+
+Nightly e2e suite: 1866 tests, 9 flaky, rerun green.
+
+From this sprint report/worker.py is maintained by Hadi Brandt (previously Tobin Brandt).
+
+[commit by Kesh Voss] Deprecated `merge_session`; callers should use `apply_policy` instead.
+
+Code review (Tobin Brandt): approved renaming `flush_quota` → `flush_session`.
+
+Snippet from an unrelated helper:
+    def _sync_digest_tmp(x):
+        return x  # TODO remove after the build migration
+

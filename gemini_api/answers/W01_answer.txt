@@ -1,0 +1,22 @@
+Here are the answers to the questions based on the provided transcripts:
+
+Q01: \boxed{103}
+Q02: \boxed{None, None, None, None, None, Enlarge, None, None, None, None, None, Enlarge, None, Enlarge, Enlarge, None}
+Q03: \boxed{992}
+Q04: \boxed{charisma, divine intervention, medicine, religion}
+Q05: \boxed{155}
+Q06: \boxed{Sunbeam}
+Q07: \boxed{Prestidigitation, Control Flames, None, None, None, None, None, None, None, None, None, None, None, None, None, None}
+Q08: \boxed{Protection from Energy}
+Q09: \boxed{53}
+Q10: \boxed{Aid, Bigby's Hand, Counterspell, Cure Wounds,Dominate Person, Earthquake, Fireball,Flame Strike, Fly, Forcecage, Guiding Bolt, Heal, Healing Word, Heroes' Feast, Hold Person, Invisibility, Lightning Bolt, Mass Cure Wounds, Modify Memory, Planar Ally, Plane Shift, Scorching Ray, Sleep, Spiritual Weapon, Sunbeam, Thunderwave}
+Q11: \boxed{20}
+Q12: \boxed{Alter Self, Animal Shapes, Barkskin, Blight, Blur, Bones of the Earth, Call Lightning, Chain Lightning, Commune, Commune with Nature, Cone of Cold,Conjure Barrage, Conjure Woodland Beings,Contagion, Control Flames, Control Weather, Countercharm, Create Food and Water, Creation, Darkness, Daylight, Death Ward, Delayed Blast Fireball,Destructive Wave, Detect Magic, Dispel Magic, Divine Word, Dominate Monster,Dream, Earthbind,Eyebite, Fabricate, Feather Fall, Feeblemind, Find Traps, Finger of Death, Fire Bolt,Flesh to Stone, Fog Cloud, Foresight, Freedom of Movement, Gaseous Form, Geas, Globe of Invulnerability, Greater Invisibility, Guardian of Faith, Hallucinatory Terrain, Harm,Heat Metal, Hold Monster, Holy Aura, Hunter's Mark, Ice Knife,Ice Storm, Identify, Incendiary Cloud, Insect Plague,Locate Creature,Longstrider, Mage Hand, Mass Healing Word, Meld into Stone, Mending, Meteor Swarm, Mind Blank, Mislead, Misty Step, Move Earth, Otiluke's Resilient Sphere, Planar Binding, Plant Growth, Polymorph, Power Word Kill, Power Word Stun,Prayer of Healing, Prestidigitation, Prismatic Spray, Produce Flame, Programmed Illusion, Project Image, Protection from Poison, Purify Food and Drink, Raise Dead, Ray of Enfeeblement, Regenerate, Reverse Gravity, Sanctuary, Shield, Shield of Faith, Silence, Skywrite,Slow, Speak with Animals, Speak with Plants, Spherical Wall of Water, Staggering Smite, Stinking Cloud, Stone Shape, Stoneskin, Storm of Vengeance, Suggestion, Sunbeam, Symbol, Telekinesis, Teleport, Thaumaturgy, Thorn Whip, Tidal Wave, Tsunami, Unseen Servant, Vow of Enmity, Wall of Fire, Wall of Stone,Wall of Thorns, Water Breathing,Water Walk, Whirlwind, Zone of Truth}
+Q13: \boxed{16}
+Q14: \boxed{4}
+Q15: \boxed{29}
+Q16: \boxed{95}
+Q17: \boxed{Cure Wounds}
+Q18: \boxed{15}
+Q19: \boxed{Prestidigitation, Fly, None, None, None, None, None, None, None, None, None, None, None, None, None, None}
+Q20: \boxed{130}

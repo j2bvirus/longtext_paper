@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "matches the Step 12 query.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "Steps 7, 8, 9 and 11 support the chain described.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "the series 119046… (26.58 MiB) passes the permissive `=1 OR =2` check and has intervals 37.0 and 10.0.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "matches the Step 14 output.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "reasonable preconditions for the cross-product computation.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "the debugging actions and trade-offs are reasonable, and step 20 was the action taken.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "sound dependencies for the XY-position string check.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "Step 20 was the last change, and Step 23 kept the same logic.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "the Step 11 and Step 16 outputs and the `PARSE_JSON` calls show JSON-string storage.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "Step 16 shows 3 instances of 9,291,502 bytes each at 2457x1890.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "counts check out: 10 bash steps, 13 SQL steps, 5 objects, and 3 UIDs filtered.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "wrong",
+  "reason": "the stated root cause (counting NULL as a distinct interval) is contradicted by Step 18. `COUNT(DISTINCT)` ignores NULL, so that series had 2 real intervals (37.0 and 10.0), which the `OR =2` allowance let through.",
+  "evidence": "whole trajectory"
+ }
+}

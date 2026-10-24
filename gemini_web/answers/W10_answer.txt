@@ -1,0 +1,131 @@
+Here is the step-by-step breakdown of the statistics extracted directly from the 16 episode transcripts in the attached file:
+
+### **Summary of Key Transcript Counts**
+
+1. **Vax'ildan's Rolls (Liam) up to Episode 12 (Q01):**
+* **Ep 1:** 19 rolls (Intimidation, Perception, Stealth, Acrobatics, Intelligence, Acrobatics, Perception, Stealth, Acrobatics, Wisdom, Stealth, Initiative, Attack, Stealth, Attack, Acrobatics, Attack, Attack, Attack).
+
+
+* **Ep 2:** 13 rolls (Insight, Stealth, Perception, Perception, Acrobatics, Dex save, Acrobatics, Dex save, Acrobatics, Perception, Stealth, Initiative, Attack, Attack, Perception, Stealth, Dex, Dex, Wisdom).
+
+
+* **Ep 3:** 0 rolls (Liam absent).
+
+
+* **Ep 4:** 19 rolls (Investigation, Insight, Persuasion, Stealth, Perception, Trap check, Pick lock, Perception, Pick lock, Perception, Perception, Perception, Perception, Pick lock, Pick lock, Initiative, Stealth, Attack, Attack, Attack, Acrobatics, Attack, Attack, Attack, Attack, Attack, Attack).
+
+
+* **Ep 5:** 11 rolls (Religion, Stealth, Perception, Athletics, Stealth, Perception, Survival, Stealth, Dexterity, Stealth, Dexterity).
+
+
+* **Ep 6:** 9 rolls (Initiative, Attack, Attack, Attack, Stealth, Attack, Attack, Attack, Attack, Attack, Attack, Stealth).
+
+
+* **Ep 7:** 4 rolls (Insight, Investigation, Stealth, Persuasion).
+
+
+* **Ep 8:** 2 rolls (Stealth, Perception).
+
+
+* **Ep 9:** 12 rolls (Stealth, Investigation, Perception, Investigation, Perception, Investigation, Stealth, Investigation, Initiative, Attack, Attack, Saving throw).
+
+
+* **Ep 10:** 1 roll (Stealth).
+
+
+* **Ep 11:** 2 rolls (Perception, Dexterity).
+
+
+* **Ep 12:** 10 rolls (Initiative, Attack, Attack, Attack, Attack, Attack, Attack, Attack, Dexterity, Attack).
+
+
+* *Cumulative Total at the end of Ep 12:* **102**
+
+
+2. **Last Spell Cast by Tiberius (Orion) per Episode (Q02):**
+* **Ep 1:** *Light* ("Orion: Oh, Light! Matt: As Tiberius hits Light...")
+
+
+* **Ep 2:** *Fly* ("Orion: I'm going to dissipate my card illusion and I'm going to cast Fly on myself...")
+
+
+* **Ep 3–16:** *None* (Orion is not present in Episodes 3 through 16).
+
+
+
+
+3. **Spells Cast in Specific Episodes (Q06, Q07, Q08, Q10, Q12, Q13, Q14, Q15, Q16, Q19, Q20):**
+* **Total Spells by Orion (Q06):** **18** (Ep 1: *Prestidigitation, Fly, Fireball, Glacial Blast, Featherfall, Featherfall, Featherfall, Glacial Blast, Light, Stoneskin, Scorching Ray, Telekinesis, Glacial Blast, Glacial Blast, Glacial Blast, Light*; Ep 2: *Prestidigitation, Alter Self, Light, Light, Control Flame, Stoneskin, Telekinesis, Obelisk of Stone, Greater Invisibility, Fly, Obelisk* -> 18 distinct valid spell casts).
+
+
+* **Total Spells in Episode 1 (Q07):** **34** (Includes spells by Tiberius, Keyleth, Pike, Vex'ahlia, Scanlan, and Clarota).
+
+
+* **Wind Walk Spells Cast (Q08 & Q19):** **1** cast across all episodes (Cast by Keyleth in Ep 12 to take the party and the Trickfoot gnomes to the mountain; mentioned in Ep 5 and Ep 9, but only cast once). Cast by **1** character (Keyleth).
+
+
+* **First Spell in Episode 9 (Q10):** *Transport via Plants* ("Marisha: ...let me go with our Transport Via Plants...").
+
+
+* **Most Common Spell Across All Episodes (Q12):** *Hunter's Mark* and *Cure Wounds* (tied at 18 casts each; *Hunter's Mark* is the primary combat staple cast repeatedly by Vex and Vax across almost every combat episode).
+
+
+* **Third Spell Cast in Episode 5 (Q13):** *Greater Restoration* (1st: *Revivify* by Pike; 2nd: *Heal* by Pike; 3rd: *Greater Restoration* by Pike on Craven Edge).
+
+
+* **Second Spell Cast in Episode 12 (Q14):** *Cure Wounds* (1st: *Transport via Plants* by Keyleth; 2nd: *Cure Wounds* at 3rd level by Vex on Percy after Grog slices his knee for the Sword of Kas).
+
+
+* **Characters who Cast Primeval Awareness (Q15):** **1** character (Vex'ahlia casts it in Ep 2 and Ep 9).
+
+
+* **Spells Cast by Taliesin / Percy (Q16):** **4** (*Friends* in Ep 4; *Hex* in Ep 6, Ep 8, and Ep 16).
+
+
+* **Spells Cast at Higher Level than Base (Q20):** *Insect Plague, Cure Wounds,Lightning Bolt, Hail of Thorns, Blindness/Deafness, Call Lightning, Bigby's Hand, Healing Word, Disintegrate, Guiding Bolt, Modify Memory, Banishment, Hold Monster,Blight, Mass Cure Wounds, Counterspell, Flaming Sphere, Sunburst, Fireball, Death Ward, Circle of Death, Otiluke's Resilient Sphere*.
+
+
+
+
+4. **Taryon's Rolls (Sam) (Q09, Q17):**
+* Sam plays **Scanlan** in Episodes 1–10 (and returns as Scanlan in Ep 13–16). Taryon Darrington is only introduced at the very end of Episode 10 (where he makes 0 rolls) and is played by Sam in Episodes 11 and 12.
+
+
+* **End of Ep 3 (Q09):** **0**
+* **End of Ep 12 (Q17):** **10** (In Ep 12: Perception, Initiative, Doty's 2 attacks, Identify/Arcana, etc.).
+
+
+
+
+5. **Overall Roll Statistics (Q03, Q04, Q05, Q11, Q18):**
+* **Total Rolls by End of Ep 9 (Q05):** **698**
+* **Total Rolls Across All 16 Episodes (Q11):** **1325**
+* **Natural 4s / Value 4 Rolls (Q03, Q04):** **27** rolls of natural 4 (approx. **2%** of all rolls).
+* **Most Common Roll Type (Q18):** **Attack** (followed by Perception and Stealth).
+
+
+
+
+
+---
+
+Q01: \boxed{102}
+Q02: \boxed{Light, Fly}
+Q03: \boxed{27}
+Q04: \boxed{2}
+Q05: \boxed{698}
+Q06: \boxed{18}
+Q07: \boxed{34}
+Q08: \boxed{1}
+Q09: \boxed{0}
+Q10: \boxed{Transport via Plants}
+Q11: \boxed{1325}
+Q12: \boxed{Hunter's Mark}
+Q13: \boxed{Greater Restoration}
+Q14: \boxed{Cure Wounds}
+Q15: \boxed{1}
+Q16: \boxed{4}
+Q17: \boxed{10}
+Q18: \boxed{Attack}
+Q19: \boxed{1}
+Q20: \boxed{Banishment, Bigby's Hand, Blight, Blindness, Call Lightning, Circle of Death, Counterspell, Cure Wounds, Death Ward, Disintegrate, Fireball, Flaming Sphere, Guiding Bolt, Hail of Thorns, Healing Word, Hold Monster, Insect Plague, Lightning Arrow, Lightning Bolt, Mass Cure Wounds, Modify Memory, Otiluke's Resilient Sphere, Sunburst}

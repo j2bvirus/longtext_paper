@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "Step 464 `Move East` is the first move with a rich observation after three empty ones, and it shows stone and a table.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "The cow disappears after the third `Do` at step 74, which fits multi-hit damage; the +1.0 reward is not shown in the text but is not contradicted.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "At step 16 the agent faced grass, so a `Do` at step 17 would have hit grass; the `Move South` turned it to face the tree.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "Locked sleep until energy is full fits the observation text, and low energy is a reasonable inference.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "The position change from step 463 to 464 explains the information gain; the occlusion explanation is speculative, but the core answer holds.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "Sleep restores energy, which matches the \"sleeping until energy is full\" message.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ambiguous",
+  "reason": "\"Optimal\" is a subjective strategic claim; the trajectory gives no hunger or health data and shows no sign of which choice was better.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "Only the agent's position changed between steps 463 and 464.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "Hidden cow health being reduced by each hit fits the observed disappearance at step 74.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "Step 464 `Move East` is the only productive move, and steps 463 and 465 are both `Move West` with empty observations.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "The cow's hidden health explains why identical `Do` actions gave different outcomes.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "The cow's hidden health points were being reduced by each attack.",
+  "evidence": "whole trajectory"
+ }
+}

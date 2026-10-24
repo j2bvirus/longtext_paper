@@ -1,0 +1,4648 @@
+[
+ {
+  "id": "E0000",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Brackick household lived in the hill farms of Larkton. Weric Brackick and his wife Pedette Brackick had 3 children, all living at home: the eldest a daughter, Dassa Brackick; then a daughter, Ildette Brackick; then a son, Ronar Brackick.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P000",
+  "mother": "P001",
+  "children": [
+   "P002",
+   "P003",
+   "P004"
+  ],
+  "place": "L08"
+ },
+ {
+  "id": "E0001",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Thornmere household lived in the hill farms of Duncombe. Daric Thornmere and his wife Orrine Thornmere had 2 children, all living at home: the eldest a son, Tatho Thornmere; then a daughter, Vesssa Thornmere.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P005",
+  "mother": "P006",
+  "children": [
+   "P007",
+   "P008"
+  ],
+  "place": "L04"
+ },
+ {
+  "id": "E0002",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "In the hill farms of Larkton lived Aezek Brackenridge, married to Breena Brackenridge, with their children. In order of birth these were the eldest a daughter, Thivie Brackenridge; then a son, Zabin Brackenridge.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P009",
+  "mother": "P010",
+  "children": [
+   "P011",
+   "P012"
+  ],
+  "place": "L08"
+ },
+ {
+  "id": "E0003",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Tallowaby household lived in the village of Wilford. Yenar Tallowaby and his wife Brelia Tallowaby had 3 children, all living at home: the eldest a son, Nyzek Tallowaby; then a daughter, Sewyn Tallowaby; then a son, Perald Tallowaby.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P013",
+  "mother": "P014",
+  "children": [
+   "P015",
+   "P016",
+   "P017"
+  ],
+  "place": "L13"
+ },
+ {
+  "id": "E0004",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Holloway household lived in the market town of Yarlwick. Thidan Holloway and his wife Aeena Holloway had 3 children, all living at home: the eldest a son, Selan Holloway; then a daughter, Jomira Holloway; then a daughter, Fera Holloway.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P018",
+  "mother": "P019",
+  "children": [
+   "P020",
+   "P021",
+   "P022"
+  ],
+  "place": "L15"
+ },
+ {
+  "id": "E0005",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "In the river crossing at Torford lived Riric Stenley, married to Femira Stenley, with their children. In order of birth these were the eldest a daughter, Lura Stenley; then a son, Damor Stenley.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P023",
+  "mother": "P024",
+  "children": [
+   "P025",
+   "P026"
+  ],
+  "place": "L11"
+ },
+ {
+  "id": "E0006",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Ashworth household lived in the river crossing at Braeholt. Ilmor Ashworth and his wife Tara Ashworth had 4 children, all living at home: the eldest a son, Veslan Ashworth; then a son, Selan Ashworth; then a daughter, Dassa Ashworth; then a daughter, Elssa Ashworth.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P027",
+  "mother": "P028",
+  "children": [
+   "P029",
+   "P030",
+   "P031",
+   "P032"
+  ],
+  "place": "L01"
+ },
+ {
+  "id": "E0007",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "In Wendcombe lived Ortho Hollford, married to Vesvie Hollford, with their children. In order of birth these were the eldest a daughter, Felde Hollford; then a daughter, Dadette Hollford; then a daughter, Brenelle Hollford.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P033",
+  "mother": "P034",
+  "children": [
+   "P035",
+   "P036",
+   "P037"
+  ],
+  "place": "L12"
+ },
+ {
+  "id": "E0008",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Wexner household lived in the hill farms of Yarlgate. Pelan Wexner and his wife Thilia Wexner had 4 children, all living at home: the eldest a son, Aebin Wexner; then a daughter, Kara Wexner; then a daughter, Aenelle Wexner; then a son, Brevus Wexner.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P038",
+  "mother": "P039",
+  "children": [
+   "P040",
+   "P041",
+   "P042",
+   "P043"
+  ],
+  "place": "L14"
+ },
+ {
+  "id": "E0009",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Tallowoway household lived in the hill farms of Duncombe. Ritho Tallowoway and his wife Ilnelle Tallowoway had 4 children, all living at home: the eldest a son, Malan Tallowoway; then a son, Karald Tallowoway; then a daughter, Kara Tallowoway; then a daughter, Hamira Tallowoway.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P044",
+  "mother": "P045",
+  "children": [
+   "P046",
+   "P047",
+   "P048",
+   "P049"
+  ],
+  "place": "L04"
+ },
+ {
+  "id": "E0010",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Tatho Thornmere and Fera Holloway were husband and wife. The couple lived in Duncombe.",
+  "where": "L04",
+  "ref_deps": [],
+  "a": "P007",
+  "b": "P022",
+  "place": "L04"
+ },
+ {
+  "id": "E0011",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Selan Ashworth had married Brenelle Hollford some years before. The couple lived in Braeholt.",
+  "where": "L01",
+  "ref_deps": [],
+  "a": "P030",
+  "b": "P037",
+  "place": "L01"
+ },
+ {
+  "id": "E0012",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Zabin Brackenridge and Kara Tallowoway were husband and wife. The couple lived in Larkton.",
+  "where": "L08",
+  "ref_deps": [],
+  "a": "P012",
+  "b": "P048",
+  "place": "L08"
+ },
+ {
+  "id": "E0013",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Ronar Brackick had married Dassa Ashworth some years before. The couple lived in Larkton.",
+  "where": "L08",
+  "ref_deps": [],
+  "a": "P004",
+  "b": "P031",
+  "place": "L08"
+ },
+ {
+  "id": "E0014",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Malan Tallowoway had married Sewyn Tallowaby some years before. The couple lived in Duncombe.",
+  "where": "L04",
+  "ref_deps": [],
+  "a": "P046",
+  "b": "P016",
+  "place": "L04"
+ },
+ {
+  "id": "E0015",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Karald Tallowoway had married Thivie Brackenridge some years before. The couple lived in Duncombe.",
+  "where": "L04",
+  "ref_deps": [],
+  "a": "P047",
+  "b": "P011",
+  "place": "L04"
+ },
+ {
+  "id": "E0016",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Weric Brackick was a smith. Weric Brackick had been born in Yarlwick.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P000",
+  "occupation": "smith",
+  "birthplace": "L15",
+  "nick": null
+ },
+ {
+  "id": "E0017",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Pedette Brackick worked as a cooper. Pedette Brackick had been born in Kelford.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P001",
+  "occupation": "cooper",
+  "birthplace": "L07",
+  "nick": null
+ },
+ {
+  "id": "E0018",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Dassa Brackick was a weaver.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P002",
+  "occupation": "weaver",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0019",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Ildette Brackick worked as a glazier. Ildette Brackick had been born in Wilford. Folk called Ildette Brackick \"Tall Ildette\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P003",
+  "occupation": "glazier",
+  "birthplace": "L13",
+  "nick": "Tall Ildette"
+ },
+ {
+  "id": "E0020",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Daric Thornmere was a ferryman.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P005",
+  "occupation": "ferryman",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0021",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Orrine Thornmere worked as a ferryman. Orrine Thornmere had been born in Larkton.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P006",
+  "occupation": "ferryman",
+  "birthplace": "L08",
+  "nick": null
+ },
+ {
+  "id": "E0022",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Tatho Thornmere was a cooper. Tatho Thornmere was born at Wilford.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P007",
+  "occupation": "cooper",
+  "birthplace": "L13",
+  "nick": null
+ },
+ {
+  "id": "E0023",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Vesssa Thornmere worked as a ferryman.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P008",
+  "occupation": "ferryman",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0024",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Aezek Brackenridge worked as a tanner.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P009",
+  "occupation": "tanner",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0025",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Breena Brackenridge was a shepherd.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P010",
+  "occupation": "shepherd",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0026",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Thivie Brackenridge worked as a ferryman. Thivie Brackenridge had been born in Torford.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P011",
+  "occupation": "ferryman",
+  "birthplace": "L11",
+  "nick": null
+ },
+ {
+  "id": "E0027",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Zabin Brackenridge had been born in Ravengate.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P012",
+  "occupation": null,
+  "birthplace": "L10",
+  "nick": null
+ },
+ {
+  "id": "E0028",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Yenar Tallowaby was a brewer. Yenar Tallowaby was born at Wendcombe.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P013",
+  "occupation": "brewer",
+  "birthplace": "L12",
+  "nick": null
+ },
+ {
+  "id": "E0029",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Brelia Tallowaby was born at Braeholt.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P014",
+  "occupation": null,
+  "birthplace": "L01",
+  "nick": null
+ },
+ {
+  "id": "E0030",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Nyzek Tallowaby had been born in Ostgate.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P015",
+  "occupation": null,
+  "birthplace": "L09",
+  "nick": null
+ },
+ {
+  "id": "E0031",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Sewyn Tallowaby was born at Ostgate. Folk called Sewyn Tallowaby \"Tall Sewyn\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P016",
+  "occupation": null,
+  "birthplace": "L09",
+  "nick": "Tall Sewyn"
+ },
+ {
+  "id": "E0032",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Perald Tallowaby was a smith.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P017",
+  "occupation": "smith",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0033",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Thidan Holloway worked as a smith.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P018",
+  "occupation": "smith",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0034",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Aeena Holloway had been born in Yarlgate.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P019",
+  "occupation": null,
+  "birthplace": "L14",
+  "nick": null
+ },
+ {
+  "id": "E0035",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Selan Holloway was a herbalist. Selan Holloway had been born in Brynford.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P020",
+  "occupation": "herbalist",
+  "birthplace": "L02",
+  "nick": null
+ },
+ {
+  "id": "E0036",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Jomira Holloway had been born in Wendcombe.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P021",
+  "occupation": null,
+  "birthplace": "L12",
+  "nick": null
+ },
+ {
+  "id": "E0037",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Fera Holloway worked as a brewer. Fera Holloway had been born in Ravengate. Folk called Fera Holloway \"Red Fera\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P022",
+  "occupation": "brewer",
+  "birthplace": "L10",
+  "nick": "Red Fera"
+ },
+ {
+  "id": "E0038",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Riric Stenley was a brewer. Riric Stenley was born at Torford.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P023",
+  "occupation": "brewer",
+  "birthplace": "L11",
+  "nick": null
+ },
+ {
+  "id": "E0039",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Femira Stenley had been born in Duncombe. Folk called Femira Stenley \"Lame Femira\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P024",
+  "occupation": null,
+  "birthplace": "L04",
+  "nick": "Lame Femira"
+ },
+ {
+  "id": "E0040",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Lura Stenley had been born in Brynford.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P025",
+  "occupation": null,
+  "birthplace": "L02",
+  "nick": null
+ },
+ {
+  "id": "E0041",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Damor Stenley worked as a chandler.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P026",
+  "occupation": "chandler",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0042",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Ilmor Ashworth was a scribe.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P027",
+  "occupation": "scribe",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0043",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Tara Ashworth worked as a ferryman. Folk called Tara Ashworth \"Lame Tara\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P028",
+  "occupation": "ferryman",
+  "birthplace": null,
+  "nick": "Lame Tara"
+ },
+ {
+  "id": "E0044",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Veslan Ashworth worked as a smith.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P029",
+  "occupation": "smith",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0045",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Selan Ashworth was a ferryman.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P030",
+  "occupation": "ferryman",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0046",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Dassa Ashworth had been born in Ostgate.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P031",
+  "occupation": null,
+  "birthplace": "L09",
+  "nick": null
+ },
+ {
+  "id": "E0047",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Elssa Ashworth worked as a smith.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P032",
+  "occupation": "smith",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0048",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Ortho Hollford was a ferryman. Ortho Hollford had been born in Duncombe.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P033",
+  "occupation": "ferryman",
+  "birthplace": "L04",
+  "nick": null
+ },
+ {
+  "id": "E0049",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Vesvie Hollford was a tanner. Vesvie Hollford had been born in Elmby. Folk called Vesvie Hollford \"Lame Vesvie\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P034",
+  "occupation": "tanner",
+  "birthplace": "L05",
+  "nick": "Lame Vesvie"
+ },
+ {
+  "id": "E0050",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Felde Hollford was a shepherd.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P035",
+  "occupation": "shepherd",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0051",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Dadette Hollford was a cooper. Dadette Hollford was born at Yarlwick.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P036",
+  "occupation": "cooper",
+  "birthplace": "L15",
+  "nick": null
+ },
+ {
+  "id": "E0052",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Brenelle Hollford worked as a smith. Brenelle Hollford was born at Coldstead.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P037",
+  "occupation": "smith",
+  "birthplace": "L03",
+  "nick": null
+ },
+ {
+  "id": "E0053",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Pelan Wexner was a shepherd. Pelan Wexner was born at Kelford.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P038",
+  "occupation": "shepherd",
+  "birthplace": "L07",
+  "nick": null
+ },
+ {
+  "id": "E0054",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Thilia Wexner worked as a tanner. Folk called Thilia Wexner \"Old Thilia\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P039",
+  "occupation": "tanner",
+  "birthplace": null,
+  "nick": "Old Thilia"
+ },
+ {
+  "id": "E0055",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Aebin Wexner worked as a glazier. Aebin Wexner had been born in Duncombe.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P040",
+  "occupation": "glazier",
+  "birthplace": "L04",
+  "nick": null
+ },
+ {
+  "id": "E0056",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Kara Wexner worked as a scribe.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P041",
+  "occupation": "scribe",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0057",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Brevus Wexner was a smith. Brevus Wexner had been born in Harrowcombe.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P043",
+  "occupation": "smith",
+  "birthplace": "L06",
+  "nick": null
+ },
+ {
+  "id": "E0058",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Ritho Tallowoway was a chandler.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P044",
+  "occupation": "chandler",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0059",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Ilnelle Tallowoway worked as a shepherd.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P045",
+  "occupation": "shepherd",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0060",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Malan Tallowoway worked as a herbalist. Malan Tallowoway had been born in Ravengate.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P046",
+  "occupation": "herbalist",
+  "birthplace": "L10",
+  "nick": null
+ },
+ {
+  "id": "E0061",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Karald Tallowoway had been born in Yarlgate.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P047",
+  "occupation": null,
+  "birthplace": "L14",
+  "nick": null
+ },
+ {
+  "id": "E0062",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Kara Tallowoway worked as a chandler.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P048",
+  "occupation": "chandler",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0063",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Hamira Tallowoway was a tanner. Hamira Tallowoway was born at Torford.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P049",
+  "occupation": "tanner",
+  "birthplace": "L11",
+  "nick": null
+ },
+ {
+  "id": "E0064",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The bone astrolabe belonged to Ritho Tallowoway.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I02",
+  "owner": "P044"
+ },
+ {
+  "id": "E0065",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Among the possessions of Thilia Wexner was the amber ring.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I01",
+  "owner": "P039"
+ },
+ {
+  "id": "E0066",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The garnet ledger belonged to Perald Tallowaby.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I09",
+  "owner": "P017"
+ },
+ {
+  "id": "E0067",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The garnet chalice belonged to Kara Wexner.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I07",
+  "owner": "P041"
+ },
+ {
+  "id": "E0068",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Jomira Holloway kept the brass chalice in a cedar box.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I03",
+  "owner": "P021"
+ },
+ {
+  "id": "E0069",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The copper ledger belonged to Yenar Tallowaby.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I04",
+  "owner": "P013"
+ },
+ {
+  "id": "E0070",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The copper locket belonged to Vesvie Hollford.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I05",
+  "owner": "P034"
+ },
+ {
+  "id": "E0071",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Among the possessions of Femira Stenley was the oak comb.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I10",
+  "owner": "P024"
+ },
+ {
+  "id": "E0072",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Ortho Hollford kept the oak flute in a cedar box.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I11",
+  "owner": "P033"
+ },
+ {
+  "id": "E0073",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The garnet comb belonged to Weric Brackick.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I08",
+  "owner": "P000"
+ },
+ {
+  "id": "E0074",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Hamira Tallowoway kept the amber mirror in a cedar box.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I00",
+  "owner": "P049"
+ },
+ {
+  "id": "E0075",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The copper map belonged to Weric Brackick, head of the Brackick household.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I06",
+  "owner": "P000"
+ },
+ {
+  "id": "E0076",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Fera Holloway knew that the Brackenridge mill ledger was rewritten after the flood.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S00",
+  "person": "P022"
+ },
+ {
+  "id": "E0077",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Kara Tallowoway alone carried the knowledge that a chest of silver lies buried beneath the well at Braeholt.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S01",
+  "person": "P048"
+ },
+ {
+  "id": "E0078",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Ilnelle Tallowoway alone carried the knowledge that the bridge toll at Ostgate is skimmed every month.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S02",
+  "person": "P045"
+ },
+ {
+  "id": "E0079",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Kara Tallowoway alone carried the knowledge that the old abbey at Yarlgate hides a second cellar.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S03",
+  "person": "P048"
+ },
+ {
+  "id": "E0080",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Jomira Holloway knew that the Tallowoway family once owed a blood debt to the Ashworth family.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S04",
+  "person": "P021"
+ },
+ {
+  "id": "E0081",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Thilia Wexner knew that the deed to the Wendcombe pastures was forged.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S05",
+  "person": "P039"
+ },
+ {
+  "id": "E0082",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Sewyn Tallowaby alone carried the knowledge that the harbor master of Harrowcombe takes bribes.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S06",
+  "person": "P016"
+ },
+ {
+  "id": "E0083",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Pelan Wexner alone carried the knowledge that the fire at the Wendcombe granary was set on purpose.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S07",
+  "person": "P038"
+ },
+ {
+  "id": "E0084",
+  "type": "RULE_VAULT",
+  "chapter": 1,
+  "text": "It was an old law of Braehaven that the vault beneath its chapel would open only for a living person who held both the brass chalice and the oak comb at once.",
+  "where": null,
+  "ref_deps": [],
+  "place": "L00",
+  "items": [
+   "I03",
+   "I10"
+  ]
+ },
+ {
+  "id": "E0085",
+  "type": "RULE_BRIDGE",
+  "chapter": 1,
+  "text": "The toll bridge at Ravengate belonged to the Wexner family, and only those born a Wexner, or presently married to one, were allowed to cross it.",
+  "where": null,
+  "ref_deps": [],
+  "place": "L10",
+  "surname": "Wexner"
+ },
+ {
+  "id": "E0086",
+  "type": "RULE_HEIR",
+  "chapter": 1,
+  "text": "By custom, the copper map always passed, on the death of whoever held it, to the eldest living child of that holder; no will could change this, and it passed without ceremony.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I06",
+  "surname": "Brackick"
+ },
+ {
+  "id": "E0087",
+  "type": "GIVE",
+  "chapter": 2,
+  "text": "Sewyn won the bone astrolabe from Ritho at cards, fairly, and kept it.",
+  "where": "L04",
+  "ref_deps": [
+   "E0003",
+   "E0009"
+  ],
+  "item": "I02",
+  "src": "P044",
+  "dest": "P016"
+ },
+ {
+  "id": "E0088",
+  "type": "TELL",
+  "chapter": 2,
+  "text": "Late one night Kara Tallowoway confided to Zabin Brackenridge that a chest of silver lies buried beneath the well at Braeholt.",
+  "where": "L08",
+  "ref_deps": [],
+  "secret": "S01",
+  "src": "P048",
+  "dest": "P012"
+ },
+ {
+  "id": "E0089",
+  "type": "PROMISE",
+  "chapter": 2,
+  "text": "Breena gave Aezek Brackenridge a solemn promise to carry a sealed letter to Yarlgate.",
+  "where": "L08",
+  "ref_deps": [
+   "E0002"
+  ],
+  "promise": "R00",
+  "a": "P010",
+  "b": "P009",
+  "act": "to carry a sealed letter to Yarlgate"
+ },
+ {
+  "id": "E0090",
+  "type": "GIVE",
+  "chapter": 2,
+  "text": "Ortho Hollford gave the oak flute to Vesvie Hollford.",
+  "where": "L12",
+  "ref_deps": [],
+  "item": "I11",
+  "src": "P033",
+  "dest": "P034"
+ },
+ {
+  "id": "E0091",
+  "type": "TELL",
+  "chapter": 2,
+  "text": "Late one night Ilnelle Tallowoway confided to Hamira Tallowoway that the bridge toll at Ostgate is skimmed every month.",
+  "where": "L04",
+  "ref_deps": [],
+  "secret": "S02",
+  "src": "P045",
+  "dest": "P049"
+ },
+ {
+  "id": "E0092",
+  "type": "GIVE",
+  "chapter": 2,
+  "text": "The wife of Ortho Hollford gave the oak flute to Ortho.",
+  "where": "L12",
+  "ref_deps": [
+   "E0007"
+  ],
+  "item": "I11",
+  "src": "P034",
+  "dest": "P033"
+ },
+ {
+  "id": "E0093",
+  "type": "MARRY",
+  "chapter": 2,
+  "text": "Nyzek Tallowaby and Dadette Hollford were wed at Wilford, with half the parish looking on. The couple lived in Wilford from then on.",
+  "where": "L13",
+  "ref_deps": [],
+  "a": "P015",
+  "b": "P036",
+  "place": "L13"
+ },
+ {
+  "id": "E0094",
+  "type": "MARRY",
+  "chapter": 2,
+  "text": "Felde and Brevus Wexner were wed at Wendcombe, with half the parish looking on. The couple lived in Wendcombe from then on.",
+  "where": "L12",
+  "ref_deps": [
+   "E0007"
+  ],
+  "a": "P035",
+  "b": "P043",
+  "place": "L12"
+ },
+ {
+  "id": "E0095",
+  "type": "PROMISE",
+  "chapter": 3,
+  "text": "Selan Ashworth gave Lame Tara a solemn promise to plant an orchard on the slope above Braehaven.",
+  "where": "L01",
+  "ref_deps": [
+   "E0043"
+  ],
+  "promise": "R01",
+  "a": "P030",
+  "b": "P028",
+  "act": "to plant an orchard on the slope above Braehaven"
+ },
+ {
+  "id": "E0096",
+  "type": "GIVE",
+  "chapter": 3,
+  "text": "Ortho Hollford gave the oak flute to Felde Hollford.",
+  "where": "L12",
+  "ref_deps": [],
+  "item": "I11",
+  "src": "P033",
+  "dest": "P035"
+ },
+ {
+  "id": "E0097",
+  "type": "BIRTH",
+  "chapter": 3,
+  "text": "Dassa Ashworth gave birth to a son, named Aedan Brackick; the father was Ronar Brackick. The family lived in Larkton.",
+  "where": "L08",
+  "ref_deps": [],
+  "child": "P050",
+  "mother": "P031",
+  "father": "P004",
+  "place": "L08"
+ },
+ {
+  "id": "E0098",
+  "type": "TELL",
+  "chapter": 3,
+  "text": "Fera Holloway could keep it no longer and told Hamira Tallowoway that the Brackenridge mill ledger was rewritten after the flood.",
+  "where": "L04",
+  "ref_deps": [],
+  "secret": "S00",
+  "src": "P022",
+  "dest": "P049"
+ },
+ {
+  "id": "E0099",
+  "type": "TRAVEL",
+  "chapter": 3,
+  "text": "The youngest son of Ritho Tallowoway packed a single trunk and moved from Duncombe to Coldstead.",
+  "where": "L04",
+  "ref_deps": [
+   "E0009"
+  ],
+  "person": "P047",
+  "src": "L04",
+  "dest": "L03"
+ },
+ {
+  "id": "E0100",
+  "type": "TRAVEL",
+  "chapter": 3,
+  "text": "Thivie Brackenridge went along to live in Coldstead as well.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P011",
+  "src": "L04",
+  "dest": "L03"
+ },
+ {
+  "id": "E0101",
+  "type": "RUMOR",
+  "chapter": 3,
+  "text": "Vesvie Hollford whispered that Daric Thornmere had secretly married Dadette Hollford, but nobody could say where or when.",
+  "where": "L12",
+  "ref_deps": [],
+  "teller": "P034",
+  "claim": {
+   "kind": "married",
+   "target": "P005",
+   "other": "P036"
+  }
+ },
+ {
+  "id": "E0102",
+  "type": "OCCUPATION",
+  "chapter": 3,
+  "text": "Tall Sewyn gave up idleness and took work as a chandler.",
+  "where": "L04",
+  "ref_deps": [
+   "E0031"
+  ],
+  "person": "P016",
+  "old": null,
+  "new": "chandler"
+ },
+ {
+  "id": "E0103",
+  "type": "RESOLVE",
+  "chapter": 3,
+  "text": "Selan Ashworth broke faith with Tara Ashworth, and the promised work (plant an orchard on the slope above Braehaven) was never begun.",
+  "where": "L01",
+  "ref_deps": [],
+  "promise": "R01",
+  "kept": false
+ },
+ {
+  "id": "E0104",
+  "type": "MARRY",
+  "chapter": 4,
+  "text": "In the chapel at Larkton, Ildette Brackick married Selan Holloway. The couple lived in Larkton from then on.",
+  "where": "L08",
+  "ref_deps": [],
+  "a": "P003",
+  "b": "P020",
+  "place": "L08"
+ },
+ {
+  "id": "E0105",
+  "type": "PLAN",
+  "chapter": 4,
+  "text": "Felde Hollford talked for weeks of going to Yarlwick, yet in the end stayed where she was.",
+  "where": "L12",
+  "ref_deps": [],
+  "person": "P035",
+  "dest": "L15"
+ },
+ {
+  "id": "E0106",
+  "type": "TELL",
+  "chapter": 4,
+  "text": "Late one night Sewyn confided to Orrine Thornmere that the harbor master of Harrowcombe takes bribes.",
+  "where": "L04",
+  "ref_deps": [
+   "E0003"
+  ],
+  "secret": "S06",
+  "src": "P016",
+  "dest": "P006"
+ },
+ {
+  "id": "E0107",
+  "type": "TRAVEL",
+  "chapter": 4,
+  "text": "Ritho rode out of Duncombe; by the next market day he was living in Harrowcombe.",
+  "where": "L04",
+  "ref_deps": [
+   "E0009"
+  ],
+  "person": "P044",
+  "src": "L04",
+  "dest": "L06"
+ },
+ {
+  "id": "E0108",
+  "type": "TRAVEL",
+  "chapter": 4,
+  "text": "Ilnelle Tallowoway went along to live in Harrowcombe as well.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P045",
+  "src": "L04",
+  "dest": "L06"
+ },
+ {
+  "id": "E0109",
+  "type": "TELL",
+  "chapter": 4,
+  "text": "Late one night the wife of Ritho Tallowoway confided to Ritho Tallowoway that the bridge toll at Ostgate is skimmed every month.",
+  "where": "L06",
+  "ref_deps": [
+   "E0009"
+  ],
+  "secret": "S02",
+  "src": "P045",
+  "dest": "P044"
+ },
+ {
+  "id": "E0110",
+  "type": "OCCUPATION",
+  "chapter": 4,
+  "text": "Ilnelle Tallowoway gave up being a shepherd and took work as a scribe.",
+  "where": "L06",
+  "ref_deps": [
+   "E0009"
+  ],
+  "person": "P045",
+  "old": "shepherd",
+  "new": "scribe"
+ },
+ {
+  "id": "E0111",
+  "type": "MARRY",
+  "chapter": 4,
+  "text": "Jomira Holloway and Aebin Wexner were wed at Yarlwick, with half the parish looking on. The couple lived in Yarlwick from then on.",
+  "where": "L15",
+  "ref_deps": [],
+  "a": "P021",
+  "b": "P040",
+  "place": "L15"
+ },
+ {
+  "id": "E0112",
+  "type": "TRAVEL",
+  "chapter": 4,
+  "text": "Kara Wexner left Yarlgate and settled in Brynford.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P041",
+  "src": "L14",
+  "dest": "L02"
+ },
+ {
+  "id": "E0113",
+  "type": "RESOLVE",
+  "chapter": 5,
+  "text": "Breena Brackenridge broke faith with Aezek Brackenridge, and the promised work (carry a sealed letter to Yarlgate) was never begun.",
+  "where": "L08",
+  "ref_deps": [],
+  "promise": "R00",
+  "kept": false
+ },
+ {
+  "id": "E0114",
+  "type": "OCCUPATION",
+  "chapter": 5,
+  "text": "Breena Brackenridge gave up being a shepherd and took work as a miller.",
+  "where": "L08",
+  "ref_deps": [],
+  "person": "P010",
+  "old": "shepherd",
+  "new": "miller"
+ },
+ {
+  "id": "E0115",
+  "type": "TRAVEL",
+  "chapter": 5,
+  "text": "Yenar Tallowaby found work in Yarlwick, moved there, and did not return to Wilford.",
+  "where": "L13",
+  "ref_deps": [],
+  "person": "P013",
+  "src": "L13",
+  "dest": "L15"
+ },
+ {
+  "id": "E0116",
+  "type": "TRAVEL",
+  "chapter": 5,
+  "text": "Brelia Tallowaby followed him to Yarlwick within the month.",
+  "where": "L13",
+  "ref_deps": [],
+  "person": "P014",
+  "src": "L13",
+  "dest": "L15"
+ },
+ {
+  "id": "E0117",
+  "type": "PROMISE",
+  "chapter": 5,
+  "text": "Nyzek swore to Perald to carry a sealed letter to Braeholt, and shook on it.",
+  "where": "L13",
+  "ref_deps": [
+   "E0003"
+  ],
+  "promise": "R02",
+  "a": "P015",
+  "b": "P017",
+  "act": "to carry a sealed letter to Braeholt"
+ },
+ {
+  "id": "E0118",
+  "type": "TRAVEL",
+  "chapter": 5,
+  "text": "Felde Hollford found work in Larkton, moved there, and did not return to Wendcombe.",
+  "where": "L12",
+  "ref_deps": [],
+  "person": "P035",
+  "src": "L12",
+  "dest": "L08"
+ },
+ {
+  "id": "E0119",
+  "type": "TRAVEL",
+  "chapter": 5,
+  "text": "Brevus Wexner followed her to Larkton within the month.",
+  "where": "L12",
+  "ref_deps": [],
+  "person": "P043",
+  "src": "L12",
+  "dest": "L08"
+ },
+ {
+  "id": "E0120",
+  "type": "GIVE",
+  "chapter": 5,
+  "text": "Yenar Tallowaby sent the copper ledger by carrier to Lura Stenley, who received it safely.",
+  "where": "L15",
+  "ref_deps": [],
+  "item": "I04",
+  "src": "P013",
+  "dest": "P025"
+ },
+ {
+  "id": "E0121",
+  "type": "GIVE",
+  "chapter": 6,
+  "text": "Hamira pressed the amber mirror into the hands of Vesssa and would take nothing for it.",
+  "where": "L04",
+  "ref_deps": [
+   "E0001",
+   "E0009"
+  ],
+  "item": "I00",
+  "src": "P049",
+  "dest": "P008"
+ },
+ {
+  "id": "E0122",
+  "type": "TELL",
+  "chapter": 6,
+  "text": "In a letter that Nyzek Tallowaby burned after reading, Ilnelle Tallowoway revealed that the bridge toll at Ostgate is skimmed every month.",
+  "where": "L06",
+  "ref_deps": [],
+  "secret": "S02",
+  "src": "P045",
+  "dest": "P015"
+ },
+ {
+  "id": "E0123",
+  "type": "GIVE",
+  "chapter": 6,
+  "text": "A parcel from Weric Brackick reached Veslan Ashworth; inside was the garnet comb, now his to keep.",
+  "where": "L08",
+  "ref_deps": [],
+  "item": "I08",
+  "src": "P000",
+  "dest": "P029"
+ },
+ {
+  "id": "E0124",
+  "type": "PROMISE",
+  "chapter": 6,
+  "text": "Ildette Brackick swore to Selan Holloway to carry a sealed letter to Kelford, and shook on it.",
+  "where": "L08",
+  "ref_deps": [],
+  "promise": "R03",
+  "a": "P003",
+  "b": "P020",
+  "act": "to carry a sealed letter to Kelford"
+ },
+ {
+  "id": "E0125",
+  "type": "GIVE",
+  "chapter": 6,
+  "text": "The eldest son of Tara Ashworth pressed the garnet comb into the hands of Elssa Ashworth and would take nothing for it.",
+  "where": "L01",
+  "ref_deps": [
+   "E0006"
+  ],
+  "item": "I08",
+  "src": "P029",
+  "dest": "P032"
+ },
+ {
+  "id": "E0126",
+  "type": "MARRY",
+  "chapter": 7,
+  "text": "Before the winter was out, Dassa Brackick took Veslan Ashworth in marriage at Larkton. The couple lived in Larkton from then on.",
+  "where": "L08",
+  "ref_deps": [],
+  "a": "P002",
+  "b": "P029",
+  "place": "L08"
+ },
+ {
+  "id": "E0127",
+  "type": "MARRY",
+  "chapter": 7,
+  "text": "Kara Wexner and Damor were wed at Brynford, with half the parish looking on. The couple lived in Brynford from then on.",
+  "where": "L02",
+  "ref_deps": [
+   "E0005"
+  ],
+  "a": "P041",
+  "b": "P026",
+  "place": "L02"
+ },
+ {
+  "id": "E0128",
+  "type": "TRAVEL",
+  "chapter": 7,
+  "text": "The wife of Daric Thornmere packed a single trunk and moved from Duncombe to Brynford.",
+  "where": "L04",
+  "ref_deps": [
+   "E0001"
+  ],
+  "person": "P006",
+  "src": "L04",
+  "dest": "L02"
+ },
+ {
+  "id": "E0129",
+  "type": "TRAVEL",
+  "chapter": 7,
+  "text": "Daric Thornmere went along to live in Brynford as well.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P005",
+  "src": "L04",
+  "dest": "L02"
+ },
+ {
+  "id": "E0130",
+  "type": "OCCUPATION",
+  "chapter": 7,
+  "text": "Ilnelle gave up being a scribe and took work as a cooper.",
+  "where": "L06",
+  "ref_deps": [
+   "E0009"
+  ],
+  "person": "P045",
+  "old": "scribe",
+  "new": "cooper"
+ },
+ {
+  "id": "E0131",
+  "type": "MARRY",
+  "chapter": 7,
+  "text": "Aenelle Wexner and the youngest son of Brelia Tallowaby were wed at Yarlgate, with half the parish looking on. The couple lived in Yarlgate from then on.",
+  "where": "L14",
+  "ref_deps": [
+   "E0003"
+  ],
+  "a": "P042",
+  "b": "P017",
+  "place": "L14"
+ },
+ {
+  "id": "E0132",
+  "type": "TRAVEL",
+  "chapter": 7,
+  "text": "Perald Tallowaby left Yarlgate and settled in Larkton.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P017",
+  "src": "L14",
+  "dest": "L08"
+ },
+ {
+  "id": "E0133",
+  "type": "TRAVEL",
+  "chapter": 7,
+  "text": "Aenelle Wexner went along to live in Larkton as well.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P042",
+  "src": "L14",
+  "dest": "L08"
+ },
+ {
+  "id": "E0134",
+  "type": "TRAVEL",
+  "chapter": 7,
+  "text": "Selan Holloway rode out of Larkton; by the next market day he was living in Torford.",
+  "where": "L08",
+  "ref_deps": [],
+  "person": "P020",
+  "src": "L08",
+  "dest": "L11"
+ },
+ {
+  "id": "E0135",
+  "type": "TRAVEL",
+  "chapter": 7,
+  "text": "Ildette Brackick went along to live in Torford as well.",
+  "where": "L08",
+  "ref_deps": [],
+  "person": "P003",
+  "src": "L08",
+  "dest": "L11"
+ },
+ {
+  "id": "E0136",
+  "type": "TELL",
+  "chapter": 7,
+  "text": "In a letter that the youngest daughter of Thidan Holloway burned after reading, Tall Sewyn revealed that the harbor master of Harrowcombe takes bribes.",
+  "where": "L04",
+  "ref_deps": [
+   "E0004",
+   "E0031"
+  ],
+  "secret": "S06",
+  "src": "P016",
+  "dest": "P022"
+ },
+ {
+  "id": "E0137",
+  "type": "TRAVEL",
+  "chapter": 8,
+  "text": "Jomira left Yarlwick and settled in Ravengate.",
+  "where": "L15",
+  "ref_deps": [
+   "E0004"
+  ],
+  "person": "P021",
+  "src": "L15",
+  "dest": "L10"
+ },
+ {
+  "id": "E0138",
+  "type": "TRAVEL",
+  "chapter": 8,
+  "text": "Aebin Wexner went along to live in Ravengate as well.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P040",
+  "src": "L15",
+  "dest": "L10"
+ },
+ {
+  "id": "E0139",
+  "type": "TRAVEL",
+  "chapter": 8,
+  "text": "Yenar Tallowaby left Yarlwick and settled in Elmby.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P013",
+  "src": "L15",
+  "dest": "L05"
+ },
+ {
+  "id": "E0140",
+  "type": "TRAVEL",
+  "chapter": 8,
+  "text": "Brelia Tallowaby followed him to Elmby within the month.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P014",
+  "src": "L15",
+  "dest": "L05"
+ },
+ {
+  "id": "E0141",
+  "type": "TRAVEL",
+  "chapter": 8,
+  "text": "Aeena Holloway left Yarlwick and settled in Duncombe.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P019",
+  "src": "L15",
+  "dest": "L04"
+ },
+ {
+  "id": "E0142",
+  "type": "TRAVEL",
+  "chapter": 8,
+  "text": "Thidan Holloway went along to live in Duncombe as well.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P018",
+  "src": "L15",
+  "dest": "L04"
+ },
+ {
+  "id": "E0143",
+  "type": "PLAN",
+  "chapter": 8,
+  "text": "Pelan Wexner talked for weeks of going to Braehaven, yet in the end stayed where he was.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P038",
+  "dest": "L00"
+ },
+ {
+  "id": "E0144",
+  "type": "TELL",
+  "chapter": 8,
+  "text": "Zabin Brackenridge could keep it no longer and told Brevus Wexner that a chest of silver lies buried beneath the well at Braeholt.",
+  "where": "L08",
+  "ref_deps": [],
+  "secret": "S01",
+  "src": "P012",
+  "dest": "P043"
+ },
+ {
+  "id": "E0145",
+  "type": "DEATH",
+  "chapter": 9,
+  "text": "That summer, a long wasting sickness took Aezek Brackenridge; he was buried at Larkton.",
+  "where": "L08",
+  "ref_deps": [],
+  "person": "P009",
+  "cause": "a long wasting sickness",
+  "place": "L08"
+ },
+ {
+  "id": "E0146",
+  "type": "TELL",
+  "chapter": 9,
+  "text": "Tall Sewyn could keep it no longer and told Malan Tallowoway that the harbor master of Harrowcombe takes bribes.",
+  "where": "L04",
+  "ref_deps": [
+   "E0031"
+  ],
+  "secret": "S06",
+  "src": "P016",
+  "dest": "P046"
+ },
+ {
+  "id": "E0147",
+  "type": "BIRTH",
+  "chapter": 9,
+  "text": "A daughter was born to Kara Tallowoway and Zabin Brackenridge, and they called the child Zalia Brackenridge. The family lived in Larkton.",
+  "where": "L08",
+  "ref_deps": [],
+  "child": "P051",
+  "mother": "P048",
+  "father": "P012",
+  "place": "L08"
+ },
+ {
+  "id": "E0148",
+  "type": "BIRTH",
+  "chapter": 9,
+  "text": "Brenelle Hollford gave birth to a daughter, named Ferine Ashworth; the father was Selan Ashworth. The family lived in Braeholt.",
+  "where": "L01",
+  "ref_deps": [],
+  "child": "P052",
+  "mother": "P037",
+  "father": "P030",
+  "place": "L01"
+ },
+ {
+  "id": "E0149",
+  "type": "TELL",
+  "chapter": 9,
+  "text": "In a letter that Sewyn burned after reading, Fera revealed that the Brackenridge mill ledger was rewritten after the flood.",
+  "where": "L04",
+  "ref_deps": [
+   "E0003",
+   "E0004"
+  ],
+  "secret": "S00",
+  "src": "P022",
+  "dest": "P016"
+ },
+ {
+  "id": "E0150",
+  "type": "TELL",
+  "chapter": 9,
+  "text": "In a letter that Malan burned after reading, Hamira Tallowoway revealed that the Brackenridge mill ledger was rewritten after the flood.",
+  "where": "L04",
+  "ref_deps": [
+   "E0009"
+  ],
+  "secret": "S00",
+  "src": "P049",
+  "dest": "P046"
+ },
+ {
+  "id": "E0151",
+  "type": "TELL",
+  "chapter": 10,
+  "text": "Late one night Ilnelle Tallowoway confided to Malan that the bridge toll at Ostgate is skimmed every month.",
+  "where": "L06",
+  "ref_deps": [
+   "E0009"
+  ],
+  "secret": "S02",
+  "src": "P045",
+  "dest": "P046"
+ },
+ {
+  "id": "E0152",
+  "type": "GIVE",
+  "chapter": 10,
+  "text": "The wife of Tatho Thornmere won the bone astrolabe from the wife of Malan Tallowoway at cards, fairly, and kept it.",
+  "where": "L04",
+  "ref_deps": [
+   "E0010",
+   "E0014"
+  ],
+  "item": "I02",
+  "src": "P016",
+  "dest": "P022"
+ },
+ {
+  "id": "E0153",
+  "type": "TELL",
+  "chapter": 10,
+  "text": "In a letter that Dassa Brackick burned after reading, Ritho Tallowoway revealed that the bridge toll at Ostgate is skimmed every month.",
+  "where": "L06",
+  "ref_deps": [],
+  "secret": "S02",
+  "src": "P044",
+  "dest": "P002"
+ },
+ {
+  "id": "E0154",
+  "type": "TELL",
+  "chapter": 10,
+  "text": "The wife of Veslan Ashworth could keep it no longer and told Dassa Ashworth that the bridge toll at Ostgate is skimmed every month.",
+  "where": "L08",
+  "ref_deps": [
+   "E0126"
+  ],
+  "secret": "S02",
+  "src": "P002",
+  "dest": "P031"
+ },
+ {
+  "id": "E0155",
+  "type": "OCCUPATION",
+  "chapter": 10,
+  "text": "The eldest daughter of Weric Brackick was apprenticed anew and became a shepherd.",
+  "where": "L08",
+  "ref_deps": [
+   "E0000"
+  ],
+  "person": "P002",
+  "old": "weaver",
+  "new": "shepherd"
+ },
+ {
+  "id": "E0156",
+  "type": "GIVE",
+  "chapter": 10,
+  "text": "Pelan Wexner won the amber ring from Thilia Wexner at cards, fairly, and kept it.",
+  "where": "L14",
+  "ref_deps": [],
+  "item": "I01",
+  "src": "P039",
+  "dest": "P038"
+ },
+ {
+  "id": "E0157",
+  "type": "TELL",
+  "chapter": 11,
+  "text": "Brevus Wexner could keep it no longer and told Weric Brackick that a chest of silver lies buried beneath the well at Braeholt.",
+  "where": "L08",
+  "ref_deps": [],
+  "secret": "S01",
+  "src": "P043",
+  "dest": "P000"
+ },
+ {
+  "id": "E0158",
+  "type": "TELL",
+  "chapter": 11,
+  "text": "Late one night Malan Tallowoway confided to Tatho that the bridge toll at Ostgate is skimmed every month.",
+  "where": "L04",
+  "ref_deps": [
+   "E0001"
+  ],
+  "secret": "S02",
+  "src": "P046",
+  "dest": "P007"
+ },
+ {
+  "id": "E0159",
+  "type": "RESOLVE",
+  "chapter": 11,
+  "text": "Tall Ildette kept the promise made to Selan Holloway: the task (carry a sealed letter to Kelford) was done by harvest.",
+  "where": "L11",
+  "ref_deps": [
+   "E0019"
+  ],
+  "promise": "R03",
+  "kept": true
+ },
+ {
+  "id": "E0160",
+  "type": "TELL",
+  "chapter": 11,
+  "text": "Tall Sewyn could keep it no longer and told the husband of Aeena Holloway that the harbor master of Harrowcombe takes bribes.",
+  "where": "L04",
+  "ref_deps": [
+   "E0004",
+   "E0031"
+  ],
+  "secret": "S06",
+  "src": "P016",
+  "dest": "P018"
+ },
+ {
+  "id": "E0161",
+  "type": "TRAVEL",
+  "chapter": 11,
+  "text": "Aeena left Duncombe and settled in Torford.",
+  "where": "L04",
+  "ref_deps": [
+   "E0004"
+  ],
+  "person": "P019",
+  "src": "L04",
+  "dest": "L11"
+ },
+ {
+  "id": "E0162",
+  "type": "TRAVEL",
+  "chapter": 11,
+  "text": "Thidan Holloway followed her to Torford within the month.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P018",
+  "src": "L04",
+  "dest": "L11"
+ },
+ {
+  "id": "E0163",
+  "type": "DEATH",
+  "chapter": 12,
+  "text": "That spring, the coughing sickness took Pedette; she was buried at Larkton.",
+  "where": "L08",
+  "ref_deps": [
+   "E0000"
+  ],
+  "person": "P001",
+  "cause": "the coughing sickness",
+  "place": "L08"
+ },
+ {
+  "id": "E0164",
+  "type": "BIRTH",
+  "chapter": 12,
+  "text": "A son was born to Brenelle Hollford and Selan Ashworth, and they called the child Moric Ashworth. The family lived in Braeholt.",
+  "where": "L01",
+  "ref_deps": [],
+  "child": "P053",
+  "mother": "P037",
+  "father": "P030",
+  "place": "L01"
+ },
+ {
+  "id": "E0165",
+  "type": "DEATH",
+  "chapter": 12,
+  "text": "They laid Tatho in the churchyard at Duncombe, dead of a wound that festered.",
+  "where": "L04",
+  "ref_deps": [
+   "E0001"
+  ],
+  "person": "P007",
+  "cause": "a wound that festered",
+  "place": "L04"
+ },
+ {
+  "id": "E0166",
+  "type": "DEATH",
+  "chapter": 12,
+  "text": "Thilia Wexner died of a wound that festered at Yarlgate.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P039",
+  "cause": "a wound that festered",
+  "place": "L14"
+ },
+ {
+  "id": "E0167",
+  "type": "PROMISE",
+  "chapter": 12,
+  "text": "Pelan Wexner gave Brevus Wexner a solemn promise to rebuild the fallen wall at Torford.",
+  "where": "L14",
+  "ref_deps": [],
+  "promise": "R04",
+  "a": "P038",
+  "b": "P043",
+  "act": "to rebuild the fallen wall at Torford"
+ },
+ {
+  "id": "E0168",
+  "type": "TRAVEL",
+  "chapter": 12,
+  "text": "Pelan Wexner rode out of Yarlgate; by the next market day he was living in Ostgate.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P038",
+  "src": "L14",
+  "dest": "L09"
+ },
+ {
+  "id": "E0169",
+  "type": "RUMOR",
+  "chapter": 13,
+  "text": "Yenar told everyone at the inn that Elssa Ashworth had drowned crossing the estuary, though no body was ever seen.",
+  "where": "L05",
+  "ref_deps": [
+   "E0003"
+  ],
+  "teller": "P013",
+  "claim": {
+   "kind": "dead",
+   "target": "P032"
+  }
+ },
+ {
+  "id": "E0170",
+  "type": "TRAVEL",
+  "chapter": 13,
+  "text": "After the quarrel, Brelia Tallowaby quit Elmby for good and took lodgings in Kelford.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P014",
+  "src": "L05",
+  "dest": "L07"
+ },
+ {
+  "id": "E0171",
+  "type": "TRAVEL",
+  "chapter": 13,
+  "text": "Yenar Tallowaby followed her to Kelford within the month.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P013",
+  "src": "L05",
+  "dest": "L07"
+ },
+ {
+  "id": "E0172",
+  "type": "MARRY",
+  "chapter": 13,
+  "text": "Before the summer was out, Weric took Lura Stenley in marriage at Larkton. The couple lived in Larkton from then on.",
+  "where": "L08",
+  "ref_deps": [
+   "E0000"
+  ],
+  "a": "P000",
+  "b": "P025",
+  "place": "L08"
+ },
+ {
+  "id": "E0173",
+  "type": "TRAVEL",
+  "chapter": 13,
+  "text": "After the quarrel, Brevus Wexner quit Larkton for good and took lodgings in Kelford.",
+  "where": "L08",
+  "ref_deps": [],
+  "person": "P043",
+  "src": "L08",
+  "dest": "L07"
+ },
+ {
+  "id": "E0174",
+  "type": "TRAVEL",
+  "chapter": 13,
+  "text": "Felde went along to live in Kelford as well.",
+  "where": "L08",
+  "ref_deps": [
+   "E0007"
+  ],
+  "person": "P035",
+  "src": "L08",
+  "dest": "L07"
+ },
+ {
+  "id": "E0175",
+  "type": "GIVE",
+  "chapter": 13,
+  "text": "Lura Stenley gave the copper ledger to Breena Brackenridge.",
+  "where": "L08",
+  "ref_deps": [],
+  "item": "I04",
+  "src": "P025",
+  "dest": "P010"
+ },
+ {
+  "id": "E0176",
+  "type": "PROMISE",
+  "chapter": 13,
+  "text": "Veslan swore to Ronar Brackick to teach the children of Yarlgate their letters, and shook on it.",
+  "where": "L08",
+  "ref_deps": [
+   "E0006"
+  ],
+  "promise": "R05",
+  "a": "P029",
+  "b": "P004",
+  "act": "to teach the children of Yarlgate their letters"
+ },
+ {
+  "id": "E0177",
+  "type": "DEATH",
+  "chapter": 14,
+  "text": "That autumn, a winter fever took Ritho; he was buried at Harrowcombe.",
+  "where": "L06",
+  "ref_deps": [
+   "E0009"
+  ],
+  "person": "P044",
+  "cause": "a winter fever",
+  "place": "L06"
+ },
+ {
+  "id": "E0178",
+  "type": "DEATH",
+  "chapter": 14,
+  "text": "They laid Ortho in the churchyard at Wendcombe, dead of a wound that festered.",
+  "where": "L12",
+  "ref_deps": [
+   "E0007"
+  ],
+  "person": "P033",
+  "cause": "a wound that festered",
+  "place": "L12"
+ },
+ {
+  "id": "E0179",
+  "type": "RUMOR",
+  "chapter": 14,
+  "text": "Gossip from Lame Vesvie claimed Riric Stenley and Dassa Ashworth had been wed in secret.",
+  "where": "L12",
+  "ref_deps": [
+   "E0049"
+  ],
+  "teller": "P034",
+  "claim": {
+   "kind": "married",
+   "target": "P023",
+   "other": "P031"
+  }
+ },
+ {
+  "id": "E0180",
+  "type": "GIVE",
+  "chapter": 14,
+  "text": "Pelan sent the amber ring by carrier to Perald Tallowaby, who received it safely.",
+  "where": "L09",
+  "ref_deps": [
+   "E0008"
+  ],
+  "item": "I01",
+  "src": "P038",
+  "dest": "P017"
+ },
+ {
+  "id": "E0181",
+  "type": "OCCUPATION",
+  "chapter": 14,
+  "text": "Pelan Wexner was apprenticed anew and became a tanner.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P038",
+  "old": "shepherd",
+  "new": "tanner"
+ },
+ {
+  "id": "E0182",
+  "type": "RESOLVE",
+  "chapter": 15,
+  "text": "The husband of Dassa Brackick kept the promise made to Ronar Brackick: the task (teach the children of Yarlgate their letters) was done by harvest.",
+  "where": "L08",
+  "ref_deps": [
+   "E0126"
+  ],
+  "promise": "R05",
+  "kept": true
+ },
+ {
+  "id": "E0183",
+  "type": "DEATH",
+  "chapter": 15,
+  "text": "The wife of Ilmor Ashworth died of a long wasting sickness at Braeholt.",
+  "where": "L01",
+  "ref_deps": [
+   "E0006"
+  ],
+  "person": "P028",
+  "cause": "a long wasting sickness",
+  "place": "L01"
+ },
+ {
+  "id": "E0184",
+  "type": "DEATH",
+  "chapter": 15,
+  "text": "That winter, drowning in the flood took the eldest daughter of Thilia Wexner; she was buried at Brynford.",
+  "where": "L02",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P041",
+  "cause": "drowning in the flood",
+  "place": "L02"
+ },
+ {
+  "id": "E0185",
+  "type": "GIVE",
+  "chapter": 15,
+  "text": "The garnet chalice, which Kara Wexner had owned, went to Damor Stenley.",
+  "where": "L02",
+  "ref_deps": [],
+  "item": "I07",
+  "src": "P041",
+  "dest": "P026",
+  "inherit": true
+ },
+ {
+  "id": "E0186",
+  "type": "DEATH",
+  "chapter": 15,
+  "text": "They laid the only son of Aeena Holloway in the churchyard at Torford, dead of a winter fever.",
+  "where": "L11",
+  "ref_deps": [
+   "E0004"
+  ],
+  "person": "P020",
+  "cause": "a winter fever",
+  "place": "L11"
+ },
+ {
+  "id": "E0187",
+  "type": "DEATH",
+  "chapter": 15,
+  "text": "They laid Lura Stenley in the churchyard at Larkton, dead of the coughing sickness.",
+  "where": "L08",
+  "ref_deps": [],
+  "person": "P025",
+  "cause": "the coughing sickness",
+  "place": "L08"
+ },
+ {
+  "id": "E0188",
+  "type": "TELL",
+  "chapter": 15,
+  "text": "Kara Tallowoway could keep it no longer and told Perald that the old abbey at Yarlgate hides a second cellar.",
+  "where": "L08",
+  "ref_deps": [
+   "E0003"
+  ],
+  "secret": "S03",
+  "src": "P048",
+  "dest": "P017"
+ },
+ {
+  "id": "E0189",
+  "type": "PROMISE",
+  "chapter": 15,
+  "text": "Weric Brackick swore to Ronar Brackick to rebuild the fallen wall at Wendcombe, and shook on it.",
+  "where": "L08",
+  "ref_deps": [],
+  "promise": "R06",
+  "a": "P000",
+  "b": "P004",
+  "act": "to rebuild the fallen wall at Wendcombe"
+ },
+ {
+  "id": "E0190",
+  "type": "TRAVEL",
+  "chapter": 16,
+  "text": "Brenelle Hollford left Braeholt and settled in Coldstead.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P037",
+  "src": "L01",
+  "dest": "L03"
+ },
+ {
+  "id": "E0191",
+  "type": "TRAVEL",
+  "chapter": 16,
+  "text": "Selan Ashworth went along to live in Coldstead as well.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P030",
+  "src": "L01",
+  "dest": "L03"
+ },
+ {
+  "id": "E0192",
+  "type": "OCCUPATION",
+  "chapter": 16,
+  "text": "Ilmor Ashworth was apprenticed anew and became a mason.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P027",
+  "old": "scribe",
+  "new": "mason"
+ },
+ {
+  "id": "E0193",
+  "type": "PROMISE",
+  "chapter": 16,
+  "text": "Elssa Ashworth swore to Ilmor Ashworth to pay the old debt owed to the Wexner family, and shook on it.",
+  "where": "L01",
+  "ref_deps": [],
+  "promise": "R07",
+  "a": "P032",
+  "b": "P027",
+  "act": "to pay the old debt owed to the Wexner family"
+ },
+ {
+  "id": "E0194",
+  "type": "RUMOR",
+  "chapter": 16,
+  "text": "A rumor started by Ilmor Ashworth had it that Dassa Ashworth was dead of plague; Ilmor Ashworth had it from a peddler.",
+  "where": "L01",
+  "ref_deps": [],
+  "teller": "P027",
+  "claim": {
+   "kind": "dead",
+   "target": "P031"
+  }
+ },
+ {
+  "id": "E0195",
+  "type": "GIVE",
+  "chapter": 16,
+  "text": "Kara Tallowoway won the garnet ledger from the husband of Aenelle Wexner at cards, fairly, and kept it.",
+  "where": "L08",
+  "ref_deps": [
+   "E0131"
+  ],
+  "item": "I09",
+  "src": "P017",
+  "dest": "P048"
+ },
+ {
+  "id": "E0196",
+  "type": "GIVE",
+  "chapter": 16,
+  "text": "Elssa gave the garnet comb to Ilmor Ashworth.",
+  "where": "L01",
+  "ref_deps": [
+   "E0006"
+  ],
+  "item": "I08",
+  "src": "P032",
+  "dest": "P027"
+ },
+ {
+  "id": "E0197",
+  "type": "PROMISE",
+  "chapter": 16,
+  "text": "Ilmor Ashworth gave Elssa Ashworth a solemn promise to teach the children of Wilford their letters.",
+  "where": "L01",
+  "ref_deps": [],
+  "promise": "R08",
+  "a": "P027",
+  "b": "P032",
+  "act": "to teach the children of Wilford their letters"
+ },
+ {
+  "id": "E0198",
+  "type": "TRAVEL",
+  "chapter": 17,
+  "text": "The wife of Aebin Wexner found work in Wendcombe, moved there, and did not return to Ravengate.",
+  "where": "L10",
+  "ref_deps": [
+   "E0111"
+  ],
+  "person": "P021",
+  "src": "L10",
+  "dest": "L12"
+ },
+ {
+  "id": "E0199",
+  "type": "TRAVEL",
+  "chapter": 17,
+  "text": "Aebin Wexner followed her to Wendcombe within the month.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P040",
+  "src": "L10",
+  "dest": "L12"
+ },
+ {
+  "id": "E0200",
+  "type": "PROMISE",
+  "chapter": 17,
+  "text": "Breena gave the wife of Perald Tallowaby a solemn promise to teach the children of Duncombe their letters.",
+  "where": "L08",
+  "ref_deps": [
+   "E0002",
+   "E0131"
+  ],
+  "promise": "R09",
+  "a": "P010",
+  "b": "P042",
+  "act": "to teach the children of Duncombe their letters"
+ },
+ {
+  "id": "E0201",
+  "type": "TELL",
+  "chapter": 17,
+  "text": "In a letter that Veslan Ashworth burned after reading, Kara Tallowoway revealed that the old abbey at Yarlgate hides a second cellar.",
+  "where": "L08",
+  "ref_deps": [],
+  "secret": "S03",
+  "src": "P048",
+  "dest": "P029"
+ },
+ {
+  "id": "E0202",
+  "type": "TRAVEL",
+  "chapter": 17,
+  "text": "Selan Ashworth packed a single trunk and moved from Coldstead to Ostgate.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P030",
+  "src": "L03",
+  "dest": "L09"
+ },
+ {
+  "id": "E0203",
+  "type": "TRAVEL",
+  "chapter": 17,
+  "text": "Brenelle went along to live in Ostgate as well.",
+  "where": "L03",
+  "ref_deps": [
+   "E0007"
+  ],
+  "person": "P037",
+  "src": "L03",
+  "dest": "L09"
+ },
+ {
+  "id": "E0204",
+  "type": "PLAN",
+  "chapter": 17,
+  "text": "The youngest daughter of Pelan Wexner talked for weeks of going to Harrowcombe, yet in the end stayed where she was.",
+  "where": "L08",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P042",
+  "dest": "L06"
+ },
+ {
+  "id": "E0205",
+  "type": "PROMISE",
+  "chapter": 17,
+  "text": "Veslan swore to the only son of Weric Brackick to plant an orchard on the slope above Ostgate, and shook on it.",
+  "where": "L08",
+  "ref_deps": [
+   "E0000",
+   "E0006"
+  ],
+  "promise": "R10",
+  "a": "P029",
+  "b": "P004",
+  "act": "to plant an orchard on the slope above Ostgate"
+ },
+ {
+  "id": "E0206",
+  "type": "TRAVEL",
+  "chapter": 17,
+  "text": "Fera Holloway packed a single trunk and moved from Duncombe to Kelford.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P022",
+  "src": "L04",
+  "dest": "L07"
+ },
+ {
+  "id": "E0207",
+  "type": "DEATH",
+  "chapter": 17,
+  "text": "Weric died of a long wasting sickness at Larkton.",
+  "where": "L08",
+  "ref_deps": [
+   "E0000"
+  ],
+  "person": "P000",
+  "cause": "a long wasting sickness",
+  "place": "L08"
+ },
+ {
+  "id": "E0208",
+  "type": "TRAVEL",
+  "chapter": 18,
+  "text": "Selan Ashworth rode out of Ostgate; by the next market day he was living in Larkton.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P030",
+  "src": "L09",
+  "dest": "L08"
+ },
+ {
+  "id": "E0209",
+  "type": "TRAVEL",
+  "chapter": 18,
+  "text": "Brenelle went along to live in Larkton as well.",
+  "where": "L09",
+  "ref_deps": [
+   "E0007"
+  ],
+  "person": "P037",
+  "src": "L09",
+  "dest": "L08"
+ },
+ {
+  "id": "E0210",
+  "type": "OCCUPATION",
+  "chapter": 18,
+  "text": "Pelan was apprenticed anew and became a weaver.",
+  "where": "L09",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P038",
+  "old": "tanner",
+  "new": "weaver"
+ },
+ {
+  "id": "E0211",
+  "type": "GIVE",
+  "chapter": 18,
+  "text": "Fera Holloway won the oak flute from the wife of Brevus Wexner at cards, fairly, and kept it.",
+  "where": "L07",
+  "ref_deps": [
+   "E0094"
+  ],
+  "item": "I11",
+  "src": "P035",
+  "dest": "P022"
+ },
+ {
+  "id": "E0212",
+  "type": "TELL",
+  "chapter": 18,
+  "text": "Sewyn Tallowaby could keep it no longer and told Vesssa Thornmere that the harbor master of Harrowcombe takes bribes.",
+  "where": "L04",
+  "ref_deps": [],
+  "secret": "S06",
+  "src": "P016",
+  "dest": "P008"
+ },
+ {
+  "id": "E0213",
+  "type": "TRAVEL",
+  "chapter": 18,
+  "text": "Nyzek Tallowaby left Wilford and settled in Braeholt.",
+  "where": "L13",
+  "ref_deps": [],
+  "person": "P015",
+  "src": "L13",
+  "dest": "L01"
+ },
+ {
+  "id": "E0214",
+  "type": "TRAVEL",
+  "chapter": 18,
+  "text": "Dadette Hollford followed him to Braeholt within the month.",
+  "where": "L13",
+  "ref_deps": [],
+  "person": "P036",
+  "src": "L13",
+  "dest": "L01"
+ },
+ {
+  "id": "E0215",
+  "type": "DEATH",
+  "chapter": 18,
+  "text": "That autumn, a winter fever took Ilmor; he was buried at Braeholt.",
+  "where": "L01",
+  "ref_deps": [
+   "E0006"
+  ],
+  "person": "P027",
+  "cause": "a winter fever",
+  "place": "L01"
+ },
+ {
+  "id": "E0216",
+  "type": "GIVE",
+  "chapter": 18,
+  "text": "Among the things left by Ilmor Ashworth, the garnet comb was handed to Veslan Ashworth.",
+  "where": "L01",
+  "ref_deps": [],
+  "item": "I08",
+  "src": "P027",
+  "dest": "P029",
+  "inherit": true
+ },
+ {
+  "id": "E0217",
+  "type": "TRAVEL",
+  "chapter": 18,
+  "text": "Jomira found work in Coldstead, moved there, and did not return to Wendcombe.",
+  "where": "L12",
+  "ref_deps": [
+   "E0004"
+  ],
+  "person": "P021",
+  "src": "L12",
+  "dest": "L03"
+ },
+ {
+  "id": "E0218",
+  "type": "TRAVEL",
+  "chapter": 18,
+  "text": "Aebin followed her to Coldstead within the month.",
+  "where": "L12",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P040",
+  "src": "L12",
+  "dest": "L03"
+ },
+ {
+  "id": "E0219",
+  "type": "TRAVEL",
+  "chapter": 18,
+  "text": "After the quarrel, Lame Vesvie quit Wendcombe for good and took lodgings in Larkton.",
+  "where": "L12",
+  "ref_deps": [
+   "E0049"
+  ],
+  "person": "P034",
+  "src": "L12",
+  "dest": "L08"
+ },
+ {
+  "id": "E0220",
+  "type": "RUMOR",
+  "chapter": 19,
+  "text": "A rumor started by Fera Holloway had it that Jomira Holloway was dead of plague; Fera Holloway had it from a peddler.",
+  "where": "L07",
+  "ref_deps": [],
+  "teller": "P022",
+  "claim": {
+   "kind": "dead",
+   "target": "P021"
+  }
+ },
+ {
+  "id": "E0221",
+  "type": "RESOLVE",
+  "chapter": 19,
+  "text": "Breena kept the promise made to Aenelle Wexner: the task (teach the children of Duncombe their letters) was done by harvest.",
+  "where": "L08",
+  "ref_deps": [
+   "E0002"
+  ],
+  "promise": "R09",
+  "kept": true
+ },
+ {
+  "id": "E0222",
+  "type": "TELL",
+  "chapter": 19,
+  "text": "In a letter that the youngest daughter of Pelan Wexner burned after reading, the wife of Ronar Brackick revealed that the bridge toll at Ostgate is skimmed every month.",
+  "where": "L08",
+  "ref_deps": [
+   "E0008",
+   "E0013"
+  ],
+  "secret": "S02",
+  "src": "P031",
+  "dest": "P042"
+ },
+ {
+  "id": "E0223",
+  "type": "BIRTH",
+  "chapter": 19,
+  "text": "Aenelle Wexner gave birth to a daughter, named Brerine Tallowaby; the father was Perald Tallowaby. The family lived in Larkton.",
+  "where": "L08",
+  "ref_deps": [],
+  "child": "P054",
+  "mother": "P042",
+  "father": "P017",
+  "place": "L08"
+ },
+ {
+  "id": "E0224",
+  "type": "TELL",
+  "chapter": 19,
+  "text": "The only daughter of Daric Thornmere could keep it no longer and told Hamira that the harbor master of Harrowcombe takes bribes.",
+  "where": "L04",
+  "ref_deps": [
+   "E0001",
+   "E0009"
+  ],
+  "secret": "S06",
+  "src": "P008",
+  "dest": "P049"
+ },
+ {
+  "id": "E0225",
+  "type": "TRAVEL",
+  "chapter": 20,
+  "text": "After the quarrel, the only daughter of Aezek Brackenridge quit Coldstead for good and took lodgings in Wilford.",
+  "where": "L03",
+  "ref_deps": [
+   "E0002"
+  ],
+  "person": "P011",
+  "src": "L03",
+  "dest": "L13"
+ },
+ {
+  "id": "E0226",
+  "type": "TRAVEL",
+  "chapter": 20,
+  "text": "Karald Tallowoway went along to live in Wilford as well.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P047",
+  "src": "L03",
+  "dest": "L13"
+ },
+ {
+  "id": "E0227",
+  "type": "OCCUPATION",
+  "chapter": 20,
+  "text": "Aebin was apprenticed anew and became a fisher.",
+  "where": "L03",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P040",
+  "old": "glazier",
+  "new": "fisher"
+ },
+ {
+  "id": "E0228",
+  "type": "PROMISE",
+  "chapter": 20,
+  "text": "Veslan Ashworth swore to Aedan Brackick to pay the old debt owed to the Brackenridge family, and shook on it.",
+  "where": "L08",
+  "ref_deps": [],
+  "promise": "R11",
+  "a": "P029",
+  "b": "P050",
+  "act": "to pay the old debt owed to the Brackenridge family"
+ },
+ {
+  "id": "E0229",
+  "type": "TELL",
+  "chapter": 20,
+  "text": "In a letter that Vesssa Thornmere burned after reading, Malan Tallowoway revealed that the bridge toll at Ostgate is skimmed every month.",
+  "where": "L04",
+  "ref_deps": [],
+  "secret": "S02",
+  "src": "P046",
+  "dest": "P008"
+ },
+ {
+  "id": "E0230",
+  "type": "GIVE",
+  "chapter": 20,
+  "text": "Brenelle won the garnet ledger from Kara Tallowoway at cards, fairly, and kept it.",
+  "where": "L08",
+  "ref_deps": [
+   "E0007"
+  ],
+  "item": "I09",
+  "src": "P048",
+  "dest": "P037"
+ },
+ {
+  "id": "E0231",
+  "type": "TELL",
+  "chapter": 20,
+  "text": "Late one night Vesssa Thornmere confided to Sewyn that the bridge toll at Ostgate is skimmed every month.",
+  "where": "L04",
+  "ref_deps": [
+   "E0003"
+  ],
+  "secret": "S02",
+  "src": "P008",
+  "dest": "P016"
+ },
+ {
+  "id": "E0232",
+  "type": "TRAVEL",
+  "chapter": 20,
+  "text": "Vesssa Thornmere rode out of Duncombe; by the next market day she was living in Elmby.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P008",
+  "src": "L04",
+  "dest": "L05"
+ },
+ {
+  "id": "E0233",
+  "type": "TELL",
+  "chapter": 20,
+  "text": "Late one night Orrine Thornmere confided to Daric Thornmere that the harbor master of Harrowcombe takes bribes.",
+  "where": "L02",
+  "ref_deps": [],
+  "secret": "S06",
+  "src": "P006",
+  "dest": "P005"
+ },
+ {
+  "id": "E0234",
+  "type": "TRAVEL",
+  "chapter": 21,
+  "text": "Daric Thornmere packed a single trunk and moved from Brynford to Elmby.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P005",
+  "src": "L02",
+  "dest": "L05"
+ },
+ {
+  "id": "E0235",
+  "type": "TRAVEL",
+  "chapter": 21,
+  "text": "Orrine followed him to Elmby within the month.",
+  "where": "L02",
+  "ref_deps": [
+   "E0001"
+  ],
+  "person": "P006",
+  "src": "L02",
+  "dest": "L05"
+ },
+ {
+  "id": "E0236",
+  "type": "PROMISE",
+  "chapter": 21,
+  "text": "Damor Stenley swore to Sewyn Tallowaby to teach the children of Braeholt their letters, and shook on it.",
+  "where": "L02",
+  "ref_deps": [],
+  "promise": "R12",
+  "a": "P026",
+  "b": "P016",
+  "act": "to teach the children of Braeholt their letters"
+ },
+ {
+  "id": "E0237",
+  "type": "PLAN",
+  "chapter": 21,
+  "text": "Aebin Wexner meant to go to Wilford before the frost, but the roads flooded and the journey was put off.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P040",
+  "dest": "L13"
+ },
+ {
+  "id": "E0238",
+  "type": "RUMOR",
+  "chapter": 21,
+  "text": "A rumor started by Aebin had it that Thivie Brackenridge was dead of plague; Aebin had it from a peddler.",
+  "where": "L03",
+  "ref_deps": [
+   "E0008"
+  ],
+  "teller": "P040",
+  "claim": {
+   "kind": "dead",
+   "target": "P011"
+  }
+ },
+ {
+  "id": "E0239",
+  "type": "TELL",
+  "chapter": 21,
+  "text": "Late one night Tall Sewyn confided to Dassa Ashworth that the Brackenridge mill ledger was rewritten after the flood.",
+  "where": "L04",
+  "ref_deps": [
+   "E0031"
+  ],
+  "secret": "S00",
+  "src": "P016",
+  "dest": "P031"
+ },
+ {
+  "id": "E0240",
+  "type": "BIRTH",
+  "chapter": 21,
+  "text": "A daughter was born to Dassa Brackick and Veslan Ashworth, and they called the child Maena Ashworth. The family lived in Larkton.",
+  "where": "L08",
+  "ref_deps": [],
+  "child": "P055",
+  "mother": "P002",
+  "father": "P029",
+  "place": "L08"
+ },
+ {
+  "id": "E0241",
+  "type": "TRAVEL",
+  "chapter": 21,
+  "text": "Malan rode out of Duncombe; by the next market day he was living in Harrowcombe.",
+  "where": "L04",
+  "ref_deps": [
+   "E0009"
+  ],
+  "person": "P046",
+  "src": "L04",
+  "dest": "L06"
+ },
+ {
+  "id": "E0242",
+  "type": "TRAVEL",
+  "chapter": 21,
+  "text": "Sewyn Tallowaby followed him to Harrowcombe within the month.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P016",
+  "src": "L04",
+  "dest": "L06"
+ },
+ {
+  "id": "E0243",
+  "type": "TRAVEL",
+  "chapter": 21,
+  "text": "Hamira Tallowoway left Duncombe and settled in Brynford.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P049",
+  "src": "L04",
+  "dest": "L02"
+ },
+ {
+  "id": "E0244",
+  "type": "DEATH",
+  "chapter": 22,
+  "text": "That autumn, drowning in the flood took Brelia Tallowaby; she was buried at Kelford.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P014",
+  "cause": "drowning in the flood",
+  "place": "L07"
+ },
+ {
+  "id": "E0245",
+  "type": "GIVE",
+  "chapter": 22,
+  "text": "Vesssa Thornmere pressed the amber mirror into the hands of Daric Thornmere and would take nothing for it.",
+  "where": "L05",
+  "ref_deps": [],
+  "item": "I00",
+  "src": "P008",
+  "dest": "P005"
+ },
+ {
+  "id": "E0246",
+  "type": "BIRTH",
+  "chapter": 22,
+  "text": "A daughter was born to Jomira Holloway and Aebin Wexner, and they called the child Semira Wexner. The family lived in Coldstead.",
+  "where": "L03",
+  "ref_deps": [],
+  "child": "P056",
+  "mother": "P021",
+  "father": "P040",
+  "place": "L03"
+ },
+ {
+  "id": "E0247",
+  "type": "RUMOR",
+  "chapter": 22,
+  "text": "Felde Hollford whispered that Jomira Holloway had secretly married Thidan Holloway, but nobody could say where or when.",
+  "where": "L07",
+  "ref_deps": [],
+  "teller": "P035",
+  "claim": {
+   "kind": "married",
+   "target": "P021",
+   "other": "P018"
+  }
+ },
+ {
+  "id": "E0248",
+  "type": "PLAN",
+  "chapter": 22,
+  "text": "Red Fera meant to go to Ravengate before the frost, but the roads flooded and the journey was put off.",
+  "where": "L07",
+  "ref_deps": [
+   "E0037"
+  ],
+  "person": "P022",
+  "dest": "L10"
+ },
+ {
+  "id": "E0249",
+  "type": "PLAN",
+  "chapter": 22,
+  "text": "Vesssa Thornmere meant to go to Yarlwick before the frost, but the roads flooded and the journey was put off.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P008",
+  "dest": "L15"
+ },
+ {
+  "id": "E0250",
+  "type": "GIVE",
+  "chapter": 22,
+  "text": "Veslan Ashworth gave the garnet comb to Perald Tallowaby.",
+  "where": "L08",
+  "ref_deps": [],
+  "item": "I08",
+  "src": "P029",
+  "dest": "P017"
+ },
+ {
+  "id": "E0251",
+  "type": "TELL",
+  "chapter": 22,
+  "text": "Thidan Holloway could keep it no longer and told the wife of Riric Stenley that the harbor master of Harrowcombe takes bribes.",
+  "where": "L11",
+  "ref_deps": [
+   "E0005"
+  ],
+  "secret": "S06",
+  "src": "P018",
+  "dest": "P024"
+ },
+ {
+  "id": "E0252",
+  "type": "GIVE",
+  "chapter": 22,
+  "text": "The eldest daughter of Aeena Holloway sent the brass chalice by carrier to Femira, who received it safely.",
+  "where": "L03",
+  "ref_deps": [
+   "E0004",
+   "E0005"
+  ],
+  "item": "I03",
+  "src": "P021",
+  "dest": "P024"
+ },
+ {
+  "id": "E0253",
+  "type": "MARRY",
+  "chapter": 23,
+  "text": "Fera Holloway and Yenar Tallowaby were wed at Kelford, with half the parish looking on. The couple lived in Kelford from then on.",
+  "where": "L07",
+  "ref_deps": [],
+  "a": "P022",
+  "b": "P013",
+  "place": "L07"
+ },
+ {
+  "id": "E0254",
+  "type": "BIRTH",
+  "chapter": 23,
+  "text": "Dassa Brackick gave birth to a daughter, named Danelle Ashworth; the father was Veslan Ashworth. The family lived in Larkton.",
+  "where": "L08",
+  "ref_deps": [],
+  "child": "P057",
+  "mother": "P002",
+  "father": "P029",
+  "place": "L08"
+ },
+ {
+  "id": "E0255",
+  "type": "BIRTH",
+  "chapter": 23,
+  "text": "A daughter was born to Dadette Hollford and Nyzek Tallowaby, and they called the child Vorine Tallowaby. The family lived in Braeholt.",
+  "where": "L01",
+  "ref_deps": [],
+  "child": "P058",
+  "mother": "P036",
+  "father": "P015",
+  "place": "L01"
+ },
+ {
+  "id": "E0256",
+  "type": "TELL",
+  "chapter": 23,
+  "text": "Dassa Ashworth could keep it no longer and told Kara Tallowoway that the bridge toll at Ostgate is skimmed every month.",
+  "where": "L08",
+  "ref_deps": [],
+  "secret": "S02",
+  "src": "P031",
+  "dest": "P048"
+ },
+ {
+  "id": "E0257",
+  "type": "TRAVEL",
+  "chapter": 23,
+  "text": "Veslan Ashworth left Larkton and settled in Torford.",
+  "where": "L08",
+  "ref_deps": [],
+  "person": "P029",
+  "src": "L08",
+  "dest": "L11"
+ },
+ {
+  "id": "E0258",
+  "type": "TRAVEL",
+  "chapter": 23,
+  "text": "Dassa Brackick followed him to Torford within the month.",
+  "where": "L08",
+  "ref_deps": [],
+  "person": "P002",
+  "src": "L08",
+  "dest": "L11"
+ },
+ {
+  "id": "E0259",
+  "type": "GIVE",
+  "chapter": 23,
+  "text": "Felde Hollford won the oak flute from Fera Holloway at cards, fairly, and kept it.",
+  "where": "L07",
+  "ref_deps": [],
+  "item": "I11",
+  "src": "P022",
+  "dest": "P035"
+ },
+ {
+  "id": "E0260",
+  "type": "DEATH",
+  "chapter": 23,
+  "text": "That winter, a fall from the mill loft took Thidan; he was buried at Torford.",
+  "where": "L11",
+  "ref_deps": [
+   "E0004"
+  ],
+  "person": "P018",
+  "cause": "a fall from the mill loft",
+  "place": "L11"
+ },
+ {
+  "id": "E0261",
+  "type": "RESOLVE",
+  "chapter": 23,
+  "text": "True to his word to Ronar Brackick, Veslan Ashworth finished what he had promised (plant an orchard on the slope above Ostgate).",
+  "where": "L11",
+  "ref_deps": [],
+  "promise": "R10",
+  "kept": true
+ },
+ {
+  "id": "E0262",
+  "type": "PROMISE",
+  "chapter": 24,
+  "text": "Dadette swore to Ferine Ashworth to teach the children of Braehaven their letters, and shook on it.",
+  "where": "L01",
+  "ref_deps": [
+   "E0007"
+  ],
+  "promise": "R13",
+  "a": "P036",
+  "b": "P052",
+  "act": "to teach the children of Braehaven their letters"
+ },
+ {
+  "id": "E0263",
+  "type": "MARRY",
+  "chapter": 24,
+  "text": "Hamira Tallowoway and Aedan Brackick were wed at Brynford, with half the parish looking on. The couple lived in Brynford from then on.",
+  "where": "L02",
+  "ref_deps": [],
+  "a": "P049",
+  "b": "P050",
+  "place": "L02"
+ },
+ {
+  "id": "E0264",
+  "type": "PROMISE",
+  "chapter": 24,
+  "text": "Damor Stenley gave Aedan a solemn promise to pay the old debt owed to the Tallowoway family.",
+  "where": "L02",
+  "ref_deps": [
+   "E0097"
+  ],
+  "promise": "R14",
+  "a": "P026",
+  "b": "P050",
+  "act": "to pay the old debt owed to the Tallowoway family"
+ },
+ {
+  "id": "E0265",
+  "type": "OCCUPATION",
+  "chapter": 24,
+  "text": "The wife of Karald Tallowoway was apprenticed anew and became a smith.",
+  "where": "L13",
+  "ref_deps": [
+   "E0002",
+   "E0015"
+  ],
+  "person": "P011",
+  "old": "ferryman",
+  "new": "smith"
+ },
+ {
+  "id": "E0266",
+  "type": "GIVE",
+  "chapter": 24,
+  "text": "A parcel from Vesvie Hollford reached Brevus; inside was the copper locket, now his to keep.",
+  "where": "L08",
+  "ref_deps": [
+   "E0008"
+  ],
+  "item": "I05",
+  "src": "P034",
+  "dest": "P043"
+ },
+ {
+  "id": "E0267",
+  "type": "GIVE",
+  "chapter": 24,
+  "text": "A parcel from Felde reached Ildette Brackick; inside was the oak flute, now hers to keep.",
+  "where": "L07",
+  "ref_deps": [
+   "E0007"
+  ],
+  "item": "I11",
+  "src": "P035",
+  "dest": "P003"
+ },
+ {
+  "id": "E0268",
+  "type": "TRAVEL",
+  "chapter": 25,
+  "text": "Perald found work in Wendcombe, moved there, and did not return to Larkton.",
+  "where": "L08",
+  "ref_deps": [
+   "E0003"
+  ],
+  "person": "P017",
+  "src": "L08",
+  "dest": "L12"
+ },
+ {
+  "id": "E0269",
+  "type": "TRAVEL",
+  "chapter": 25,
+  "text": "Aenelle Wexner went along to live in Wendcombe as well.",
+  "where": "L08",
+  "ref_deps": [],
+  "person": "P042",
+  "src": "L08",
+  "dest": "L12"
+ },
+ {
+  "id": "E0270",
+  "type": "PROMISE",
+  "chapter": 25,
+  "text": "Ferine swore to Moric Ashworth to teach the children of Braehaven their letters, and shook on it.",
+  "where": "L01",
+  "ref_deps": [
+   "E0148"
+  ],
+  "promise": "R15",
+  "a": "P052",
+  "b": "P053",
+  "act": "to teach the children of Braehaven their letters"
+ },
+ {
+  "id": "E0271",
+  "type": "TELL",
+  "chapter": 25,
+  "text": "In a letter that Felde burned after reading, the wife of Yenar Tallowaby revealed that the Brackenridge mill ledger was rewritten after the flood.",
+  "where": "L07",
+  "ref_deps": [
+   "E0007",
+   "E0253"
+  ],
+  "secret": "S00",
+  "src": "P022",
+  "dest": "P035"
+ },
+ {
+  "id": "E0272",
+  "type": "DEATH",
+  "chapter": 25,
+  "text": "They laid the youngest son of Ritho Tallowoway in the churchyard at Wilford, dead of a winter fever.",
+  "where": "L13",
+  "ref_deps": [
+   "E0009"
+  ],
+  "person": "P047",
+  "cause": "a winter fever",
+  "place": "L13"
+ },
+ {
+  "id": "E0273",
+  "type": "PROMISE",
+  "chapter": 25,
+  "text": "Thivie Brackenridge gave Ildette Brackick a solemn promise to repair the roof of the chapel at Yarlwick.",
+  "where": "L13",
+  "ref_deps": [],
+  "promise": "R16",
+  "a": "P011",
+  "b": "P003",
+  "act": "to repair the roof of the chapel at Yarlwick"
+ },
+ {
+  "id": "E0274",
+  "type": "DEATH",
+  "chapter": 25,
+  "text": "That summer, drowning in the flood took Ilnelle; she was buried at Harrowcombe.",
+  "where": "L06",
+  "ref_deps": [
+   "E0009"
+  ],
+  "person": "P045",
+  "cause": "drowning in the flood",
+  "place": "L06"
+ },
+ {
+  "id": "E0275",
+  "type": "GIVE",
+  "chapter": 26,
+  "text": "A parcel from Daric reached Damor Stenley; inside was the amber mirror, now his to keep.",
+  "where": "L05",
+  "ref_deps": [
+   "E0001"
+  ],
+  "item": "I00",
+  "src": "P005",
+  "dest": "P026"
+ },
+ {
+  "id": "E0276",
+  "type": "PLAN",
+  "chapter": 26,
+  "text": "The wife of Brevus Wexner meant to go to Elmby before the frost, but the roads flooded and the journey was put off.",
+  "where": "L07",
+  "ref_deps": [
+   "E0094"
+  ],
+  "person": "P035",
+  "dest": "L05"
+ },
+ {
+  "id": "E0277",
+  "type": "TELL",
+  "chapter": 26,
+  "text": "Late one night Sewyn Tallowaby confided to Daric Thornmere that the Brackenridge mill ledger was rewritten after the flood.",
+  "where": "L06",
+  "ref_deps": [],
+  "secret": "S00",
+  "src": "P016",
+  "dest": "P005"
+ },
+ {
+  "id": "E0278",
+  "type": "TRAVEL",
+  "chapter": 26,
+  "text": "Malan rode out of Harrowcombe; by the next market day he was living in Ostgate.",
+  "where": "L06",
+  "ref_deps": [
+   "E0009"
+  ],
+  "person": "P046",
+  "src": "L06",
+  "dest": "L09"
+ },
+ {
+  "id": "E0279",
+  "type": "TRAVEL",
+  "chapter": 26,
+  "text": "Tall Sewyn followed him to Ostgate within the month.",
+  "where": "L06",
+  "ref_deps": [
+   "E0031"
+  ],
+  "person": "P016",
+  "src": "L06",
+  "dest": "L09"
+ },
+ {
+  "id": "E0280",
+  "type": "RESOLVE",
+  "chapter": 26,
+  "text": "Pelan Wexner kept the promise made to Brevus Wexner: the task (rebuild the fallen wall at Torford) was done by harvest.",
+  "where": "L09",
+  "ref_deps": [],
+  "promise": "R04",
+  "kept": true
+ },
+ {
+  "id": "E0281",
+  "type": "TRAVEL",
+  "chapter": 26,
+  "text": "Sewyn Tallowaby rode out of Ostgate; by the next market day she was living in Harrowcombe.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P016",
+  "src": "L09",
+  "dest": "L06"
+ },
+ {
+  "id": "E0282",
+  "type": "TRAVEL",
+  "chapter": 26,
+  "text": "Malan followed her to Harrowcombe within the month.",
+  "where": "L09",
+  "ref_deps": [
+   "E0009"
+  ],
+  "person": "P046",
+  "src": "L09",
+  "dest": "L06"
+ },
+ {
+  "id": "E0283",
+  "type": "TELL",
+  "chapter": 27,
+  "text": "Malan Tallowoway could keep it no longer and told Perald that the Brackenridge mill ledger was rewritten after the flood.",
+  "where": "L06",
+  "ref_deps": [
+   "E0003"
+  ],
+  "secret": "S00",
+  "src": "P046",
+  "dest": "P017"
+ },
+ {
+  "id": "E0284",
+  "type": "MARRY",
+  "chapter": 27,
+  "text": "Before the winter was out, Zalia took Damor Stenley in marriage at Larkton. The couple lived in Larkton from then on.",
+  "where": "L08",
+  "ref_deps": [
+   "E0147"
+  ],
+  "a": "P051",
+  "b": "P026",
+  "place": "L08"
+ },
+ {
+  "id": "E0285",
+  "type": "PROMISE",
+  "chapter": 27,
+  "text": "Brenelle Hollford gave Ronar Brackick a solemn promise to pay the old debt owed to the Tallowoway family.",
+  "where": "L08",
+  "ref_deps": [],
+  "promise": "R17",
+  "a": "P037",
+  "b": "P004",
+  "act": "to pay the old debt owed to the Tallowoway family"
+ },
+ {
+  "id": "E0286",
+  "type": "MARRY",
+  "chapter": 27,
+  "text": "Before the winter was out, Ferine took Pelan Wexner in marriage at Braeholt. The couple lived in Braeholt from then on.",
+  "where": "L01",
+  "ref_deps": [
+   "E0148"
+  ],
+  "a": "P052",
+  "b": "P038",
+  "place": "L01"
+ },
+ {
+  "id": "E0287",
+  "type": "GIVE",
+  "chapter": 27,
+  "text": "Breena Brackenridge gave the copper ledger to Kara Tallowoway.",
+  "where": "L08",
+  "ref_deps": [],
+  "item": "I04",
+  "src": "P010",
+  "dest": "P048"
+ },
+ {
+  "id": "E0288",
+  "type": "MARRY",
+  "chapter": 27,
+  "text": "Vesssa Thornmere and Moric were wed at Elmby, with half the parish looking on. The couple lived in Elmby from then on.",
+  "where": "L05",
+  "ref_deps": [
+   "E0164"
+  ],
+  "a": "P008",
+  "b": "P053",
+  "place": "L05"
+ },
+ {
+  "id": "E0289",
+  "type": "DEATH",
+  "chapter": 27,
+  "text": "They laid Breena Brackenridge in the churchyard at Larkton, dead of a wound that festered.",
+  "where": "L08",
+  "ref_deps": [],
+  "person": "P010",
+  "cause": "a wound that festered",
+  "place": "L08"
+ },
+ {
+  "id": "E0290",
+  "type": "DEATH",
+  "chapter": 28,
+  "text": "They laid Lame Femira in the churchyard at Torford, dead of a wound that festered.",
+  "where": "L11",
+  "ref_deps": [
+   "E0039"
+  ],
+  "person": "P024",
+  "cause": "a wound that festered",
+  "place": "L11"
+ },
+ {
+  "id": "E0291",
+  "type": "GIVE",
+  "chapter": 28,
+  "text": "Among the things left by Femira Stenley, the brass chalice was handed to Riric.",
+  "where": "L11",
+  "ref_deps": [
+   "E0005"
+  ],
+  "item": "I03",
+  "src": "P024",
+  "dest": "P023",
+  "inherit": true
+ },
+ {
+  "id": "E0292",
+  "type": "GIVE",
+  "chapter": 28,
+  "text": "The oak comb, which Femira Stenley had owned, went to Riric Stenley.",
+  "where": "L11",
+  "ref_deps": [],
+  "item": "I10",
+  "src": "P024",
+  "dest": "P023",
+  "inherit": true
+ },
+ {
+  "id": "E0293",
+  "type": "PLAN",
+  "chapter": 28,
+  "text": "The wife of Veslan Ashworth meant to go to Harrowcombe before the frost, but the roads flooded and the journey was put off.",
+  "where": "L11",
+  "ref_deps": [
+   "E0126"
+  ],
+  "person": "P002",
+  "dest": "L06"
+ },
+ {
+  "id": "E0294",
+  "type": "RESOLVE",
+  "chapter": 28,
+  "text": "True to his word to Aedan Brackick, Damor Stenley finished what he had promised (pay the old debt owed to the Tallowoway family).",
+  "where": "L08",
+  "ref_deps": [],
+  "promise": "R14",
+  "kept": true
+ },
+ {
+  "id": "E0295",
+  "type": "PLAN",
+  "chapter": 28,
+  "text": "The husband of Brenelle Hollford talked for weeks of going to Duncombe, yet in the end stayed where he was.",
+  "where": "L08",
+  "ref_deps": [
+   "E0011"
+  ],
+  "person": "P030",
+  "dest": "L04"
+ },
+ {
+  "id": "E0296",
+  "type": "TRAVEL",
+  "chapter": 28,
+  "text": "Damor found work in Braeholt, moved there, and did not return to Larkton.",
+  "where": "L08",
+  "ref_deps": [
+   "E0005"
+  ],
+  "person": "P026",
+  "src": "L08",
+  "dest": "L01"
+ },
+ {
+  "id": "E0297",
+  "type": "TRAVEL",
+  "chapter": 28,
+  "text": "Zalia went along to live in Braeholt as well.",
+  "where": "L08",
+  "ref_deps": [
+   "E0147"
+  ],
+  "person": "P051",
+  "src": "L08",
+  "dest": "L01"
+ },
+ {
+  "id": "E0298",
+  "type": "TELL",
+  "chapter": 28,
+  "text": "Late one night Perald Tallowaby confided to Aenelle Wexner that the old abbey at Yarlgate hides a second cellar.",
+  "where": "L12",
+  "ref_deps": [],
+  "secret": "S03",
+  "src": "P017",
+  "dest": "P042"
+ },
+ {
+  "id": "E0299",
+  "type": "TRAVEL",
+  "chapter": 28,
+  "text": "Jomira left Coldstead and settled in Duncombe.",
+  "where": "L03",
+  "ref_deps": [
+   "E0004"
+  ],
+  "person": "P021",
+  "src": "L03",
+  "dest": "L04"
+ },
+ {
+  "id": "E0300",
+  "type": "TRAVEL",
+  "chapter": 28,
+  "text": "Aebin Wexner followed her to Duncombe within the month.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P040",
+  "src": "L03",
+  "dest": "L04"
+ },
+ {
+  "id": "E0301",
+  "type": "RESOLVE",
+  "chapter": 28,
+  "text": "Ferine Ashworth broke faith with Moric Ashworth, and the promised work (teach the children of Braehaven their letters) was never begun.",
+  "where": "L01",
+  "ref_deps": [],
+  "promise": "R15",
+  "kept": false
+ },
+ {
+  "id": "E0302",
+  "type": "TRAVEL",
+  "chapter": 29,
+  "text": "Brenelle found work in Ostgate, moved there, and did not return to Larkton.",
+  "where": "L08",
+  "ref_deps": [
+   "E0007"
+  ],
+  "person": "P037",
+  "src": "L08",
+  "dest": "L09"
+ },
+ {
+  "id": "E0303",
+  "type": "TRAVEL",
+  "chapter": 29,
+  "text": "Selan Ashworth followed her to Ostgate within the month.",
+  "where": "L08",
+  "ref_deps": [],
+  "person": "P030",
+  "src": "L08",
+  "dest": "L09"
+ },
+ {
+  "id": "E0304",
+  "type": "BIRTH",
+  "chapter": 29,
+  "text": "A daughter was born to Dassa Ashworth and Ronar Brackick, and they called the child Nessa Brackick. The family lived in Larkton.",
+  "where": "L08",
+  "ref_deps": [],
+  "child": "P059",
+  "mother": "P031",
+  "father": "P004",
+  "place": "L08"
+ },
+ {
+  "id": "E0305",
+  "type": "PROMISE",
+  "chapter": 29,
+  "text": "Aedan gave Hamira Tallowoway a solemn promise to carry a sealed letter to Ostgate.",
+  "where": "L02",
+  "ref_deps": [
+   "E0097"
+  ],
+  "promise": "R18",
+  "a": "P050",
+  "b": "P049",
+  "act": "to carry a sealed letter to Ostgate"
+ },
+ {
+  "id": "E0306",
+  "type": "GIVE",
+  "chapter": 29,
+  "text": "Damor Stenley gave the garnet chalice to Zalia Brackenridge.",
+  "where": "L01",
+  "ref_deps": [],
+  "item": "I07",
+  "src": "P026",
+  "dest": "P051"
+ },
+ {
+  "id": "E0307",
+  "type": "TRAVEL",
+  "chapter": 29,
+  "text": "Lame Vesvie packed a single trunk and moved from Larkton to Yarlwick.",
+  "where": "L08",
+  "ref_deps": [
+   "E0049"
+  ],
+  "person": "P034",
+  "src": "L08",
+  "dest": "L15"
+ },
+ {
+  "id": "E0308",
+  "type": "DEATH",
+  "chapter": 30,
+  "text": "Pelan died of old age, quietly in sleep at Braeholt.",
+  "where": "L01",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P038",
+  "cause": "old age, quietly in sleep",
+  "place": "L01"
+ },
+ {
+  "id": "E0309",
+  "type": "OCCUPATION",
+  "chapter": 30,
+  "text": "Riric was apprenticed anew and became a cooper.",
+  "where": "L11",
+  "ref_deps": [
+   "E0005"
+  ],
+  "person": "P023",
+  "old": "brewer",
+  "new": "cooper"
+ },
+ {
+  "id": "E0310",
+  "type": "TRAVEL",
+  "chapter": 30,
+  "text": "Elssa Ashworth left Braeholt and settled in Yarlgate.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P032",
+  "src": "L01",
+  "dest": "L14"
+ },
+ {
+  "id": "E0311",
+  "type": "TRAVEL",
+  "chapter": 30,
+  "text": "Zalia Brackenridge rode out of Braeholt; by the next market day she was living in Torford.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P051",
+  "src": "L01",
+  "dest": "L11"
+ },
+ {
+  "id": "E0312",
+  "type": "TRAVEL",
+  "chapter": 30,
+  "text": "Damor Stenley went along to live in Torford as well.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P026",
+  "src": "L01",
+  "dest": "L11"
+ },
+ {
+  "id": "E0313",
+  "type": "PROMISE",
+  "chapter": 30,
+  "text": "Nyzek gave Ferine Ashworth a solemn promise to rebuild the fallen wall at Elmby.",
+  "where": "L01",
+  "ref_deps": [
+   "E0003"
+  ],
+  "promise": "R19",
+  "a": "P015",
+  "b": "P052",
+  "act": "to rebuild the fallen wall at Elmby"
+ },
+ {
+  "id": "E0314",
+  "type": "TRAVEL",
+  "chapter": 30,
+  "text": "Kara Tallowoway packed a single trunk and moved from Larkton to Ostgate.",
+  "where": "L08",
+  "ref_deps": [],
+  "person": "P048",
+  "src": "L08",
+  "dest": "L09"
+ },
+ {
+  "id": "E0315",
+  "type": "TRAVEL",
+  "chapter": 30,
+  "text": "Zabin Brackenridge went along to live in Ostgate as well.",
+  "where": "L08",
+  "ref_deps": [],
+  "person": "P012",
+  "src": "L08",
+  "dest": "L09"
+ },
+ {
+  "id": "E0316",
+  "type": "MARRY",
+  "chapter": 30,
+  "text": "Aeena Holloway and Riric Stenley were wed at Torford, with half the parish looking on. The couple lived in Torford from then on.",
+  "where": "L11",
+  "ref_deps": [],
+  "a": "P019",
+  "b": "P023",
+  "place": "L11"
+ },
+ {
+  "id": "E0317",
+  "type": "TELL",
+  "chapter": 31,
+  "text": "The eldest son of Ilnelle Tallowoway could keep it no longer and told Aeena Holloway that the harbor master of Harrowcombe takes bribes.",
+  "where": "L06",
+  "ref_deps": [
+   "E0009"
+  ],
+  "secret": "S06",
+  "src": "P046",
+  "dest": "P019"
+ },
+ {
+  "id": "E0318",
+  "type": "RESOLVE",
+  "chapter": 31,
+  "text": "True to her word to Ilmor Ashworth, the youngest daughter of Ilmor Ashworth finished what she had promised (pay the old debt owed to the Wexner family).",
+  "where": "L14",
+  "ref_deps": [
+   "E0006"
+  ],
+  "promise": "R07",
+  "kept": true
+ },
+ {
+  "id": "E0319",
+  "type": "TRAVEL",
+  "chapter": 31,
+  "text": "Dassa Brackick left Torford and settled in Ravengate.",
+  "where": "L11",
+  "ref_deps": [],
+  "person": "P002",
+  "src": "L11",
+  "dest": "L10"
+ },
+ {
+  "id": "E0320",
+  "type": "TRAVEL",
+  "chapter": 31,
+  "text": "Veslan Ashworth followed her to Ravengate within the month.",
+  "where": "L11",
+  "ref_deps": [],
+  "person": "P029",
+  "src": "L11",
+  "dest": "L10"
+ },
+ {
+  "id": "E0321",
+  "type": "TELL",
+  "chapter": 31,
+  "text": "Late one night Kara Tallowoway confided to Brenelle Hollford that the bridge toll at Ostgate is skimmed every month.",
+  "where": "L09",
+  "ref_deps": [],
+  "secret": "S02",
+  "src": "P048",
+  "dest": "P037"
+ },
+ {
+  "id": "E0322",
+  "type": "DEATH",
+  "chapter": 31,
+  "text": "The wife of Riric Stenley died of a kick from a cart horse at Torford.",
+  "where": "L11",
+  "ref_deps": [
+   "E0316"
+  ],
+  "person": "P019",
+  "cause": "a kick from a cart horse",
+  "place": "L11"
+ },
+ {
+  "id": "E0323",
+  "type": "GIVE",
+  "chapter": 31,
+  "text": "The eldest daughter of Ritho Tallowoway pressed the copper ledger into the hands of Selan Ashworth and would take nothing for it.",
+  "where": "L09",
+  "ref_deps": [
+   "E0009"
+  ],
+  "item": "I04",
+  "src": "P048",
+  "dest": "P030"
+ },
+ {
+  "id": "E0324",
+  "type": "TELL",
+  "chapter": 31,
+  "text": "Brenelle Hollford could keep it no longer and told the youngest son of Tara Ashworth that the bridge toll at Ostgate is skimmed every month.",
+  "where": "L09",
+  "ref_deps": [
+   "E0006"
+  ],
+  "secret": "S02",
+  "src": "P037",
+  "dest": "P030"
+ },
+ {
+  "id": "E0325",
+  "type": "PROMISE",
+  "chapter": 31,
+  "text": "Brenelle Hollford gave the eldest daughter of Ilnelle Tallowoway a solemn promise to plant an orchard on the slope above Braeholt.",
+  "where": "L09",
+  "ref_deps": [
+   "E0009"
+  ],
+  "promise": "R20",
+  "a": "P037",
+  "b": "P048",
+  "act": "to plant an orchard on the slope above Braeholt"
+ },
+ {
+  "id": "E0326",
+  "type": "TRAVEL",
+  "chapter": 32,
+  "text": "Elssa Ashworth packed a single trunk and moved from Yarlgate to Wilford.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P032",
+  "src": "L14",
+  "dest": "L13"
+ },
+ {
+  "id": "E0327",
+  "type": "TRAVEL",
+  "chapter": 32,
+  "text": "Malan Tallowoway packed a single trunk and moved from Harrowcombe to Larkton.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P046",
+  "src": "L06",
+  "dest": "L08"
+ },
+ {
+  "id": "E0328",
+  "type": "TRAVEL",
+  "chapter": 32,
+  "text": "Sewyn Tallowaby went along to live in Larkton as well.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P016",
+  "src": "L06",
+  "dest": "L08"
+ },
+ {
+  "id": "E0329",
+  "type": "RUMOR",
+  "chapter": 32,
+  "text": "The wife of Yenar Tallowaby whispered that Aebin Wexner had secretly married Felde Hollford, but nobody could say where or when.",
+  "where": "L07",
+  "ref_deps": [
+   "E0253"
+  ],
+  "teller": "P022",
+  "claim": {
+   "kind": "married",
+   "target": "P040",
+   "other": "P035"
+  }
+ },
+ {
+  "id": "E0330",
+  "type": "TELL",
+  "chapter": 32,
+  "text": "In a letter that Brerine Tallowaby burned after reading, Sewyn Tallowaby revealed that the Brackenridge mill ledger was rewritten after the flood.",
+  "where": "L08",
+  "ref_deps": [],
+  "secret": "S00",
+  "src": "P016",
+  "dest": "P054"
+ },
+ {
+  "id": "E0331",
+  "type": "TRAVEL",
+  "chapter": 32,
+  "text": "Tall Sewyn rode out of Larkton; by the next market day she was living in Yarlgate.",
+  "where": "L08",
+  "ref_deps": [
+   "E0031"
+  ],
+  "person": "P016",
+  "src": "L08",
+  "dest": "L14"
+ },
+ {
+  "id": "E0332",
+  "type": "TRAVEL",
+  "chapter": 32,
+  "text": "Malan Tallowoway followed her to Yarlgate within the month.",
+  "where": "L08",
+  "ref_deps": [],
+  "person": "P046",
+  "src": "L08",
+  "dest": "L14"
+ },
+ {
+  "id": "E0333",
+  "type": "DEATH",
+  "chapter": 32,
+  "text": "That spring, a long wasting sickness took Orrine Thornmere; she was buried at Elmby.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P006",
+  "cause": "a long wasting sickness",
+  "place": "L05"
+ },
+ {
+  "id": "E0334",
+  "type": "PROMISE",
+  "chapter": 32,
+  "text": "Daric Thornmere gave Vesssa Thornmere a solemn promise to repair the roof of the chapel at Larkton.",
+  "where": "L05",
+  "ref_deps": [],
+  "promise": "R21",
+  "a": "P005",
+  "b": "P008",
+  "act": "to repair the roof of the chapel at Larkton"
+ },
+ {
+  "id": "E0335",
+  "type": "GIVE",
+  "chapter": 32,
+  "text": "Brevus Wexner gave the copper locket to the wife of Brevus Wexner.",
+  "where": "L07",
+  "ref_deps": [
+   "E0094"
+  ],
+  "item": "I05",
+  "src": "P043",
+  "dest": "P035"
+ },
+ {
+  "id": "E0336",
+  "type": "BIRTH",
+  "chapter": 33,
+  "text": "A daughter was born to Fera Holloway and Yenar Tallowaby, and they called the child Elra Tallowaby. The family lived in Kelford.",
+  "where": "L07",
+  "ref_deps": [],
+  "child": "P060",
+  "mother": "P022",
+  "father": "P013",
+  "place": "L07"
+ },
+ {
+  "id": "E0337",
+  "type": "PROMISE",
+  "chapter": 33,
+  "text": "Fera Holloway swore to Yenar Tallowaby to carry a sealed letter to Wilford, and shook on it.",
+  "where": "L07",
+  "ref_deps": [],
+  "promise": "R22",
+  "a": "P022",
+  "b": "P013",
+  "act": "to carry a sealed letter to Wilford"
+ },
+ {
+  "id": "E0338",
+  "type": "MARRY",
+  "chapter": 33,
+  "text": "Before the summer was out, Thivie Brackenridge took Riric Stenley in marriage at Wilford. The couple lived in Wilford from then on.",
+  "where": "L13",
+  "ref_deps": [],
+  "a": "P011",
+  "b": "P023",
+  "place": "L13"
+ },
+ {
+  "id": "E0339",
+  "type": "TRAVEL",
+  "chapter": 33,
+  "text": "Elssa Ashworth packed a single trunk and moved from Wilford to Torford.",
+  "where": "L13",
+  "ref_deps": [],
+  "person": "P032",
+  "src": "L13",
+  "dest": "L11"
+ },
+ {
+  "id": "E0340",
+  "type": "RESOLVE",
+  "chapter": 33,
+  "text": "Dadette Hollford kept the promise made to Ferine Ashworth: the task (teach the children of Braehaven their letters) was done by harvest.",
+  "where": "L01",
+  "ref_deps": [],
+  "promise": "R13",
+  "kept": true
+ },
+ {
+  "id": "E0341",
+  "type": "TELL",
+  "chapter": 33,
+  "text": "In a letter that Ferine burned after reading, Sewyn Tallowaby revealed that the harbor master of Harrowcombe takes bribes.",
+  "where": "L14",
+  "ref_deps": [
+   "E0148"
+  ],
+  "secret": "S06",
+  "src": "P016",
+  "dest": "P052"
+ },
+ {
+  "id": "E0342",
+  "type": "RUMOR",
+  "chapter": 33,
+  "text": "Malan Tallowoway whispered that Selan Ashworth had secretly married Maena Ashworth, but nobody could say where or when.",
+  "where": "L14",
+  "ref_deps": [],
+  "teller": "P046",
+  "claim": {
+   "kind": "married",
+   "target": "P030",
+   "other": "P055"
+  }
+ },
+ {
+  "id": "E0343",
+  "type": "TELL",
+  "chapter": 33,
+  "text": "Late one night the eldest daughter of Weric Brackick confided to Veslan Ashworth that the bridge toll at Ostgate is skimmed every month.",
+  "where": "L10",
+  "ref_deps": [
+   "E0000"
+  ],
+  "secret": "S02",
+  "src": "P002",
+  "dest": "P029"
+ },
+ {
+  "id": "E0344",
+  "type": "TELL",
+  "chapter": 34,
+  "text": "Late one night Vesssa Thornmere confided to Daric Thornmere that the bridge toll at Ostgate is skimmed every month.",
+  "where": "L05",
+  "ref_deps": [],
+  "secret": "S02",
+  "src": "P008",
+  "dest": "P005"
+ },
+ {
+  "id": "E0345",
+  "type": "TELL",
+  "chapter": 34,
+  "text": "Malan Tallowoway could keep it no longer and told Thivie Brackenridge that the harbor master of Harrowcombe takes bribes.",
+  "where": "L14",
+  "ref_deps": [],
+  "secret": "S06",
+  "src": "P046",
+  "dest": "P011"
+ },
+ {
+  "id": "E0346",
+  "type": "RESOLVE",
+  "chapter": 34,
+  "text": "Brenelle kept the promise made to Ronar Brackick: the task (pay the old debt owed to the Tallowoway family) was done by harvest.",
+  "where": "L09",
+  "ref_deps": [
+   "E0007"
+  ],
+  "promise": "R17",
+  "kept": true
+ },
+ {
+  "id": "E0347",
+  "type": "RUMOR",
+  "chapter": 34,
+  "text": "Kara Tallowoway told everyone at the inn that Ferine Ashworth had drowned crossing the estuary, though no body was ever seen.",
+  "where": "L09",
+  "ref_deps": [],
+  "teller": "P048",
+  "claim": {
+   "kind": "dead",
+   "target": "P052"
+  }
+ },
+ {
+  "id": "E0348",
+  "type": "TELL",
+  "chapter": 34,
+  "text": "Late one night Kara Tallowoway confided to Brenelle Hollford that a chest of silver lies buried beneath the well at Braeholt.",
+  "where": "L09",
+  "ref_deps": [],
+  "secret": "S01",
+  "src": "P048",
+  "dest": "P037"
+ },
+ {
+  "id": "E0349",
+  "type": "PROMISE",
+  "chapter": 34,
+  "text": "Zalia Brackenridge swore to Damor Stenley to pay the old debt owed to the Wexner family, and shook on it.",
+  "where": "L11",
+  "ref_deps": [],
+  "promise": "R23",
+  "a": "P051",
+  "b": "P026",
+  "act": "to pay the old debt owed to the Wexner family"
+ },
+ {
+  "id": "E0350",
+  "type": "MARRY",
+  "chapter": 35,
+  "text": "In the chapel at Elmby, Daric Thornmere married Brerine Tallowaby. The couple lived in Elmby from then on.",
+  "where": "L05",
+  "ref_deps": [],
+  "a": "P005",
+  "b": "P054",
+  "place": "L05"
+ },
+ {
+  "id": "E0351",
+  "type": "PROMISE",
+  "chapter": 35,
+  "text": "Brerine Tallowaby swore to Vesssa Thornmere to plant an orchard on the slope above Duncombe, and shook on it.",
+  "where": "L05",
+  "ref_deps": [],
+  "promise": "R24",
+  "a": "P054",
+  "b": "P008",
+  "act": "to plant an orchard on the slope above Duncombe"
+ },
+ {
+  "id": "E0352",
+  "type": "OCCUPATION",
+  "chapter": 35,
+  "text": "Moric gave up idleness and took work as a chandler.",
+  "where": "L05",
+  "ref_deps": [
+   "E0164"
+  ],
+  "person": "P053",
+  "old": null,
+  "new": "chandler"
+ },
+ {
+  "id": "E0353",
+  "type": "PROMISE",
+  "chapter": 35,
+  "text": "Tall Ildette swore to Elssa Ashworth to pay the old debt owed to the Brackenridge family, and shook on it.",
+  "where": "L11",
+  "ref_deps": [
+   "E0019"
+  ],
+  "promise": "R25",
+  "a": "P003",
+  "b": "P032",
+  "act": "to pay the old debt owed to the Brackenridge family"
+ },
+ {
+  "id": "E0354",
+  "type": "GIVE",
+  "chapter": 35,
+  "text": "A parcel from Damor Stenley reached Zabin Brackenridge; inside was the amber mirror, now his to keep.",
+  "where": "L11",
+  "ref_deps": [],
+  "item": "I00",
+  "src": "P026",
+  "dest": "P012"
+ },
+ {
+  "id": "E0355",
+  "type": "RUMOR",
+  "chapter": 35,
+  "text": "A rumor started by Ildette Brackick had it that Vesvie Hollford was dead of plague; Ildette Brackick had it from a peddler.",
+  "where": "L11",
+  "ref_deps": [],
+  "teller": "P003",
+  "claim": {
+   "kind": "dead",
+   "target": "P034"
+  }
+ },
+ {
+  "id": "E0356",
+  "type": "OCCUPATION",
+  "chapter": 36,
+  "text": "Perald was apprenticed anew and became a scribe.",
+  "where": "L12",
+  "ref_deps": [
+   "E0003"
+  ],
+  "person": "P017",
+  "old": "smith",
+  "new": "scribe"
+ },
+ {
+  "id": "E0357",
+  "type": "RESOLVE",
+  "chapter": 36,
+  "text": "Veslan Ashworth kept the promise made to Aedan Brackick: the task (pay the old debt owed to the Brackenridge family) was done by harvest.",
+  "where": "L10",
+  "ref_deps": [],
+  "promise": "R11",
+  "kept": true
+ },
+ {
+  "id": "E0358",
+  "type": "GIVE",
+  "chapter": 36,
+  "text": "Kara Tallowoway won the amber mirror from Zabin Brackenridge at cards, fairly, and kept it.",
+  "where": "L09",
+  "ref_deps": [],
+  "item": "I00",
+  "src": "P012",
+  "dest": "P048"
+ },
+ {
+  "id": "E0359",
+  "type": "TRAVEL",
+  "chapter": 36,
+  "text": "Sewyn Tallowaby left Yarlgate and settled in Kelford.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P016",
+  "src": "L14",
+  "dest": "L07"
+ },
+ {
+  "id": "E0360",
+  "type": "TRAVEL",
+  "chapter": 36,
+  "text": "Malan Tallowoway followed her to Kelford within the month.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P046",
+  "src": "L14",
+  "dest": "L07"
+ },
+ {
+  "id": "E0361",
+  "type": "TELL",
+  "chapter": 36,
+  "text": "Late one night Felde confided to Yenar Tallowaby that the Brackenridge mill ledger was rewritten after the flood.",
+  "where": "L07",
+  "ref_deps": [
+   "E0007"
+  ],
+  "secret": "S00",
+  "src": "P035",
+  "dest": "P013"
+ },
+ {
+  "id": "E0362",
+  "type": "RESOLVE",
+  "chapter": 37,
+  "text": "Brenelle Hollford kept the promise made to Kara Tallowoway: the task (plant an orchard on the slope above Braeholt) was done by harvest.",
+  "where": "L09",
+  "ref_deps": [],
+  "promise": "R20",
+  "kept": true
+ },
+ {
+  "id": "E0363",
+  "type": "RUMOR",
+  "chapter": 37,
+  "text": "The husband of Brenelle Hollford whispered that Elssa Ashworth had secretly married Aebin Wexner, but nobody could say where or when.",
+  "where": "L09",
+  "ref_deps": [
+   "E0011"
+  ],
+  "teller": "P030",
+  "claim": {
+   "kind": "married",
+   "target": "P032",
+   "other": "P040"
+  }
+ },
+ {
+  "id": "E0364",
+  "type": "DEATH",
+  "chapter": 37,
+  "text": "They laid Vesvie Hollford in the churchyard at Yarlwick, dead of drowning in the flood.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P034",
+  "cause": "drowning in the flood",
+  "place": "L15"
+ },
+ {
+  "id": "E0365",
+  "type": "TELL",
+  "chapter": 37,
+  "text": "Late one night the only daughter of Orrine Thornmere confided to Brerine Tallowaby that the harbor master of Harrowcombe takes bribes.",
+  "where": "L05",
+  "ref_deps": [
+   "E0001"
+  ],
+  "secret": "S06",
+  "src": "P008",
+  "dest": "P054"
+ },
+ {
+  "id": "E0366",
+  "type": "TELL",
+  "chapter": 37,
+  "text": "Brerine Tallowaby could keep it no longer and told the husband of Vesssa Thornmere that the harbor master of Harrowcombe takes bribes.",
+  "where": "L05",
+  "ref_deps": [
+   "E0288"
+  ],
+  "secret": "S06",
+  "src": "P054",
+  "dest": "P053"
+ },
+ {
+  "id": "E0367",
+  "type": "TRAVEL",
+  "chapter": 38,
+  "text": "The husband of Brenelle Hollford left Ostgate and settled in Braehaven.",
+  "where": "L09",
+  "ref_deps": [
+   "E0011"
+  ],
+  "person": "P030",
+  "src": "L09",
+  "dest": "L00"
+ },
+ {
+  "id": "E0368",
+  "type": "TRAVEL",
+  "chapter": 38,
+  "text": "Brenelle followed him to Braehaven within the month.",
+  "where": "L09",
+  "ref_deps": [
+   "E0007"
+  ],
+  "person": "P037",
+  "src": "L09",
+  "dest": "L00"
+ },
+ {
+  "id": "E0369",
+  "type": "TELL",
+  "chapter": 38,
+  "text": "Late one night Brenelle Hollford confided to the youngest son of Tara Ashworth that a chest of silver lies buried beneath the well at Braeholt.",
+  "where": "L00",
+  "ref_deps": [
+   "E0006"
+  ],
+  "secret": "S01",
+  "src": "P037",
+  "dest": "P030"
+ },
+ {
+  "id": "E0370",
+  "type": "OCCUPATION",
+  "chapter": 38,
+  "text": "The youngest son of Tara Ashworth was apprenticed anew and became a glazier.",
+  "where": "L00",
+  "ref_deps": [
+   "E0006"
+  ],
+  "person": "P030",
+  "old": "ferryman",
+  "new": "glazier"
+ },
+ {
+  "id": "E0371",
+  "type": "TELL",
+  "chapter": 38,
+  "text": "In a letter that Brevus Wexner burned after reading, Perald Tallowaby revealed that the old abbey at Yarlgate hides a second cellar.",
+  "where": "L12",
+  "ref_deps": [],
+  "secret": "S03",
+  "src": "P017",
+  "dest": "P043"
+ },
+ {
+  "id": "E0372",
+  "type": "RESOLVE",
+  "chapter": 39,
+  "text": "True to her word to Damor Stenley, Zalia Brackenridge finished what she had promised (pay the old debt owed to the Wexner family).",
+  "where": "L11",
+  "ref_deps": [],
+  "promise": "R23",
+  "kept": true
+ },
+ {
+  "id": "E0373",
+  "type": "PROMISE",
+  "chapter": 39,
+  "text": "Elssa Ashworth gave Zalia Brackenridge a solemn promise to carry a sealed letter to Coldstead.",
+  "where": "L11",
+  "ref_deps": [],
+  "promise": "R26",
+  "a": "P032",
+  "b": "P051",
+  "act": "to carry a sealed letter to Coldstead"
+ },
+ {
+  "id": "E0374",
+  "type": "TELL",
+  "chapter": 39,
+  "text": "Yenar Tallowaby could keep it no longer and told Brevus that the Brackenridge mill ledger was rewritten after the flood.",
+  "where": "L07",
+  "ref_deps": [
+   "E0008"
+  ],
+  "secret": "S00",
+  "src": "P013",
+  "dest": "P043"
+ },
+ {
+  "id": "E0375",
+  "type": "PROMISE",
+  "chapter": 39,
+  "text": "Fera Holloway gave Yenar a solemn promise to pay the old debt owed to the Tallowaby family.",
+  "where": "L07",
+  "ref_deps": [
+   "E0003"
+  ],
+  "promise": "R27",
+  "a": "P022",
+  "b": "P013",
+  "act": "to pay the old debt owed to the Tallowaby family"
+ },
+ {
+  "id": "E0376",
+  "type": "DEATH",
+  "chapter": 39,
+  "text": "They laid Thivie Brackenridge in the churchyard at Wilford, dead of a winter fever.",
+  "where": "L13",
+  "ref_deps": [],
+  "person": "P011",
+  "cause": "a winter fever",
+  "place": "L13"
+ },
+ {
+  "id": "E0377",
+  "type": "BIRTH",
+  "chapter": 39,
+  "text": "A daughter was born to Dadette Hollford and Nyzek Tallowaby, and they called the child Ludette Tallowaby. The family lived in Braeholt.",
+  "where": "L01",
+  "ref_deps": [],
+  "child": "P061",
+  "mother": "P036",
+  "father": "P015",
+  "place": "L01"
+ },
+ {
+  "id": "E0378",
+  "type": "TELL",
+  "chapter": 39,
+  "text": "In a letter that Felde Hollford burned after reading, Brevus Wexner revealed that the old abbey at Yarlgate hides a second cellar.",
+  "where": "L07",
+  "ref_deps": [],
+  "secret": "S03",
+  "src": "P043",
+  "dest": "P035"
+ },
+ {
+  "id": "E0379",
+  "type": "TELL",
+  "chapter": 40,
+  "text": "The youngest son of Pelan Wexner could keep it no longer and told Fera that a chest of silver lies buried beneath the well at Braeholt.",
+  "where": "L07",
+  "ref_deps": [
+   "E0004",
+   "E0008"
+  ],
+  "secret": "S01",
+  "src": "P043",
+  "dest": "P022"
+ },
+ {
+  "id": "E0380",
+  "type": "RESOLVE",
+  "chapter": 40,
+  "text": "True to his word to Perald Tallowaby, Nyzek Tallowaby finished what he had promised (carry a sealed letter to Braeholt).",
+  "where": "L01",
+  "ref_deps": [],
+  "promise": "R02",
+  "kept": true
+ },
+ {
+  "id": "E0381",
+  "type": "MARRY",
+  "chapter": 40,
+  "text": "Ildette Brackick and Riric Stenley were wed at Torford, with half the parish looking on. The couple lived in Torford from then on.",
+  "where": "L11",
+  "ref_deps": [],
+  "a": "P003",
+  "b": "P023",
+  "place": "L11"
+ },
+ {
+  "id": "E0382",
+  "type": "PLAN",
+  "chapter": 40,
+  "text": "The wife of Damor Stenley talked for weeks of going to Coldstead, yet in the end stayed where she was.",
+  "where": "L11",
+  "ref_deps": [
+   "E0284"
+  ],
+  "person": "P051",
+  "dest": "L03"
+ },
+ {
+  "id": "E0383",
+  "type": "GIVE",
+  "chapter": 40,
+  "text": "Perald Tallowaby sent the amber ring by carrier to Zalia, who received it safely.",
+  "where": "L12",
+  "ref_deps": [
+   "E0147"
+  ],
+  "item": "I01",
+  "src": "P017",
+  "dest": "P051"
+ },
+ {
+  "id": "E0384",
+  "type": "SEEN_ALIVE",
+  "chapter": 41,
+  "text": "Ferine Ashworth, whatever the gossips said, was seen hale and well at the summer fair in Braeholt.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P052",
+  "place": "L01"
+ }
+]

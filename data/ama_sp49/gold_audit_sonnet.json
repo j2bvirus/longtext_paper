@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "The step 9 query is quoted correctly and the filter is year 2009.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "Steps 12 → 13 → 14 are the failures and the fix, and the quoted-alias explanation matches the errors.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "Step 9's 1009 against step 11's cumulative 70 by round 10 supports the inflation argument.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "Step 11 shows Button's points rising by round (10, 15, 21, … 70), which indicates cumulative standings.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "The preconditions (RACES join, DRIVERS join, cumulative points, quoted aliasing, qualified names) are all supported by the trajectory.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "Fixing the alias quoting where the aliases are created is exactly what step 14 did.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "RESULTS.json and SPRINT_RESULTS.json are in the step 2 listing, and the trade-offs are reasonable.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "Both suggestions are sensible given the step 16 timeout and the step 17 success.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "Step 14 was the last change to the aliasing strategy, and steps 14 and 15 both ran afterwards.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "The case-folding and quoting rule is consistent with the errors in steps 12–13 and the fix in step 14.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "The table counts, tool-call counts (7 bash, 9 SQL, 1 terminate) and outcomes (6 successes, 3 errors) all match the trajectory.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "The key insights, failures and minimal sequence match the trajectory.",
+  "evidence": "whole trajectory"
+ }
+}

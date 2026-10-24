@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "wrong",
+  "reason": "The exact command also included the repository cd prefix and `| head -20`.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ambiguous",
+  "reason": "Focused investigation began at step 6; step 7 was its first successful search.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "Step 89 completed with 26 tests passed.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ambiguous",
+  "reason": "Both were established earlier, but Python verification was not required for file searches.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "Step 7 simplified the search to MatrixSymbol and removed the pipeline.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "Step 8 searched summation patterns before step 9 targeted orthogonal refinement.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "The searches progressed from MatrixSymbol to summation patterns to orthogonal refinement.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "wrong",
+  "reason": "The broader matrix expression run later had 11 exceptions, contradicting the predicted all-pass result.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "Step 89 executed sympy/concrete/tests/test_delta.py to completion.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "Orthogonal matrix products yielding identity matrices explains refinement’s relevance.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "wrong",
+  "reason": "The identified cause was Identity._entry treating distinct symbolic indices as unequal in matexpr.py.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "wrong",
+  "reason": "The fix changed Identity._entry at step 62; symbolic totals remained unevaluated sums rather than n.",
+  "evidence": "whole trajectory"
+ }
+}

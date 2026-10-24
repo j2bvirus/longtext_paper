@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "Step 196 merges the column-1 2s into [8,4,4,0], and step 197 merges the 4s into an 8 for 8 of the 12 reward.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "Step 39's row 2 is [8,2,2,0] after a 2 spawns, and step 40 merges it for 4.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "'left' lines both 4s up in column 2, while 'up' would leave them in columns 2 and 3.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "The 8+8 setup is right. The only slip is saying the existing 8 shifted; it was already at (1,2).",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "The 2+2 merge at step 196 leaves [8,4,4,0], which enables the 4+4 merge.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "The new 8 at (1,1) sits beside the existing 8 at (1,2), giving [128,8,8,2].",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ambiguous",
+  "reason": "'down' would also merge the 4s for 8, so 'only action that could merge' is wrong, though the reference then admits 'down'.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "The 2+2 merge makes a 4 at (2,1) directly under the 4 at (1,1), enabling the 8.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "A 2 spawns at (2,2) after step 39, and step 37 used tiles already aligned.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "The two 'left' moves bring 2s into (2,1) and (3,1), which step 196 merges.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "The spawned 2 gives row 2 as [8,2,2,0], enabling the step 40 merge.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "A 2 spawned at (2,2) next to the 2 at (2,1).",
+  "evidence": "whole trajectory"
+ }
+}

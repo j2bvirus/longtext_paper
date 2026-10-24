@@ -1,0 +1,4684 @@
+[
+ {
+  "id": "E0000",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "In the harbor town of Braewick lived Kanar Quillick, married to Bressa Quillick, with their children. In order of birth these were the eldest a son, Codan Quillick; then a daughter, Kanelle Quillick; then a daughter, Ilra Quillick.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P000",
+  "mother": "P001",
+  "children": [
+   "P002",
+   "P003",
+   "P004"
+  ],
+  "place": "L00"
+ },
+ {
+  "id": "E0001",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Tallowenridge household lived in the village of Wilwick. Breric Tallowenridge and his wife Wera Tallowenridge had 3 children, all living at home: the eldest a daughter, Rovie Tallowenridge; then a daughter, Volia Tallowenridge; then a daughter, Voena Tallowenridge.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P005",
+  "mother": "P006",
+  "children": [
+   "P007",
+   "P008",
+   "P009"
+  ],
+  "place": "L13"
+ },
+ {
+  "id": "E0002",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Thornwood household lived in the harbor town of Torcombe. Rozek Thornwood and his wife Vowyn Thornwood had 3 children, all living at home: the eldest a son, Darald Thornwood; then a daughter, Isnelle Thornwood; then a son, Dadrek Thornwood.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P010",
+  "mother": "P011",
+  "children": [
+   "P012",
+   "P013",
+   "P014"
+  ],
+  "place": "L11"
+ },
+ {
+  "id": "E0003",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "In the river crossing at Torhaven lived Nemor Marrley, married to Serine Marrley, with their children. In order of birth these were the eldest a daughter, Jowyn Marrley; then a daughter, Felis Marrley; then a daughter, Riena Marrley.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P015",
+  "mother": "P016",
+  "children": [
+   "P017",
+   "P018",
+   "P019"
+  ],
+  "place": "L12"
+ },
+ {
+  "id": "E0004",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Holloway household lived in the river crossing at Mireton. Thilan Holloway and his wife Lurine Holloway had 3 children, all living at home: the eldest a son, Hadan Holloway; then a daughter, Dalis Holloway; then a daughter, Isssa Holloway.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P020",
+  "mother": "P021",
+  "children": [
+   "P022",
+   "P023",
+   "P024"
+  ],
+  "place": "L09"
+ },
+ {
+  "id": "E0005",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Prydner household lived in the village of Harrowford. Ulvus Prydner and his wife Jolde Prydner had 3 children, all living at home: the eldest a son, Jodrek Prydner; then a son, Orric Prydner; then a son, Dadrek Prydner.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P025",
+  "mother": "P026",
+  "children": [
+   "P027",
+   "P028",
+   "P029"
+  ],
+  "place": "L05"
+ },
+ {
+  "id": "E0006",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "In the village of Harrowford lived Illan Tallowley, married to Hara Tallowley, with their children. In order of birth these were the eldest a son, Wedan Tallowley; then a son, Tadrek Tallowley; then a son, Nynar Tallowley.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P030",
+  "mother": "P031",
+  "children": [
+   "P032",
+   "P033",
+   "P034"
+  ],
+  "place": "L05"
+ },
+ {
+  "id": "E0007",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "In the market town of Elmford lived Brerald Quillson, married to Kassa Quillson, with their children. In order of birth these were the eldest a son, Perald Quillson; then a daughter, Vesrine Quillson; then a daughter, Vorine Quillson.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P035",
+  "mother": "P036",
+  "children": [
+   "P037",
+   "P038",
+   "P039"
+  ],
+  "place": "L03"
+ },
+ {
+  "id": "E0008",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "In the river crossing at Yarlgate lived Ilbin Thornworth, married to Ornelle Thornworth, with their children. In order of birth these were the eldest a daughter, Vorine Thornworth; then a daughter, Ridette Thornworth; then a daughter, Vodette Thornworth.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P040",
+  "mother": "P041",
+  "children": [
+   "P042",
+   "P043",
+   "P044"
+  ],
+  "place": "L14"
+ },
+ {
+  "id": "E0009",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Ashson household lived in the harbor town of Coldmere. Webin Ashson and his wife Islis Ashson had 4 children, all living at home: the eldest a daughter, Orena Ashson; then a son, Pelan Ashson; then a son, Gamor Ashson; then a son, Netho Ashson.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P045",
+  "mother": "P046",
+  "children": [
+   "P047",
+   "P048",
+   "P049",
+   "P050"
+  ],
+  "place": "L02"
+ },
+ {
+  "id": "E0010",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Perald Quillson and Riena Marrley were husband and wife. The couple lived in Elmford.",
+  "where": "L03",
+  "ref_deps": [],
+  "a": "P037",
+  "b": "P019",
+  "place": "L03"
+ },
+ {
+  "id": "E0011",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Orric Prydner and Jowyn Marrley were husband and wife. The couple lived in Harrowford.",
+  "where": "L05",
+  "ref_deps": [],
+  "a": "P028",
+  "b": "P017",
+  "place": "L05"
+ },
+ {
+  "id": "E0012",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Ilra Quillick had married Dadrek Thornwood some years before. The couple lived in Braewick.",
+  "where": "L00",
+  "ref_deps": [],
+  "a": "P004",
+  "b": "P014",
+  "place": "L00"
+ },
+ {
+  "id": "E0013",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Nynar Tallowley had married Orena Ashson some years before. The couple lived in Harrowford.",
+  "where": "L05",
+  "ref_deps": [],
+  "a": "P034",
+  "b": "P047",
+  "place": "L05"
+ },
+ {
+  "id": "E0014",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Voena Tallowenridge had married Codan Quillick some years before. The couple lived in Wilwick.",
+  "where": "L13",
+  "ref_deps": [],
+  "a": "P009",
+  "b": "P002",
+  "place": "L13"
+ },
+ {
+  "id": "E0015",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Wedan Tallowley and Felis Marrley were husband and wife. The couple lived in Harrowford.",
+  "where": "L05",
+  "ref_deps": [],
+  "a": "P032",
+  "b": "P018",
+  "place": "L05"
+ },
+ {
+  "id": "E0016",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Kanar Quillick worked as a tanner. Kanar Quillick was born at Yarlton.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P000",
+  "occupation": "tanner",
+  "birthplace": "L15",
+  "nick": null
+ },
+ {
+  "id": "E0017",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Bressa Quillick worked as a weaver.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P001",
+  "occupation": "weaver",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0018",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Codan Quillick was a cooper. Folk called Codan Quillick \"Tall Codan\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P002",
+  "occupation": "cooper",
+  "birthplace": null,
+  "nick": "Tall Codan"
+ },
+ {
+  "id": "E0019",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Kanelle Quillick worked as a mason. Folk called Kanelle Quillick \"Red Kanelle\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P003",
+  "occupation": "mason",
+  "birthplace": null,
+  "nick": "Red Kanelle"
+ },
+ {
+  "id": "E0020",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Ilra Quillick was a weaver. Ilra Quillick was born at Mireton.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P004",
+  "occupation": "weaver",
+  "birthplace": "L09",
+  "nick": null
+ },
+ {
+  "id": "E0021",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Breric Tallowenridge was a mason. Breric Tallowenridge had been born in Harrowmere.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P005",
+  "occupation": "mason",
+  "birthplace": "L06",
+  "nick": null
+ },
+ {
+  "id": "E0022",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Wera Tallowenridge was born at Mireton.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P006",
+  "occupation": null,
+  "birthplace": "L09",
+  "nick": null
+ },
+ {
+  "id": "E0023",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Rovie Tallowenridge worked as a cooper. Folk called Rovie Tallowenridge \"Tall Rovie\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P007",
+  "occupation": "cooper",
+  "birthplace": null,
+  "nick": "Tall Rovie"
+ },
+ {
+  "id": "E0024",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Volia Tallowenridge was born at Mireton.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P008",
+  "occupation": null,
+  "birthplace": "L09",
+  "nick": null
+ },
+ {
+  "id": "E0025",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Voena Tallowenridge worked as a tanner.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P009",
+  "occupation": "tanner",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0026",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Rozek Thornwood was a mason. Rozek Thornwood had been born in Harrowford.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P010",
+  "occupation": "mason",
+  "birthplace": "L05",
+  "nick": null
+ },
+ {
+  "id": "E0027",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Vowyn Thornwood was a ferryman.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P011",
+  "occupation": "ferryman",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0028",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Isnelle Thornwood was born at Ostcombe.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P013",
+  "occupation": null,
+  "birthplace": "L10",
+  "nick": null
+ },
+ {
+  "id": "E0029",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Dadrek Thornwood was a fisher. Dadrek Thornwood had been born in Yarlgate.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P014",
+  "occupation": "fisher",
+  "birthplace": "L14",
+  "nick": null
+ },
+ {
+  "id": "E0030",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Nemor Marrley worked as a mason. Nemor Marrley was born at Elmford.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P015",
+  "occupation": "mason",
+  "birthplace": "L03",
+  "nick": null
+ },
+ {
+  "id": "E0031",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Serine Marrley worked as a glazier.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P016",
+  "occupation": "glazier",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0032",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Jowyn Marrley worked as a scribe.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P017",
+  "occupation": "scribe",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0033",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Felis Marrley worked as a tanner. Felis Marrley was born at Mireton. Folk called Felis Marrley \"Tall Felis\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P018",
+  "occupation": "tanner",
+  "birthplace": "L09",
+  "nick": "Tall Felis"
+ },
+ {
+  "id": "E0034",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Riena Marrley was a miller. Riena Marrley was born at Harrowford.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P019",
+  "occupation": "miller",
+  "birthplace": "L05",
+  "nick": null
+ },
+ {
+  "id": "E0035",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Thilan Holloway worked as a ferryman.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P020",
+  "occupation": "ferryman",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0036",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Lurine Holloway worked as a glazier. Lurine Holloway was born at Fengate.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P021",
+  "occupation": "glazier",
+  "birthplace": "L04",
+  "nick": null
+ },
+ {
+  "id": "E0037",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Dalis Holloway worked as a fisher. Dalis Holloway was born at Kelmere.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P023",
+  "occupation": "fisher",
+  "birthplace": "L07",
+  "nick": null
+ },
+ {
+  "id": "E0038",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Isssa Holloway worked as a herbalist. Folk called Isssa Holloway \"Isssa the Younger\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P024",
+  "occupation": "herbalist",
+  "birthplace": null,
+  "nick": "Isssa the Younger"
+ },
+ {
+  "id": "E0039",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Ulvus Prydner was a mason.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P025",
+  "occupation": "mason",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0040",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Jolde Prydner was a glazier. Jolde Prydner had been born in Harrowford.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P026",
+  "occupation": "glazier",
+  "birthplace": "L05",
+  "nick": null
+ },
+ {
+  "id": "E0041",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Jodrek Prydner was a chandler.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P027",
+  "occupation": "chandler",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0042",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Orric Prydner worked as a herbalist.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P028",
+  "occupation": "herbalist",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0043",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Dadrek Prydner was born at Ostcombe.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P029",
+  "occupation": null,
+  "birthplace": "L10",
+  "nick": null
+ },
+ {
+  "id": "E0044",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Illan Tallowley was a ferryman. Illan Tallowley had been born in Yarlgate.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P030",
+  "occupation": "ferryman",
+  "birthplace": "L14",
+  "nick": null
+ },
+ {
+  "id": "E0045",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Hara Tallowley was a herbalist. Hara Tallowley had been born in Fengate.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P031",
+  "occupation": "herbalist",
+  "birthplace": "L04",
+  "nick": null
+ },
+ {
+  "id": "E0046",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Wedan Tallowley worked as a miller.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P032",
+  "occupation": "miller",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0047",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Tadrek Tallowley was a brewer.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P033",
+  "occupation": "brewer",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0048",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Nynar Tallowley was a miller. Nynar Tallowley was born at Kelmere. Folk called Nynar Tallowley \"Red Nynar\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P034",
+  "occupation": "miller",
+  "birthplace": "L07",
+  "nick": "Red Nynar"
+ },
+ {
+  "id": "E0049",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Brerald Quillson worked as a weaver.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P035",
+  "occupation": "weaver",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0050",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Kassa Quillson was a herbalist.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P036",
+  "occupation": "herbalist",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0051",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Perald Quillson worked as a scribe. Perald Quillson was born at Torhaven.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P037",
+  "occupation": "scribe",
+  "birthplace": "L12",
+  "nick": null
+ },
+ {
+  "id": "E0052",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Vesrine Quillson worked as a cooper. Vesrine Quillson had been born in Torhaven.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P038",
+  "occupation": "cooper",
+  "birthplace": "L12",
+  "nick": null
+ },
+ {
+  "id": "E0053",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Vorine Quillson was born at Elmford.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P039",
+  "occupation": null,
+  "birthplace": "L03",
+  "nick": null
+ },
+ {
+  "id": "E0054",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Ilbin Thornworth was born at Braewick.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P040",
+  "occupation": null,
+  "birthplace": "L00",
+  "nick": null
+ },
+ {
+  "id": "E0055",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Ornelle Thornworth worked as a herbalist. Ornelle Thornworth was born at Harrowford.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P041",
+  "occupation": "herbalist",
+  "birthplace": "L05",
+  "nick": null
+ },
+ {
+  "id": "E0056",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Ridette Thornworth was a tanner. Ridette Thornworth was born at Harrowmere.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P043",
+  "occupation": "tanner",
+  "birthplace": "L06",
+  "nick": null
+ },
+ {
+  "id": "E0057",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Vodette Thornworth had been born in Torcombe.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P044",
+  "occupation": null,
+  "birthplace": "L11",
+  "nick": null
+ },
+ {
+  "id": "E0058",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Webin Ashson had been born in Kelmere.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P045",
+  "occupation": null,
+  "birthplace": "L07",
+  "nick": null
+ },
+ {
+  "id": "E0059",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Islis Ashson was a fisher. Islis Ashson was born at Mireton.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P046",
+  "occupation": "fisher",
+  "birthplace": "L09",
+  "nick": null
+ },
+ {
+  "id": "E0060",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Orena Ashson worked as a weaver.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P047",
+  "occupation": "weaver",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0061",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Pelan Ashson was a weaver. Pelan Ashson was born at Fengate.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P048",
+  "occupation": "weaver",
+  "birthplace": "L04",
+  "nick": null
+ },
+ {
+  "id": "E0062",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Gamor Ashson was a fisher. Gamor Ashson was born at Ostcombe.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P049",
+  "occupation": "fisher",
+  "birthplace": "L10",
+  "nick": null
+ },
+ {
+  "id": "E0063",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Netho Ashson was a miller. Netho Ashson had been born in Yarlgate.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P050",
+  "occupation": "miller",
+  "birthplace": "L14",
+  "nick": null
+ },
+ {
+  "id": "E0064",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Netho Ashson kept the bone dagger in a cedar box.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I01",
+  "owner": "P050"
+ },
+ {
+  "id": "E0065",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Dalis Holloway kept the brass mirror in a cedar box.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I04",
+  "owner": "P023"
+ },
+ {
+  "id": "E0066",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Vodette Thornworth kept the silver lantern in a cedar box.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I11",
+  "owner": "P044"
+ },
+ {
+  "id": "E0067",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Among the possessions of Netho Ashson was the copper map.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I06",
+  "owner": "P050"
+ },
+ {
+  "id": "E0068",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Nemor Marrley kept the bone flute in a cedar box.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I02",
+  "owner": "P015"
+ },
+ {
+  "id": "E0069",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Among the possessions of Vowyn Thornwood was the iron ring.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I09",
+  "owner": "P011"
+ },
+ {
+  "id": "E0070",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The copper ledger belonged to Kanar Quillick, head of the Quillick household.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I05",
+  "owner": "P000"
+ },
+ {
+  "id": "E0071",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The garnet compass belonged to Serine Marrley.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I07",
+  "owner": "P016"
+ },
+ {
+  "id": "E0072",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The bone seal belonged to Hadan Holloway.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I03",
+  "owner": "P022"
+ },
+ {
+  "id": "E0073",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The iron seal belonged to Breric Tallowenridge.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I10",
+  "owner": "P005"
+ },
+ {
+  "id": "E0074",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Breric Tallowenridge kept the amber chalice in a cedar box.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I00",
+  "owner": "P005"
+ },
+ {
+  "id": "E0075",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The garnet ledger belonged to Isnelle Thornwood.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I08",
+  "owner": "P013"
+ },
+ {
+  "id": "E0076",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Tadrek Tallowley alone carried the knowledge that the old abbey at Harrowmere hides a second cellar.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S00",
+  "person": "P033"
+ },
+ {
+  "id": "E0077",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Breric Tallowenridge alone carried the knowledge that the Thornwood mill ledger was rewritten after the flood.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S01",
+  "person": "P005"
+ },
+ {
+  "id": "E0078",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Isssa Holloway knew that the Ashson family once owed a blood debt to the Quillson family.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S02",
+  "person": "P024"
+ },
+ {
+  "id": "E0079",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Bressa Quillick alone carried the knowledge that a chest of silver lies buried beneath the well at Kelmere.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S03",
+  "person": "P001"
+ },
+ {
+  "id": "E0080",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Illan Tallowley knew that the fire at the Torcombe granary was set on purpose.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S04",
+  "person": "P030"
+ },
+ {
+  "id": "E0081",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Gamor Ashson alone carried the knowledge that the deed to the Fengate pastures was forged.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S05",
+  "person": "P049"
+ },
+ {
+  "id": "E0082",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Webin Ashson alone carried the knowledge that the harbor master of Wilwick takes bribes.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S06",
+  "person": "P045"
+ },
+ {
+  "id": "E0083",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Lurine Holloway knew that the bridge toll at Larkford is skimmed every month.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S07",
+  "person": "P021"
+ },
+ {
+  "id": "E0084",
+  "type": "RULE_VAULT",
+  "chapter": 1,
+  "text": "It was an old law of Elmford that the vault beneath its chapel would open only for a living person who held both the garnet compass and the brass mirror at once.",
+  "where": null,
+  "ref_deps": [],
+  "place": "L03",
+  "items": [
+   "I07",
+   "I04"
+  ]
+ },
+ {
+  "id": "E0085",
+  "type": "RULE_BRIDGE",
+  "chapter": 1,
+  "text": "The toll bridge at Fengate belonged to the Tallowley family, and only those born a Tallowley, or presently married to one, were allowed to cross it.",
+  "where": null,
+  "ref_deps": [],
+  "place": "L04",
+  "surname": "Tallowley"
+ },
+ {
+  "id": "E0086",
+  "type": "RULE_HEIR",
+  "chapter": 1,
+  "text": "By custom, the copper ledger always passed, on the death of whoever held it, to the eldest living child of that holder; no will could change this, and it passed without ceremony.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I05",
+  "surname": "Quillick"
+ },
+ {
+  "id": "E0087",
+  "type": "PLAN",
+  "chapter": 2,
+  "text": "Breric meant to go to Bryncombe before the frost, but the roads flooded and the journey was put off.",
+  "where": "L13",
+  "ref_deps": [
+   "E0001"
+  ],
+  "person": "P005",
+  "dest": "L01"
+ },
+ {
+  "id": "E0088",
+  "type": "TELL",
+  "chapter": 2,
+  "text": "Lurine could keep it no longer and told Thilan Holloway that the bridge toll at Larkford is skimmed every month.",
+  "where": "L09",
+  "ref_deps": [
+   "E0004"
+  ],
+  "secret": "S07",
+  "src": "P021",
+  "dest": "P020"
+ },
+ {
+  "id": "E0089",
+  "type": "GIVE",
+  "chapter": 2,
+  "text": "The wife of Ilbin Thornworth won the silver lantern from Vodette Thornworth at cards, fairly, and kept it.",
+  "where": "L14",
+  "ref_deps": [
+   "E0008"
+  ],
+  "item": "I11",
+  "src": "P044",
+  "dest": "P041"
+ },
+ {
+  "id": "E0090",
+  "type": "TRAVEL",
+  "chapter": 2,
+  "text": "Ilbin packed a single trunk and moved from Yarlgate to Braewick.",
+  "where": "L14",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P040",
+  "src": "L14",
+  "dest": "L00"
+ },
+ {
+  "id": "E0091",
+  "type": "TRAVEL",
+  "chapter": 2,
+  "text": "Ornelle Thornworth went along to live in Braewick as well.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P041",
+  "src": "L14",
+  "dest": "L00"
+ },
+ {
+  "id": "E0092",
+  "type": "TELL",
+  "chapter": 2,
+  "text": "Thilan could keep it no longer and told Isssa that the bridge toll at Larkford is skimmed every month.",
+  "where": "L09",
+  "ref_deps": [
+   "E0004"
+  ],
+  "secret": "S07",
+  "src": "P020",
+  "dest": "P024"
+ },
+ {
+  "id": "E0093",
+  "type": "OCCUPATION",
+  "chapter": 2,
+  "text": "Hadan was apprenticed anew and became a shepherd.",
+  "where": "L09",
+  "ref_deps": [
+   "E0004"
+  ],
+  "person": "P022",
+  "old": null,
+  "new": "shepherd"
+ },
+ {
+  "id": "E0094",
+  "type": "TELL",
+  "chapter": 2,
+  "text": "In a letter that Dalis Holloway burned after reading, Isssa Holloway revealed that the bridge toll at Larkford is skimmed every month.",
+  "where": "L09",
+  "ref_deps": [],
+  "secret": "S07",
+  "src": "P024",
+  "dest": "P023"
+ },
+ {
+  "id": "E0095",
+  "type": "TRAVEL",
+  "chapter": 3,
+  "text": "The wife of Webin Ashson found work in Harrowmere, moved there, and did not return to Coldmere.",
+  "where": "L02",
+  "ref_deps": [
+   "E0009"
+  ],
+  "person": "P046",
+  "src": "L02",
+  "dest": "L06"
+ },
+ {
+  "id": "E0096",
+  "type": "TRAVEL",
+  "chapter": 3,
+  "text": "Webin followed her to Harrowmere within the month.",
+  "where": "L02",
+  "ref_deps": [
+   "E0009"
+  ],
+  "person": "P045",
+  "src": "L02",
+  "dest": "L06"
+ },
+ {
+  "id": "E0097",
+  "type": "BIRTH",
+  "chapter": 3,
+  "text": "Jowyn Marrley gave birth to a son, named Bredan Prydner; the father was Orric Prydner. The family lived in Harrowford.",
+  "where": "L05",
+  "ref_deps": [],
+  "child": "P051",
+  "mother": "P017",
+  "father": "P028",
+  "place": "L05"
+ },
+ {
+  "id": "E0098",
+  "type": "TRAVEL",
+  "chapter": 3,
+  "text": "Bressa Quillick found work in Fengate, moved there, and did not return to Braewick.",
+  "where": "L00",
+  "ref_deps": [],
+  "person": "P001",
+  "src": "L00",
+  "dest": "L04"
+ },
+ {
+  "id": "E0099",
+  "type": "TRAVEL",
+  "chapter": 3,
+  "text": "Kanar followed her to Fengate within the month.",
+  "where": "L00",
+  "ref_deps": [
+   "E0000"
+  ],
+  "person": "P000",
+  "src": "L00",
+  "dest": "L04"
+ },
+ {
+  "id": "E0100",
+  "type": "TRAVEL",
+  "chapter": 3,
+  "text": "Ornelle Thornworth found work in Kelmere, moved there, and did not return to Braewick.",
+  "where": "L00",
+  "ref_deps": [],
+  "person": "P041",
+  "src": "L00",
+  "dest": "L07"
+ },
+ {
+  "id": "E0101",
+  "type": "TRAVEL",
+  "chapter": 3,
+  "text": "Ilbin followed her to Kelmere within the month.",
+  "where": "L00",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P040",
+  "src": "L00",
+  "dest": "L07"
+ },
+ {
+  "id": "E0102",
+  "type": "OCCUPATION",
+  "chapter": 3,
+  "text": "Riena Marrley was apprenticed anew and became a cooper.",
+  "where": "L03",
+  "ref_deps": [
+   "E0003"
+  ],
+  "person": "P019",
+  "old": "miller",
+  "new": "cooper"
+ },
+ {
+  "id": "E0103",
+  "type": "TRAVEL",
+  "chapter": 3,
+  "text": "Kassa packed a single trunk and moved from Elmford to Yarlton.",
+  "where": "L03",
+  "ref_deps": [
+   "E0007"
+  ],
+  "person": "P036",
+  "src": "L03",
+  "dest": "L15"
+ },
+ {
+  "id": "E0104",
+  "type": "TRAVEL",
+  "chapter": 3,
+  "text": "Brerald went along to live in Yarlton as well.",
+  "where": "L03",
+  "ref_deps": [
+   "E0007"
+  ],
+  "person": "P035",
+  "src": "L03",
+  "dest": "L15"
+ },
+ {
+  "id": "E0105",
+  "type": "GIVE",
+  "chapter": 4,
+  "text": "Darald Thornwood won the iron ring from Vowyn Thornwood at cards, fairly, and kept it.",
+  "where": "L11",
+  "ref_deps": [],
+  "item": "I09",
+  "src": "P011",
+  "dest": "P012"
+ },
+ {
+  "id": "E0106",
+  "type": "BIRTH",
+  "chapter": 4,
+  "text": "A son was born to Riena Marrley and Perald Quillson, and they called the child Garic Quillson. The family lived in Elmford.",
+  "where": "L03",
+  "ref_deps": [],
+  "child": "P052",
+  "mother": "P019",
+  "father": "P037",
+  "place": "L03"
+ },
+ {
+  "id": "E0107",
+  "type": "GIVE",
+  "chapter": 4,
+  "text": "Darald Thornwood gave the iron ring to Rozek.",
+  "where": "L11",
+  "ref_deps": [
+   "E0002"
+  ],
+  "item": "I09",
+  "src": "P012",
+  "dest": "P010"
+ },
+ {
+  "id": "E0108",
+  "type": "PROMISE",
+  "chapter": 4,
+  "text": "Brerald Quillson swore to Kassa Quillson to pay the old debt owed to the Quillick family, and shook on it.",
+  "where": "L15",
+  "ref_deps": [],
+  "promise": "R00",
+  "a": "P035",
+  "b": "P036",
+  "act": "to pay the old debt owed to the Quillick family"
+ },
+ {
+  "id": "E0109",
+  "type": "TELL",
+  "chapter": 4,
+  "text": "Late one night Isssa Holloway confided to Hadan Holloway that the bridge toll at Larkford is skimmed every month.",
+  "where": "L09",
+  "ref_deps": [],
+  "secret": "S07",
+  "src": "P024",
+  "dest": "P022"
+ },
+ {
+  "id": "E0110",
+  "type": "GIVE",
+  "chapter": 4,
+  "text": "Hadan pressed the bone seal into the hands of Thilan Holloway and would take nothing for it.",
+  "where": "L09",
+  "ref_deps": [
+   "E0004"
+  ],
+  "item": "I03",
+  "src": "P022",
+  "dest": "P020"
+ },
+ {
+  "id": "E0111",
+  "type": "PROMISE",
+  "chapter": 4,
+  "text": "Vowyn Thornwood swore to Isnelle Thornwood to rebuild the fallen wall at Ostcombe, and shook on it.",
+  "where": "L11",
+  "ref_deps": [],
+  "promise": "R01",
+  "a": "P011",
+  "b": "P013",
+  "act": "to rebuild the fallen wall at Ostcombe"
+ },
+ {
+  "id": "E0112",
+  "type": "GIVE",
+  "chapter": 4,
+  "text": "The husband of Lurine Holloway gave the bone seal to Hadan.",
+  "where": "L09",
+  "ref_deps": [
+   "E0004"
+  ],
+  "item": "I03",
+  "src": "P020",
+  "dest": "P022"
+ },
+ {
+  "id": "E0113",
+  "type": "MARRY",
+  "chapter": 5,
+  "text": "Vesrine Quillson and Tadrek Tallowley were wed at Elmford, with half the parish looking on. The couple lived in Elmford from then on.",
+  "where": "L03",
+  "ref_deps": [],
+  "a": "P038",
+  "b": "P033",
+  "place": "L03"
+ },
+ {
+  "id": "E0114",
+  "type": "TRAVEL",
+  "chapter": 5,
+  "text": "The wife of Perald Quillson found work in Ostcombe, moved there, and did not return to Elmford.",
+  "where": "L03",
+  "ref_deps": [
+   "E0010"
+  ],
+  "person": "P019",
+  "src": "L03",
+  "dest": "L10"
+ },
+ {
+  "id": "E0115",
+  "type": "TRAVEL",
+  "chapter": 5,
+  "text": "Perald went along to live in Ostcombe as well.",
+  "where": "L03",
+  "ref_deps": [
+   "E0007"
+  ],
+  "person": "P037",
+  "src": "L03",
+  "dest": "L10"
+ },
+ {
+  "id": "E0116",
+  "type": "TRAVEL",
+  "chapter": 5,
+  "text": "After the quarrel, Vorine Quillson quit Elmford for good and took lodgings in Braewick.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P039",
+  "src": "L03",
+  "dest": "L00"
+ },
+ {
+  "id": "E0117",
+  "type": "TRAVEL",
+  "chapter": 5,
+  "text": "Vorine Quillson found work in Coldmere, moved there, and did not return to Braewick.",
+  "where": "L00",
+  "ref_deps": [],
+  "person": "P039",
+  "src": "L00",
+  "dest": "L02"
+ },
+ {
+  "id": "E0118",
+  "type": "RUMOR",
+  "chapter": 5,
+  "text": "Kanelle Quillick whispered that Dadrek Prydner had secretly married Islis Ashson, but nobody could say where or when.",
+  "where": "L00",
+  "ref_deps": [],
+  "teller": "P003",
+  "claim": {
+   "kind": "married",
+   "target": "P029",
+   "other": "P046"
+  }
+ },
+ {
+  "id": "E0119",
+  "type": "TRAVEL",
+  "chapter": 5,
+  "text": "Netho Ashson found work in Bryncombe, moved there, and did not return to Coldmere.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P050",
+  "src": "L02",
+  "dest": "L01"
+ },
+ {
+  "id": "E0120",
+  "type": "TRAVEL",
+  "chapter": 5,
+  "text": "After the quarrel, Gamor Ashson quit Coldmere for good and took lodgings in Kelmere.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P049",
+  "src": "L02",
+  "dest": "L07"
+ },
+ {
+  "id": "E0121",
+  "type": "OCCUPATION",
+  "chapter": 5,
+  "text": "Pelan Ashson gave up being a weaver and took work as a scribe.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P048",
+  "old": "weaver",
+  "new": "scribe"
+ },
+ {
+  "id": "E0122",
+  "type": "TRAVEL",
+  "chapter": 6,
+  "text": "Felis Marrley rode out of Harrowford; by the next market day she was living in Torcombe.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P018",
+  "src": "L05",
+  "dest": "L11"
+ },
+ {
+  "id": "E0123",
+  "type": "TRAVEL",
+  "chapter": 6,
+  "text": "Wedan Tallowley followed her to Torcombe within the month.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P032",
+  "src": "L05",
+  "dest": "L11"
+ },
+ {
+  "id": "E0124",
+  "type": "TRAVEL",
+  "chapter": 6,
+  "text": "Tadrek Tallowley found work in Yarlgate, moved there, and did not return to Elmford.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P033",
+  "src": "L03",
+  "dest": "L14"
+ },
+ {
+  "id": "E0125",
+  "type": "TRAVEL",
+  "chapter": 6,
+  "text": "Vesrine Quillson followed him to Yarlgate within the month.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P038",
+  "src": "L03",
+  "dest": "L14"
+ },
+ {
+  "id": "E0126",
+  "type": "DEATH",
+  "chapter": 6,
+  "text": "That autumn, the coughing sickness took Kanar; he was buried at Fengate.",
+  "where": "L04",
+  "ref_deps": [
+   "E0000"
+  ],
+  "person": "P000",
+  "cause": "the coughing sickness",
+  "place": "L04"
+ },
+ {
+  "id": "E0127",
+  "type": "PLAN",
+  "chapter": 6,
+  "text": "The husband of Felis Marrley meant to go to Yarlgate before the frost, but the roads flooded and the journey was put off.",
+  "where": "L11",
+  "ref_deps": [
+   "E0006",
+   "E0015"
+  ],
+  "person": "P032",
+  "dest": "L14"
+ },
+ {
+  "id": "E0128",
+  "type": "GIVE",
+  "chapter": 6,
+  "text": "Breric sent the amber chalice by carrier to the youngest daughter of Kassa Quillson, who received it safely.",
+  "where": "L13",
+  "ref_deps": [
+   "E0001",
+   "E0007"
+  ],
+  "item": "I00",
+  "src": "P005",
+  "dest": "P039"
+ },
+ {
+  "id": "E0129",
+  "type": "TELL",
+  "chapter": 6,
+  "text": "Late one night Tadrek confided to Vorine Thornworth that the old abbey at Harrowmere hides a second cellar.",
+  "where": "L14",
+  "ref_deps": [
+   "E0006"
+  ],
+  "secret": "S00",
+  "src": "P033",
+  "dest": "P042"
+ },
+ {
+  "id": "E0130",
+  "type": "RESOLVE",
+  "chapter": 6,
+  "text": "The husband of Kassa Quillson kept the promise made to Kassa Quillson: the task (pay the old debt owed to the Quillick family) was done by harvest.",
+  "where": "L15",
+  "ref_deps": [
+   "E0007"
+  ],
+  "promise": "R00",
+  "kept": true
+ },
+ {
+  "id": "E0131",
+  "type": "GIVE",
+  "chapter": 7,
+  "text": "A parcel from the youngest son of Islis Ashson reached Rozek; inside was the copper map, now his to keep.",
+  "where": "L01",
+  "ref_deps": [
+   "E0002",
+   "E0009"
+  ],
+  "item": "I06",
+  "src": "P050",
+  "dest": "P010"
+ },
+ {
+  "id": "E0132",
+  "type": "DEATH",
+  "chapter": 7,
+  "text": "Dadrek Prydner died of a fall from the mill loft at Harrowford.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P029",
+  "cause": "a fall from the mill loft",
+  "place": "L05"
+ },
+ {
+  "id": "E0133",
+  "type": "GIVE",
+  "chapter": 7,
+  "text": "The husband of Vowyn Thornwood gave the copper map to Darald Thornwood.",
+  "where": "L11",
+  "ref_deps": [
+   "E0002"
+  ],
+  "item": "I06",
+  "src": "P010",
+  "dest": "P012"
+ },
+ {
+  "id": "E0134",
+  "type": "GIVE",
+  "chapter": 7,
+  "text": "Isnelle won the copper map from Darald Thornwood at cards, fairly, and kept it.",
+  "where": "L11",
+  "ref_deps": [
+   "E0002"
+  ],
+  "item": "I06",
+  "src": "P012",
+  "dest": "P013"
+ },
+ {
+  "id": "E0135",
+  "type": "RESOLVE",
+  "chapter": 7,
+  "text": "Vowyn Thornwood kept the promise made to Isnelle Thornwood: the task (rebuild the fallen wall at Ostcombe) was done by harvest.",
+  "where": "L11",
+  "ref_deps": [],
+  "promise": "R01",
+  "kept": true
+ },
+ {
+  "id": "E0136",
+  "type": "GIVE",
+  "chapter": 7,
+  "text": "Vorine Quillson pressed the amber chalice into the hands of Pelan and would take nothing for it.",
+  "where": "L02",
+  "ref_deps": [
+   "E0009"
+  ],
+  "item": "I00",
+  "src": "P039",
+  "dest": "P048"
+ },
+ {
+  "id": "E0137",
+  "type": "PROMISE",
+  "chapter": 7,
+  "text": "Pelan Ashson swore to Vorine Quillson to rebuild the fallen wall at Fengate, and shook on it.",
+  "where": "L02",
+  "ref_deps": [],
+  "promise": "R02",
+  "a": "P048",
+  "b": "P039",
+  "act": "to rebuild the fallen wall at Fengate"
+ },
+ {
+  "id": "E0138",
+  "type": "TRAVEL",
+  "chapter": 7,
+  "text": "Vorine Quillson rode out of Coldmere; by the next market day she was living in Elmford.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P039",
+  "src": "L02",
+  "dest": "L03"
+ },
+ {
+  "id": "E0139",
+  "type": "PROMISE",
+  "chapter": 8,
+  "text": "Orric Prydner swore to Orena Ashson to rebuild the fallen wall at Larkford, and shook on it.",
+  "where": "L05",
+  "ref_deps": [],
+  "promise": "R03",
+  "a": "P028",
+  "b": "P047",
+  "act": "to rebuild the fallen wall at Larkford"
+ },
+ {
+  "id": "E0140",
+  "type": "TRAVEL",
+  "chapter": 8,
+  "text": "Nynar rode out of Harrowford; by the next market day he was living in Torhaven.",
+  "where": "L05",
+  "ref_deps": [
+   "E0006"
+  ],
+  "person": "P034",
+  "src": "L05",
+  "dest": "L12"
+ },
+ {
+  "id": "E0141",
+  "type": "TRAVEL",
+  "chapter": 8,
+  "text": "Orena went along to live in Torhaven as well.",
+  "where": "L05",
+  "ref_deps": [
+   "E0009"
+  ],
+  "person": "P047",
+  "src": "L05",
+  "dest": "L12"
+ },
+ {
+  "id": "E0142",
+  "type": "TRAVEL",
+  "chapter": 8,
+  "text": "After the quarrel, Jolde Prydner quit Harrowford for good and took lodgings in Torcombe.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P026",
+  "src": "L05",
+  "dest": "L11"
+ },
+ {
+  "id": "E0143",
+  "type": "TRAVEL",
+  "chapter": 8,
+  "text": "Ulvus Prydner went along to live in Torcombe as well.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P025",
+  "src": "L05",
+  "dest": "L11"
+ },
+ {
+  "id": "E0144",
+  "type": "GIVE",
+  "chapter": 8,
+  "text": "Isnelle Thornwood gave the garnet ledger to Vowyn Thornwood.",
+  "where": "L11",
+  "ref_deps": [],
+  "item": "I08",
+  "src": "P013",
+  "dest": "P011"
+ },
+ {
+  "id": "E0145",
+  "type": "PROMISE",
+  "chapter": 8,
+  "text": "Darald Thornwood swore to Rozek Thornwood to plant an orchard on the slope above Mireton, and shook on it.",
+  "where": "L11",
+  "ref_deps": [],
+  "promise": "R04",
+  "a": "P012",
+  "b": "P010",
+  "act": "to plant an orchard on the slope above Mireton"
+ },
+ {
+  "id": "E0146",
+  "type": "TELL",
+  "chapter": 8,
+  "text": "Late one night Dalis confided to Kanelle that the bridge toll at Larkford is skimmed every month.",
+  "where": "L09",
+  "ref_deps": [
+   "E0000",
+   "E0004"
+  ],
+  "secret": "S07",
+  "src": "P023",
+  "dest": "P003"
+ },
+ {
+  "id": "E0147",
+  "type": "TELL",
+  "chapter": 8,
+  "text": "In a letter that Kassa Quillson burned after reading, Hadan revealed that the bridge toll at Larkford is skimmed every month.",
+  "where": "L09",
+  "ref_deps": [
+   "E0004"
+  ],
+  "secret": "S07",
+  "src": "P022",
+  "dest": "P036"
+ },
+ {
+  "id": "E0148",
+  "type": "GIVE",
+  "chapter": 9,
+  "text": "A parcel from Pelan Ashson reached Codan Quillick; inside was the amber chalice, now his to keep.",
+  "where": "L02",
+  "ref_deps": [],
+  "item": "I00",
+  "src": "P048",
+  "dest": "P002"
+ },
+ {
+  "id": "E0149",
+  "type": "RESOLVE",
+  "chapter": 9,
+  "text": "The eldest son of Rozek Thornwood never did keep the promise made to Rozek Thornwood (plant an orchard on the slope above Mireton); the matter was abandoned.",
+  "where": "L11",
+  "ref_deps": [
+   "E0002"
+  ],
+  "promise": "R04",
+  "kept": false
+ },
+ {
+  "id": "E0150",
+  "type": "GIVE",
+  "chapter": 9,
+  "text": "Codan Quillick pressed the amber chalice into the hands of Tall Rovie and would take nothing for it.",
+  "where": "L13",
+  "ref_deps": [
+   "E0023"
+  ],
+  "item": "I00",
+  "src": "P002",
+  "dest": "P007"
+ },
+ {
+  "id": "E0151",
+  "type": "RUMOR",
+  "chapter": 9,
+  "text": "Gossip from Codan Quillick claimed Isssa Holloway and Webin Ashson had been wed in secret.",
+  "where": "L13",
+  "ref_deps": [],
+  "teller": "P002",
+  "claim": {
+   "kind": "married",
+   "target": "P024",
+   "other": "P045"
+  }
+ },
+ {
+  "id": "E0152",
+  "type": "RESOLVE",
+  "chapter": 9,
+  "text": "Pelan broke faith with Vorine Quillson, and the promised work (rebuild the fallen wall at Fengate) was never begun.",
+  "where": "L02",
+  "ref_deps": [
+   "E0009"
+  ],
+  "promise": "R02",
+  "kept": false
+ },
+ {
+  "id": "E0153",
+  "type": "DEATH",
+  "chapter": 9,
+  "text": "That summer, the coughing sickness took Brerald Quillson; he was buried at Yarlton.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P035",
+  "cause": "the coughing sickness",
+  "place": "L15"
+ },
+ {
+  "id": "E0154",
+  "type": "RUMOR",
+  "chapter": 10,
+  "text": "Gossip from Darald claimed Ornelle Thornworth and Rozek Thornwood had been wed in secret.",
+  "where": "L11",
+  "ref_deps": [
+   "E0002"
+  ],
+  "teller": "P012",
+  "claim": {
+   "kind": "married",
+   "target": "P041",
+   "other": "P010"
+  }
+ },
+ {
+  "id": "E0155",
+  "type": "PROMISE",
+  "chapter": 10,
+  "text": "Vowyn Thornwood gave Felis Marrley a solemn promise to pay the old debt owed to the Tallowley family.",
+  "where": "L11",
+  "ref_deps": [],
+  "promise": "R05",
+  "a": "P011",
+  "b": "P018",
+  "act": "to pay the old debt owed to the Tallowley family"
+ },
+ {
+  "id": "E0156",
+  "type": "GIVE",
+  "chapter": 10,
+  "text": "Ornelle Thornworth gave the silver lantern to Gamor Ashson.",
+  "where": "L07",
+  "ref_deps": [],
+  "item": "I11",
+  "src": "P041",
+  "dest": "P049"
+ },
+ {
+  "id": "E0157",
+  "type": "TELL",
+  "chapter": 10,
+  "text": "Kanelle could keep it no longer and told Dadrek Thornwood that the bridge toll at Larkford is skimmed every month.",
+  "where": "L00",
+  "ref_deps": [
+   "E0000"
+  ],
+  "secret": "S07",
+  "src": "P003",
+  "dest": "P014"
+ },
+ {
+  "id": "E0158",
+  "type": "GIVE",
+  "chapter": 10,
+  "text": "A parcel from Netho Ashson reached Dalis Holloway; inside was the bone dagger, now hers to keep.",
+  "where": "L01",
+  "ref_deps": [],
+  "item": "I01",
+  "src": "P050",
+  "dest": "P023"
+ },
+ {
+  "id": "E0159",
+  "type": "MARRY",
+  "chapter": 10,
+  "text": "The eldest son of Ulvus Prydner and Volia Tallowenridge were wed at Harrowford, with half the parish looking on. The couple lived in Harrowford from then on.",
+  "where": "L05",
+  "ref_deps": [
+   "E0005"
+  ],
+  "a": "P027",
+  "b": "P008",
+  "place": "L05"
+ },
+ {
+  "id": "E0160",
+  "type": "RESOLVE",
+  "chapter": 10,
+  "text": "Vowyn Thornwood never did keep the promise made to Felis Marrley (pay the old debt owed to the Tallowley family); the matter was abandoned.",
+  "where": "L11",
+  "ref_deps": [],
+  "promise": "R05",
+  "kept": false
+ },
+ {
+  "id": "E0161",
+  "type": "TELL",
+  "chapter": 10,
+  "text": "Kassa Quillson could keep it no longer and told Riena that the bridge toll at Larkford is skimmed every month.",
+  "where": "L15",
+  "ref_deps": [
+   "E0003"
+  ],
+  "secret": "S07",
+  "src": "P036",
+  "dest": "P019"
+ },
+ {
+  "id": "E0162",
+  "type": "MARRY",
+  "chapter": 11,
+  "text": "In the chapel at Fengate, Bressa married Pelan Ashson. The couple lived in Fengate from then on.",
+  "where": "L04",
+  "ref_deps": [
+   "E0000"
+  ],
+  "a": "P001",
+  "b": "P048",
+  "place": "L04"
+ },
+ {
+  "id": "E0163",
+  "type": "RESOLVE",
+  "chapter": 11,
+  "text": "True to his word to Orena Ashson, Orric Prydner finished what he had promised (rebuild the fallen wall at Larkford).",
+  "where": "L05",
+  "ref_deps": [],
+  "promise": "R03",
+  "kept": true
+ },
+ {
+  "id": "E0164",
+  "type": "DEATH",
+  "chapter": 11,
+  "text": "That winter, a long wasting sickness took Bressa Quillick; she was buried at Fengate.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P001",
+  "cause": "a long wasting sickness",
+  "place": "L04"
+ },
+ {
+  "id": "E0165",
+  "type": "PROMISE",
+  "chapter": 11,
+  "text": "Pelan Ashson swore to Webin to pay the old debt owed to the Thornwood family, and shook on it.",
+  "where": "L04",
+  "ref_deps": [
+   "E0009"
+  ],
+  "promise": "R06",
+  "a": "P048",
+  "b": "P045",
+  "act": "to pay the old debt owed to the Thornwood family"
+ },
+ {
+  "id": "E0166",
+  "type": "RESOLVE",
+  "chapter": 11,
+  "text": "Pelan Ashson never did keep the promise made to Webin Ashson (pay the old debt owed to the Thornwood family); the matter was abandoned.",
+  "where": "L04",
+  "ref_deps": [],
+  "promise": "R06",
+  "kept": false
+ },
+ {
+  "id": "E0167",
+  "type": "TELL",
+  "chapter": 11,
+  "text": "In a letter that Hara Tallowley burned after reading, Hadan Holloway revealed that the bridge toll at Larkford is skimmed every month.",
+  "where": "L09",
+  "ref_deps": [],
+  "secret": "S07",
+  "src": "P022",
+  "dest": "P031"
+ },
+ {
+  "id": "E0168",
+  "type": "PROMISE",
+  "chapter": 11,
+  "text": "Lurine Holloway gave the eldest daughter of Thilan Holloway a solemn promise to carry a sealed letter to Wilwick.",
+  "where": "L09",
+  "ref_deps": [
+   "E0004"
+  ],
+  "promise": "R07",
+  "a": "P021",
+  "b": "P023",
+  "act": "to carry a sealed letter to Wilwick"
+ },
+ {
+  "id": "E0169",
+  "type": "RUMOR",
+  "chapter": 12,
+  "text": "A rumor started by Wera Tallowenridge had it that Wedan Tallowley was dead of plague; Wera Tallowenridge had it from a peddler.",
+  "where": "L13",
+  "ref_deps": [],
+  "teller": "P006",
+  "claim": {
+   "kind": "dead",
+   "target": "P032"
+  }
+ },
+ {
+  "id": "E0170",
+  "type": "PROMISE",
+  "chapter": 12,
+  "text": "Rovie swore to Voena Tallowenridge to repair the roof of the chapel at Fengate, and shook on it.",
+  "where": "L13",
+  "ref_deps": [
+   "E0001"
+  ],
+  "promise": "R08",
+  "a": "P007",
+  "b": "P009",
+  "act": "to repair the roof of the chapel at Fengate"
+ },
+ {
+  "id": "E0171",
+  "type": "RESOLVE",
+  "chapter": 12,
+  "text": "Tall Rovie broke faith with Voena Tallowenridge, and the promised work (repair the roof of the chapel at Fengate) was never begun.",
+  "where": "L13",
+  "ref_deps": [
+   "E0023"
+  ],
+  "promise": "R08",
+  "kept": false
+ },
+ {
+  "id": "E0172",
+  "type": "GIVE",
+  "chapter": 12,
+  "text": "Nynar Tallowley won the bone flute from Nemor Marrley at cards, fairly, and kept it.",
+  "where": "L12",
+  "ref_deps": [],
+  "item": "I02",
+  "src": "P015",
+  "dest": "P034"
+ },
+ {
+  "id": "E0173",
+  "type": "PROMISE",
+  "chapter": 12,
+  "text": "Orena Ashson swore to Serine Marrley to carry a sealed letter to Elmford, and shook on it.",
+  "where": "L12",
+  "ref_deps": [],
+  "promise": "R09",
+  "a": "P047",
+  "b": "P016",
+  "act": "to carry a sealed letter to Elmford"
+ },
+ {
+  "id": "E0174",
+  "type": "TRAVEL",
+  "chapter": 12,
+  "text": "Serine Marrley packed a single trunk and moved from Torhaven to Coldmere.",
+  "where": "L12",
+  "ref_deps": [],
+  "person": "P016",
+  "src": "L12",
+  "dest": "L02"
+ },
+ {
+  "id": "E0175",
+  "type": "TRAVEL",
+  "chapter": 12,
+  "text": "Nemor went along to live in Coldmere as well.",
+  "where": "L12",
+  "ref_deps": [
+   "E0003"
+  ],
+  "person": "P015",
+  "src": "L12",
+  "dest": "L02"
+ },
+ {
+  "id": "E0176",
+  "type": "TRAVEL",
+  "chapter": 12,
+  "text": "Jodrek Prydner found work in Elmford, moved there, and did not return to Harrowford.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P027",
+  "src": "L05",
+  "dest": "L03"
+ },
+ {
+  "id": "E0177",
+  "type": "TRAVEL",
+  "chapter": 12,
+  "text": "Volia went along to live in Elmford as well.",
+  "where": "L05",
+  "ref_deps": [
+   "E0001"
+  ],
+  "person": "P008",
+  "src": "L05",
+  "dest": "L03"
+ },
+ {
+  "id": "E0178",
+  "type": "TRAVEL",
+  "chapter": 12,
+  "text": "Nemor packed a single trunk and moved from Coldmere to Mireton.",
+  "where": "L02",
+  "ref_deps": [
+   "E0003"
+  ],
+  "person": "P015",
+  "src": "L02",
+  "dest": "L09"
+ },
+ {
+  "id": "E0179",
+  "type": "TRAVEL",
+  "chapter": 12,
+  "text": "Serine Marrley followed him to Mireton within the month.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P016",
+  "src": "L02",
+  "dest": "L09"
+ },
+ {
+  "id": "E0180",
+  "type": "PLAN",
+  "chapter": 13,
+  "text": "Rozek Thornwood talked for weeks of going to Harrowmere, yet in the end stayed where he was.",
+  "where": "L11",
+  "ref_deps": [],
+  "person": "P010",
+  "dest": "L06"
+ },
+ {
+  "id": "E0181",
+  "type": "TRAVEL",
+  "chapter": 13,
+  "text": "Ridette rode out of Yarlgate; by the next market day she was living in Kelmere.",
+  "where": "L14",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P043",
+  "src": "L14",
+  "dest": "L07"
+ },
+ {
+  "id": "E0182",
+  "type": "TELL",
+  "chapter": 13,
+  "text": "In a letter that Islis Ashson burned after reading, Webin Ashson revealed that the harbor master of Wilwick takes bribes.",
+  "where": "L06",
+  "ref_deps": [],
+  "secret": "S06",
+  "src": "P045",
+  "dest": "P046"
+ },
+ {
+  "id": "E0183",
+  "type": "TRAVEL",
+  "chapter": 13,
+  "text": "Islis rode out of Harrowmere; by the next market day she was living in Kelmere.",
+  "where": "L06",
+  "ref_deps": [
+   "E0009"
+  ],
+  "person": "P046",
+  "src": "L06",
+  "dest": "L07"
+ },
+ {
+  "id": "E0184",
+  "type": "TRAVEL",
+  "chapter": 13,
+  "text": "Webin Ashson followed her to Kelmere within the month.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P045",
+  "src": "L06",
+  "dest": "L07"
+ },
+ {
+  "id": "E0185",
+  "type": "MARRY",
+  "chapter": 13,
+  "text": "Before the summer was out, Kassa Quillson took Gamor in marriage at Yarlton. The couple lived in Yarlton from then on.",
+  "where": "L15",
+  "ref_deps": [
+   "E0009"
+  ],
+  "a": "P036",
+  "b": "P049",
+  "place": "L15"
+ },
+ {
+  "id": "E0186",
+  "type": "BIRTH",
+  "chapter": 13,
+  "text": "Jowyn gave birth to a son, named Vesmor Prydner; the father was Orric Prydner. The family lived in Harrowford.",
+  "where": "L05",
+  "ref_deps": [
+   "E0003"
+  ],
+  "child": "P053",
+  "mother": "P017",
+  "father": "P028",
+  "place": "L05"
+ },
+ {
+  "id": "E0187",
+  "type": "RESOLVE",
+  "chapter": 14,
+  "text": "Orena never did keep the promise made to Serine Marrley (carry a sealed letter to Elmford); the matter was abandoned.",
+  "where": "L12",
+  "ref_deps": [
+   "E0009"
+  ],
+  "promise": "R09",
+  "kept": false
+ },
+ {
+  "id": "E0188",
+  "type": "TELL",
+  "chapter": 14,
+  "text": "Webin Ashson could keep it no longer and told Ornelle Thornworth that the harbor master of Wilwick takes bribes.",
+  "where": "L07",
+  "ref_deps": [],
+  "secret": "S06",
+  "src": "P045",
+  "dest": "P041"
+ },
+ {
+  "id": "E0189",
+  "type": "TRAVEL",
+  "chapter": 14,
+  "text": "Webin left Kelmere and settled in Mireton.",
+  "where": "L07",
+  "ref_deps": [
+   "E0009"
+  ],
+  "person": "P045",
+  "src": "L07",
+  "dest": "L09"
+ },
+ {
+  "id": "E0190",
+  "type": "TRAVEL",
+  "chapter": 14,
+  "text": "Islis Ashson followed him to Mireton within the month.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P046",
+  "src": "L07",
+  "dest": "L09"
+ },
+ {
+  "id": "E0191",
+  "type": "OCCUPATION",
+  "chapter": 14,
+  "text": "Riena Marrley gave up being a cooper and took work as a mason.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P019",
+  "old": "cooper",
+  "new": "mason"
+ },
+ {
+  "id": "E0192",
+  "type": "PROMISE",
+  "chapter": 14,
+  "text": "Codan swore to Voena Tallowenridge to plant an orchard on the slope above Mireton, and shook on it.",
+  "where": "L13",
+  "ref_deps": [
+   "E0000"
+  ],
+  "promise": "R10",
+  "a": "P002",
+  "b": "P009",
+  "act": "to plant an orchard on the slope above Mireton"
+ },
+ {
+  "id": "E0193",
+  "type": "TRAVEL",
+  "chapter": 14,
+  "text": "After the quarrel, Wera quit Wilwick for good and took lodgings in Ostcombe.",
+  "where": "L13",
+  "ref_deps": [
+   "E0001"
+  ],
+  "person": "P006",
+  "src": "L13",
+  "dest": "L10"
+ },
+ {
+  "id": "E0194",
+  "type": "TRAVEL",
+  "chapter": 14,
+  "text": "Breric Tallowenridge went along to live in Ostcombe as well.",
+  "where": "L13",
+  "ref_deps": [],
+  "person": "P005",
+  "src": "L13",
+  "dest": "L10"
+ },
+ {
+  "id": "E0195",
+  "type": "GIVE",
+  "chapter": 14,
+  "text": "Vowyn Thornwood pressed the garnet ledger into the hands of Isnelle Thornwood and would take nothing for it.",
+  "where": "L11",
+  "ref_deps": [],
+  "item": "I08",
+  "src": "P011",
+  "dest": "P013"
+ },
+ {
+  "id": "E0196",
+  "type": "GIVE",
+  "chapter": 15,
+  "text": "Hadan Holloway pressed the bone seal into the hands of Islis Ashson and would take nothing for it.",
+  "where": "L09",
+  "ref_deps": [],
+  "item": "I03",
+  "src": "P022",
+  "dest": "P046"
+ },
+ {
+  "id": "E0197",
+  "type": "GIVE",
+  "chapter": 15,
+  "text": "Darald Thornwood won the copper map from Isnelle at cards, fairly, and kept it.",
+  "where": "L11",
+  "ref_deps": [
+   "E0002"
+  ],
+  "item": "I06",
+  "src": "P013",
+  "dest": "P012"
+ },
+ {
+  "id": "E0198",
+  "type": "TELL",
+  "chapter": 15,
+  "text": "Isssa could keep it no longer and told Nemor Marrley that the Ashson family once owed a blood debt to the Quillson family.",
+  "where": "L09",
+  "ref_deps": [
+   "E0004"
+  ],
+  "secret": "S02",
+  "src": "P024",
+  "dest": "P015"
+ },
+ {
+  "id": "E0199",
+  "type": "RUMOR",
+  "chapter": 15,
+  "text": "A rumor started by Dalis Holloway had it that Ilra Quillick was dead of plague; Dalis Holloway had it from a peddler.",
+  "where": "L09",
+  "ref_deps": [],
+  "teller": "P023",
+  "claim": {
+   "kind": "dead",
+   "target": "P004"
+  }
+ },
+ {
+  "id": "E0200",
+  "type": "DEATH",
+  "chapter": 15,
+  "text": "That winter, a fall from the mill loft took Ilra; she was buried at Braewick.",
+  "where": "L00",
+  "ref_deps": [
+   "E0000"
+  ],
+  "person": "P004",
+  "cause": "a fall from the mill loft",
+  "place": "L00"
+ },
+ {
+  "id": "E0201",
+  "type": "PROMISE",
+  "chapter": 15,
+  "text": "Kanelle swore to Dadrek Thornwood to repair the roof of the chapel at Elmford, and shook on it.",
+  "where": "L00",
+  "ref_deps": [
+   "E0000"
+  ],
+  "promise": "R11",
+  "a": "P003",
+  "b": "P014",
+  "act": "to repair the roof of the chapel at Elmford"
+ },
+ {
+  "id": "E0202",
+  "type": "BIRTH",
+  "chapter": 15,
+  "text": "A daughter was born to Volia Tallowenridge and Jodrek Prydner, and they called the child Tadette Prydner. The family lived in Elmford.",
+  "where": "L03",
+  "ref_deps": [],
+  "child": "P054",
+  "mother": "P008",
+  "father": "P027",
+  "place": "L03"
+ },
+ {
+  "id": "E0203",
+  "type": "GIVE",
+  "chapter": 15,
+  "text": "Islis gave the bone seal to Thilan.",
+  "where": "L09",
+  "ref_deps": [
+   "E0004",
+   "E0009"
+  ],
+  "item": "I03",
+  "src": "P046",
+  "dest": "P020"
+ },
+ {
+  "id": "E0204",
+  "type": "TRAVEL",
+  "chapter": 16,
+  "text": "Islis found work in Bryncombe, moved there, and did not return to Mireton.",
+  "where": "L09",
+  "ref_deps": [
+   "E0009"
+  ],
+  "person": "P046",
+  "src": "L09",
+  "dest": "L01"
+ },
+ {
+  "id": "E0205",
+  "type": "TRAVEL",
+  "chapter": 16,
+  "text": "Webin Ashson went along to live in Bryncombe as well.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P045",
+  "src": "L09",
+  "dest": "L01"
+ },
+ {
+  "id": "E0206",
+  "type": "RUMOR",
+  "chapter": 16,
+  "text": "Nemor whispered that Codan Quillick had secretly married Isnelle Thornwood, but nobody could say where or when.",
+  "where": "L09",
+  "ref_deps": [
+   "E0003"
+  ],
+  "teller": "P015",
+  "claim": {
+   "kind": "married",
+   "target": "P002",
+   "other": "P013"
+  }
+ },
+ {
+  "id": "E0207",
+  "type": "GIVE",
+  "chapter": 16,
+  "text": "Darald Thornwood pressed the copper map into the hands of Ulvus Prydner and would take nothing for it.",
+  "where": "L11",
+  "ref_deps": [],
+  "item": "I06",
+  "src": "P012",
+  "dest": "P025"
+ },
+ {
+  "id": "E0208",
+  "type": "OCCUPATION",
+  "chapter": 16,
+  "text": "Wedan was apprenticed anew and became a shepherd.",
+  "where": "L11",
+  "ref_deps": [
+   "E0006"
+  ],
+  "person": "P032",
+  "old": "miller",
+  "new": "shepherd"
+ },
+ {
+  "id": "E0209",
+  "type": "GIVE",
+  "chapter": 16,
+  "text": "Isssa won the bone seal from Thilan Holloway at cards, fairly, and kept it.",
+  "where": "L09",
+  "ref_deps": [
+   "E0004"
+  ],
+  "item": "I03",
+  "src": "P020",
+  "dest": "P024"
+ },
+ {
+  "id": "E0210",
+  "type": "MARRY",
+  "chapter": 17,
+  "text": "In the chapel at Yarlgate, Vorine Thornworth married Pelan Ashson. The couple lived in Yarlgate from then on.",
+  "where": "L14",
+  "ref_deps": [],
+  "a": "P042",
+  "b": "P048",
+  "place": "L14"
+ },
+ {
+  "id": "E0211",
+  "type": "DEATH",
+  "chapter": 17,
+  "text": "They laid Ornelle Thornworth in the churchyard at Kelmere, dead of a long wasting sickness.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P041",
+  "cause": "a long wasting sickness",
+  "place": "L07"
+ },
+ {
+  "id": "E0212",
+  "type": "TRAVEL",
+  "chapter": 17,
+  "text": "Jowyn Marrley left Harrowford and settled in Ostcombe.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P017",
+  "src": "L05",
+  "dest": "L10"
+ },
+ {
+  "id": "E0213",
+  "type": "TRAVEL",
+  "chapter": 17,
+  "text": "Orric Prydner followed her to Ostcombe within the month.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P028",
+  "src": "L05",
+  "dest": "L10"
+ },
+ {
+  "id": "E0214",
+  "type": "PLAN",
+  "chapter": 17,
+  "text": "Lurine Holloway talked for weeks of going to Coldmere, yet in the end stayed where she was.",
+  "where": "L09",
+  "ref_deps": [
+   "E0004"
+  ],
+  "person": "P021",
+  "dest": "L02"
+ },
+ {
+  "id": "E0215",
+  "type": "TELL",
+  "chapter": 17,
+  "text": "In a letter that Wera burned after reading, Red Kanelle revealed that the bridge toll at Larkford is skimmed every month.",
+  "where": "L00",
+  "ref_deps": [
+   "E0001",
+   "E0019"
+  ],
+  "secret": "S07",
+  "src": "P003",
+  "dest": "P006"
+ },
+ {
+  "id": "E0216",
+  "type": "GIVE",
+  "chapter": 17,
+  "text": "A parcel from Ulvus Prydner reached the youngest son of Islis Ashson; inside was the copper map, now his to keep.",
+  "where": "L11",
+  "ref_deps": [
+   "E0009"
+  ],
+  "item": "I06",
+  "src": "P025",
+  "dest": "P050"
+ },
+ {
+  "id": "E0217",
+  "type": "PLAN",
+  "chapter": 17,
+  "text": "Jolde Prydner talked for weeks of going to Mireton, yet in the end stayed where she was.",
+  "where": "L11",
+  "ref_deps": [],
+  "person": "P026",
+  "dest": "L09"
+ },
+ {
+  "id": "E0218",
+  "type": "BIRTH",
+  "chapter": 18,
+  "text": "A son was born to Volia Tallowenridge and Jodrek Prydner, and they called the child Fetho Prydner. The family lived in Elmford.",
+  "where": "L03",
+  "ref_deps": [],
+  "child": "P055",
+  "mother": "P008",
+  "father": "P027",
+  "place": "L03"
+ },
+ {
+  "id": "E0219",
+  "type": "PLAN",
+  "chapter": 18,
+  "text": "Volia Tallowenridge talked for weeks of going to Coldmere, yet in the end stayed where she was.",
+  "where": "L03",
+  "ref_deps": [
+   "E0001"
+  ],
+  "person": "P008",
+  "dest": "L02"
+ },
+ {
+  "id": "E0220",
+  "type": "DEATH",
+  "chapter": 18,
+  "text": "Kassa Quillson died of a fall from the mill loft at Yarlton.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P036",
+  "cause": "a fall from the mill loft",
+  "place": "L15"
+ },
+ {
+  "id": "E0221",
+  "type": "TELL",
+  "chapter": 18,
+  "text": "Islis Ashson could keep it no longer and told Netho Ashson that the harbor master of Wilwick takes bribes.",
+  "where": "L01",
+  "ref_deps": [],
+  "secret": "S06",
+  "src": "P046",
+  "dest": "P050"
+ },
+ {
+  "id": "E0222",
+  "type": "TRAVEL",
+  "chapter": 18,
+  "text": "Netho Ashson packed a single trunk and moved from Bryncombe to Mireton.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P050",
+  "src": "L01",
+  "dest": "L09"
+ },
+ {
+  "id": "E0223",
+  "type": "PLAN",
+  "chapter": 18,
+  "text": "The wife of Ulvus Prydner talked for weeks of going to Fengate, yet in the end stayed where she was.",
+  "where": "L11",
+  "ref_deps": [
+   "E0005"
+  ],
+  "person": "P026",
+  "dest": "L04"
+ },
+ {
+  "id": "E0224",
+  "type": "DEATH",
+  "chapter": 18,
+  "text": "That autumn, a fall from the mill loft took Wera Tallowenridge; she was buried at Ostcombe.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P006",
+  "cause": "a fall from the mill loft",
+  "place": "L10"
+ },
+ {
+  "id": "E0225",
+  "type": "BIRTH",
+  "chapter": 18,
+  "text": "Volia gave birth to a daughter, named Nelde Prydner; the father was Jodrek Prydner. The family lived in Elmford.",
+  "where": "L03",
+  "ref_deps": [
+   "E0001"
+  ],
+  "child": "P056",
+  "mother": "P008",
+  "father": "P027",
+  "place": "L03"
+ },
+ {
+  "id": "E0226",
+  "type": "RUMOR",
+  "chapter": 19,
+  "text": "Kanelle told everyone at the inn that Orric Prydner had drowned crossing the estuary, though no body was ever seen.",
+  "where": "L00",
+  "ref_deps": [
+   "E0000"
+  ],
+  "teller": "P003",
+  "claim": {
+   "kind": "dead",
+   "target": "P028"
+  }
+ },
+ {
+  "id": "E0227",
+  "type": "DEATH",
+  "chapter": 19,
+  "text": "That winter, drowning in the flood took Serine Marrley; she was buried at Mireton.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P016",
+  "cause": "drowning in the flood",
+  "place": "L09"
+ },
+ {
+  "id": "E0228",
+  "type": "GIVE",
+  "chapter": 19,
+  "text": "The garnet compass, which Serine Marrley had owned, went to Nemor Marrley.",
+  "where": "L09",
+  "ref_deps": [],
+  "item": "I07",
+  "src": "P016",
+  "dest": "P015",
+  "inherit": true
+ },
+ {
+  "id": "E0229",
+  "type": "GIVE",
+  "chapter": 19,
+  "text": "Jowyn Marrley won the iron seal from Breric Tallowenridge at cards, fairly, and kept it.",
+  "where": "L10",
+  "ref_deps": [],
+  "item": "I10",
+  "src": "P005",
+  "dest": "P017"
+ },
+ {
+  "id": "E0230",
+  "type": "TELL",
+  "chapter": 19,
+  "text": "In a letter that Riena burned after reading, Gamor Ashson revealed that the deed to the Fengate pastures was forged.",
+  "where": "L15",
+  "ref_deps": [
+   "E0003"
+  ],
+  "secret": "S05",
+  "src": "P049",
+  "dest": "P019"
+ },
+ {
+  "id": "E0231",
+  "type": "TELL",
+  "chapter": 19,
+  "text": "In a letter that the husband of Lurine Holloway burned after reading, Nemor revealed that the Ashson family once owed a blood debt to the Quillson family.",
+  "where": "L09",
+  "ref_deps": [
+   "E0003",
+   "E0004"
+  ],
+  "secret": "S02",
+  "src": "P015",
+  "dest": "P020"
+ },
+ {
+  "id": "E0232",
+  "type": "GIVE",
+  "chapter": 19,
+  "text": "A parcel from Dalis reached the husband of Riena Marrley; inside was the bone dagger, now his to keep.",
+  "where": "L09",
+  "ref_deps": [
+   "E0004",
+   "E0010"
+  ],
+  "item": "I01",
+  "src": "P023",
+  "dest": "P037"
+ },
+ {
+  "id": "E0233",
+  "type": "PROMISE",
+  "chapter": 19,
+  "text": "Nemor Marrley gave Dalis Holloway a solemn promise to carry a sealed letter to Coldmere.",
+  "where": "L09",
+  "ref_deps": [],
+  "promise": "R12",
+  "a": "P015",
+  "b": "P023",
+  "act": "to carry a sealed letter to Coldmere"
+ },
+ {
+  "id": "E0234",
+  "type": "TRAVEL",
+  "chapter": 20,
+  "text": "Ulvus Prydner left Torcombe and settled in Torhaven.",
+  "where": "L11",
+  "ref_deps": [],
+  "person": "P025",
+  "src": "L11",
+  "dest": "L12"
+ },
+ {
+  "id": "E0235",
+  "type": "TRAVEL",
+  "chapter": 20,
+  "text": "Jolde Prydner went along to live in Torhaven as well.",
+  "where": "L11",
+  "ref_deps": [],
+  "person": "P026",
+  "src": "L11",
+  "dest": "L12"
+ },
+ {
+  "id": "E0236",
+  "type": "TELL",
+  "chapter": 20,
+  "text": "Breric Tallowenridge could keep it no longer and told Riena Marrley that the Thornwood mill ledger was rewritten after the flood.",
+  "where": "L10",
+  "ref_deps": [],
+  "secret": "S01",
+  "src": "P005",
+  "dest": "P019"
+ },
+ {
+  "id": "E0237",
+  "type": "TRAVEL",
+  "chapter": 20,
+  "text": "Jowyn Marrley left Ostcombe and settled in Yarlton.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P017",
+  "src": "L10",
+  "dest": "L15"
+ },
+ {
+  "id": "E0238",
+  "type": "TRAVEL",
+  "chapter": 20,
+  "text": "Orric Prydner went along to live in Yarlton as well.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P028",
+  "src": "L10",
+  "dest": "L15"
+ },
+ {
+  "id": "E0239",
+  "type": "PROMISE",
+  "chapter": 20,
+  "text": "Riena Marrley swore to Perald Quillson to carry a sealed letter to Yarlgate, and shook on it.",
+  "where": "L10",
+  "ref_deps": [],
+  "promise": "R13",
+  "a": "P019",
+  "b": "P037",
+  "act": "to carry a sealed letter to Yarlgate"
+ },
+ {
+  "id": "E0240",
+  "type": "GIVE",
+  "chapter": 20,
+  "text": "Rovie Tallowenridge pressed the amber chalice into the hands of Codan and would take nothing for it.",
+  "where": "L13",
+  "ref_deps": [
+   "E0000"
+  ],
+  "item": "I00",
+  "src": "P007",
+  "dest": "P002"
+ },
+ {
+  "id": "E0241",
+  "type": "DEATH",
+  "chapter": 20,
+  "text": "Ilbin Thornworth died of drowning in the flood at Kelmere.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P040",
+  "cause": "drowning in the flood",
+  "place": "L07"
+ },
+ {
+  "id": "E0242",
+  "type": "GIVE",
+  "chapter": 20,
+  "text": "Perald gave the bone dagger to Breric Tallowenridge.",
+  "where": "L10",
+  "ref_deps": [
+   "E0007"
+  ],
+  "item": "I01",
+  "src": "P037",
+  "dest": "P005"
+ },
+ {
+  "id": "E0243",
+  "type": "TRAVEL",
+  "chapter": 21,
+  "text": "After the quarrel, Orena Ashson quit Torhaven for good and took lodgings in Kelmere.",
+  "where": "L12",
+  "ref_deps": [],
+  "person": "P047",
+  "src": "L12",
+  "dest": "L07"
+ },
+ {
+  "id": "E0244",
+  "type": "TRAVEL",
+  "chapter": 21,
+  "text": "Nynar Tallowley went along to live in Kelmere as well.",
+  "where": "L12",
+  "ref_deps": [],
+  "person": "P034",
+  "src": "L12",
+  "dest": "L07"
+ },
+ {
+  "id": "E0245",
+  "type": "PLAN",
+  "chapter": 21,
+  "text": "Jolde Prydner meant to go to Larkford before the frost, but the roads flooded and the journey was put off.",
+  "where": "L12",
+  "ref_deps": [
+   "E0005"
+  ],
+  "person": "P026",
+  "dest": "L08"
+ },
+ {
+  "id": "E0246",
+  "type": "RESOLVE",
+  "chapter": 21,
+  "text": "Codan Quillick broke faith with Voena Tallowenridge, and the promised work (plant an orchard on the slope above Mireton) was never begun.",
+  "where": "L13",
+  "ref_deps": [],
+  "promise": "R10",
+  "kept": false
+ },
+ {
+  "id": "E0247",
+  "type": "MARRY",
+  "chapter": 21,
+  "text": "The eldest daughter of Lurine Holloway and Dadrek Thornwood were wed at Mireton, with half the parish looking on. The couple lived in Mireton from then on.",
+  "where": "L09",
+  "ref_deps": [
+   "E0004"
+  ],
+  "a": "P023",
+  "b": "P014",
+  "place": "L09"
+ },
+ {
+  "id": "E0248",
+  "type": "DEATH",
+  "chapter": 21,
+  "text": "Vowyn died of a kick from a cart horse at Torcombe.",
+  "where": "L11",
+  "ref_deps": [
+   "E0002"
+  ],
+  "person": "P011",
+  "cause": "a kick from a cart horse",
+  "place": "L11"
+ },
+ {
+  "id": "E0249",
+  "type": "RUMOR",
+  "chapter": 22,
+  "text": "Darald Thornwood whispered that Perald Quillson had secretly married Dalis Holloway, but nobody could say where or when.",
+  "where": "L11",
+  "ref_deps": [],
+  "teller": "P012",
+  "claim": {
+   "kind": "married",
+   "target": "P037",
+   "other": "P023"
+  }
+ },
+ {
+  "id": "E0250",
+  "type": "MARRY",
+  "chapter": 22,
+  "text": "In the chapel at Elmford, Garic Quillson married Vorine Quillson. The couple lived in Elmford from then on.",
+  "where": "L03",
+  "ref_deps": [],
+  "a": "P052",
+  "b": "P039",
+  "place": "L03"
+ },
+ {
+  "id": "E0251",
+  "type": "DEATH",
+  "chapter": 22,
+  "text": "They laid Illan in the churchyard at Harrowford, dead of a long wasting sickness.",
+  "where": "L05",
+  "ref_deps": [
+   "E0006"
+  ],
+  "person": "P030",
+  "cause": "a long wasting sickness",
+  "place": "L05"
+ },
+ {
+  "id": "E0252",
+  "type": "DEATH",
+  "chapter": 22,
+  "text": "That autumn, drowning in the flood took Webin Ashson; he was buried at Bryncombe.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P045",
+  "cause": "drowning in the flood",
+  "place": "L01"
+ },
+ {
+  "id": "E0253",
+  "type": "TELL",
+  "chapter": 22,
+  "text": "Late one night Riena Marrley confided to Perald Quillson that the deed to the Fengate pastures was forged.",
+  "where": "L10",
+  "ref_deps": [],
+  "secret": "S05",
+  "src": "P019",
+  "dest": "P037"
+ },
+ {
+  "id": "E0254",
+  "type": "MARRY",
+  "chapter": 22,
+  "text": "In the chapel at Braewick, Kanelle Quillick married Gamor. The couple lived in Braewick from then on.",
+  "where": "L00",
+  "ref_deps": [
+   "E0009"
+  ],
+  "a": "P003",
+  "b": "P049",
+  "place": "L00"
+ },
+ {
+  "id": "E0255",
+  "type": "GIVE",
+  "chapter": 22,
+  "text": "Nemor Marrley gave the garnet compass to the wife of Dadrek Thornwood.",
+  "where": "L09",
+  "ref_deps": [
+   "E0247"
+  ],
+  "item": "I07",
+  "src": "P015",
+  "dest": "P023"
+ },
+ {
+  "id": "E0256",
+  "type": "PROMISE",
+  "chapter": 23,
+  "text": "Codan Quillick swore to Rovie to pay the old debt owed to the Ashson family, and shook on it.",
+  "where": "L13",
+  "ref_deps": [
+   "E0001"
+  ],
+  "promise": "R14",
+  "a": "P002",
+  "b": "P007",
+  "act": "to pay the old debt owed to the Ashson family"
+ },
+ {
+  "id": "E0257",
+  "type": "MARRY",
+  "chapter": 23,
+  "text": "Before the winter was out, Isssa took Nemor Marrley in marriage at Mireton. The couple lived in Mireton from then on.",
+  "where": "L09",
+  "ref_deps": [
+   "E0004"
+  ],
+  "a": "P024",
+  "b": "P015",
+  "place": "L09"
+ },
+ {
+  "id": "E0258",
+  "type": "GIVE",
+  "chapter": 23,
+  "text": "Jowyn Marrley gave the iron seal to Orric Prydner.",
+  "where": "L15",
+  "ref_deps": [],
+  "item": "I10",
+  "src": "P017",
+  "dest": "P028"
+ },
+ {
+  "id": "E0259",
+  "type": "TELL",
+  "chapter": 23,
+  "text": "Late one night Thilan Holloway confided to Lurine Holloway that the Ashson family once owed a blood debt to the Quillson family.",
+  "where": "L09",
+  "ref_deps": [],
+  "secret": "S02",
+  "src": "P020",
+  "dest": "P021"
+ },
+ {
+  "id": "E0260",
+  "type": "TELL",
+  "chapter": 23,
+  "text": "Late one night Perald Quillson confided to Breric that the deed to the Fengate pastures was forged.",
+  "where": "L10",
+  "ref_deps": [
+   "E0001"
+  ],
+  "secret": "S05",
+  "src": "P037",
+  "dest": "P005"
+ },
+ {
+  "id": "E0261",
+  "type": "TELL",
+  "chapter": 23,
+  "text": "Late one night Perald Quillson confided to Voena Tallowenridge that the deed to the Fengate pastures was forged.",
+  "where": "L10",
+  "ref_deps": [],
+  "secret": "S05",
+  "src": "P037",
+  "dest": "P009"
+ },
+ {
+  "id": "E0262",
+  "type": "TELL",
+  "chapter": 23,
+  "text": "Late one night Dalis Holloway confided to Nemor Marrley that the bridge toll at Larkford is skimmed every month.",
+  "where": "L09",
+  "ref_deps": [],
+  "secret": "S07",
+  "src": "P023",
+  "dest": "P015"
+ },
+ {
+  "id": "E0263",
+  "type": "PROMISE",
+  "chapter": 23,
+  "text": "Dadrek Thornwood gave Lurine a solemn promise to rebuild the fallen wall at Ostcombe.",
+  "where": "L09",
+  "ref_deps": [
+   "E0004"
+  ],
+  "promise": "R15",
+  "a": "P014",
+  "b": "P021",
+  "act": "to rebuild the fallen wall at Ostcombe"
+ },
+ {
+  "id": "E0264",
+  "type": "PROMISE",
+  "chapter": 24,
+  "text": "Hadan Holloway gave Thilan Holloway a solemn promise to repair the roof of the chapel at Coldmere.",
+  "where": "L09",
+  "ref_deps": [],
+  "promise": "R16",
+  "a": "P022",
+  "b": "P020",
+  "act": "to repair the roof of the chapel at Coldmere"
+ },
+ {
+  "id": "E0265",
+  "type": "PROMISE",
+  "chapter": 24,
+  "text": "Lurine gave Netho Ashson a solemn promise to rebuild the fallen wall at Larkford.",
+  "where": "L09",
+  "ref_deps": [
+   "E0004"
+  ],
+  "promise": "R17",
+  "a": "P021",
+  "b": "P050",
+  "act": "to rebuild the fallen wall at Larkford"
+ },
+ {
+  "id": "E0266",
+  "type": "BIRTH",
+  "chapter": 24,
+  "text": "Riena Marrley gave birth to a son, named Cotho Quillson; the father was Perald Quillson. The family lived in Ostcombe.",
+  "where": "L10",
+  "ref_deps": [],
+  "child": "P057",
+  "mother": "P019",
+  "father": "P037",
+  "place": "L10"
+ },
+ {
+  "id": "E0267",
+  "type": "TRAVEL",
+  "chapter": 24,
+  "text": "After the quarrel, Perald quit Ostcombe for good and took lodgings in Coldmere.",
+  "where": "L10",
+  "ref_deps": [
+   "E0007"
+  ],
+  "person": "P037",
+  "src": "L10",
+  "dest": "L02"
+ },
+ {
+  "id": "E0268",
+  "type": "TRAVEL",
+  "chapter": 24,
+  "text": "Riena Marrley went along to live in Coldmere as well.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P019",
+  "src": "L10",
+  "dest": "L02"
+ },
+ {
+  "id": "E0269",
+  "type": "GIVE",
+  "chapter": 24,
+  "text": "The second son of Webin Ashson sent the silver lantern by carrier to the eldest son of Vowyn Thornwood, who received it safely.",
+  "where": "L00",
+  "ref_deps": [
+   "E0002",
+   "E0009"
+  ],
+  "item": "I11",
+  "src": "P049",
+  "dest": "P012"
+ },
+ {
+  "id": "E0270",
+  "type": "OCCUPATION",
+  "chapter": 24,
+  "text": "Netho Ashson gave up being a miller and took work as a fisher.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P050",
+  "old": "miller",
+  "new": "fisher"
+ },
+ {
+  "id": "E0271",
+  "type": "TELL",
+  "chapter": 24,
+  "text": "Late one night Breric confided to Ridette Thornworth that the deed to the Fengate pastures was forged.",
+  "where": "L10",
+  "ref_deps": [
+   "E0001"
+  ],
+  "secret": "S05",
+  "src": "P005",
+  "dest": "P043"
+ },
+ {
+  "id": "E0272",
+  "type": "TRAVEL",
+  "chapter": 24,
+  "text": "Breric left Ostcombe and settled in Harrowmere.",
+  "where": "L10",
+  "ref_deps": [
+   "E0001"
+  ],
+  "person": "P005",
+  "src": "L10",
+  "dest": "L06"
+ },
+ {
+  "id": "E0273",
+  "type": "MARRY",
+  "chapter": 25,
+  "text": "Before the summer was out, Isnelle Thornwood took Vesmor Prydner in marriage at Torcombe. The couple lived in Torcombe from then on.",
+  "where": "L11",
+  "ref_deps": [],
+  "a": "P013",
+  "b": "P053",
+  "place": "L11"
+ },
+ {
+  "id": "E0274",
+  "type": "TRAVEL",
+  "chapter": 25,
+  "text": "After the quarrel, Isnelle quit Torcombe for good and took lodgings in Bryncombe.",
+  "where": "L11",
+  "ref_deps": [
+   "E0002"
+  ],
+  "person": "P013",
+  "src": "L11",
+  "dest": "L01"
+ },
+ {
+  "id": "E0275",
+  "type": "TRAVEL",
+  "chapter": 25,
+  "text": "Vesmor went along to live in Bryncombe as well.",
+  "where": "L11",
+  "ref_deps": [
+   "E0186"
+  ],
+  "person": "P053",
+  "src": "L11",
+  "dest": "L01"
+ },
+ {
+  "id": "E0276",
+  "type": "BIRTH",
+  "chapter": 25,
+  "text": "Felis Marrley gave birth to a daughter, named Molia Tallowley; the father was Wedan Tallowley. The family lived in Torcombe.",
+  "where": "L11",
+  "ref_deps": [],
+  "child": "P058",
+  "mother": "P018",
+  "father": "P032",
+  "place": "L11"
+ },
+ {
+  "id": "E0277",
+  "type": "GIVE",
+  "chapter": 25,
+  "text": "A parcel from Breric reached Riena Marrley; inside was the bone dagger, now hers to keep.",
+  "where": "L06",
+  "ref_deps": [
+   "E0001"
+  ],
+  "item": "I01",
+  "src": "P005",
+  "dest": "P019"
+ },
+ {
+  "id": "E0278",
+  "type": "PROMISE",
+  "chapter": 25,
+  "text": "Felis Marrley swore to Rozek Thornwood to pay the old debt owed to the Thornworth family, and shook on it.",
+  "where": "L11",
+  "ref_deps": [],
+  "promise": "R18",
+  "a": "P018",
+  "b": "P010",
+  "act": "to pay the old debt owed to the Thornworth family"
+ },
+ {
+  "id": "E0279",
+  "type": "PROMISE",
+  "chapter": 25,
+  "text": "Orena Ashson swore to the husband of Orena Ashson to rebuild the fallen wall at Harrowford, and shook on it.",
+  "where": "L07",
+  "ref_deps": [
+   "E0013"
+  ],
+  "promise": "R19",
+  "a": "P047",
+  "b": "P034",
+  "act": "to rebuild the fallen wall at Harrowford"
+ },
+ {
+  "id": "E0280",
+  "type": "GIVE",
+  "chapter": 25,
+  "text": "Isssa Holloway pressed the bone seal into the hands of Netho Ashson and would take nothing for it.",
+  "where": "L09",
+  "ref_deps": [],
+  "item": "I03",
+  "src": "P024",
+  "dest": "P050"
+ },
+ {
+  "id": "E0281",
+  "type": "TELL",
+  "chapter": 25,
+  "text": "Late one night the husband of Dalis Holloway confided to Netho Ashson that the bridge toll at Larkford is skimmed every month.",
+  "where": "L09",
+  "ref_deps": [
+   "E0247"
+  ],
+  "secret": "S07",
+  "src": "P014",
+  "dest": "P050"
+ },
+ {
+  "id": "E0282",
+  "type": "RESOLVE",
+  "chapter": 26,
+  "text": "True to his word to Thilan Holloway, Hadan Holloway finished what he had promised (repair the roof of the chapel at Coldmere).",
+  "where": "L09",
+  "ref_deps": [],
+  "promise": "R16",
+  "kept": true
+ },
+ {
+  "id": "E0283",
+  "type": "OCCUPATION",
+  "chapter": 26,
+  "text": "Isssa Holloway gave up being a herbalist and took work as a cooper.",
+  "where": "L09",
+  "ref_deps": [
+   "E0004"
+  ],
+  "person": "P024",
+  "old": "herbalist",
+  "new": "cooper"
+ },
+ {
+  "id": "E0284",
+  "type": "RESOLVE",
+  "chapter": 26,
+  "text": "True to his word to Lurine Holloway, Dadrek Thornwood finished what he had promised (rebuild the fallen wall at Ostcombe).",
+  "where": "L09",
+  "ref_deps": [],
+  "promise": "R15",
+  "kept": true
+ },
+ {
+  "id": "E0285",
+  "type": "PROMISE",
+  "chapter": 26,
+  "text": "Hadan Holloway gave Dalis a solemn promise to teach the children of Harrowford their letters.",
+  "where": "L09",
+  "ref_deps": [
+   "E0004"
+  ],
+  "promise": "R20",
+  "a": "P022",
+  "b": "P023",
+  "act": "to teach the children of Harrowford their letters"
+ },
+ {
+  "id": "E0286",
+  "type": "RUMOR",
+  "chapter": 26,
+  "text": "A rumor started by Hadan had it that Isnelle Thornwood was dead of plague; Hadan had it from a peddler.",
+  "where": "L09",
+  "ref_deps": [
+   "E0004"
+  ],
+  "teller": "P022",
+  "claim": {
+   "kind": "dead",
+   "target": "P013"
+  }
+ },
+ {
+  "id": "E0287",
+  "type": "GIVE",
+  "chapter": 26,
+  "text": "Netho sent the bone seal by carrier to Breric Tallowenridge, who received it safely.",
+  "where": "L09",
+  "ref_deps": [
+   "E0009"
+  ],
+  "item": "I03",
+  "src": "P050",
+  "dest": "P005"
+ },
+ {
+  "id": "E0288",
+  "type": "GIVE",
+  "chapter": 27,
+  "text": "Riena sent the bone dagger by carrier to Orena, who received it safely.",
+  "where": "L02",
+  "ref_deps": [
+   "E0003",
+   "E0009"
+  ],
+  "item": "I01",
+  "src": "P019",
+  "dest": "P047"
+ },
+ {
+  "id": "E0289",
+  "type": "TRAVEL",
+  "chapter": 27,
+  "text": "Perald Quillson left Coldmere and settled in Fengate.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P037",
+  "src": "L02",
+  "dest": "L04"
+ },
+ {
+  "id": "E0290",
+  "type": "TRAVEL",
+  "chapter": 27,
+  "text": "Riena went along to live in Fengate as well.",
+  "where": "L02",
+  "ref_deps": [
+   "E0003"
+  ],
+  "person": "P019",
+  "src": "L02",
+  "dest": "L04"
+ },
+ {
+  "id": "E0291",
+  "type": "PROMISE",
+  "chapter": 27,
+  "text": "Hadan gave Dadrek Thornwood a solemn promise to rebuild the fallen wall at Wilwick.",
+  "where": "L09",
+  "ref_deps": [
+   "E0004"
+  ],
+  "promise": "R21",
+  "a": "P022",
+  "b": "P014",
+  "act": "to rebuild the fallen wall at Wilwick"
+ },
+ {
+  "id": "E0292",
+  "type": "GIVE",
+  "chapter": 27,
+  "text": "A parcel from Orena reached Vesrine Quillson; inside was the bone dagger, now hers to keep.",
+  "where": "L07",
+  "ref_deps": [
+   "E0009"
+  ],
+  "item": "I01",
+  "src": "P047",
+  "dest": "P038"
+ },
+ {
+  "id": "E0293",
+  "type": "PROMISE",
+  "chapter": 27,
+  "text": "The wife of Codan Quillick swore to Rovie to teach the children of Fengate their letters, and shook on it.",
+  "where": "L13",
+  "ref_deps": [
+   "E0001",
+   "E0014"
+  ],
+  "promise": "R22",
+  "a": "P009",
+  "b": "P007",
+  "act": "to teach the children of Fengate their letters"
+ },
+ {
+  "id": "E0294",
+  "type": "RUMOR",
+  "chapter": 28,
+  "text": "Gossip from Ridette claimed Orena Ashson and Bredan Prydner had been wed in secret.",
+  "where": "L07",
+  "ref_deps": [
+   "E0008"
+  ],
+  "teller": "P043",
+  "claim": {
+   "kind": "married",
+   "target": "P047",
+   "other": "P051"
+  }
+ },
+ {
+  "id": "E0295",
+  "type": "GIVE",
+  "chapter": 28,
+  "text": "A parcel from Netho Ashson reached Breric; inside was the copper map, now his to keep.",
+  "where": "L09",
+  "ref_deps": [
+   "E0001"
+  ],
+  "item": "I06",
+  "src": "P050",
+  "dest": "P005"
+ },
+ {
+  "id": "E0296",
+  "type": "TRAVEL",
+  "chapter": 28,
+  "text": "Dadrek Thornwood rode out of Mireton; by the next market day he was living in Ostcombe.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P014",
+  "src": "L09",
+  "dest": "L10"
+ },
+ {
+  "id": "E0297",
+  "type": "TRAVEL",
+  "chapter": 28,
+  "text": "Dalis Holloway went along to live in Ostcombe as well.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P023",
+  "src": "L09",
+  "dest": "L10"
+ },
+ {
+  "id": "E0298",
+  "type": "RESOLVE",
+  "chapter": 28,
+  "text": "True to her word to Netho Ashson, Lurine Holloway finished what she had promised (rebuild the fallen wall at Larkford).",
+  "where": "L09",
+  "ref_deps": [],
+  "promise": "R17",
+  "kept": true
+ },
+ {
+  "id": "E0299",
+  "type": "PLAN",
+  "chapter": 28,
+  "text": "Nemor Marrley talked for weeks of going to Wilwick, yet in the end stayed where he was.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P015",
+  "dest": "L13"
+ },
+ {
+  "id": "E0300",
+  "type": "TRAVEL",
+  "chapter": 28,
+  "text": "After the quarrel, Hara Tallowley quit Harrowford for good and took lodgings in Larkford.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P031",
+  "src": "L05",
+  "dest": "L08"
+ },
+ {
+  "id": "E0301",
+  "type": "PLAN",
+  "chapter": 28,
+  "text": "Bredan Prydner talked for weeks of going to Coldmere, yet in the end stayed where he was.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P051",
+  "dest": "L02"
+ },
+ {
+  "id": "E0302",
+  "type": "DEATH",
+  "chapter": 28,
+  "text": "They laid Nemor Marrley in the churchyard at Mireton, dead of a fall from the mill loft.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P015",
+  "cause": "a fall from the mill loft",
+  "place": "L09"
+ },
+ {
+  "id": "E0303",
+  "type": "GIVE",
+  "chapter": 29,
+  "text": "Tadrek Tallowley won the bone dagger from Vesrine Quillson at cards, fairly, and kept it.",
+  "where": "L14",
+  "ref_deps": [],
+  "item": "I01",
+  "src": "P038",
+  "dest": "P033"
+ },
+ {
+  "id": "E0304",
+  "type": "RESOLVE",
+  "chapter": 29,
+  "text": "True to her word to Dadrek Thornwood, Kanelle finished what she had promised (repair the roof of the chapel at Elmford).",
+  "where": "L00",
+  "ref_deps": [
+   "E0000"
+  ],
+  "promise": "R11",
+  "kept": true
+ },
+ {
+  "id": "E0305",
+  "type": "TELL",
+  "chapter": 29,
+  "text": "Late one night Thilan confided to the husband of Jowyn Marrley that the bridge toll at Larkford is skimmed every month.",
+  "where": "L09",
+  "ref_deps": [
+   "E0004",
+   "E0011"
+  ],
+  "secret": "S07",
+  "src": "P020",
+  "dest": "P028"
+ },
+ {
+  "id": "E0306",
+  "type": "PROMISE",
+  "chapter": 29,
+  "text": "The only son of Bressa Quillick gave Voena Tallowenridge a solemn promise to teach the children of Kelmere their letters.",
+  "where": "L13",
+  "ref_deps": [
+   "E0000"
+  ],
+  "promise": "R23",
+  "a": "P002",
+  "b": "P009",
+  "act": "to teach the children of Kelmere their letters"
+ },
+ {
+  "id": "E0307",
+  "type": "RESOLVE",
+  "chapter": 29,
+  "text": "Hadan Holloway broke faith with Dalis Holloway, and the promised work (teach the children of Harrowford their letters) was never begun.",
+  "where": "L09",
+  "ref_deps": [],
+  "promise": "R20",
+  "kept": false
+ },
+ {
+  "id": "E0308",
+  "type": "PROMISE",
+  "chapter": 29,
+  "text": "Lurine Holloway swore to Hadan to plant an orchard on the slope above Coldmere, and shook on it.",
+  "where": "L09",
+  "ref_deps": [
+   "E0004"
+  ],
+  "promise": "R24",
+  "a": "P021",
+  "b": "P022",
+  "act": "to plant an orchard on the slope above Coldmere"
+ },
+ {
+  "id": "E0309",
+  "type": "GIVE",
+  "chapter": 29,
+  "text": "Wedan Tallowley won the silver lantern from the eldest son of Vowyn Thornwood at cards, fairly, and kept it.",
+  "where": "L11",
+  "ref_deps": [
+   "E0002"
+  ],
+  "item": "I11",
+  "src": "P012",
+  "dest": "P032"
+ },
+ {
+  "id": "E0310",
+  "type": "TELL",
+  "chapter": 29,
+  "text": "Riena could keep it no longer and told Felis that the deed to the Fengate pastures was forged.",
+  "where": "L04",
+  "ref_deps": [
+   "E0003"
+  ],
+  "secret": "S05",
+  "src": "P019",
+  "dest": "P018"
+ },
+ {
+  "id": "E0311",
+  "type": "PROMISE",
+  "chapter": 30,
+  "text": "Felis Marrley swore to the eldest son of Illan Tallowley to carry a sealed letter to Fengate, and shook on it.",
+  "where": "L11",
+  "ref_deps": [
+   "E0006"
+  ],
+  "promise": "R25",
+  "a": "P018",
+  "b": "P032",
+  "act": "to carry a sealed letter to Fengate"
+ },
+ {
+  "id": "E0312",
+  "type": "GIVE",
+  "chapter": 30,
+  "text": "A parcel from Isnelle reached Nelde Prydner; inside was the garnet ledger, now hers to keep.",
+  "where": "L01",
+  "ref_deps": [
+   "E0002"
+  ],
+  "item": "I08",
+  "src": "P013",
+  "dest": "P056"
+ },
+ {
+  "id": "E0313",
+  "type": "GIVE",
+  "chapter": 30,
+  "text": "Orena won the bone flute from Nynar Tallowley at cards, fairly, and kept it.",
+  "where": "L07",
+  "ref_deps": [
+   "E0009"
+  ],
+  "item": "I02",
+  "src": "P034",
+  "dest": "P047"
+ },
+ {
+  "id": "E0314",
+  "type": "MARRY",
+  "chapter": 30,
+  "text": "In the chapel at Mireton, Isssa Holloway married Netho Ashson. The couple lived in Mireton from then on.",
+  "where": "L09",
+  "ref_deps": [],
+  "a": "P024",
+  "b": "P050",
+  "place": "L09"
+ },
+ {
+  "id": "E0315",
+  "type": "PLAN",
+  "chapter": 30,
+  "text": "Isnelle Thornwood meant to go to Larkford before the frost, but the roads flooded and the journey was put off.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P013",
+  "dest": "L08"
+ },
+ {
+  "id": "E0316",
+  "type": "PROMISE",
+  "chapter": 30,
+  "text": "Vesmor Prydner gave Islis Ashson a solemn promise to teach the children of Braewick their letters.",
+  "where": "L01",
+  "ref_deps": [],
+  "promise": "R26",
+  "a": "P053",
+  "b": "P046",
+  "act": "to teach the children of Braewick their letters"
+ },
+ {
+  "id": "E0317",
+  "type": "GIVE",
+  "chapter": 30,
+  "text": "Breric Tallowenridge sent the copper map by carrier to Orena Ashson, who received it safely.",
+  "where": "L06",
+  "ref_deps": [],
+  "item": "I06",
+  "src": "P005",
+  "dest": "P047"
+ },
+ {
+  "id": "E0318",
+  "type": "TRAVEL",
+  "chapter": 30,
+  "text": "After the quarrel, Orric Prydner quit Yarlton for good and took lodgings in Harrowford.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P028",
+  "src": "L15",
+  "dest": "L05"
+ },
+ {
+  "id": "E0319",
+  "type": "TRAVEL",
+  "chapter": 30,
+  "text": "Jowyn went along to live in Harrowford as well.",
+  "where": "L15",
+  "ref_deps": [
+   "E0003"
+  ],
+  "person": "P017",
+  "src": "L15",
+  "dest": "L05"
+ },
+ {
+  "id": "E0320",
+  "type": "MARRY",
+  "chapter": 31,
+  "text": "In the chapel at Bryncombe, Islis Ashson married Hadan Holloway. The couple lived in Bryncombe from then on.",
+  "where": "L01",
+  "ref_deps": [],
+  "a": "P046",
+  "b": "P022",
+  "place": "L01"
+ },
+ {
+  "id": "E0321",
+  "type": "TELL",
+  "chapter": 31,
+  "text": "Vorine Thornworth could keep it no longer and told Pelan Ashson that the old abbey at Harrowmere hides a second cellar.",
+  "where": "L14",
+  "ref_deps": [],
+  "secret": "S00",
+  "src": "P042",
+  "dest": "P048"
+ },
+ {
+  "id": "E0322",
+  "type": "GIVE",
+  "chapter": 31,
+  "text": "The wife of Orric Prydner won the iron seal from the second son of Ulvus Prydner at cards, fairly, and kept it.",
+  "where": "L05",
+  "ref_deps": [
+   "E0005",
+   "E0011"
+  ],
+  "item": "I10",
+  "src": "P028",
+  "dest": "P017"
+ },
+ {
+  "id": "E0323",
+  "type": "OCCUPATION",
+  "chapter": 31,
+  "text": "Bredan Prydner was apprenticed anew and became a miller.",
+  "where": "L05",
+  "ref_deps": [
+   "E0097"
+  ],
+  "person": "P051",
+  "old": null,
+  "new": "miller"
+ },
+ {
+  "id": "E0324",
+  "type": "TELL",
+  "chapter": 31,
+  "text": "Late one night Kanelle Quillick confided to Gamor Ashson that the bridge toll at Larkford is skimmed every month.",
+  "where": "L00",
+  "ref_deps": [],
+  "secret": "S07",
+  "src": "P003",
+  "dest": "P049"
+ },
+ {
+  "id": "E0325",
+  "type": "BIRTH",
+  "chapter": 31,
+  "text": "A son was born to Felis Marrley and Wedan Tallowley, and they called the child Fenar Tallowley. The family lived in Torcombe.",
+  "where": "L11",
+  "ref_deps": [],
+  "child": "P059",
+  "mother": "P018",
+  "father": "P032",
+  "place": "L11"
+ },
+ {
+  "id": "E0326",
+  "type": "TRAVEL",
+  "chapter": 31,
+  "text": "Darald Thornwood packed a single trunk and moved from Torcombe to Torhaven.",
+  "where": "L11",
+  "ref_deps": [],
+  "person": "P012",
+  "src": "L11",
+  "dest": "L12"
+ },
+ {
+  "id": "E0327",
+  "type": "GIVE",
+  "chapter": 32,
+  "text": "The eldest son of Islis Ashson won the bone dagger from Tadrek Tallowley at cards, fairly, and kept it.",
+  "where": "L14",
+  "ref_deps": [
+   "E0009"
+  ],
+  "item": "I01",
+  "src": "P033",
+  "dest": "P048"
+ },
+ {
+  "id": "E0328",
+  "type": "MARRY",
+  "chapter": 32,
+  "text": "In the chapel at Elmford, Nelde Prydner married Rozek Thornwood. The couple lived in Elmford from then on.",
+  "where": "L03",
+  "ref_deps": [],
+  "a": "P056",
+  "b": "P010",
+  "place": "L03"
+ },
+ {
+  "id": "E0329",
+  "type": "PROMISE",
+  "chapter": 32,
+  "text": "Tadette Prydner swore to Volia Tallowenridge to teach the children of Harrowford their letters, and shook on it.",
+  "where": "L03",
+  "ref_deps": [],
+  "promise": "R27",
+  "a": "P054",
+  "b": "P008",
+  "act": "to teach the children of Harrowford their letters"
+ },
+ {
+  "id": "E0330",
+  "type": "PROMISE",
+  "chapter": 32,
+  "text": "Volia Tallowenridge swore to Vorine Quillson to carry a sealed letter to Kelmere, and shook on it.",
+  "where": "L03",
+  "ref_deps": [],
+  "promise": "R28",
+  "a": "P008",
+  "b": "P039",
+  "act": "to carry a sealed letter to Kelmere"
+ },
+ {
+  "id": "E0331",
+  "type": "GIVE",
+  "chapter": 32,
+  "text": "Tadrek Tallowley won the bone dagger from Pelan at cards, fairly, and kept it.",
+  "where": "L14",
+  "ref_deps": [
+   "E0009"
+  ],
+  "item": "I01",
+  "src": "P048",
+  "dest": "P033"
+ },
+ {
+  "id": "E0332",
+  "type": "TRAVEL",
+  "chapter": 32,
+  "text": "After the quarrel, Hadan Holloway quit Bryncombe for good and took lodgings in Harrowford.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P022",
+  "src": "L01",
+  "dest": "L05"
+ },
+ {
+  "id": "E0333",
+  "type": "TRAVEL",
+  "chapter": 32,
+  "text": "Islis Ashson followed him to Harrowford within the month.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P046",
+  "src": "L01",
+  "dest": "L05"
+ },
+ {
+  "id": "E0334",
+  "type": "MARRY",
+  "chapter": 33,
+  "text": "In the chapel at Elmford, Fetho Prydner married Rovie Tallowenridge. The couple lived in Elmford from then on.",
+  "where": "L03",
+  "ref_deps": [],
+  "a": "P055",
+  "b": "P007",
+  "place": "L03"
+ },
+ {
+  "id": "E0335",
+  "type": "TRAVEL",
+  "chapter": 33,
+  "text": "Lurine rode out of Mireton; by the next market day she was living in Wilwick.",
+  "where": "L09",
+  "ref_deps": [
+   "E0004"
+  ],
+  "person": "P021",
+  "src": "L09",
+  "dest": "L13"
+ },
+ {
+  "id": "E0336",
+  "type": "TRAVEL",
+  "chapter": 33,
+  "text": "Thilan Holloway went along to live in Wilwick as well.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P020",
+  "src": "L09",
+  "dest": "L13"
+ },
+ {
+  "id": "E0337",
+  "type": "PLAN",
+  "chapter": 33,
+  "text": "Netho Ashson talked for weeks of going to Harrowford, yet in the end stayed where he was.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P050",
+  "dest": "L05"
+ },
+ {
+  "id": "E0338",
+  "type": "PLAN",
+  "chapter": 33,
+  "text": "Isssa Holloway meant to go to Ostcombe before the frost, but the roads flooded and the journey was put off.",
+  "where": "L09",
+  "ref_deps": [
+   "E0038"
+  ],
+  "person": "P024",
+  "dest": "L10"
+ },
+ {
+  "id": "E0339",
+  "type": "PLAN",
+  "chapter": 33,
+  "text": "Vorine Thornworth meant to go to Kelmere before the frost, but the roads flooded and the journey was put off.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P042",
+  "dest": "L07"
+ },
+ {
+  "id": "E0340",
+  "type": "TRAVEL",
+  "chapter": 34,
+  "text": "Thilan packed a single trunk and moved from Wilwick to Torhaven.",
+  "where": "L13",
+  "ref_deps": [
+   "E0004"
+  ],
+  "person": "P020",
+  "src": "L13",
+  "dest": "L12"
+ },
+ {
+  "id": "E0341",
+  "type": "TRAVEL",
+  "chapter": 34,
+  "text": "Lurine Holloway went along to live in Torhaven as well.",
+  "where": "L13",
+  "ref_deps": [],
+  "person": "P021",
+  "src": "L13",
+  "dest": "L12"
+ },
+ {
+  "id": "E0342",
+  "type": "GIVE",
+  "chapter": 34,
+  "text": "Jowyn Marrley pressed the iron seal into the hands of Orric Prydner and would take nothing for it.",
+  "where": "L05",
+  "ref_deps": [],
+  "item": "I10",
+  "src": "P017",
+  "dest": "P028"
+ },
+ {
+  "id": "E0343",
+  "type": "BIRTH",
+  "chapter": 34,
+  "text": "A son was born to Kanelle Quillick and Gamor Ashson, and they called the child Thibin Ashson. The family lived in Braewick.",
+  "where": "L00",
+  "ref_deps": [],
+  "child": "P060",
+  "mother": "P003",
+  "father": "P049",
+  "place": "L00"
+ },
+ {
+  "id": "E0344",
+  "type": "TELL",
+  "chapter": 34,
+  "text": "In a letter that Vodette Thornworth burned after reading, Vorine Thornworth revealed that the old abbey at Harrowmere hides a second cellar.",
+  "where": "L14",
+  "ref_deps": [],
+  "secret": "S00",
+  "src": "P042",
+  "dest": "P044"
+ },
+ {
+  "id": "E0345",
+  "type": "PROMISE",
+  "chapter": 34,
+  "text": "Vesrine Quillson gave Vorine Thornworth a solemn promise to plant an orchard on the slope above Braewick.",
+  "where": "L14",
+  "ref_deps": [],
+  "promise": "R29",
+  "a": "P038",
+  "b": "P042",
+  "act": "to plant an orchard on the slope above Braewick"
+ },
+ {
+  "id": "E0346",
+  "type": "OCCUPATION",
+  "chapter": 35,
+  "text": "Darald Thornwood gave up idleness and took work as a shepherd.",
+  "where": "L12",
+  "ref_deps": [
+   "E0002"
+  ],
+  "person": "P012",
+  "old": null,
+  "new": "shepherd"
+ },
+ {
+  "id": "E0347",
+  "type": "DEATH",
+  "chapter": 35,
+  "text": "They laid the husband of Lurine Holloway in the churchyard at Torhaven, dead of the coughing sickness.",
+  "where": "L12",
+  "ref_deps": [
+   "E0004"
+  ],
+  "person": "P020",
+  "cause": "the coughing sickness",
+  "place": "L12"
+ },
+ {
+  "id": "E0348",
+  "type": "GIVE",
+  "chapter": 35,
+  "text": "Vorine Thornworth won the bone dagger from Tadrek Tallowley at cards, fairly, and kept it.",
+  "where": "L14",
+  "ref_deps": [],
+  "item": "I01",
+  "src": "P033",
+  "dest": "P042"
+ },
+ {
+  "id": "E0349",
+  "type": "TELL",
+  "chapter": 35,
+  "text": "The youngest daughter of Lurine Holloway could keep it no longer and told Netho Ashson that the Ashson family once owed a blood debt to the Quillson family.",
+  "where": "L09",
+  "ref_deps": [
+   "E0004"
+  ],
+  "secret": "S02",
+  "src": "P024",
+  "dest": "P050"
+ },
+ {
+  "id": "E0350",
+  "type": "TRAVEL",
+  "chapter": 35,
+  "text": "Netho Ashson packed a single trunk and moved from Mireton to Harrowmere.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P050",
+  "src": "L09",
+  "dest": "L06"
+ },
+ {
+  "id": "E0351",
+  "type": "TRAVEL",
+  "chapter": 35,
+  "text": "Isssa Holloway went along to live in Harrowmere as well.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P024",
+  "src": "L09",
+  "dest": "L06"
+ },
+ {
+  "id": "E0352",
+  "type": "RESOLVE",
+  "chapter": 35,
+  "text": "Felis Marrley never did keep the promise made to Rozek Thornwood (pay the old debt owed to the Thornworth family); the matter was abandoned.",
+  "where": "L11",
+  "ref_deps": [],
+  "promise": "R18",
+  "kept": false
+ },
+ {
+  "id": "E0353",
+  "type": "GIVE",
+  "chapter": 35,
+  "text": "A parcel from Rozek reached Ridette Thornworth; inside was the iron ring, now hers to keep.",
+  "where": "L03",
+  "ref_deps": [
+   "E0002"
+  ],
+  "item": "I09",
+  "src": "P010",
+  "dest": "P043"
+ },
+ {
+  "id": "E0354",
+  "type": "TRAVEL",
+  "chapter": 36,
+  "text": "Jowyn packed a single trunk and moved from Harrowford to Coldmere.",
+  "where": "L05",
+  "ref_deps": [
+   "E0003"
+  ],
+  "person": "P017",
+  "src": "L05",
+  "dest": "L02"
+ },
+ {
+  "id": "E0355",
+  "type": "TRAVEL",
+  "chapter": 36,
+  "text": "Orric Prydner went along to live in Coldmere as well.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P028",
+  "src": "L05",
+  "dest": "L02"
+ },
+ {
+  "id": "E0356",
+  "type": "PROMISE",
+  "chapter": 36,
+  "text": "The husband of Felis Marrley swore to Felis Marrley to pay the old debt owed to the Holloway family, and shook on it.",
+  "where": "L11",
+  "ref_deps": [
+   "E0015"
+  ],
+  "promise": "R30",
+  "a": "P032",
+  "b": "P018",
+  "act": "to pay the old debt owed to the Holloway family"
+ },
+ {
+  "id": "E0357",
+  "type": "OCCUPATION",
+  "chapter": 36,
+  "text": "Codan Quillick was apprenticed anew and became a miller.",
+  "where": "L13",
+  "ref_deps": [],
+  "person": "P002",
+  "old": "cooper",
+  "new": "miller"
+ },
+ {
+  "id": "E0358",
+  "type": "GIVE",
+  "chapter": 36,
+  "text": "Orena Ashson pressed the copper map into the hands of Nynar Tallowley and would take nothing for it.",
+  "where": "L07",
+  "ref_deps": [],
+  "item": "I06",
+  "src": "P047",
+  "dest": "P034"
+ },
+ {
+  "id": "E0359",
+  "type": "OCCUPATION",
+  "chapter": 36,
+  "text": "Ridette gave up being a tanner and took work as a cooper.",
+  "where": "L07",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P043",
+  "old": "tanner",
+  "new": "cooper"
+ },
+ {
+  "id": "E0360",
+  "type": "TRAVEL",
+  "chapter": 36,
+  "text": "Nynar Tallowley left Kelmere and settled in Fengate.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P034",
+  "src": "L07",
+  "dest": "L04"
+ },
+ {
+  "id": "E0361",
+  "type": "TRAVEL",
+  "chapter": 36,
+  "text": "Orena Ashson followed him to Fengate within the month.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P047",
+  "src": "L07",
+  "dest": "L04"
+ },
+ {
+  "id": "E0362",
+  "type": "GIVE",
+  "chapter": 37,
+  "text": "Ridette Thornworth sent the iron ring by carrier to Vodette Thornworth, who received it safely.",
+  "where": "L07",
+  "ref_deps": [],
+  "item": "I09",
+  "src": "P043",
+  "dest": "P044"
+ },
+ {
+  "id": "E0363",
+  "type": "MARRY",
+  "chapter": 37,
+  "text": "Before the summer was out, Tadette Prydner took Cotho Quillson in marriage at Elmford. The couple lived in Elmford from then on.",
+  "where": "L03",
+  "ref_deps": [],
+  "a": "P054",
+  "b": "P057",
+  "place": "L03"
+ },
+ {
+  "id": "E0364",
+  "type": "PLAN",
+  "chapter": 37,
+  "text": "Ulvus Prydner meant to go to Yarlgate before the frost, but the roads flooded and the journey was put off.",
+  "where": "L12",
+  "ref_deps": [
+   "E0005"
+  ],
+  "person": "P025",
+  "dest": "L14"
+ },
+ {
+  "id": "E0365",
+  "type": "TELL",
+  "chapter": 37,
+  "text": "Late one night Breric Tallowenridge confided to Isssa that the deed to the Fengate pastures was forged.",
+  "where": "L06",
+  "ref_deps": [
+   "E0004"
+  ],
+  "secret": "S05",
+  "src": "P005",
+  "dest": "P024"
+ },
+ {
+  "id": "E0366",
+  "type": "RESOLVE",
+  "chapter": 37,
+  "text": "Wedan Tallowley broke faith with Felis Marrley, and the promised work (pay the old debt owed to the Holloway family) was never begun.",
+  "where": "L11",
+  "ref_deps": [],
+  "promise": "R30",
+  "kept": false
+ },
+ {
+  "id": "E0367",
+  "type": "TRAVEL",
+  "chapter": 38,
+  "text": "The youngest daughter of Ornelle Thornworth found work in Braewick, moved there, and did not return to Yarlgate.",
+  "where": "L14",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P044",
+  "src": "L14",
+  "dest": "L00"
+ },
+ {
+  "id": "E0368",
+  "type": "MARRY",
+  "chapter": 38,
+  "text": "Before the autumn was out, Ridette Thornworth took Darald Thornwood in marriage at Kelmere. The couple lived in Kelmere from then on.",
+  "where": "L07",
+  "ref_deps": [],
+  "a": "P043",
+  "b": "P012",
+  "place": "L07"
+ },
+ {
+  "id": "E0369",
+  "type": "TRAVEL",
+  "chapter": 38,
+  "text": "Darald Thornwood found work in Fengate, moved there, and did not return to Kelmere.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P012",
+  "src": "L07",
+  "dest": "L04"
+ },
+ {
+  "id": "E0370",
+  "type": "TRAVEL",
+  "chapter": 38,
+  "text": "Ridette went along to live in Fengate as well.",
+  "where": "L07",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P043",
+  "src": "L07",
+  "dest": "L04"
+ },
+ {
+  "id": "E0371",
+  "type": "MARRY",
+  "chapter": 38,
+  "text": "In the chapel at Larkford, Hara married Bredan Prydner. The couple lived in Larkford from then on.",
+  "where": "L08",
+  "ref_deps": [
+   "E0006"
+  ],
+  "a": "P031",
+  "b": "P051",
+  "place": "L08"
+ },
+ {
+  "id": "E0372",
+  "type": "BIRTH",
+  "chapter": 38,
+  "text": "Dalis Holloway gave birth to a daughter, named Newyn Thornwood; the father was Dadrek Thornwood. The family lived in Ostcombe.",
+  "where": "L10",
+  "ref_deps": [],
+  "child": "P061",
+  "mother": "P023",
+  "father": "P014",
+  "place": "L10"
+ },
+ {
+  "id": "E0373",
+  "type": "BIRTH",
+  "chapter": 38,
+  "text": "A daughter was born to Ridette Thornworth and Darald Thornwood, and they called the child Orlde Thornwood. The family lived in Fengate.",
+  "where": "L04",
+  "ref_deps": [],
+  "child": "P062",
+  "mother": "P043",
+  "father": "P012",
+  "place": "L04"
+ },
+ {
+  "id": "E0374",
+  "type": "TELL",
+  "chapter": 39,
+  "text": "Late one night Dadrek Thornwood confided to Islis Ashson that the bridge toll at Larkford is skimmed every month.",
+  "where": "L10",
+  "ref_deps": [],
+  "secret": "S07",
+  "src": "P014",
+  "dest": "P046"
+ },
+ {
+  "id": "E0375",
+  "type": "TELL",
+  "chapter": 39,
+  "text": "Late one night Perald Quillson confided to the only daughter of Webin Ashson that the deed to the Fengate pastures was forged.",
+  "where": "L04",
+  "ref_deps": [
+   "E0009"
+  ],
+  "secret": "S05",
+  "src": "P037",
+  "dest": "P047"
+ },
+ {
+  "id": "E0376",
+  "type": "OCCUPATION",
+  "chapter": 39,
+  "text": "The second daughter of Ilbin Thornworth was apprenticed anew and became a chandler.",
+  "where": "L04",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P043",
+  "old": "cooper",
+  "new": "chandler"
+ },
+ {
+  "id": "E0377",
+  "type": "MARRY",
+  "chapter": 39,
+  "text": "Before the winter was out, Lurine Holloway took Breric Tallowenridge in marriage at Torhaven. The couple lived in Torhaven from then on.",
+  "where": "L12",
+  "ref_deps": [],
+  "a": "P021",
+  "b": "P005",
+  "place": "L12"
+ },
+ {
+  "id": "E0378",
+  "type": "TRAVEL",
+  "chapter": 39,
+  "text": "Lurine Holloway rode out of Torhaven; by the next market day she was living in Harrowford.",
+  "where": "L12",
+  "ref_deps": [],
+  "person": "P021",
+  "src": "L12",
+  "dest": "L05"
+ },
+ {
+  "id": "E0379",
+  "type": "TRAVEL",
+  "chapter": 39,
+  "text": "Breric Tallowenridge followed her to Harrowford within the month.",
+  "where": "L12",
+  "ref_deps": [],
+  "person": "P005",
+  "src": "L12",
+  "dest": "L05"
+ },
+ {
+  "id": "E0380",
+  "type": "OCCUPATION",
+  "chapter": 39,
+  "text": "The second daughter of Serine Marrley was apprenticed anew and became a chandler.",
+  "where": "L11",
+  "ref_deps": [
+   "E0003",
+   "E0033"
+  ],
+  "person": "P018",
+  "old": "tanner",
+  "new": "chandler"
+ },
+ {
+  "id": "E0381",
+  "type": "DEATH",
+  "chapter": 40,
+  "text": "Breric died of a fall from the mill loft at Harrowford.",
+  "where": "L05",
+  "ref_deps": [
+   "E0001"
+  ],
+  "person": "P005",
+  "cause": "a fall from the mill loft",
+  "place": "L05"
+ },
+ {
+  "id": "E0382",
+  "type": "GIVE",
+  "chapter": 40,
+  "text": "Among the things left by Breric Tallowenridge, the bone seal was handed to Lurine.",
+  "where": "L05",
+  "ref_deps": [
+   "E0004"
+  ],
+  "item": "I03",
+  "src": "P005",
+  "dest": "P021",
+  "inherit": true
+ },
+ {
+  "id": "E0383",
+  "type": "TELL",
+  "chapter": 40,
+  "text": "Late one night Lurine Holloway confided to Islis Ashson that the Ashson family once owed a blood debt to the Quillson family.",
+  "where": "L05",
+  "ref_deps": [],
+  "secret": "S02",
+  "src": "P021",
+  "dest": "P046"
+ },
+ {
+  "id": "E0384",
+  "type": "PLAN",
+  "chapter": 40,
+  "text": "Hadan meant to go to Coldmere before the frost, but the roads flooded and the journey was put off.",
+  "where": "L05",
+  "ref_deps": [
+   "E0004"
+  ],
+  "person": "P022",
+  "dest": "L02"
+ },
+ {
+  "id": "E0385",
+  "type": "DEATH",
+  "chapter": 40,
+  "text": "They laid Pelan Ashson in the churchyard at Yarlgate, dead of a kick from a cart horse.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P048",
+  "cause": "a kick from a cart horse",
+  "place": "L14"
+ },
+ {
+  "id": "E0386",
+  "type": "BIRTH",
+  "chapter": 40,
+  "text": "Voena Tallowenridge gave birth to a son, named Vodan Quillick; the father was Codan Quillick. The family lived in Wilwick.",
+  "where": "L13",
+  "ref_deps": [],
+  "child": "P063",
+  "mother": "P009",
+  "father": "P002",
+  "place": "L13"
+ },
+ {
+  "id": "E0387",
+  "type": "TELL",
+  "chapter": 40,
+  "text": "Late one night Voena Tallowenridge confided to Codan Quillick that the deed to the Fengate pastures was forged.",
+  "where": "L13",
+  "ref_deps": [],
+  "secret": "S05",
+  "src": "P009",
+  "dest": "P002"
+ }
+]

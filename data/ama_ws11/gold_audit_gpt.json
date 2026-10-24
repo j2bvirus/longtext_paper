@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "wrong",
+  "reason": "Step 40 edited UserCreationForm.save() to add ManyToMany handling.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "wrong",
+  "reason": "Step 40 implemented the source fix; step 67 edited reproduction test code.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "Step 80 shows both self._save_m2m() and the self.save_m2m assignment.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "wrong",
+  "reason": "Step 67 did not implement the fix, and the analysis did not establish all three as required conditions.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "wrong",
+  "reason": "Step 55 deleted cache directories; it did not reproduce the issue.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "wrong",
+  "reason": "The latest modification to UserCreationForm source before step 67 was step 65.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "The missing immediate ManyToMany saving operation was self._save_m2m().",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "wrong",
+  "reason": "Step 55 contained no reproduction script, and step 67 implemented no source fix.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "wrong",
+  "reason": "Step 56 ran the reproduction test; it did not examine ModelForm.save().",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "wrong",
+  "reason": "Both commit scenarios were identified in step 0; step 56 ran a test.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "wrong",
+  "reason": "The commit=False assignment was already supplied by super().save(commit=False), as the passing pre-fix test confirmed.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "The implemented changes added immediate ManyToMany saving and an explicit deferred-saving assignment.",
+  "evidence": "whole trajectory"
+ }
+}

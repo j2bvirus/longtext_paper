@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "Step 11's SQL and the 146.87 result match the reference, including both price and freight_value.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "Step 17 returned MAX_DATE 2018-08-29 15:00:37 from ORDERS.order_purchase_timestamp filtered to delivered, and step 26 hard-codes it.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "The causal chain is plausible, and the successes and timeouts it cites match the trajectory.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "The counterfactual cascade (order_totals, monetary, NTILE, segments) follows from the step 26 query.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "The preconditions are consistent with steps 4, 6, 9, 11, 17 and 20, and step 14 did fail.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "The suggested next actions fit the observed success/timeout pattern.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "Both strategies are reasonable and are grounded in steps 13 and 23–25.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "NTILE with ORDER BY recency_days DESC gives tile 1 to the largest recency_days (least recent), which contradicts R=1 meaning most recent.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "Step 25 (ORDER_ITEMS, 112,650 rows) is the last new table size learned, after steps 23 and 24.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "The clues cited (TEXT timestamps, TO_TIMESTAMP in the failed steps 8 and 12, step 17 succeeding without joins) are real, and the answer is framed as an inference.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "The counts check out: 6 bash calls, 19 SQL calls (10 succeeded, 9 timed out), and the per-table step lists match.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "The key decisions, the failed steps and the minimal sequence are consistent with the trajectory.",
+  "evidence": "whole trajectory"
+ }
+}

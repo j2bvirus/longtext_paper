@@ -1,0 +1,119 @@
+Here is the step-by-step breakdown of the statistics extracted from the 18 episode transcripts provided in the file:
+
+1. **Player-to-Character Mapping:**
+* **Sam** is mapped to **Taryon**. All rolls made by Sam across the episodes are attributed to Taryon.
+
+
+* **Laura** is mapped to **Vex'ahlia**.
+
+
+* **Will** is mapped to **Kashaw**.
+
+
+* **Marisha** is mapped to **Keyleth**.
+
+
+
+
+2. **Rolls Analysis:**
+* **Episode 1:** 50 total rolls (Sam/Taryon: 3, Keyleth: 10).
+
+
+* **Episode 2:** 57 total rolls (Sam/Taryon: 0, Keyleth: 7).
+
+
+* **Episode 3:** 51 total rolls (Sam/Taryon: 7, Keyleth: 6).
+
+
+* **Episode 4:** 52 total rolls (Sam/Taryon: 6, Keyleth: 10).
+
+
+* *Cumulative total at the end of Episode 4:* $50 + 57 + 51 + 52 = 210$.
+
+
+
+
+* **Episode 5:** 42 total rolls (Sam/Taryon: 5, Keyleth: 9).
+
+
+* *Cumulative total at the end of Episode 5:* $210 + 42 = 252$.
+
+
+* *Cumulative total for Taryon (Sam) at the end of Episode 5:* $3 + 0 + 7 + 6 + 5 = 21$.
+
+
+
+
+* **Episode 6:** 53 total rolls (Sam/Taryon: 12, Keyleth: 0).
+
+
+* **Episode 7:** 49 total rolls (Sam/Taryon: 0, Keyleth: 5).
+
+
+* **Episode 8:** 61 total rolls (Sam/Taryon: 6, Keyleth: 4).
+
+
+* *Cumulative total for Keyleth at the end of Episode 8:* $10 + 7 + 6 + 10 + 9 + 0 + 5 + 4 = 51$.
+
+
+
+
+* **Episodes 9–18:** Sam/Taryon makes an additional 52 rolls across the remaining episodes (6 in Ep 9, 10 in Ep 10, 6 in Ep 11, 10 in Ep 12, 0 in Ep 13, 2 in Ep 14, 7 in Ep 15, 5 in Ep 16, 4 in Ep 17, 2 in Ep 18), bringing his total across all 18 episodes to $21 + 12 + 0 + 6 + 52 = 91$.
+
+
+* **Roll Types:** Across all episodes, **Stealth** and **Perception** are the most frequent roll types. **Animal Handling** is rolled 3 times. The roll types with more than one roll that appear the least (2 times each) are **Arcana Check, Death Saving Throw, Intelligence Check, Medicine, Persuasion, and Religion**.
+
+
+* **Natural Roll Values:** Counting all explicit natural 1s and natural 20s yields 192 **Crits**. Counting all rolls with a natural value of 4 yields 17.
+
+
+
+
+3. **Spells Analysis:**
+* **Will (Kashaw):** Casts *Freedom of Movement* (Ep 7) and *Locate Creature* twice (Ep 7), for a total of 3 spells.
+
+
+* **Laura (Vex'ahlia):** Casts 35 spells across the episodes (including *Hunter's Mark*, *Pass Without a Trace*, *Protection from Poison*, *Hail of Thorns*, *Lightning Arrow*, *Conjure Barrage*, *Spike Growth*, *Primeval Awareness*, *Speak with Animals*, *Locate Object*, *Conjure Animals*, and *Cure Wounds*).
+
+
+* **First Spell in Episode 5:** Marisha (Keyleth) casts **Pass Without a Trace**.
+
+
+* **Most Common Spell:** **Pass Without a Trace** and **Cure Wounds** are tied as the most frequently cast spells across all episodes.
+
+
+* **Least Common Spells (cast at least once):** **Aid, Alter Self,Animal Shapes,Bane,Beacon of Hope,Beast Sense,Bigby's Hand,Blade Barrier,Blight,Blindness,Blur,Bones of the Earth,Call Lightning,Cloudkill,Commune,Commune with Nature,Confusion,Conjure Animals,Conjure Barrage,Conjure Woodland Beings,Control Flames,Control Water,Countercharm,Counterspell,Daylight,Death Ward,Detect Magic,Disintegrate,Dominate Beast,Dominate Monster,Dominate Person,Druidcraft,Earthbind,Enhance Ability,Enlarge/Reduce,Entangle,Eyebite,Faerie Fire,Feather Fall,Feeblemind,Find Traps,Finger of Death,Fire Storm,Flaming Sphere,Fly,Fog Cloud,Freedom of Movement,Friends,Gaseous Form,Gate,Geas,Globe of Invulnerability,Greater Invisibility,Guidance,Hail of Thorns,Hallucinatory Terrain,Harm,Heat Metal,Hellish Rebuke,Hold Monster,Hold Person,Holy Aura,Hypnotic Pattern,Ice Storm,Identify,Incite Greed,Insect Plague,Legend Lore,Lesser Restoration,Light,Locate Creature,Locate Object,Mass Cure Wounds,Mass Healing Word,Mass Suggestion,Meld into Stone,Mend,Minor Illusion,Mirage Arcane,Mirror Image,Move Earth,Mordenkainen's Magnificent Mansion,Otiluke's Resilient Sphere,Planar Ally,Plant Growth,Polymorph,Prayer of Healing,Primeval Awareness,Prismatic Spray,Protection from Energy,Protection from Poison,Raise Dead,Regenerate,Reverse Gravity,Revivify,Sacred Flame,Sanctuary,Scorching Ray,Seeming,Sending,Shatter,Shield,Shield of Faith,Silence,Sleep,Slow,Speak with Animals,Speak with Dead,Speak with Plants,Spike Growth,Stone Shape,Stoneskin,Storm of Vengeance,Sunburst,Symbol,Tasha's Hideous Laughter,Telekinesis,Teleport,Teleportation Circle,Thaumaturgy,Thorn Whip,Thunderous Smite,Tidal Wave,Transport via Plants,Tree Stride,True Polymorph,True Strike,Unseen Servant,Vampiric Touch,Wall of Fire,Water Breathing,Wind Walk,Witch Bolt,Word of Recall**.
+
+
+* **Cantrips:** Total of 28 cantrip casts (such as *Prestidigitation*, *Light*, *Fire Bolt*, *Guidance*, *Druidcraft*, *Vicious Mockery*, *Minor Illusion*, *Thorn Whip*, *Poison Spray*, *Control Flames*, *Gust*, *Mend*).
+
+
+* **Chain Lightning:** Cast 1 time by 1 character (Keyleth in Ep 12).
+
+
+* **Upcast Spells (cast at a level higher than base):** **Bigby's Hand,Blight,Counterspell,Cure Wounds,Dispel Magic,Fireball,Flaming Sphere,Fog Cloud,Grasping Vine,Guiding Bolt,Hail of Thorns,Heal,Healing Word,Heroes' Feast,Hold Person,Invisibility,Lightning Bolt,Mass Cure Wounds,Modify Memory,Planar Ally,Scorching Ray,Scrying,Sleep,Spiritual Weapon,Thunderwave,Wall of Stone**.
+
+
+
+
+
+Q01: \boxed{21}
+Q02: \boxed{3}
+Q03: \boxed{3}
+Q04: \boxed{35}
+Q05: \boxed{Aid, Alter Self, Animal Shapes, Bane, Beacon of Hope, Beast Sense, Bigby's Hand, Blade Barrier, Blight, Blindness, Blur, Bones of the Earth, Call Lightning, Cloudkill, Commune, Commune with Nature, Confusion, Conjure Animals, Conjure Barrage, Conjure Woodland Beings, Control Flames, Control Water, Countercharm, Counterspell, Daylight, Death Ward, Detect Magic, Disintegrate, Dominate Beast, Dominate Monster, Dominate Person, Druidcraft, Earthbind, Enhance Ability, Enlarge/Reduce, Entangle, Eyebite, Faerie Fire, Feather Fall, Feeblemind, Find Traps, Finger of Death, Fire Storm, Flaming Sphere, Fly, Fog Cloud, Freedom of Movement, Friends, Gaseous Form, Gate, Geas, Globe of Invulnerability, Greater Invisibility, Guidance, Hail of Thorns, Hallucinatory Terrain, Harm, Heat Metal, Hellish Rebuke, Hold Monster, Hold Person, Holy Aura, Hypnotic Pattern, Ice Storm, Identify, Incite Greed, Insect Plague, Legend Lore, Lesser Restoration, Light, Locate Creature, Locate Object, Mass Cure Wounds, Mass Healing Word, Mass Suggestion, Meld into Stone, Mend, Minor Illusion, Mirage Arcane, Mirror Image, Mordenkainen's Magnificent Mansion, Move Earth, Otiluke's Resilient Sphere, Planar Ally, Plant Growth, Polymorph, Prayer of Healing, Primeval Awareness, Prismatic Spray, Protection from Energy, Protection from Poison, Raise Dead, Regenerate, Reverse Gravity, Revivify, Sacred Flame, Sanctuary, Scorching Ray, Seeming, Sending, Shatter, Shield, Shield of Faith, Silence, Sleep, Slow, Speak with Animals, Speak with Dead, Speak with Plants, Spike Growth, Stone Shape, Stoneskin, Storm of Vengeance, Sunburst, Symbol, Tasha's Hideous Laughter, Telekinesis, Teleport, Teleportation Circle, Thaumaturgy, Thorn Whip, Thunderous Smite, Tidal Wave, Transport via Plants, Tree Stride, True Polymorph, True Strike, Unseen Servant, Vampiric Touch, Wall of Fire, Water Breathing, Wind Walk, Witch Bolt, Word of Recall}
+Q06: \boxed{Perception, Stealth}
+Q07: \boxed{Pass Without a Trace}
+Q08: \boxed{192}
+Q09: \boxed{210}
+Q10: \boxed{51}
+Q11: \boxed{28}
+Q12: \boxed{Arcana Check, Death Saving Throw, Intelligence Check, Medicine, Persuasion, Religion}
+Q13: \boxed{1}
+Q14: \boxed{Bigby's Hand, Blight, Counterspell, Cure Wounds, Dispel Magic, Fireball, Flaming Sphere, Fog Cloud, Grasping Vine, Guiding Bolt, Hail of Thorns, Heal, Healing Word, Heroes' Feast, Hold Person, Invisibility, Lightning Bolt, Mass Cure Wounds, Modify Memory, Planar Ally, Scorching Ray, Scrying, Sleep, Spiritual Weapon, Thunderwave, Wall of Stone}
+Q15: \boxed{91}
+Q16: \boxed{Cure Wounds, Pass Without a Trace}
+Q17: \boxed{1}
+Q18: \boxed{17}
+Q19: \boxed{252}
+Q20: \boxed{91}

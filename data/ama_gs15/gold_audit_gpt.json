@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "Step 3 explicitly reports a 403 Client Error: Forbidden and execution failure with return code 1.",
+  "evidence": "steps [2, 3, 4, 21, 22]"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "Step 6 writes the file and confirms its saved workspace path.",
+  "evidence": "steps [5, 6, 7, 21, 22]"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "Step 20 saved the final answer to the exact referenced file path.",
+  "evidence": "steps [19, 20, 21, 22]"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "Step 4 set the GAIAResearchBot/1.0 User-Agent header and successfully fetched the revisions after Step 3 received a 403.",
+  "evidence": "steps [2, 3, 4, 5, 21, 22]"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "XTools reports 2811 for a 2010 cutoff, exceeding the 2732 counted through June 2023 and nearly matching the current lifetime total of 2812.",
+  "evidence": "steps [15, 16, 17, 21, 22]"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "Step 7 identifies reconciling 2732 versus 2811 as the next task, and Step 21 reports its resolution before the final answer.",
+  "evidence": "steps [7, 8, 9, 21, 22]"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "Step 4 adds a User-Agent header after Step 3’s 403 error, and the revised request succeeds.",
+  "evidence": "steps [2, 3, 4, 5, 21, 22]"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "Step 9 lists both named Markdown files and the data subdirectory.",
+  "evidence": "steps [9, 10, 11, 21, 22]"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "Step 10 reports the year 2001 count as 3 revisions.",
+  "evidence": "steps [9, 10, 11, 21, 22]"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "Step 17 reports the total lifetime revision count as 2812.",
+  "evidence": "steps [16, 17, 18, 21, 22]"
+ },
+ "Q0010": {
+  "label": "not auditable",
+  "reason": "names no step",
+  "evidence": ""
+ },
+ "Q0011": {
+  "label": "not auditable",
+  "reason": "names no step",
+  "evidence": ""
+ }
+}

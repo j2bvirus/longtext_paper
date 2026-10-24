@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "Step 8 ran that COUNT query and returned 18.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "Step 12's ascending list matches: the two lowest are tied at 2762440884622776599, and 0x6fa82a… follows with 6e18.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "The chain through Steps 6, 7, 8 and 9 is supported by the trajectory.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "COALESCE(to, from) does reduce to to_address, so burns are grouped under the zero address. The answer is hedged with \"if any\", and Steps 12 and 13 show no overlap between senders and receivers, so the top 3 probably would not change.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "The preconditions cited are supported by Steps 4, 8, 9, 10 and 19.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "The points hold. Step 8/9 succeed with LOWER, Step 19 succeeds without it, and the complex queries time out.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "Both recommended next actions are reasonable, and Step 19 and Step 24 later confirm them.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "Step 19 is where the exact-match filter first worked, and later steps kept using it.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "Steps 8, 10, 20–23 and 24 support the inferred sensitivity to query shape.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "The 500 at Step 5, the timeouts, and the mix of simple queries that succeed all support the inference.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "There are 20 SQL queries in Steps 5–24, 6 successes (8, 9, 12, 13, 19, 24), 13 timeouts and 1 HTTP 500, plus 3 bash calls.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "The insights and the minimal sequence 2→4→8→19→24 match the trajectory.",
+  "evidence": "whole trajectory"
+ }
+}

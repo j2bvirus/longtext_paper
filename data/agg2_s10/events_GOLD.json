@@ -1,0 +1,4652 @@
+[
+ {
+  "id": "E0000",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Dornworth household lived in the market town of Braegate. Tadan Dornworth and his wife Rivie Dornworth had 4 children, all living at home: the eldest a daughter, Rora Dornworth; then a daughter, Nerine Dornworth; then a daughter, Tarine Dornworth; then a daughter, Zalis Dornworth.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P000",
+  "mother": "P001",
+  "children": [
+   "P002",
+   "P003",
+   "P004",
+   "P005"
+  ],
+  "place": "L01"
+ },
+ {
+  "id": "E0001",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Tallowford household lived in the village of Yarlmere. Elric Tallowford and his wife Rilde Tallowford had 3 children, all living at home: the eldest a daughter, Yelia Tallowford; then a daughter, Thissa Tallowford; then a daughter, Rossa Tallowford.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P006",
+  "mother": "P007",
+  "children": [
+   "P008",
+   "P009",
+   "P010"
+  ],
+  "place": "L15"
+ },
+ {
+  "id": "E0002",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Thornner household lived in Kelwick. Pevus Thornner and his wife Brelia Thornner had 4 children, all living at home: the eldest a son, Nynar Thornner; then a son, Dalan Thornner; then a daughter, Dalis Thornner; then a daughter, Damira Thornner.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P011",
+  "mother": "P012",
+  "children": [
+   "P013",
+   "P014",
+   "P015",
+   "P016"
+  ],
+  "place": "L06"
+ },
+ {
+  "id": "E0003",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "In the market town of Fengate lived Hadrek Hollmere, married to Kalia Hollmere, with their children. In order of birth these were the eldest a daughter, Ulnelle Hollmere; then a daughter, Aelia Hollmere; then a son, Pemor Hollmere; then a daughter, Werine Hollmere.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P017",
+  "mother": "P018",
+  "children": [
+   "P019",
+   "P020",
+   "P021",
+   "P022"
+  ],
+  "place": "L03"
+ },
+ {
+  "id": "E0004",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Dornner household lived in the village of Braeford. Darald Dornner and his wife Isvie Dornner had 4 children, all living at home: the eldest a daughter, Nedette Dornner; then a daughter, Damira Dornner; then a daughter, Vesssa Dornner; then a son, Sedrek Dornner.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P023",
+  "mother": "P024",
+  "children": [
+   "P025",
+   "P026",
+   "P027",
+   "P028"
+  ],
+  "place": "L00"
+ },
+ {
+  "id": "E0005",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "In Osthaven lived Zaric Haskoway, married to Rissa Haskoway, with their children. In order of birth these were the eldest a daughter, Jodette Haskoway; then a daughter, Madette Haskoway; then a daughter, Jolia Haskoway.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P029",
+  "mother": "P030",
+  "children": [
+   "P031",
+   "P032",
+   "P033"
+  ],
+  "place": "L10"
+ },
+ {
+  "id": "E0006",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "In the village of Yarlmere lived Manar Stenett, married to Tara Stenett, with their children. In order of birth these were the eldest a daughter, Rowyn Stenett; then a son, Tamor Stenett.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P034",
+  "mother": "P035",
+  "children": [
+   "P036",
+   "P037"
+  ],
+  "place": "L15"
+ },
+ {
+  "id": "E0007",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "In the village of Yarlmere lived Corald Fellenridge, married to Zaena Fellenridge, with their children. In order of birth these were the eldest a son, Brelan Fellenridge; then a daughter, Massa Fellenridge; then a daughter, Kanelle Fellenridge.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P038",
+  "mother": "P039",
+  "children": [
+   "P040",
+   "P041",
+   "P042"
+  ],
+  "place": "L15"
+ },
+ {
+  "id": "E0008",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Marrworth household lived in the hill farms of Coldgate. Femor Marrworth and his wife Zalia Marrworth had 4 children, all living at home: the eldest a daughter, Weena Marrworth; then a son, Colan Marrworth; then a daughter, Ismira Marrworth; then a daughter, Massa Marrworth.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P043",
+  "mother": "P044",
+  "children": [
+   "P045",
+   "P046",
+   "P047",
+   "P048"
+  ],
+  "place": "L02"
+ },
+ {
+  "id": "E0009",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "In the village of Mireholt lived Mobin Grimett, married to Gara Grimett, with their children. In order of birth these were the eldest a son, Brezek Grimett; then a son, Zabin Grimett; then a son, Fenar Grimett.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P049",
+  "mother": "P050",
+  "children": [
+   "P051",
+   "P052",
+   "P053"
+  ],
+  "place": "L08"
+ },
+ {
+  "id": "E0010",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Ismira Marrworth had married Sedrek Dornner some years before. The couple lived in Coldgate.",
+  "where": "L02",
+  "ref_deps": [],
+  "a": "P047",
+  "b": "P028",
+  "place": "L02"
+ },
+ {
+  "id": "E0011",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Dalis Thornner had married Colan Marrworth some years before. The couple lived in Kelwick.",
+  "where": "L06",
+  "ref_deps": [],
+  "a": "P015",
+  "b": "P046",
+  "place": "L06"
+ },
+ {
+  "id": "E0012",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Tamor Stenett had married Madette Haskoway some years before. The couple lived in Yarlmere.",
+  "where": "L15",
+  "ref_deps": [],
+  "a": "P037",
+  "b": "P032",
+  "place": "L15"
+ },
+ {
+  "id": "E0013",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Massa Fellenridge had married Zabin Grimett some years before. The couple lived in Yarlmere.",
+  "where": "L15",
+  "ref_deps": [],
+  "a": "P041",
+  "b": "P052",
+  "place": "L15"
+ },
+ {
+  "id": "E0014",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Pemor Hollmere had married Kanelle Fellenridge some years before. The couple lived in Fengate.",
+  "where": "L03",
+  "ref_deps": [],
+  "a": "P021",
+  "b": "P042",
+  "place": "L03"
+ },
+ {
+  "id": "E0015",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Massa Marrworth and Nynar Thornner were husband and wife. The couple lived in Coldgate.",
+  "where": "L02",
+  "ref_deps": [],
+  "a": "P048",
+  "b": "P013",
+  "place": "L02"
+ },
+ {
+  "id": "E0016",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Tadan Dornworth worked as a glazier. Tadan Dornworth had been born in Gulton.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P000",
+  "occupation": "glazier",
+  "birthplace": "L04",
+  "nick": null
+ },
+ {
+  "id": "E0017",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Rivie Dornworth had been born in Gulton.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P001",
+  "occupation": null,
+  "birthplace": "L04",
+  "nick": null
+ },
+ {
+  "id": "E0018",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Rora Dornworth was born at Fengate.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P002",
+  "occupation": null,
+  "birthplace": "L03",
+  "nick": null
+ },
+ {
+  "id": "E0019",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Nerine Dornworth worked as a brewer.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P003",
+  "occupation": "brewer",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0020",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Tarine Dornworth worked as a cooper. Folk called Tarine Dornworth \"Old Tarine\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P004",
+  "occupation": "cooper",
+  "birthplace": null,
+  "nick": "Old Tarine"
+ },
+ {
+  "id": "E0021",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Elric Tallowford was a herbalist. Elric Tallowford was born at Gulton.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P006",
+  "occupation": "herbalist",
+  "birthplace": "L04",
+  "nick": null
+ },
+ {
+  "id": "E0022",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Rilde Tallowford was a weaver.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P007",
+  "occupation": "weaver",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0023",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Yelia Tallowford worked as a miller. Yelia Tallowford had been born in Braegate. Folk called Yelia Tallowford \"Lame Yelia\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P008",
+  "occupation": "miller",
+  "birthplace": "L01",
+  "nick": "Lame Yelia"
+ },
+ {
+  "id": "E0024",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Thissa Tallowford worked as a shepherd. Thissa Tallowford was born at Salhaven.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P009",
+  "occupation": "shepherd",
+  "birthplace": "L13",
+  "nick": null
+ },
+ {
+  "id": "E0025",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Rossa Tallowford was a tanner.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P010",
+  "occupation": "tanner",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0026",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Pevus Thornner worked as a ferryman. Pevus Thornner had been born in Kelwick. Folk called Pevus Thornner \"Old Pevus\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P011",
+  "occupation": "ferryman",
+  "birthplace": "L06",
+  "nick": "Old Pevus"
+ },
+ {
+  "id": "E0027",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Nynar Thornner worked as a cooper.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P013",
+  "occupation": "cooper",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0028",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Dalan Thornner worked as a ferryman.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P014",
+  "occupation": "ferryman",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0029",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Dalis Thornner was a glazier.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P015",
+  "occupation": "glazier",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0030",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Damira Thornner worked as a glazier. Damira Thornner was born at Gulton. Folk called Damira Thornner \"Old Damira\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P016",
+  "occupation": "glazier",
+  "birthplace": "L04",
+  "nick": "Old Damira"
+ },
+ {
+  "id": "E0031",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Hadrek Hollmere was a smith.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P017",
+  "occupation": "smith",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0032",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Kalia Hollmere worked as a herbalist. Kalia Hollmere was born at Coldgate. Folk called Kalia Hollmere \"Old Kalia\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P018",
+  "occupation": "herbalist",
+  "birthplace": "L02",
+  "nick": "Old Kalia"
+ },
+ {
+  "id": "E0033",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Ulnelle Hollmere worked as a weaver. Ulnelle Hollmere was born at Yarlby.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P019",
+  "occupation": "weaver",
+  "birthplace": "L14",
+  "nick": null
+ },
+ {
+  "id": "E0034",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Aelia Hollmere worked as a scribe. Aelia Hollmere was born at Salhaven.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P020",
+  "occupation": "scribe",
+  "birthplace": "L13",
+  "nick": null
+ },
+ {
+  "id": "E0035",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Pemor Hollmere was a glazier.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P021",
+  "occupation": "glazier",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0036",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Werine Hollmere was a scribe. Werine Hollmere had been born in Coldgate.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P022",
+  "occupation": "scribe",
+  "birthplace": "L02",
+  "nick": null
+ },
+ {
+  "id": "E0037",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Isvie Dornner was a weaver.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P024",
+  "occupation": "weaver",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0038",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Nedette Dornner was born at Yarlby.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P025",
+  "occupation": null,
+  "birthplace": "L14",
+  "nick": null
+ },
+ {
+  "id": "E0039",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Damira Dornner was a glazier. Folk called Damira Dornner \"Red Damira\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P026",
+  "occupation": "glazier",
+  "birthplace": null,
+  "nick": "Red Damira"
+ },
+ {
+  "id": "E0040",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Sedrek Dornner was born at Fengate.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P028",
+  "occupation": null,
+  "birthplace": "L03",
+  "nick": null
+ },
+ {
+  "id": "E0041",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Zaric Haskoway worked as a miller. Zaric Haskoway had been born in Mireholt.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P029",
+  "occupation": "miller",
+  "birthplace": "L08",
+  "nick": null
+ },
+ {
+  "id": "E0042",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Rissa Haskoway had been born in Ravenford.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P030",
+  "occupation": null,
+  "birthplace": "L12",
+  "nick": null
+ },
+ {
+  "id": "E0043",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Jodette Haskoway worked as a miller. Folk called Jodette Haskoway \"Old Jodette\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P031",
+  "occupation": "miller",
+  "birthplace": null,
+  "nick": "Old Jodette"
+ },
+ {
+  "id": "E0044",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Madette Haskoway was born at Mireholt.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P032",
+  "occupation": null,
+  "birthplace": "L08",
+  "nick": null
+ },
+ {
+  "id": "E0045",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Manar Stenett worked as a glazier. Manar Stenett had been born in Coldgate. Folk called Manar Stenett \"Quiet Manar\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P034",
+  "occupation": "glazier",
+  "birthplace": "L02",
+  "nick": "Quiet Manar"
+ },
+ {
+  "id": "E0046",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Tara Stenett worked as a shepherd. Tara Stenett had been born in Braegate. Folk called Tara Stenett \"Quiet Tara\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P035",
+  "occupation": "shepherd",
+  "birthplace": "L01",
+  "nick": "Quiet Tara"
+ },
+ {
+  "id": "E0047",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Rowyn Stenett worked as a cooper. Folk called Rowyn Stenett \"Rowyn the Younger\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P036",
+  "occupation": "cooper",
+  "birthplace": null,
+  "nick": "Rowyn the Younger"
+ },
+ {
+  "id": "E0048",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Tamor Stenett was a smith.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P037",
+  "occupation": "smith",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0049",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Corald Fellenridge worked as a miller. Folk called Corald Fellenridge \"Quiet Corald\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P038",
+  "occupation": "miller",
+  "birthplace": null,
+  "nick": "Quiet Corald"
+ },
+ {
+  "id": "E0050",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Zaena Fellenridge worked as a fisher.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P039",
+  "occupation": "fisher",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0051",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Brelan Fellenridge was born at Gulton.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P040",
+  "occupation": null,
+  "birthplace": "L04",
+  "nick": null
+ },
+ {
+  "id": "E0052",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Massa Fellenridge worked as a shepherd. Massa Fellenridge was born at Salhaven.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P041",
+  "occupation": "shepherd",
+  "birthplace": "L13",
+  "nick": null
+ },
+ {
+  "id": "E0053",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Kanelle Fellenridge was a tanner. Folk called Kanelle Fellenridge \"Old Kanelle\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P042",
+  "occupation": "tanner",
+  "birthplace": null,
+  "nick": "Old Kanelle"
+ },
+ {
+  "id": "E0054",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Zalia Marrworth worked as a cooper. Zalia Marrworth was born at Gulton.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P044",
+  "occupation": "cooper",
+  "birthplace": "L04",
+  "nick": null
+ },
+ {
+  "id": "E0055",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Weena Marrworth worked as a fisher. Weena Marrworth had been born in Ostcombe.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P045",
+  "occupation": "fisher",
+  "birthplace": "L09",
+  "nick": null
+ },
+ {
+  "id": "E0056",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Colan Marrworth was born at Osthaven.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P046",
+  "occupation": null,
+  "birthplace": "L10",
+  "nick": null
+ },
+ {
+  "id": "E0057",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Ismira Marrworth worked as a cooper.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P047",
+  "occupation": "cooper",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0058",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Massa Marrworth was a shepherd.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P048",
+  "occupation": "shepherd",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0059",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Folk called Mobin Grimett \"Tall Mobin\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P049",
+  "occupation": null,
+  "birthplace": null,
+  "nick": "Tall Mobin"
+ },
+ {
+  "id": "E0060",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Gara Grimett worked as a brewer. Gara Grimett had been born in Yarlby.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P050",
+  "occupation": "brewer",
+  "birthplace": "L14",
+  "nick": null
+ },
+ {
+  "id": "E0061",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Brezek Grimett was born at Coldgate.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P051",
+  "occupation": null,
+  "birthplace": "L02",
+  "nick": null
+ },
+ {
+  "id": "E0062",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Zabin Grimett was a mason. Zabin Grimett had been born in Larkstead.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P052",
+  "occupation": "mason",
+  "birthplace": "L07",
+  "nick": null
+ },
+ {
+  "id": "E0063",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Fenar Grimett worked as a tanner. Fenar Grimett had been born in Harrowford.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P053",
+  "occupation": "tanner",
+  "birthplace": "L05",
+  "nick": null
+ },
+ {
+  "id": "E0064",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Among the possessions of Nynar Thornner was the bone bell.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I02",
+  "owner": "P013"
+ },
+ {
+  "id": "E0065",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Among the possessions of Colan Marrworth was the pewter map.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I10",
+  "owner": "P046"
+ },
+ {
+  "id": "E0066",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The bone comb belonged to Zaena Fellenridge.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I03",
+  "owner": "P039"
+ },
+ {
+  "id": "E0067",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Among the possessions of Nedette Dornner was the pewter lantern.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I09",
+  "owner": "P025"
+ },
+ {
+  "id": "E0068",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The jade spyglass belonged to Rilde Tallowford.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I07",
+  "owner": "P007"
+ },
+ {
+  "id": "E0069",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Among the possessions of Rilde Tallowford was the oak mirror.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I08",
+  "owner": "P007"
+ },
+ {
+  "id": "E0070",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Among the possessions of Madette Haskoway was the garnet compass.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I06",
+  "owner": "P032"
+ },
+ {
+  "id": "E0071",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The amber ring belonged to Fenar Grimett.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I01",
+  "owner": "P053"
+ },
+ {
+  "id": "E0072",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Among the possessions of Tamor Stenett was the brass compass.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I05",
+  "owner": "P037"
+ },
+ {
+  "id": "E0073",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Tara Stenett kept the bone ledger in a cedar box.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I04",
+  "owner": "P035"
+ },
+ {
+  "id": "E0074",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Among the possessions of Rora Dornworth was the amber ledger.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I00",
+  "owner": "P002"
+ },
+ {
+  "id": "E0075",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The silver spyglass belonged to Tadan Dornworth, head of the Dornworth household.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I11",
+  "owner": "P000"
+ },
+ {
+  "id": "E0076",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Gara Grimett alone carried the knowledge that the Dornner family once owed a blood debt to the Grimett family.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S00",
+  "person": "P050"
+ },
+ {
+  "id": "E0077",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Aelia Hollmere alone carried the knowledge that the Haskoway mill ledger was rewritten after the flood.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S01",
+  "person": "P020"
+ },
+ {
+  "id": "E0078",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Hadrek Hollmere alone carried the knowledge that the old abbey at Coldgate hides a second cellar.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S02",
+  "person": "P017"
+ },
+ {
+  "id": "E0079",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Kalia Hollmere knew that the harbor master of Kelwick takes bribes.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S03",
+  "person": "P018"
+ },
+ {
+  "id": "E0080",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Isvie Dornner alone carried the knowledge that the fire at the Harrowford granary was set on purpose.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S04",
+  "person": "P024"
+ },
+ {
+  "id": "E0081",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Ismira Marrworth knew that a chest of silver lies buried beneath the well at Ravenford.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S05",
+  "person": "P047"
+ },
+ {
+  "id": "E0082",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Rivie Dornworth alone carried the knowledge that the bridge toll at Mireholt is skimmed every month.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S06",
+  "person": "P001"
+ },
+ {
+  "id": "E0083",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Nedette Dornner knew that the deed to the Braegate pastures was forged.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S07",
+  "person": "P025"
+ },
+ {
+  "id": "E0084",
+  "type": "RULE_VAULT",
+  "chapter": 1,
+  "text": "It was an old law of Braegate that the vault beneath its chapel would open only for a living person who held both the oak mirror and the amber ring at once.",
+  "where": null,
+  "ref_deps": [],
+  "place": "L01",
+  "items": [
+   "I08",
+   "I01"
+  ]
+ },
+ {
+  "id": "E0085",
+  "type": "RULE_BRIDGE",
+  "chapter": 1,
+  "text": "The toll bridge at Ostholt belonged to the Marrworth family, and only those born a Marrworth, or presently married to one, were allowed to cross it.",
+  "where": null,
+  "ref_deps": [],
+  "place": "L11",
+  "surname": "Marrworth"
+ },
+ {
+  "id": "E0086",
+  "type": "RULE_HEIR",
+  "chapter": 1,
+  "text": "By custom, the silver spyglass always passed, on the death of whoever held it, to the eldest living child of that holder; no will could change this, and it passed without ceremony.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I11",
+  "surname": "Dornworth"
+ },
+ {
+  "id": "E0087",
+  "type": "MARRY",
+  "chapter": 2,
+  "text": "In the chapel at Braeford, Damira Dornner married Fenar Grimett. The couple lived in Braeford from then on.",
+  "where": "L00",
+  "ref_deps": [],
+  "a": "P026",
+  "b": "P053",
+  "place": "L00"
+ },
+ {
+  "id": "E0088",
+  "type": "GIVE",
+  "chapter": 2,
+  "text": "A parcel from Tara Stenett reached the only son of Darald Dornner; inside was the bone ledger, now his to keep.",
+  "where": "L15",
+  "ref_deps": [
+   "E0004"
+  ],
+  "item": "I04",
+  "src": "P035",
+  "dest": "P028"
+ },
+ {
+  "id": "E0089",
+  "type": "PROMISE",
+  "chapter": 2,
+  "text": "The second daughter of Zaric Haskoway swore to Rowyn Stenett to repair the roof of the chapel at Yarlby, and shook on it.",
+  "where": "L15",
+  "ref_deps": [
+   "E0005"
+  ],
+  "promise": "R00",
+  "a": "P032",
+  "b": "P036",
+  "act": "to repair the roof of the chapel at Yarlby"
+ },
+ {
+  "id": "E0090",
+  "type": "BIRTH",
+  "chapter": 2,
+  "text": "A son was born to Kanelle Fellenridge and Pemor Hollmere, and they called the child Wezek Hollmere. The family lived in Fengate.",
+  "where": "L03",
+  "ref_deps": [],
+  "child": "P054",
+  "mother": "P042",
+  "father": "P021",
+  "place": "L03"
+ },
+ {
+  "id": "E0091",
+  "type": "TRAVEL",
+  "chapter": 2,
+  "text": "Werine Hollmere packed a single trunk and moved from Fengate to Ravenford.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P022",
+  "src": "L03",
+  "dest": "L12"
+ },
+ {
+  "id": "E0092",
+  "type": "RESOLVE",
+  "chapter": 2,
+  "text": "Madette kept the promise made to Rowyn Stenett: the task (repair the roof of the chapel at Yarlby) was done by harvest.",
+  "where": "L15",
+  "ref_deps": [
+   "E0005"
+  ],
+  "promise": "R00",
+  "kept": true
+ },
+ {
+  "id": "E0093",
+  "type": "TELL",
+  "chapter": 2,
+  "text": "In a letter that Sedrek burned after reading, Ismira Marrworth revealed that a chest of silver lies buried beneath the well at Ravenford.",
+  "where": "L02",
+  "ref_deps": [
+   "E0004"
+  ],
+  "secret": "S05",
+  "src": "P047",
+  "dest": "P028"
+ },
+ {
+  "id": "E0094",
+  "type": "PROMISE",
+  "chapter": 3,
+  "text": "Zalis gave Rivie Dornworth a solemn promise to repair the roof of the chapel at Yarlmere.",
+  "where": "L01",
+  "ref_deps": [
+   "E0000"
+  ],
+  "promise": "R01",
+  "a": "P005",
+  "b": "P001",
+  "act": "to repair the roof of the chapel at Yarlmere"
+ },
+ {
+  "id": "E0095",
+  "type": "MARRY",
+  "chapter": 3,
+  "text": "In the chapel at Osthaven, Jolia Haskoway married Brelan Fellenridge. The couple lived in Osthaven from then on.",
+  "where": "L10",
+  "ref_deps": [],
+  "a": "P033",
+  "b": "P040",
+  "place": "L10"
+ },
+ {
+  "id": "E0096",
+  "type": "TELL",
+  "chapter": 3,
+  "text": "In a letter that Ulnelle Hollmere burned after reading, Old Kalia revealed that the harbor master of Kelwick takes bribes.",
+  "where": "L03",
+  "ref_deps": [
+   "E0032"
+  ],
+  "secret": "S03",
+  "src": "P018",
+  "dest": "P019"
+ },
+ {
+  "id": "E0097",
+  "type": "TRAVEL",
+  "chapter": 3,
+  "text": "After the quarrel, the only son of Darald Dornner quit Coldgate for good and took lodgings in Yarlmere.",
+  "where": "L02",
+  "ref_deps": [
+   "E0004"
+  ],
+  "person": "P028",
+  "src": "L02",
+  "dest": "L15"
+ },
+ {
+  "id": "E0098",
+  "type": "TRAVEL",
+  "chapter": 3,
+  "text": "Ismira Marrworth followed him to Yarlmere within the month.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P047",
+  "src": "L02",
+  "dest": "L15"
+ },
+ {
+  "id": "E0099",
+  "type": "PROMISE",
+  "chapter": 3,
+  "text": "Zalia gave Femor Marrworth a solemn promise to rebuild the fallen wall at Salhaven.",
+  "where": "L02",
+  "ref_deps": [
+   "E0008"
+  ],
+  "promise": "R02",
+  "a": "P044",
+  "b": "P043",
+  "act": "to rebuild the fallen wall at Salhaven"
+ },
+ {
+  "id": "E0100",
+  "type": "GIVE",
+  "chapter": 3,
+  "text": "Zaena Fellenridge gave the bone comb to Massa Fellenridge.",
+  "where": "L15",
+  "ref_deps": [],
+  "item": "I03",
+  "src": "P039",
+  "dest": "P041"
+ },
+ {
+  "id": "E0101",
+  "type": "MARRY",
+  "chapter": 3,
+  "text": "Rossa Tallowford and the eldest son of Gara Grimett were wed at Yarlmere, with half the parish looking on. The couple lived in Yarlmere from then on.",
+  "where": "L15",
+  "ref_deps": [
+   "E0009"
+  ],
+  "a": "P010",
+  "b": "P051",
+  "place": "L15"
+ },
+ {
+  "id": "E0102",
+  "type": "RESOLVE",
+  "chapter": 4,
+  "text": "True to her word to Femor Marrworth, Zalia Marrworth finished what she had promised (rebuild the fallen wall at Salhaven).",
+  "where": "L02",
+  "ref_deps": [],
+  "promise": "R02",
+  "kept": true
+ },
+ {
+  "id": "E0103",
+  "type": "PROMISE",
+  "chapter": 4,
+  "text": "Massa Marrworth swore to Zalia Marrworth to rebuild the fallen wall at Ostholt, and shook on it.",
+  "where": "L02",
+  "ref_deps": [],
+  "promise": "R03",
+  "a": "P048",
+  "b": "P044",
+  "act": "to rebuild the fallen wall at Ostholt"
+ },
+ {
+  "id": "E0104",
+  "type": "GIVE",
+  "chapter": 4,
+  "text": "Nedette Dornner gave the pewter lantern to Isvie Dornner.",
+  "where": "L00",
+  "ref_deps": [],
+  "item": "I09",
+  "src": "P025",
+  "dest": "P024"
+ },
+ {
+  "id": "E0105",
+  "type": "BIRTH",
+  "chapter": 4,
+  "text": "A son was born to Damira Dornner and Fenar Grimett, and they called the child Vodan Grimett. The family lived in Braeford.",
+  "where": "L00",
+  "ref_deps": [],
+  "child": "P055",
+  "mother": "P026",
+  "father": "P053",
+  "place": "L00"
+ },
+ {
+  "id": "E0106",
+  "type": "MARRY",
+  "chapter": 4,
+  "text": "Nerine Dornworth and Dalan Thornner were wed at Braegate, with half the parish looking on. The couple lived in Braegate from then on.",
+  "where": "L01",
+  "ref_deps": [],
+  "a": "P003",
+  "b": "P014",
+  "place": "L01"
+ },
+ {
+  "id": "E0107",
+  "type": "RESOLVE",
+  "chapter": 4,
+  "text": "True to her word to Zalia Marrworth, Massa Marrworth finished what she had promised (rebuild the fallen wall at Ostholt).",
+  "where": "L02",
+  "ref_deps": [],
+  "promise": "R03",
+  "kept": true
+ },
+ {
+  "id": "E0108",
+  "type": "RUMOR",
+  "chapter": 4,
+  "text": "Weena told everyone at the inn that Hadrek Hollmere had drowned crossing the estuary, though no body was ever seen.",
+  "where": "L02",
+  "ref_deps": [
+   "E0008"
+  ],
+  "teller": "P045",
+  "claim": {
+   "kind": "dead",
+   "target": "P017"
+  }
+ },
+ {
+  "id": "E0109",
+  "type": "GIVE",
+  "chapter": 4,
+  "text": "A parcel from Madette Haskoway reached Rora Dornworth; inside was the garnet compass, now hers to keep.",
+  "where": "L15",
+  "ref_deps": [],
+  "item": "I06",
+  "src": "P032",
+  "dest": "P002"
+ },
+ {
+  "id": "E0110",
+  "type": "TELL",
+  "chapter": 5,
+  "text": "In a letter that Fenar Grimett burned after reading, Isvie Dornner revealed that the fire at the Harrowford granary was set on purpose.",
+  "where": "L00",
+  "ref_deps": [],
+  "secret": "S04",
+  "src": "P024",
+  "dest": "P053"
+ },
+ {
+  "id": "E0111",
+  "type": "GIVE",
+  "chapter": 5,
+  "text": "A parcel from Rilde Tallowford reached Pevus; inside was the jade spyglass, now his to keep.",
+  "where": "L15",
+  "ref_deps": [
+   "E0002"
+  ],
+  "item": "I07",
+  "src": "P007",
+  "dest": "P011"
+ },
+ {
+  "id": "E0112",
+  "type": "TRAVEL",
+  "chapter": 5,
+  "text": "After the quarrel, Ismira Marrworth quit Yarlmere for good and took lodgings in Yarlby.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P047",
+  "src": "L15",
+  "dest": "L14"
+ },
+ {
+  "id": "E0113",
+  "type": "TRAVEL",
+  "chapter": 5,
+  "text": "Sedrek Dornner went along to live in Yarlby as well.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P028",
+  "src": "L15",
+  "dest": "L14"
+ },
+ {
+  "id": "E0114",
+  "type": "DEATH",
+  "chapter": 5,
+  "text": "They laid Rowyn in the churchyard at Yarlmere, dead of the coughing sickness.",
+  "where": "L15",
+  "ref_deps": [
+   "E0006"
+  ],
+  "person": "P036",
+  "cause": "the coughing sickness",
+  "place": "L15"
+ },
+ {
+  "id": "E0115",
+  "type": "GIVE",
+  "chapter": 5,
+  "text": "Colan pressed the pewter map into the hands of Old Pevus and would take nothing for it.",
+  "where": "L06",
+  "ref_deps": [
+   "E0008",
+   "E0026"
+  ],
+  "item": "I10",
+  "src": "P046",
+  "dest": "P011"
+ },
+ {
+  "id": "E0116",
+  "type": "OCCUPATION",
+  "chapter": 5,
+  "text": "Brelia gave up idleness and took work as a smith.",
+  "where": "L06",
+  "ref_deps": [
+   "E0002"
+  ],
+  "person": "P012",
+  "old": null,
+  "new": "smith"
+ },
+ {
+  "id": "E0117",
+  "type": "PROMISE",
+  "chapter": 5,
+  "text": "Damira Thornner gave Brelia Thornner a solemn promise to teach the children of Larkstead their letters.",
+  "where": "L06",
+  "ref_deps": [],
+  "promise": "R04",
+  "a": "P016",
+  "b": "P012",
+  "act": "to teach the children of Larkstead their letters"
+ },
+ {
+  "id": "E0118",
+  "type": "DEATH",
+  "chapter": 6,
+  "text": "They laid Rissa Haskoway in the churchyard at Osthaven, dead of a long wasting sickness.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P030",
+  "cause": "a long wasting sickness",
+  "place": "L10"
+ },
+ {
+  "id": "E0119",
+  "type": "RUMOR",
+  "chapter": 6,
+  "text": "Aelia Hollmere told everyone at the inn that Pemor Hollmere had drowned crossing the estuary, though no body was ever seen.",
+  "where": "L03",
+  "ref_deps": [],
+  "teller": "P020",
+  "claim": {
+   "kind": "dead",
+   "target": "P021"
+  }
+ },
+ {
+  "id": "E0120",
+  "type": "PROMISE",
+  "chapter": 6,
+  "text": "Pemor gave Aelia a solemn promise to pay the old debt owed to the Marrworth family.",
+  "where": "L03",
+  "ref_deps": [
+   "E0003"
+  ],
+  "promise": "R05",
+  "a": "P021",
+  "b": "P020",
+  "act": "to pay the old debt owed to the Marrworth family"
+ },
+ {
+  "id": "E0121",
+  "type": "RUMOR",
+  "chapter": 6,
+  "text": "Gossip from Aelia claimed Elric Tallowford and Brelia Thornner had been wed in secret.",
+  "where": "L03",
+  "ref_deps": [
+   "E0003"
+  ],
+  "teller": "P020",
+  "claim": {
+   "kind": "married",
+   "target": "P006",
+   "other": "P012"
+  }
+ },
+ {
+  "id": "E0122",
+  "type": "RUMOR",
+  "chapter": 6,
+  "text": "Colan Marrworth told everyone at the inn that Rivie Dornworth had drowned crossing the estuary, though no body was ever seen.",
+  "where": "L06",
+  "ref_deps": [],
+  "teller": "P046",
+  "claim": {
+   "kind": "dead",
+   "target": "P001"
+  }
+ },
+ {
+  "id": "E0123",
+  "type": "GIVE",
+  "chapter": 6,
+  "text": "A parcel from Massa Fellenridge reached Brelia Thornner; inside was the bone comb, now hers to keep.",
+  "where": "L15",
+  "ref_deps": [],
+  "item": "I03",
+  "src": "P041",
+  "dest": "P012"
+ },
+ {
+  "id": "E0124",
+  "type": "GIVE",
+  "chapter": 6,
+  "text": "Pevus Thornner gave the jade spyglass to Colan.",
+  "where": "L06",
+  "ref_deps": [
+   "E0008"
+  ],
+  "item": "I07",
+  "src": "P011",
+  "dest": "P046"
+ },
+ {
+  "id": "E0125",
+  "type": "BIRTH",
+  "chapter": 6,
+  "text": "A son was born to Damira Dornner and Fenar Grimett, and they called the child Jodan Grimett. The family lived in Braeford.",
+  "where": "L00",
+  "ref_deps": [],
+  "child": "P056",
+  "mother": "P026",
+  "father": "P053",
+  "place": "L00"
+ },
+ {
+  "id": "E0126",
+  "type": "TELL",
+  "chapter": 7,
+  "text": "In a letter that the husband of Kalia Hollmere burned after reading, Ulnelle revealed that the harbor master of Kelwick takes bribes.",
+  "where": "L03",
+  "ref_deps": [
+   "E0003"
+  ],
+  "secret": "S03",
+  "src": "P019",
+  "dest": "P017"
+ },
+ {
+  "id": "E0127",
+  "type": "TRAVEL",
+  "chapter": 7,
+  "text": "After the quarrel, Ulnelle Hollmere quit Fengate for good and took lodgings in Ravenford.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P019",
+  "src": "L03",
+  "dest": "L12"
+ },
+ {
+  "id": "E0128",
+  "type": "BIRTH",
+  "chapter": 7,
+  "text": "Massa Marrworth gave birth to a daughter, named Aevie Thornner; the father was Nynar Thornner. The family lived in Coldgate.",
+  "where": "L02",
+  "ref_deps": [],
+  "child": "P057",
+  "mother": "P048",
+  "father": "P013",
+  "place": "L02"
+ },
+ {
+  "id": "E0129",
+  "type": "OCCUPATION",
+  "chapter": 7,
+  "text": "Femor Marrworth was apprenticed anew and became a cooper.",
+  "where": "L02",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P043",
+  "old": null,
+  "new": "cooper"
+ },
+ {
+  "id": "E0130",
+  "type": "TELL",
+  "chapter": 7,
+  "text": "Late one night Hadrek Hollmere confided to the only son of Kalia Hollmere that the old abbey at Coldgate hides a second cellar.",
+  "where": "L03",
+  "ref_deps": [
+   "E0003"
+  ],
+  "secret": "S02",
+  "src": "P017",
+  "dest": "P021"
+ },
+ {
+  "id": "E0131",
+  "type": "MARRY",
+  "chapter": 7,
+  "text": "Before the winter was out, Thissa took Zaric Haskoway in marriage at Yarlmere. The couple lived in Yarlmere from then on.",
+  "where": "L15",
+  "ref_deps": [
+   "E0001"
+  ],
+  "a": "P009",
+  "b": "P029",
+  "place": "L15"
+ },
+ {
+  "id": "E0132",
+  "type": "DEATH",
+  "chapter": 7,
+  "text": "That winter, old age, quietly in sleep took Rivie Dornworth; she was buried at Braegate.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P001",
+  "cause": "old age, quietly in sleep",
+  "place": "L01"
+ },
+ {
+  "id": "E0133",
+  "type": "TELL",
+  "chapter": 8,
+  "text": "Nedette could keep it no longer and told Vesssa Dornner that the deed to the Braegate pastures was forged.",
+  "where": "L00",
+  "ref_deps": [
+   "E0004"
+  ],
+  "secret": "S07",
+  "src": "P025",
+  "dest": "P027"
+ },
+ {
+  "id": "E0134",
+  "type": "GIVE",
+  "chapter": 8,
+  "text": "Ismira Marrworth won the bone ledger from Sedrek Dornner at cards, fairly, and kept it.",
+  "where": "L14",
+  "ref_deps": [],
+  "item": "I04",
+  "src": "P028",
+  "dest": "P047"
+ },
+ {
+  "id": "E0135",
+  "type": "TRAVEL",
+  "chapter": 8,
+  "text": "Ismira Marrworth left Yarlby and settled in Osthaven.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P047",
+  "src": "L14",
+  "dest": "L10"
+ },
+ {
+  "id": "E0136",
+  "type": "TRAVEL",
+  "chapter": 8,
+  "text": "Sedrek Dornner followed her to Osthaven within the month.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P028",
+  "src": "L14",
+  "dest": "L10"
+ },
+ {
+  "id": "E0137",
+  "type": "MARRY",
+  "chapter": 8,
+  "text": "Old Damira and Tadan Dornworth were wed at Kelwick, with half the parish looking on. The couple lived in Kelwick from then on.",
+  "where": "L06",
+  "ref_deps": [
+   "E0030"
+  ],
+  "a": "P016",
+  "b": "P000",
+  "place": "L06"
+ },
+ {
+  "id": "E0138",
+  "type": "GIVE",
+  "chapter": 8,
+  "text": "Rora Dornworth sent the amber ledger by carrier to Old Kanelle, who received it safely.",
+  "where": "L01",
+  "ref_deps": [
+   "E0053"
+  ],
+  "item": "I00",
+  "src": "P002",
+  "dest": "P042"
+ },
+ {
+  "id": "E0139",
+  "type": "DEATH",
+  "chapter": 8,
+  "text": "They laid the husband of Brelia Thornner in the churchyard at Kelwick, dead of a wound that festered.",
+  "where": "L06",
+  "ref_deps": [
+   "E0002"
+  ],
+  "person": "P011",
+  "cause": "a wound that festered",
+  "place": "L06"
+ },
+ {
+  "id": "E0140",
+  "type": "GIVE",
+  "chapter": 8,
+  "text": "Among the things left by Pevus Thornner, the pewter map was handed to Brelia Thornner.",
+  "where": "L06",
+  "ref_deps": [],
+  "item": "I10",
+  "src": "P011",
+  "dest": "P012",
+  "inherit": true
+ },
+ {
+  "id": "E0141",
+  "type": "PROMISE",
+  "chapter": 8,
+  "text": "Dalis Thornner gave Damira Thornner a solemn promise to rebuild the fallen wall at Ostholt.",
+  "where": "L06",
+  "ref_deps": [],
+  "promise": "R06",
+  "a": "P015",
+  "b": "P016",
+  "act": "to rebuild the fallen wall at Ostholt"
+ },
+ {
+  "id": "E0142",
+  "type": "PROMISE",
+  "chapter": 9,
+  "text": "Zaric Haskoway swore to Thissa Tallowford to carry a sealed letter to Braegate, and shook on it.",
+  "where": "L15",
+  "ref_deps": [],
+  "promise": "R07",
+  "a": "P029",
+  "b": "P009",
+  "act": "to carry a sealed letter to Braegate"
+ },
+ {
+  "id": "E0143",
+  "type": "PROMISE",
+  "chapter": 9,
+  "text": "Elric gave Rossa Tallowford a solemn promise to teach the children of Braeford their letters.",
+  "where": "L15",
+  "ref_deps": [
+   "E0001"
+  ],
+  "promise": "R08",
+  "a": "P006",
+  "b": "P010",
+  "act": "to teach the children of Braeford their letters"
+ },
+ {
+  "id": "E0144",
+  "type": "TRAVEL",
+  "chapter": 9,
+  "text": "Weena Marrworth left Coldgate and settled in Braegate.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P045",
+  "src": "L02",
+  "dest": "L01"
+ },
+ {
+  "id": "E0145",
+  "type": "PROMISE",
+  "chapter": 9,
+  "text": "Rilde gave Tamor a solemn promise to teach the children of Ravenford their letters.",
+  "where": "L15",
+  "ref_deps": [
+   "E0001",
+   "E0006"
+  ],
+  "promise": "R09",
+  "a": "P007",
+  "b": "P037",
+  "act": "to teach the children of Ravenford their letters"
+ },
+ {
+  "id": "E0146",
+  "type": "BIRTH",
+  "chapter": 9,
+  "text": "Rossa Tallowford gave birth to a daughter, named Yelis Grimett; the father was Brezek Grimett. The family lived in Yarlmere.",
+  "where": "L15",
+  "ref_deps": [],
+  "child": "P058",
+  "mother": "P010",
+  "father": "P051",
+  "place": "L15"
+ },
+ {
+  "id": "E0147",
+  "type": "DEATH",
+  "chapter": 10,
+  "text": "They laid Rora Dornworth in the churchyard at Braegate, dead of a winter fever.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P002",
+  "cause": "a winter fever",
+  "place": "L01"
+ },
+ {
+  "id": "E0148",
+  "type": "GIVE",
+  "chapter": 10,
+  "text": "The garnet compass, which Rora Dornworth had owned, went to Nerine Dornworth.",
+  "where": "L01",
+  "ref_deps": [],
+  "item": "I06",
+  "src": "P002",
+  "dest": "P003",
+  "inherit": true
+ },
+ {
+  "id": "E0149",
+  "type": "DEATH",
+  "chapter": 10,
+  "text": "They laid Tara in the churchyard at Yarlmere, dead of a fall from the mill loft.",
+  "where": "L15",
+  "ref_deps": [
+   "E0006"
+  ],
+  "person": "P035",
+  "cause": "a fall from the mill loft",
+  "place": "L15"
+ },
+ {
+  "id": "E0150",
+  "type": "BIRTH",
+  "chapter": 10,
+  "text": "Rossa Tallowford gave birth to a son, named Dazek Grimett; the father was Brezek Grimett. The family lived in Yarlmere.",
+  "where": "L15",
+  "ref_deps": [],
+  "child": "P059",
+  "mother": "P010",
+  "father": "P051",
+  "place": "L15"
+ },
+ {
+  "id": "E0151",
+  "type": "RESOLVE",
+  "chapter": 10,
+  "text": "Pemor never did keep the promise made to Aelia Hollmere (pay the old debt owed to the Marrworth family); the matter was abandoned.",
+  "where": "L03",
+  "ref_deps": [
+   "E0003"
+  ],
+  "promise": "R05",
+  "kept": false
+ },
+ {
+  "id": "E0152",
+  "type": "TRAVEL",
+  "chapter": 10,
+  "text": "Tadan Dornworth rode out of Kelwick; by the next market day he was living in Osthaven.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P000",
+  "src": "L06",
+  "dest": "L10"
+ },
+ {
+  "id": "E0153",
+  "type": "TRAVEL",
+  "chapter": 10,
+  "text": "Old Damira went along to live in Osthaven as well.",
+  "where": "L06",
+  "ref_deps": [
+   "E0030"
+  ],
+  "person": "P016",
+  "src": "L06",
+  "dest": "L10"
+ },
+ {
+  "id": "E0154",
+  "type": "DEATH",
+  "chapter": 10,
+  "text": "They laid Elric Tallowford in the churchyard at Yarlmere, dead of old age, quietly in sleep.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P006",
+  "cause": "old age, quietly in sleep",
+  "place": "L15"
+ },
+ {
+  "id": "E0155",
+  "type": "TELL",
+  "chapter": 10,
+  "text": "Aelia Hollmere could keep it no longer and told Kalia Hollmere that the Haskoway mill ledger was rewritten after the flood.",
+  "where": "L03",
+  "ref_deps": [],
+  "secret": "S01",
+  "src": "P020",
+  "dest": "P018"
+ },
+ {
+  "id": "E0156",
+  "type": "TELL",
+  "chapter": 10,
+  "text": "In a letter that Jolia burned after reading, Ismira Marrworth revealed that a chest of silver lies buried beneath the well at Ravenford.",
+  "where": "L10",
+  "ref_deps": [
+   "E0005"
+  ],
+  "secret": "S05",
+  "src": "P047",
+  "dest": "P033"
+ },
+ {
+  "id": "E0157",
+  "type": "TRAVEL",
+  "chapter": 11,
+  "text": "Thissa found work in Salhaven, moved there, and did not return to Yarlmere.",
+  "where": "L15",
+  "ref_deps": [
+   "E0001"
+  ],
+  "person": "P009",
+  "src": "L15",
+  "dest": "L13"
+ },
+ {
+  "id": "E0158",
+  "type": "TRAVEL",
+  "chapter": 11,
+  "text": "Zaric Haskoway went along to live in Salhaven as well.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P029",
+  "src": "L15",
+  "dest": "L13"
+ },
+ {
+  "id": "E0159",
+  "type": "TRAVEL",
+  "chapter": 11,
+  "text": "Rilde Tallowford rode out of Yarlmere; by the next market day she was living in Salhaven.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P007",
+  "src": "L15",
+  "dest": "L13"
+ },
+ {
+  "id": "E0160",
+  "type": "PLAN",
+  "chapter": 11,
+  "text": "Tamor Stenett talked for weeks of going to Harrowford, yet in the end stayed where he was.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P037",
+  "dest": "L05"
+ },
+ {
+  "id": "E0161",
+  "type": "TRAVEL",
+  "chapter": 11,
+  "text": "Zabin Grimett rode out of Yarlmere; by the next market day he was living in Yarlby.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P052",
+  "src": "L15",
+  "dest": "L14"
+ },
+ {
+  "id": "E0162",
+  "type": "TRAVEL",
+  "chapter": 11,
+  "text": "Massa Fellenridge followed him to Yarlby within the month.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P041",
+  "src": "L15",
+  "dest": "L14"
+ },
+ {
+  "id": "E0163",
+  "type": "TELL",
+  "chapter": 11,
+  "text": "In a letter that Werine Hollmere burned after reading, Ulnelle Hollmere revealed that the harbor master of Kelwick takes bribes.",
+  "where": "L12",
+  "ref_deps": [],
+  "secret": "S03",
+  "src": "P019",
+  "dest": "P022"
+ },
+ {
+  "id": "E0164",
+  "type": "GIVE",
+  "chapter": 11,
+  "text": "Nynar gave the bone bell to the husband of Zalia Marrworth.",
+  "where": "L02",
+  "ref_deps": [
+   "E0002",
+   "E0008"
+  ],
+  "item": "I02",
+  "src": "P013",
+  "dest": "P043"
+ },
+ {
+  "id": "E0165",
+  "type": "TRAVEL",
+  "chapter": 12,
+  "text": "Rilde Tallowford found work in Braeford, moved there, and did not return to Salhaven.",
+  "where": "L13",
+  "ref_deps": [],
+  "person": "P007",
+  "src": "L13",
+  "dest": "L00"
+ },
+ {
+  "id": "E0166",
+  "type": "TELL",
+  "chapter": 12,
+  "text": "Jolia could keep it no longer and told the eldest daughter of Rissa Haskoway that a chest of silver lies buried beneath the well at Ravenford.",
+  "where": "L10",
+  "ref_deps": [
+   "E0005"
+  ],
+  "secret": "S05",
+  "src": "P033",
+  "dest": "P031"
+ },
+ {
+  "id": "E0167",
+  "type": "TRAVEL",
+  "chapter": 12,
+  "text": "Jolia packed a single trunk and moved from Osthaven to Salhaven.",
+  "where": "L10",
+  "ref_deps": [
+   "E0005"
+  ],
+  "person": "P033",
+  "src": "L10",
+  "dest": "L13"
+ },
+ {
+  "id": "E0168",
+  "type": "TRAVEL",
+  "chapter": 12,
+  "text": "Brelan went along to live in Salhaven as well.",
+  "where": "L10",
+  "ref_deps": [
+   "E0007"
+  ],
+  "person": "P040",
+  "src": "L10",
+  "dest": "L13"
+ },
+ {
+  "id": "E0169",
+  "type": "RUMOR",
+  "chapter": 12,
+  "text": "Tadan Dornworth whispered that Fenar Grimett had secretly married Rilde Tallowford, but nobody could say where or when.",
+  "where": "L10",
+  "ref_deps": [],
+  "teller": "P000",
+  "claim": {
+   "kind": "married",
+   "target": "P053",
+   "other": "P007"
+  }
+ },
+ {
+  "id": "E0170",
+  "type": "TRAVEL",
+  "chapter": 12,
+  "text": "Tadan Dornworth rode out of Osthaven; by the next market day he was living in Kelwick.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P000",
+  "src": "L10",
+  "dest": "L06"
+ },
+ {
+  "id": "E0171",
+  "type": "TRAVEL",
+  "chapter": 12,
+  "text": "Old Damira followed him to Kelwick within the month.",
+  "where": "L10",
+  "ref_deps": [
+   "E0030"
+  ],
+  "person": "P016",
+  "src": "L10",
+  "dest": "L06"
+ },
+ {
+  "id": "E0172",
+  "type": "MARRY",
+  "chapter": 13,
+  "text": "In the chapel at Braegate, Tarine Dornworth married Manar Stenett. The couple lived in Braegate from then on.",
+  "where": "L01",
+  "ref_deps": [],
+  "a": "P004",
+  "b": "P034",
+  "place": "L01"
+ },
+ {
+  "id": "E0173",
+  "type": "DEATH",
+  "chapter": 13,
+  "text": "Femor Marrworth died of a winter fever at Coldgate.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P043",
+  "cause": "a winter fever",
+  "place": "L02"
+ },
+ {
+  "id": "E0174",
+  "type": "GIVE",
+  "chapter": 13,
+  "text": "The bone bell, which Femor Marrworth had owned, went to Zalia Marrworth.",
+  "where": "L02",
+  "ref_deps": [],
+  "item": "I02",
+  "src": "P043",
+  "dest": "P044",
+  "inherit": true
+ },
+ {
+  "id": "E0175",
+  "type": "DEATH",
+  "chapter": 13,
+  "text": "They laid Gara Grimett in the churchyard at Mireholt, dead of the coughing sickness.",
+  "where": "L08",
+  "ref_deps": [],
+  "person": "P050",
+  "cause": "the coughing sickness",
+  "place": "L08"
+ },
+ {
+  "id": "E0176",
+  "type": "RUMOR",
+  "chapter": 13,
+  "text": "Nynar Thornner whispered that Aelia Hollmere had secretly married Mobin Grimett, but nobody could say where or when.",
+  "where": "L02",
+  "ref_deps": [],
+  "teller": "P013",
+  "claim": {
+   "kind": "married",
+   "target": "P020",
+   "other": "P049"
+  }
+ },
+ {
+  "id": "E0177",
+  "type": "GIVE",
+  "chapter": 13,
+  "text": "Brelia Thornner pressed the bone comb into the hands of Tadan Dornworth and would take nothing for it.",
+  "where": "L06",
+  "ref_deps": [],
+  "item": "I03",
+  "src": "P012",
+  "dest": "P000"
+ },
+ {
+  "id": "E0178",
+  "type": "TRAVEL",
+  "chapter": 13,
+  "text": "Brelia Thornner left Kelwick and settled in Yarlby.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P012",
+  "src": "L06",
+  "dest": "L14"
+ },
+ {
+  "id": "E0179",
+  "type": "RESOLVE",
+  "chapter": 13,
+  "text": "True to her word to Tamor Stenett, Rilde finished what she had promised (teach the children of Ravenford their letters).",
+  "where": "L00",
+  "ref_deps": [
+   "E0001"
+  ],
+  "promise": "R09",
+  "kept": true
+ },
+ {
+  "id": "E0180",
+  "type": "TELL",
+  "chapter": 14,
+  "text": "Late one night Kalia Hollmere confided to Kanelle Fellenridge that the Haskoway mill ledger was rewritten after the flood.",
+  "where": "L03",
+  "ref_deps": [],
+  "secret": "S01",
+  "src": "P018",
+  "dest": "P042"
+ },
+ {
+  "id": "E0181",
+  "type": "PROMISE",
+  "chapter": 14,
+  "text": "Zaric Haskoway swore to Brelan Fellenridge to plant an orchard on the slope above Gulton, and shook on it.",
+  "where": "L13",
+  "ref_deps": [],
+  "promise": "R10",
+  "a": "P029",
+  "b": "P040",
+  "act": "to plant an orchard on the slope above Gulton"
+ },
+ {
+  "id": "E0182",
+  "type": "RESOLVE",
+  "chapter": 14,
+  "text": "True to his word to Thissa Tallowford, Zaric Haskoway finished what he had promised (carry a sealed letter to Braegate).",
+  "where": "L13",
+  "ref_deps": [],
+  "promise": "R07",
+  "kept": true
+ },
+ {
+  "id": "E0183",
+  "type": "TELL",
+  "chapter": 14,
+  "text": "Late one night Ulnelle confided to the second daughter of Hadrek Hollmere that the harbor master of Kelwick takes bribes.",
+  "where": "L12",
+  "ref_deps": [
+   "E0003"
+  ],
+  "secret": "S03",
+  "src": "P019",
+  "dest": "P020"
+ },
+ {
+  "id": "E0184",
+  "type": "BIRTH",
+  "chapter": 14,
+  "text": "A daughter was born to Massa Marrworth and Nynar Thornner, and they called the child Malis Thornner. The family lived in Coldgate.",
+  "where": "L02",
+  "ref_deps": [],
+  "child": "P060",
+  "mother": "P048",
+  "father": "P013",
+  "place": "L02"
+ },
+ {
+  "id": "E0185",
+  "type": "MARRY",
+  "chapter": 14,
+  "text": "In the chapel at Fengate, Wezek Hollmere married Ulnelle. The couple lived in Fengate from then on.",
+  "where": "L03",
+  "ref_deps": [
+   "E0003"
+  ],
+  "a": "P054",
+  "b": "P019",
+  "place": "L03"
+ },
+ {
+  "id": "E0186",
+  "type": "TRAVEL",
+  "chapter": 15,
+  "text": "Massa Marrworth found work in Yarlby, moved there, and did not return to Coldgate.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P048",
+  "src": "L02",
+  "dest": "L14"
+ },
+ {
+  "id": "E0187",
+  "type": "TRAVEL",
+  "chapter": 15,
+  "text": "Nynar Thornner followed her to Yarlby within the month.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P013",
+  "src": "L02",
+  "dest": "L14"
+ },
+ {
+  "id": "E0188",
+  "type": "TRAVEL",
+  "chapter": 15,
+  "text": "Zalia Marrworth packed a single trunk and moved from Coldgate to Salhaven.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P044",
+  "src": "L02",
+  "dest": "L13"
+ },
+ {
+  "id": "E0189",
+  "type": "TELL",
+  "chapter": 15,
+  "text": "Late one night Isvie Dornner confided to Damira Dornner that the fire at the Harrowford granary was set on purpose.",
+  "where": "L00",
+  "ref_deps": [],
+  "secret": "S04",
+  "src": "P024",
+  "dest": "P026"
+ },
+ {
+  "id": "E0190",
+  "type": "PROMISE",
+  "chapter": 15,
+  "text": "Madette gave Tamor Stenett a solemn promise to pay the old debt owed to the Grimett family.",
+  "where": "L15",
+  "ref_deps": [
+   "E0005"
+  ],
+  "promise": "R11",
+  "a": "P032",
+  "b": "P037",
+  "act": "to pay the old debt owed to the Grimett family"
+ },
+ {
+  "id": "E0191",
+  "type": "TRAVEL",
+  "chapter": 15,
+  "text": "Zaena found work in Ostcombe, moved there, and did not return to Yarlmere.",
+  "where": "L15",
+  "ref_deps": [
+   "E0007"
+  ],
+  "person": "P039",
+  "src": "L15",
+  "dest": "L09"
+ },
+ {
+  "id": "E0192",
+  "type": "TRAVEL",
+  "chapter": 15,
+  "text": "Corald Fellenridge followed her to Ostcombe within the month.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P038",
+  "src": "L15",
+  "dest": "L09"
+ },
+ {
+  "id": "E0193",
+  "type": "TELL",
+  "chapter": 15,
+  "text": "Nedette Dornner could keep it no longer and told Isvie that the deed to the Braegate pastures was forged.",
+  "where": "L00",
+  "ref_deps": [
+   "E0004"
+  ],
+  "secret": "S07",
+  "src": "P025",
+  "dest": "P024"
+ },
+ {
+  "id": "E0194",
+  "type": "TRAVEL",
+  "chapter": 15,
+  "text": "After the quarrel, Rilde quit Braeford for good and took lodgings in Yarlmere.",
+  "where": "L00",
+  "ref_deps": [
+   "E0001"
+  ],
+  "person": "P007",
+  "src": "L00",
+  "dest": "L15"
+ },
+ {
+  "id": "E0195",
+  "type": "RESOLVE",
+  "chapter": 16,
+  "text": "True to her word to Rivie Dornworth, Zalis Dornworth finished what she had promised (repair the roof of the chapel at Yarlmere).",
+  "where": "L01",
+  "ref_deps": [],
+  "promise": "R01",
+  "kept": true
+ },
+ {
+  "id": "E0196",
+  "type": "MARRY",
+  "chapter": 16,
+  "text": "Before the spring was out, Zalia Marrworth took Vodan Grimett in marriage at Salhaven. The couple lived in Salhaven from then on.",
+  "where": "L13",
+  "ref_deps": [],
+  "a": "P044",
+  "b": "P055",
+  "place": "L13"
+ },
+ {
+  "id": "E0197",
+  "type": "PROMISE",
+  "chapter": 16,
+  "text": "Brelan Fellenridge swore to Vodan Grimett to repair the roof of the chapel at Ostholt, and shook on it.",
+  "where": "L13",
+  "ref_deps": [],
+  "promise": "R12",
+  "a": "P040",
+  "b": "P055",
+  "act": "to repair the roof of the chapel at Ostholt"
+ },
+ {
+  "id": "E0198",
+  "type": "DEATH",
+  "chapter": 16,
+  "text": "That spring, drowning in the flood took Colan Marrworth; he was buried at Kelwick.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P046",
+  "cause": "drowning in the flood",
+  "place": "L06"
+ },
+ {
+  "id": "E0199",
+  "type": "GIVE",
+  "chapter": 16,
+  "text": "Among the things left by Colan Marrworth, the jade spyglass was handed to the eldest daughter of Brelia Thornner.",
+  "where": "L06",
+  "ref_deps": [
+   "E0002"
+  ],
+  "item": "I07",
+  "src": "P046",
+  "dest": "P015",
+  "inherit": true
+ },
+ {
+  "id": "E0200",
+  "type": "TELL",
+  "chapter": 16,
+  "text": "Old Kalia could keep it no longer and told Wezek Hollmere that the Haskoway mill ledger was rewritten after the flood.",
+  "where": "L03",
+  "ref_deps": [
+   "E0032"
+  ],
+  "secret": "S01",
+  "src": "P018",
+  "dest": "P054"
+ },
+ {
+  "id": "E0201",
+  "type": "OCCUPATION",
+  "chapter": 16,
+  "text": "Kalia Hollmere was apprenticed anew and became a shepherd.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P018",
+  "old": "herbalist",
+  "new": "shepherd"
+ },
+ {
+  "id": "E0202",
+  "type": "TELL",
+  "chapter": 16,
+  "text": "Late one night Kalia Hollmere confided to Wezek Hollmere that the harbor master of Kelwick takes bribes.",
+  "where": "L03",
+  "ref_deps": [],
+  "secret": "S03",
+  "src": "P018",
+  "dest": "P054"
+ },
+ {
+  "id": "E0203",
+  "type": "BIRTH",
+  "chapter": 16,
+  "text": "Damira Dornner gave birth to a son, named Zadan Grimett; the father was Fenar Grimett. The family lived in Braeford.",
+  "where": "L00",
+  "ref_deps": [],
+  "child": "P061",
+  "mother": "P026",
+  "father": "P053",
+  "place": "L00"
+ },
+ {
+  "id": "E0204",
+  "type": "OCCUPATION",
+  "chapter": 17,
+  "text": "The wife of Pemor Hollmere gave up being a tanner and took work as a weaver.",
+  "where": "L03",
+  "ref_deps": [
+   "E0007",
+   "E0014"
+  ],
+  "person": "P042",
+  "old": "tanner",
+  "new": "weaver"
+ },
+ {
+  "id": "E0205",
+  "type": "TRAVEL",
+  "chapter": 17,
+  "text": "Pemor Hollmere packed a single trunk and moved from Fengate to Salhaven.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P021",
+  "src": "L03",
+  "dest": "L13"
+ },
+ {
+  "id": "E0206",
+  "type": "TRAVEL",
+  "chapter": 17,
+  "text": "Old Kanelle went along to live in Salhaven as well.",
+  "where": "L03",
+  "ref_deps": [
+   "E0053"
+  ],
+  "person": "P042",
+  "src": "L03",
+  "dest": "L13"
+ },
+ {
+  "id": "E0207",
+  "type": "DEATH",
+  "chapter": 17,
+  "text": "Vesssa died of a fall from the mill loft at Braeford.",
+  "where": "L00",
+  "ref_deps": [
+   "E0004"
+  ],
+  "person": "P027",
+  "cause": "a fall from the mill loft",
+  "place": "L00"
+ },
+ {
+  "id": "E0208",
+  "type": "TRAVEL",
+  "chapter": 17,
+  "text": "Darald Dornner left Braeford and settled in Mireholt.",
+  "where": "L00",
+  "ref_deps": [],
+  "person": "P023",
+  "src": "L00",
+  "dest": "L08"
+ },
+ {
+  "id": "E0209",
+  "type": "TRAVEL",
+  "chapter": 17,
+  "text": "Isvie Dornner went along to live in Mireholt as well.",
+  "where": "L00",
+  "ref_deps": [],
+  "person": "P024",
+  "src": "L00",
+  "dest": "L08"
+ },
+ {
+  "id": "E0210",
+  "type": "TRAVEL",
+  "chapter": 17,
+  "text": "Fenar Grimett left Braeford and settled in Fengate.",
+  "where": "L00",
+  "ref_deps": [],
+  "person": "P053",
+  "src": "L00",
+  "dest": "L03"
+ },
+ {
+  "id": "E0211",
+  "type": "TRAVEL",
+  "chapter": 17,
+  "text": "Damira Dornner followed him to Fengate within the month.",
+  "where": "L00",
+  "ref_deps": [],
+  "person": "P026",
+  "src": "L00",
+  "dest": "L03"
+ },
+ {
+  "id": "E0212",
+  "type": "GIVE",
+  "chapter": 17,
+  "text": "The husband of Massa Fellenridge won the pewter map from Brelia at cards, fairly, and kept it.",
+  "where": "L14",
+  "ref_deps": [
+   "E0002",
+   "E0013"
+  ],
+  "item": "I10",
+  "src": "P012",
+  "dest": "P052"
+ },
+ {
+  "id": "E0213",
+  "type": "TRAVEL",
+  "chapter": 18,
+  "text": "Dalan found work in Gulton, moved there, and did not return to Braegate.",
+  "where": "L01",
+  "ref_deps": [
+   "E0002"
+  ],
+  "person": "P014",
+  "src": "L01",
+  "dest": "L04"
+ },
+ {
+  "id": "E0214",
+  "type": "TRAVEL",
+  "chapter": 18,
+  "text": "Nerine Dornworth went along to live in Gulton as well.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P003",
+  "src": "L01",
+  "dest": "L04"
+ },
+ {
+  "id": "E0215",
+  "type": "TRAVEL",
+  "chapter": 18,
+  "text": "Werine Hollmere left Ravenford and settled in Ostcombe.",
+  "where": "L12",
+  "ref_deps": [],
+  "person": "P022",
+  "src": "L12",
+  "dest": "L09"
+ },
+ {
+  "id": "E0216",
+  "type": "PROMISE",
+  "chapter": 18,
+  "text": "Massa Fellenridge gave Massa Marrworth a solemn promise to teach the children of Ostcombe their letters.",
+  "where": "L14",
+  "ref_deps": [],
+  "promise": "R13",
+  "a": "P041",
+  "b": "P048",
+  "act": "to teach the children of Ostcombe their letters"
+ },
+ {
+  "id": "E0217",
+  "type": "TRAVEL",
+  "chapter": 18,
+  "text": "Massa Fellenridge left Yarlby and settled in Ostcombe.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P041",
+  "src": "L14",
+  "dest": "L09"
+ },
+ {
+  "id": "E0218",
+  "type": "TRAVEL",
+  "chapter": 18,
+  "text": "Zabin Grimett followed her to Ostcombe within the month.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P052",
+  "src": "L14",
+  "dest": "L09"
+ },
+ {
+  "id": "E0219",
+  "type": "GIVE",
+  "chapter": 18,
+  "text": "Zalia Marrworth gave the bone bell to the husband of Kanelle Fellenridge.",
+  "where": "L13",
+  "ref_deps": [
+   "E0014"
+  ],
+  "item": "I02",
+  "src": "P044",
+  "dest": "P021"
+ },
+ {
+  "id": "E0220",
+  "type": "TRAVEL",
+  "chapter": 18,
+  "text": "Weena found work in Osthaven, moved there, and did not return to Braegate.",
+  "where": "L01",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P045",
+  "src": "L01",
+  "dest": "L10"
+ },
+ {
+  "id": "E0221",
+  "type": "PLAN",
+  "chapter": 18,
+  "text": "Quiet Manar talked for weeks of going to Fengate, yet in the end stayed where he was.",
+  "where": "L01",
+  "ref_deps": [
+   "E0006",
+   "E0045"
+  ],
+  "person": "P034",
+  "dest": "L03"
+ },
+ {
+  "id": "E0222",
+  "type": "GIVE",
+  "chapter": 19,
+  "text": "Isvie Dornner pressed the pewter lantern into the hands of Darald and would take nothing for it.",
+  "where": "L08",
+  "ref_deps": [
+   "E0004"
+  ],
+  "item": "I09",
+  "src": "P024",
+  "dest": "P023"
+ },
+ {
+  "id": "E0223",
+  "type": "PROMISE",
+  "chapter": 19,
+  "text": "Darald Dornner gave Isvie Dornner a solemn promise to pay the old debt owed to the Hollmere family.",
+  "where": "L08",
+  "ref_deps": [],
+  "promise": "R14",
+  "a": "P023",
+  "b": "P024",
+  "act": "to pay the old debt owed to the Hollmere family"
+ },
+ {
+  "id": "E0224",
+  "type": "GIVE",
+  "chapter": 19,
+  "text": "The second daughter of Zalia Marrworth gave the bone ledger to Jodette Haskoway.",
+  "where": "L10",
+  "ref_deps": [
+   "E0008"
+  ],
+  "item": "I04",
+  "src": "P047",
+  "dest": "P031"
+ },
+ {
+  "id": "E0225",
+  "type": "GIVE",
+  "chapter": 19,
+  "text": "The husband of Massa Fellenridge pressed the pewter map into the hands of Werine Hollmere and would take nothing for it.",
+  "where": "L09",
+  "ref_deps": [
+   "E0013"
+  ],
+  "item": "I10",
+  "src": "P052",
+  "dest": "P022"
+ },
+ {
+  "id": "E0226",
+  "type": "GIVE",
+  "chapter": 19,
+  "text": "Tadan Dornworth sent the bone comb by carrier to Corald, who received it safely.",
+  "where": "L06",
+  "ref_deps": [
+   "E0007"
+  ],
+  "item": "I03",
+  "src": "P000",
+  "dest": "P038"
+ },
+ {
+  "id": "E0227",
+  "type": "TELL",
+  "chapter": 20,
+  "text": "In a letter that Hadrek Hollmere burned after reading, Fenar Grimett revealed that the fire at the Harrowford granary was set on purpose.",
+  "where": "L03",
+  "ref_deps": [],
+  "secret": "S04",
+  "src": "P053",
+  "dest": "P017"
+ },
+ {
+  "id": "E0228",
+  "type": "TELL",
+  "chapter": 20,
+  "text": "In a letter that Weena Marrworth burned after reading, Ismira revealed that a chest of silver lies buried beneath the well at Ravenford.",
+  "where": "L10",
+  "ref_deps": [
+   "E0008"
+  ],
+  "secret": "S05",
+  "src": "P047",
+  "dest": "P045"
+ },
+ {
+  "id": "E0229",
+  "type": "BIRTH",
+  "chapter": 20,
+  "text": "A daughter was born to Ismira Marrworth and Sedrek Dornner, and they called the child Riwyn Dornner. The family lived in Osthaven.",
+  "where": "L10",
+  "ref_deps": [],
+  "child": "P062",
+  "mother": "P047",
+  "father": "P028",
+  "place": "L10"
+ },
+ {
+  "id": "E0230",
+  "type": "GIVE",
+  "chapter": 20,
+  "text": "Dalan Thornner won the garnet compass from Nerine at cards, fairly, and kept it.",
+  "where": "L04",
+  "ref_deps": [
+   "E0000"
+  ],
+  "item": "I06",
+  "src": "P003",
+  "dest": "P014"
+ },
+ {
+  "id": "E0231",
+  "type": "TRAVEL",
+  "chapter": 20,
+  "text": "After the quarrel, the wife of Manar Stenett quit Braegate for good and took lodgings in Yarlby.",
+  "where": "L01",
+  "ref_deps": [
+   "E0172"
+  ],
+  "person": "P004",
+  "src": "L01",
+  "dest": "L14"
+ },
+ {
+  "id": "E0232",
+  "type": "TRAVEL",
+  "chapter": 20,
+  "text": "Quiet Manar followed her to Yarlby within the month.",
+  "where": "L01",
+  "ref_deps": [
+   "E0045"
+  ],
+  "person": "P034",
+  "src": "L01",
+  "dest": "L14"
+ },
+ {
+  "id": "E0233",
+  "type": "RUMOR",
+  "chapter": 20,
+  "text": "A rumor started by Dalan Thornner had it that Damira Thornner was dead of plague; Dalan Thornner had it from a peddler.",
+  "where": "L04",
+  "ref_deps": [],
+  "teller": "P014",
+  "claim": {
+   "kind": "dead",
+   "target": "P016"
+  }
+ },
+ {
+  "id": "E0234",
+  "type": "TRAVEL",
+  "chapter": 20,
+  "text": "Dalan Thornner rode out of Gulton; by the next market day he was living in Mireholt.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P014",
+  "src": "L04",
+  "dest": "L08"
+ },
+ {
+  "id": "E0235",
+  "type": "TRAVEL",
+  "chapter": 20,
+  "text": "Nerine Dornworth followed him to Mireholt within the month.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P003",
+  "src": "L04",
+  "dest": "L08"
+ },
+ {
+  "id": "E0236",
+  "type": "TELL",
+  "chapter": 21,
+  "text": "Nedette Dornner could keep it no longer and told Jodan that the deed to the Braegate pastures was forged.",
+  "where": "L00",
+  "ref_deps": [
+   "E0125"
+  ],
+  "secret": "S07",
+  "src": "P025",
+  "dest": "P056"
+ },
+ {
+  "id": "E0237",
+  "type": "MARRY",
+  "chapter": 21,
+  "text": "In the chapel at Braegate, Zalis Dornworth married Jodan. The couple lived in Braegate from then on.",
+  "where": "L01",
+  "ref_deps": [
+   "E0125"
+  ],
+  "a": "P005",
+  "b": "P056",
+  "place": "L01"
+ },
+ {
+  "id": "E0238",
+  "type": "TRAVEL",
+  "chapter": 21,
+  "text": "Zalis Dornworth packed a single trunk and moved from Braegate to Larkstead.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P005",
+  "src": "L01",
+  "dest": "L07"
+ },
+ {
+  "id": "E0239",
+  "type": "TRAVEL",
+  "chapter": 21,
+  "text": "Jodan Grimett went along to live in Larkstead as well.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P056",
+  "src": "L01",
+  "dest": "L07"
+ },
+ {
+  "id": "E0240",
+  "type": "GIVE",
+  "chapter": 21,
+  "text": "Pemor Hollmere gave the bone bell to Jolia.",
+  "where": "L13",
+  "ref_deps": [
+   "E0005"
+  ],
+  "item": "I02",
+  "src": "P021",
+  "dest": "P033"
+ },
+ {
+  "id": "E0241",
+  "type": "PROMISE",
+  "chapter": 21,
+  "text": "Jolia Haskoway gave Thissa Tallowford a solemn promise to repair the roof of the chapel at Salhaven.",
+  "where": "L13",
+  "ref_deps": [],
+  "promise": "R15",
+  "a": "P033",
+  "b": "P009",
+  "act": "to repair the roof of the chapel at Salhaven"
+ },
+ {
+  "id": "E0242",
+  "type": "GIVE",
+  "chapter": 22,
+  "text": "Rossa Tallowford won the brass compass from the husband of Madette Haskoway at cards, fairly, and kept it.",
+  "where": "L15",
+  "ref_deps": [
+   "E0012"
+  ],
+  "item": "I05",
+  "src": "P037",
+  "dest": "P010"
+ },
+ {
+  "id": "E0243",
+  "type": "BIRTH",
+  "chapter": 22,
+  "text": "A son was born to Thissa Tallowford and Zaric Haskoway, and they called the child Nezek Haskoway. The family lived in Salhaven.",
+  "where": "L13",
+  "ref_deps": [],
+  "child": "P063",
+  "mother": "P009",
+  "father": "P029",
+  "place": "L13"
+ },
+ {
+  "id": "E0244",
+  "type": "PROMISE",
+  "chapter": 22,
+  "text": "Zalia Marrworth swore to the only son of Corald Fellenridge to repair the roof of the chapel at Osthaven, and shook on it.",
+  "where": "L13",
+  "ref_deps": [
+   "E0007"
+  ],
+  "promise": "R16",
+  "a": "P044",
+  "b": "P040",
+  "act": "to repair the roof of the chapel at Osthaven"
+ },
+ {
+  "id": "E0245",
+  "type": "TELL",
+  "chapter": 22,
+  "text": "Late one night Sedrek confided to Thissa Tallowford that a chest of silver lies buried beneath the well at Ravenford.",
+  "where": "L10",
+  "ref_deps": [
+   "E0004"
+  ],
+  "secret": "S05",
+  "src": "P028",
+  "dest": "P009"
+ },
+ {
+  "id": "E0246",
+  "type": "GIVE",
+  "chapter": 22,
+  "text": "Kanelle Fellenridge pressed the amber ledger into the hands of Zaric Haskoway and would take nothing for it.",
+  "where": "L13",
+  "ref_deps": [],
+  "item": "I00",
+  "src": "P042",
+  "dest": "P029"
+ },
+ {
+  "id": "E0247",
+  "type": "TELL",
+  "chapter": 22,
+  "text": "In a letter that Aelia Hollmere burned after reading, Hadrek Hollmere revealed that the old abbey at Coldgate hides a second cellar.",
+  "where": "L03",
+  "ref_deps": [],
+  "secret": "S02",
+  "src": "P017",
+  "dest": "P020"
+ },
+ {
+  "id": "E0248",
+  "type": "PROMISE",
+  "chapter": 22,
+  "text": "Vodan Grimett swore to Zalia to plant an orchard on the slope above Ostcombe, and shook on it.",
+  "where": "L13",
+  "ref_deps": [
+   "E0008"
+  ],
+  "promise": "R17",
+  "a": "P055",
+  "b": "P044",
+  "act": "to plant an orchard on the slope above Ostcombe"
+ },
+ {
+  "id": "E0249",
+  "type": "TELL",
+  "chapter": 22,
+  "text": "Late one night Ismira Marrworth confided to Mobin Grimett that a chest of silver lies buried beneath the well at Ravenford.",
+  "where": "L10",
+  "ref_deps": [],
+  "secret": "S05",
+  "src": "P047",
+  "dest": "P049"
+ },
+ {
+  "id": "E0250",
+  "type": "GIVE",
+  "chapter": 22,
+  "text": "A parcel from Rilde Tallowford reached Fenar Grimett; inside was the oak mirror, now his to keep.",
+  "where": "L15",
+  "ref_deps": [],
+  "item": "I08",
+  "src": "P007",
+  "dest": "P053"
+ },
+ {
+  "id": "E0251",
+  "type": "BIRTH",
+  "chapter": 23,
+  "text": "Ulnelle Hollmere gave birth to a daughter, named Orlde Hollmere; the father was Wezek Hollmere. The family lived in Fengate.",
+  "where": "L03",
+  "ref_deps": [],
+  "child": "P064",
+  "mother": "P019",
+  "father": "P054",
+  "place": "L03"
+ },
+ {
+  "id": "E0252",
+  "type": "PROMISE",
+  "chapter": 23,
+  "text": "Zabin Grimett gave Massa Fellenridge a solemn promise to plant an orchard on the slope above Kelwick.",
+  "where": "L09",
+  "ref_deps": [],
+  "promise": "R18",
+  "a": "P052",
+  "b": "P041",
+  "act": "to plant an orchard on the slope above Kelwick"
+ },
+ {
+  "id": "E0253",
+  "type": "DEATH",
+  "chapter": 23,
+  "text": "Darald Dornner died of a fall from the mill loft at Mireholt.",
+  "where": "L08",
+  "ref_deps": [],
+  "person": "P023",
+  "cause": "a fall from the mill loft",
+  "place": "L08"
+ },
+ {
+  "id": "E0254",
+  "type": "GIVE",
+  "chapter": 23,
+  "text": "Among the things left by Darald Dornner, the pewter lantern was handed to Isvie.",
+  "where": "L08",
+  "ref_deps": [
+   "E0004"
+  ],
+  "item": "I09",
+  "src": "P023",
+  "dest": "P024",
+  "inherit": true
+ },
+ {
+  "id": "E0255",
+  "type": "TRAVEL",
+  "chapter": 23,
+  "text": "Dalan Thornner packed a single trunk and moved from Mireholt to Fengate.",
+  "where": "L08",
+  "ref_deps": [],
+  "person": "P014",
+  "src": "L08",
+  "dest": "L03"
+ },
+ {
+  "id": "E0256",
+  "type": "TRAVEL",
+  "chapter": 23,
+  "text": "Nerine Dornworth went along to live in Fengate as well.",
+  "where": "L08",
+  "ref_deps": [],
+  "person": "P003",
+  "src": "L08",
+  "dest": "L03"
+ },
+ {
+  "id": "E0257",
+  "type": "DEATH",
+  "chapter": 23,
+  "text": "They laid Zaric Haskoway in the churchyard at Salhaven, dead of the coughing sickness.",
+  "where": "L13",
+  "ref_deps": [],
+  "person": "P029",
+  "cause": "the coughing sickness",
+  "place": "L13"
+ },
+ {
+  "id": "E0258",
+  "type": "GIVE",
+  "chapter": 23,
+  "text": "Among the things left by Zaric Haskoway, the amber ledger was handed to Thissa Tallowford.",
+  "where": "L13",
+  "ref_deps": [],
+  "item": "I00",
+  "src": "P029",
+  "dest": "P009",
+  "inherit": true
+ },
+ {
+  "id": "E0259",
+  "type": "TRAVEL",
+  "chapter": 23,
+  "text": "Brelan Fellenridge rode out of Salhaven; by the next market day he was living in Braegate.",
+  "where": "L13",
+  "ref_deps": [],
+  "person": "P040",
+  "src": "L13",
+  "dest": "L01"
+ },
+ {
+  "id": "E0260",
+  "type": "TRAVEL",
+  "chapter": 23,
+  "text": "Jolia Haskoway followed him to Braegate within the month.",
+  "where": "L13",
+  "ref_deps": [],
+  "person": "P033",
+  "src": "L13",
+  "dest": "L01"
+ },
+ {
+  "id": "E0261",
+  "type": "PLAN",
+  "chapter": 24,
+  "text": "Werine Hollmere talked for weeks of going to Larkstead, yet in the end stayed where she was.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P022",
+  "dest": "L07"
+ },
+ {
+  "id": "E0262",
+  "type": "PROMISE",
+  "chapter": 24,
+  "text": "Zabin Grimett gave Werine Hollmere a solemn promise to teach the children of Harrowford their letters.",
+  "where": "L09",
+  "ref_deps": [],
+  "promise": "R19",
+  "a": "P052",
+  "b": "P022",
+  "act": "to teach the children of Harrowford their letters"
+ },
+ {
+  "id": "E0263",
+  "type": "PROMISE",
+  "chapter": 24,
+  "text": "Werine Hollmere swore to Massa Fellenridge to repair the roof of the chapel at Ostcombe, and shook on it.",
+  "where": "L09",
+  "ref_deps": [],
+  "promise": "R20",
+  "a": "P022",
+  "b": "P041",
+  "act": "to repair the roof of the chapel at Ostcombe"
+ },
+ {
+  "id": "E0264",
+  "type": "TRAVEL",
+  "chapter": 24,
+  "text": "Werine Hollmere rode out of Ostcombe; by the next market day she was living in Coldgate.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P022",
+  "src": "L09",
+  "dest": "L02"
+ },
+ {
+  "id": "E0265",
+  "type": "GIVE",
+  "chapter": 24,
+  "text": "Dalis Thornner gave the jade spyglass to Tadan Dornworth.",
+  "where": "L06",
+  "ref_deps": [],
+  "item": "I07",
+  "src": "P015",
+  "dest": "P000"
+ },
+ {
+  "id": "E0266",
+  "type": "RESOLVE",
+  "chapter": 24,
+  "text": "Massa Fellenridge never did keep the promise made to Massa Marrworth (teach the children of Ostcombe their letters); the matter was abandoned.",
+  "where": "L09",
+  "ref_deps": [],
+  "promise": "R13",
+  "kept": false
+ },
+ {
+  "id": "E0267",
+  "type": "MARRY",
+  "chapter": 24,
+  "text": "In the chapel at Coldgate, Aevie Thornner married Mobin Grimett. The couple lived in Coldgate from then on.",
+  "where": "L02",
+  "ref_deps": [],
+  "a": "P057",
+  "b": "P049",
+  "place": "L02"
+ },
+ {
+  "id": "E0268",
+  "type": "TELL",
+  "chapter": 25,
+  "text": "Wezek Hollmere could keep it no longer and told Nerine Dornworth that the Haskoway mill ledger was rewritten after the flood.",
+  "where": "L03",
+  "ref_deps": [],
+  "secret": "S01",
+  "src": "P054",
+  "dest": "P003"
+ },
+ {
+  "id": "E0269",
+  "type": "PROMISE",
+  "chapter": 25,
+  "text": "Wezek Hollmere swore to Damira Dornner to pay the old debt owed to the Marrworth family, and shook on it.",
+  "where": "L03",
+  "ref_deps": [],
+  "promise": "R21",
+  "a": "P054",
+  "b": "P026",
+  "act": "to pay the old debt owed to the Marrworth family"
+ },
+ {
+  "id": "E0270",
+  "type": "OCCUPATION",
+  "chapter": 25,
+  "text": "Wezek Hollmere gave up idleness and took work as a scribe.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P054",
+  "old": null,
+  "new": "scribe"
+ },
+ {
+  "id": "E0271",
+  "type": "OCCUPATION",
+  "chapter": 25,
+  "text": "Dalan Thornner gave up being a ferryman and took work as a shepherd.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P014",
+  "old": "ferryman",
+  "new": "shepherd"
+ },
+ {
+  "id": "E0272",
+  "type": "PROMISE",
+  "chapter": 25,
+  "text": "Aelia swore to Damira Dornner to repair the roof of the chapel at Yarlby, and shook on it.",
+  "where": "L03",
+  "ref_deps": [
+   "E0003"
+  ],
+  "promise": "R22",
+  "a": "P020",
+  "b": "P026",
+  "act": "to repair the roof of the chapel at Yarlby"
+ },
+ {
+  "id": "E0273",
+  "type": "RUMOR",
+  "chapter": 25,
+  "text": "A rumor started by the youngest son of Gara Grimett had it that Ulnelle Hollmere was dead of plague; the youngest son of Gara Grimett had it from a peddler.",
+  "where": "L03",
+  "ref_deps": [
+   "E0009"
+  ],
+  "teller": "P053",
+  "claim": {
+   "kind": "dead",
+   "target": "P019"
+  }
+ },
+ {
+  "id": "E0274",
+  "type": "PROMISE",
+  "chapter": 25,
+  "text": "Aelia Hollmere gave Kalia Hollmere a solemn promise to pay the old debt owed to the Haskoway family.",
+  "where": "L03",
+  "ref_deps": [],
+  "promise": "R23",
+  "a": "P020",
+  "b": "P018",
+  "act": "to pay the old debt owed to the Haskoway family"
+ },
+ {
+  "id": "E0275",
+  "type": "MARRY",
+  "chapter": 26,
+  "text": "In the chapel at Yarlby, Brelia Thornner married Dazek Grimett. The couple lived in Yarlby from then on.",
+  "where": "L14",
+  "ref_deps": [],
+  "a": "P012",
+  "b": "P059",
+  "place": "L14"
+ },
+ {
+  "id": "E0276",
+  "type": "GIVE",
+  "chapter": 26,
+  "text": "A parcel from Isvie Dornner reached Kanelle Fellenridge; inside was the pewter lantern, now hers to keep.",
+  "where": "L08",
+  "ref_deps": [],
+  "item": "I09",
+  "src": "P024",
+  "dest": "P042"
+ },
+ {
+  "id": "E0277",
+  "type": "BIRTH",
+  "chapter": 26,
+  "text": "A son was born to Massa Fellenridge and Zabin Grimett, and they called the child Marald Grimett. The family lived in Ostcombe.",
+  "where": "L09",
+  "ref_deps": [],
+  "child": "P065",
+  "mother": "P041",
+  "father": "P052",
+  "place": "L09"
+ },
+ {
+  "id": "E0278",
+  "type": "BIRTH",
+  "chapter": 26,
+  "text": "A daughter was born to Ismira Marrworth and Sedrek Dornner, and they called the child Hawyn Dornner. The family lived in Osthaven.",
+  "where": "L10",
+  "ref_deps": [],
+  "child": "P066",
+  "mother": "P047",
+  "father": "P028",
+  "place": "L10"
+ },
+ {
+  "id": "E0279",
+  "type": "BIRTH",
+  "chapter": 26,
+  "text": "A daughter was born to Madette Haskoway and Tamor Stenett, and they called the child Illis Stenett. The family lived in Yarlmere.",
+  "where": "L15",
+  "ref_deps": [],
+  "child": "P067",
+  "mother": "P032",
+  "father": "P037",
+  "place": "L15"
+ },
+ {
+  "id": "E0280",
+  "type": "GIVE",
+  "chapter": 27,
+  "text": "A parcel from Thissa Tallowford reached Sedrek Dornner; inside was the amber ledger, now his to keep.",
+  "where": "L13",
+  "ref_deps": [],
+  "item": "I00",
+  "src": "P009",
+  "dest": "P028"
+ },
+ {
+  "id": "E0281",
+  "type": "DEATH",
+  "chapter": 27,
+  "text": "That winter, the coughing sickness took Rilde Tallowford; she was buried at Yarlmere.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P007",
+  "cause": "the coughing sickness",
+  "place": "L15"
+ },
+ {
+  "id": "E0282",
+  "type": "DEATH",
+  "chapter": 27,
+  "text": "Brezek Grimett died of a winter fever at Yarlmere.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P051",
+  "cause": "a winter fever",
+  "place": "L15"
+ },
+ {
+  "id": "E0283",
+  "type": "TRAVEL",
+  "chapter": 27,
+  "text": "Yelia Tallowford found work in Mireholt, moved there, and did not return to Yarlmere.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P008",
+  "src": "L15",
+  "dest": "L08"
+ },
+ {
+  "id": "E0284",
+  "type": "PLAN",
+  "chapter": 27,
+  "text": "The husband of Ulnelle Hollmere talked for weeks of going to Coldgate, yet in the end stayed where he was.",
+  "where": "L03",
+  "ref_deps": [
+   "E0090",
+   "E0185"
+  ],
+  "person": "P054",
+  "dest": "L02"
+ },
+ {
+  "id": "E0285",
+  "type": "DEATH",
+  "chapter": 27,
+  "text": "They laid Zalia in the churchyard at Salhaven, dead of old age, quietly in sleep.",
+  "where": "L13",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P044",
+  "cause": "old age, quietly in sleep",
+  "place": "L13"
+ },
+ {
+  "id": "E0286",
+  "type": "TRAVEL",
+  "chapter": 28,
+  "text": "Aevie Thornner packed a single trunk and moved from Coldgate to Gulton.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P057",
+  "src": "L02",
+  "dest": "L04"
+ },
+ {
+  "id": "E0287",
+  "type": "TRAVEL",
+  "chapter": 28,
+  "text": "Mobin Grimett went along to live in Gulton as well.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P049",
+  "src": "L02",
+  "dest": "L04"
+ },
+ {
+  "id": "E0288",
+  "type": "PROMISE",
+  "chapter": 28,
+  "text": "Malis Thornner gave Werine Hollmere a solemn promise to plant an orchard on the slope above Braegate.",
+  "where": "L02",
+  "ref_deps": [],
+  "promise": "R24",
+  "a": "P060",
+  "b": "P022",
+  "act": "to plant an orchard on the slope above Braegate"
+ },
+ {
+  "id": "E0289",
+  "type": "TRAVEL",
+  "chapter": 28,
+  "text": "After the quarrel, Kanelle quit Salhaven for good and took lodgings in Yarlby.",
+  "where": "L13",
+  "ref_deps": [
+   "E0007"
+  ],
+  "person": "P042",
+  "src": "L13",
+  "dest": "L14"
+ },
+ {
+  "id": "E0290",
+  "type": "TRAVEL",
+  "chapter": 28,
+  "text": "Pemor followed her to Yarlby within the month.",
+  "where": "L13",
+  "ref_deps": [
+   "E0003"
+  ],
+  "person": "P021",
+  "src": "L13",
+  "dest": "L14"
+ },
+ {
+  "id": "E0291",
+  "type": "MARRY",
+  "chapter": 28,
+  "text": "Before the spring was out, Weena Marrworth took Vodan Grimett in marriage at Osthaven. The couple lived in Osthaven from then on.",
+  "where": "L10",
+  "ref_deps": [],
+  "a": "P045",
+  "b": "P055",
+  "place": "L10"
+ },
+ {
+  "id": "E0292",
+  "type": "DEATH",
+  "chapter": 28,
+  "text": "They laid Brelia Thornner in the churchyard at Yarlby, dead of drowning in the flood.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P012",
+  "cause": "drowning in the flood",
+  "place": "L14"
+ },
+ {
+  "id": "E0293",
+  "type": "RUMOR",
+  "chapter": 29,
+  "text": "Damira Dornner told everyone at the inn that Ulnelle Hollmere had drowned crossing the estuary, though no body was ever seen.",
+  "where": "L03",
+  "ref_deps": [],
+  "teller": "P026",
+  "claim": {
+   "kind": "dead",
+   "target": "P019"
+  }
+ },
+ {
+  "id": "E0294",
+  "type": "TELL",
+  "chapter": 29,
+  "text": "Late one night Jodan confided to the wife of Jodan Grimett that the deed to the Braegate pastures was forged.",
+  "where": "L07",
+  "ref_deps": [
+   "E0125",
+   "E0237"
+  ],
+  "secret": "S07",
+  "src": "P056",
+  "dest": "P005"
+ },
+ {
+  "id": "E0295",
+  "type": "TRAVEL",
+  "chapter": 29,
+  "text": "Zabin Grimett rode out of Ostcombe; by the next market day he was living in Salhaven.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P052",
+  "src": "L09",
+  "dest": "L13"
+ },
+ {
+  "id": "E0296",
+  "type": "TRAVEL",
+  "chapter": 29,
+  "text": "Massa Fellenridge followed him to Salhaven within the month.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P041",
+  "src": "L09",
+  "dest": "L13"
+ },
+ {
+  "id": "E0297",
+  "type": "GIVE",
+  "chapter": 29,
+  "text": "Dalan Thornner gave the garnet compass to Aelia.",
+  "where": "L03",
+  "ref_deps": [
+   "E0003"
+  ],
+  "item": "I06",
+  "src": "P014",
+  "dest": "P020"
+ },
+ {
+  "id": "E0298",
+  "type": "TRAVEL",
+  "chapter": 29,
+  "text": "After the quarrel, Fenar Grimett quit Fengate for good and took lodgings in Yarlmere.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P053",
+  "src": "L03",
+  "dest": "L15"
+ },
+ {
+  "id": "E0299",
+  "type": "TRAVEL",
+  "chapter": 29,
+  "text": "Damira Dornner went along to live in Yarlmere as well.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P026",
+  "src": "L03",
+  "dest": "L15"
+ },
+ {
+  "id": "E0300",
+  "type": "BIRTH",
+  "chapter": 29,
+  "text": "Massa Fellenridge gave birth to a son, named Seten Grimett; the father was Zabin Grimett. The family lived in Salhaven.",
+  "where": "L13",
+  "ref_deps": [],
+  "child": "P068",
+  "mother": "P041",
+  "father": "P052",
+  "place": "L13"
+ },
+ {
+  "id": "E0301",
+  "type": "PROMISE",
+  "chapter": 30,
+  "text": "Ulnelle Hollmere swore to Dalan Thornner to carry a sealed letter to Osthaven, and shook on it.",
+  "where": "L03",
+  "ref_deps": [],
+  "promise": "R25",
+  "a": "P019",
+  "b": "P014",
+  "act": "to carry a sealed letter to Osthaven"
+ },
+ {
+  "id": "E0302",
+  "type": "GIVE",
+  "chapter": 30,
+  "text": "Corald sent the bone comb by carrier to Werine Hollmere, who received it safely.",
+  "where": "L09",
+  "ref_deps": [
+   "E0007"
+  ],
+  "item": "I03",
+  "src": "P038",
+  "dest": "P022"
+ },
+ {
+  "id": "E0303",
+  "type": "TRAVEL",
+  "chapter": 30,
+  "text": "After the quarrel, Corald Fellenridge quit Ostcombe for good and took lodgings in Gulton.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P038",
+  "src": "L09",
+  "dest": "L04"
+ },
+ {
+  "id": "E0304",
+  "type": "TRAVEL",
+  "chapter": 30,
+  "text": "Zaena Fellenridge followed him to Gulton within the month.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P039",
+  "src": "L09",
+  "dest": "L04"
+ },
+ {
+  "id": "E0305",
+  "type": "GIVE",
+  "chapter": 30,
+  "text": "Aelia Hollmere pressed the garnet compass into the hands of Dalan Thornner and would take nothing for it.",
+  "where": "L03",
+  "ref_deps": [],
+  "item": "I06",
+  "src": "P020",
+  "dest": "P014"
+ },
+ {
+  "id": "E0306",
+  "type": "PLAN",
+  "chapter": 30,
+  "text": "Wezek meant to go to Yarlby before the frost, but the roads flooded and the journey was put off.",
+  "where": "L03",
+  "ref_deps": [
+   "E0090"
+  ],
+  "person": "P054",
+  "dest": "L14"
+ },
+ {
+  "id": "E0307",
+  "type": "TRAVEL",
+  "chapter": 30,
+  "text": "Nerine rode out of Fengate; by the next market day she was living in Yarlmere.",
+  "where": "L03",
+  "ref_deps": [
+   "E0000"
+  ],
+  "person": "P003",
+  "src": "L03",
+  "dest": "L15"
+ },
+ {
+  "id": "E0308",
+  "type": "TRAVEL",
+  "chapter": 30,
+  "text": "Dalan Thornner went along to live in Yarlmere as well.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P014",
+  "src": "L03",
+  "dest": "L15"
+ },
+ {
+  "id": "E0309",
+  "type": "TELL",
+  "chapter": 30,
+  "text": "Late one night Kalia confided to Ulnelle Hollmere that the Haskoway mill ledger was rewritten after the flood.",
+  "where": "L03",
+  "ref_deps": [
+   "E0003"
+  ],
+  "secret": "S01",
+  "src": "P018",
+  "dest": "P019"
+ },
+ {
+  "id": "E0310",
+  "type": "TRAVEL",
+  "chapter": 31,
+  "text": "Corald Fellenridge packed a single trunk and moved from Gulton to Fengate.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P038",
+  "src": "L04",
+  "dest": "L03"
+ },
+ {
+  "id": "E0311",
+  "type": "TRAVEL",
+  "chapter": 31,
+  "text": "Zaena followed him to Fengate within the month.",
+  "where": "L04",
+  "ref_deps": [
+   "E0007"
+  ],
+  "person": "P039",
+  "src": "L04",
+  "dest": "L03"
+ },
+ {
+  "id": "E0312",
+  "type": "DEATH",
+  "chapter": 31,
+  "text": "Corald died of a winter fever at Fengate.",
+  "where": "L03",
+  "ref_deps": [
+   "E0007"
+  ],
+  "person": "P038",
+  "cause": "a winter fever",
+  "place": "L03"
+ },
+ {
+  "id": "E0313",
+  "type": "OCCUPATION",
+  "chapter": 31,
+  "text": "Dalan Thornner gave up being a shepherd and took work as a cooper.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P014",
+  "old": "shepherd",
+  "new": "cooper"
+ },
+ {
+  "id": "E0314",
+  "type": "GIVE",
+  "chapter": 31,
+  "text": "The only son of Darald Dornner gave the amber ledger to Vodan Grimett.",
+  "where": "L10",
+  "ref_deps": [
+   "E0004"
+  ],
+  "item": "I00",
+  "src": "P028",
+  "dest": "P055"
+ },
+ {
+  "id": "E0315",
+  "type": "TRAVEL",
+  "chapter": 31,
+  "text": "After the quarrel, Madette Haskoway quit Yarlmere for good and took lodgings in Braegate.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P032",
+  "src": "L15",
+  "dest": "L01"
+ },
+ {
+  "id": "E0316",
+  "type": "TRAVEL",
+  "chapter": 31,
+  "text": "Tamor Stenett went along to live in Braegate as well.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P037",
+  "src": "L15",
+  "dest": "L01"
+ },
+ {
+  "id": "E0317",
+  "type": "BIRTH",
+  "chapter": 31,
+  "text": "Ulnelle Hollmere gave birth to a daughter, named Felde Hollmere; the father was Wezek Hollmere. The family lived in Fengate.",
+  "where": "L03",
+  "ref_deps": [],
+  "child": "P069",
+  "mother": "P019",
+  "father": "P054",
+  "place": "L03"
+ },
+ {
+  "id": "E0318",
+  "type": "PROMISE",
+  "chapter": 31,
+  "text": "Red Damira gave the youngest son of Gara Grimett a solemn promise to teach the children of Coldgate their letters.",
+  "where": "L15",
+  "ref_deps": [
+   "E0009",
+   "E0039"
+  ],
+  "promise": "R26",
+  "a": "P026",
+  "b": "P053",
+  "act": "to teach the children of Coldgate their letters"
+ },
+ {
+  "id": "E0319",
+  "type": "TELL",
+  "chapter": 32,
+  "text": "In a letter that Rossa Tallowford burned after reading, Fenar Grimett revealed that the fire at the Harrowford granary was set on purpose.",
+  "where": "L15",
+  "ref_deps": [],
+  "secret": "S04",
+  "src": "P053",
+  "dest": "P010"
+ },
+ {
+  "id": "E0320",
+  "type": "GIVE",
+  "chapter": 32,
+  "text": "Werine Hollmere pressed the bone comb into the hands of Malis and would take nothing for it.",
+  "where": "L02",
+  "ref_deps": [
+   "E0184"
+  ],
+  "item": "I03",
+  "src": "P022",
+  "dest": "P060"
+ },
+ {
+  "id": "E0321",
+  "type": "PROMISE",
+  "chapter": 32,
+  "text": "Malis Thornner gave the youngest daughter of Hadrek Hollmere a solemn promise to pay the old debt owed to the Grimett family.",
+  "where": "L02",
+  "ref_deps": [
+   "E0003"
+  ],
+  "promise": "R27",
+  "a": "P060",
+  "b": "P022",
+  "act": "to pay the old debt owed to the Grimett family"
+ },
+ {
+  "id": "E0322",
+  "type": "BIRTH",
+  "chapter": 32,
+  "text": "A son was born to Massa Fellenridge and Zabin Grimett, and they called the child Ilric Grimett. The family lived in Salhaven.",
+  "where": "L13",
+  "ref_deps": [],
+  "child": "P070",
+  "mother": "P041",
+  "father": "P052",
+  "place": "L13"
+ },
+ {
+  "id": "E0323",
+  "type": "TELL",
+  "chapter": 32,
+  "text": "In a letter that Zaena Fellenridge burned after reading, Hadrek revealed that the harbor master of Kelwick takes bribes.",
+  "where": "L03",
+  "ref_deps": [
+   "E0003"
+  ],
+  "secret": "S03",
+  "src": "P017",
+  "dest": "P039"
+ },
+ {
+  "id": "E0324",
+  "type": "DEATH",
+  "chapter": 32,
+  "text": "They laid Riwyn Dornner in the churchyard at Osthaven, dead of drowning in the flood.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P062",
+  "cause": "drowning in the flood",
+  "place": "L10"
+ },
+ {
+  "id": "E0325",
+  "type": "TELL",
+  "chapter": 33,
+  "text": "Late one night Jodette Haskoway confided to Vodan Grimett that a chest of silver lies buried beneath the well at Ravenford.",
+  "where": "L10",
+  "ref_deps": [],
+  "secret": "S05",
+  "src": "P031",
+  "dest": "P055"
+ },
+ {
+  "id": "E0326",
+  "type": "TRAVEL",
+  "chapter": 33,
+  "text": "Dalan Thornner packed a single trunk and moved from Yarlmere to Ostholt.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P014",
+  "src": "L15",
+  "dest": "L11"
+ },
+ {
+  "id": "E0327",
+  "type": "TRAVEL",
+  "chapter": 33,
+  "text": "Nerine followed him to Ostholt within the month.",
+  "where": "L15",
+  "ref_deps": [
+   "E0000"
+  ],
+  "person": "P003",
+  "src": "L15",
+  "dest": "L11"
+ },
+ {
+  "id": "E0328",
+  "type": "BIRTH",
+  "chapter": 33,
+  "text": "A daughter was born to Massa Marrworth and Nynar Thornner, and they called the child Lura Thornner. The family lived in Yarlby.",
+  "where": "L14",
+  "ref_deps": [],
+  "child": "P071",
+  "mother": "P048",
+  "father": "P013",
+  "place": "L14"
+ },
+ {
+  "id": "E0329",
+  "type": "PROMISE",
+  "chapter": 33,
+  "text": "The husband of Nerine Dornworth gave Nerine Dornworth a solemn promise to teach the children of Yarlby their letters.",
+  "where": "L11",
+  "ref_deps": [
+   "E0106"
+  ],
+  "promise": "R28",
+  "a": "P014",
+  "b": "P003",
+  "act": "to teach the children of Yarlby their letters"
+ },
+ {
+  "id": "E0330",
+  "type": "RUMOR",
+  "chapter": 33,
+  "text": "Gossip from Kanelle Fellenridge claimed Damira Thornner and Fenar Grimett had been wed in secret.",
+  "where": "L14",
+  "ref_deps": [],
+  "teller": "P042",
+  "claim": {
+   "kind": "married",
+   "target": "P016",
+   "other": "P053"
+  }
+ },
+ {
+  "id": "E0331",
+  "type": "DEATH",
+  "chapter": 34,
+  "text": "That autumn, a long wasting sickness took Kalia Hollmere; she was buried at Fengate.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P018",
+  "cause": "a long wasting sickness",
+  "place": "L03"
+ },
+ {
+  "id": "E0332",
+  "type": "DEATH",
+  "chapter": 34,
+  "text": "Nezek Haskoway died of the coughing sickness at Salhaven.",
+  "where": "L13",
+  "ref_deps": [],
+  "person": "P063",
+  "cause": "the coughing sickness",
+  "place": "L13"
+ },
+ {
+  "id": "E0333",
+  "type": "TELL",
+  "chapter": 34,
+  "text": "In a letter that Zabin Grimett burned after reading, Thissa Tallowford revealed that a chest of silver lies buried beneath the well at Ravenford.",
+  "where": "L13",
+  "ref_deps": [],
+  "secret": "S05",
+  "src": "P009",
+  "dest": "P052"
+ },
+ {
+  "id": "E0334",
+  "type": "TELL",
+  "chapter": 34,
+  "text": "In a letter that Wezek Hollmere burned after reading, Aelia revealed that the old abbey at Coldgate hides a second cellar.",
+  "where": "L03",
+  "ref_deps": [
+   "E0003"
+  ],
+  "secret": "S02",
+  "src": "P020",
+  "dest": "P054"
+ },
+ {
+  "id": "E0335",
+  "type": "GIVE",
+  "chapter": 34,
+  "text": "The second daughter of Femor Marrworth won the amber ledger from Vodan at cards, fairly, and kept it.",
+  "where": "L10",
+  "ref_deps": [
+   "E0008",
+   "E0105"
+  ],
+  "item": "I00",
+  "src": "P055",
+  "dest": "P047"
+ },
+ {
+  "id": "E0336",
+  "type": "DEATH",
+  "chapter": 35,
+  "text": "That winter, a fall from the mill loft took Isvie Dornner; she was buried at Mireholt.",
+  "where": "L08",
+  "ref_deps": [],
+  "person": "P024",
+  "cause": "a fall from the mill loft",
+  "place": "L08"
+ },
+ {
+  "id": "E0337",
+  "type": "TRAVEL",
+  "chapter": 35,
+  "text": "Yelia packed a single trunk and moved from Mireholt to Gulton.",
+  "where": "L08",
+  "ref_deps": [
+   "E0001"
+  ],
+  "person": "P008",
+  "src": "L08",
+  "dest": "L04"
+ },
+ {
+  "id": "E0338",
+  "type": "TRAVEL",
+  "chapter": 35,
+  "text": "The second daughter of Tadan Dornworth packed a single trunk and moved from Ostholt to Mireholt.",
+  "where": "L11",
+  "ref_deps": [
+   "E0000"
+  ],
+  "person": "P003",
+  "src": "L11",
+  "dest": "L08"
+ },
+ {
+  "id": "E0339",
+  "type": "TRAVEL",
+  "chapter": 35,
+  "text": "Dalan went along to live in Mireholt as well.",
+  "where": "L11",
+  "ref_deps": [
+   "E0002"
+  ],
+  "person": "P014",
+  "src": "L11",
+  "dest": "L08"
+ },
+ {
+  "id": "E0340",
+  "type": "GIVE",
+  "chapter": 35,
+  "text": "The youngest daughter of Zaric Haskoway pressed the bone bell into the hands of Madette Haskoway and would take nothing for it.",
+  "where": "L01",
+  "ref_deps": [
+   "E0005"
+  ],
+  "item": "I02",
+  "src": "P033",
+  "dest": "P032"
+ },
+ {
+  "id": "E0341",
+  "type": "GIVE",
+  "chapter": 35,
+  "text": "Kanelle gave the pewter lantern to the only son of Kalia Hollmere.",
+  "where": "L14",
+  "ref_deps": [
+   "E0003",
+   "E0007"
+  ],
+  "item": "I09",
+  "src": "P042",
+  "dest": "P021"
+ },
+ {
+  "id": "E0342",
+  "type": "TELL",
+  "chapter": 35,
+  "text": "Late one night the husband of Ulnelle Hollmere confided to Hadrek Hollmere that the Haskoway mill ledger was rewritten after the flood.",
+  "where": "L03",
+  "ref_deps": [
+   "E0185"
+  ],
+  "secret": "S01",
+  "src": "P054",
+  "dest": "P017"
+ },
+ {
+  "id": "E0343",
+  "type": "PROMISE",
+  "chapter": 35,
+  "text": "Nynar gave the wife of Nynar Thornner a solemn promise to rebuild the fallen wall at Larkstead.",
+  "where": "L14",
+  "ref_deps": [
+   "E0002",
+   "E0015"
+  ],
+  "promise": "R29",
+  "a": "P013",
+  "b": "P048",
+  "act": "to rebuild the fallen wall at Larkstead"
+ },
+ {
+  "id": "E0344",
+  "type": "OCCUPATION",
+  "chapter": 35,
+  "text": "Kanelle Fellenridge gave up being a weaver and took work as a shepherd.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P042",
+  "old": "weaver",
+  "new": "shepherd"
+ },
+ {
+  "id": "E0345",
+  "type": "TRAVEL",
+  "chapter": 36,
+  "text": "After the quarrel, Damira Dornner quit Yarlmere for good and took lodgings in Harrowford.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P026",
+  "src": "L15",
+  "dest": "L05"
+ },
+ {
+  "id": "E0346",
+  "type": "TRAVEL",
+  "chapter": 36,
+  "text": "Fenar followed her to Harrowford within the month.",
+  "where": "L15",
+  "ref_deps": [
+   "E0009"
+  ],
+  "person": "P053",
+  "src": "L15",
+  "dest": "L05"
+ },
+ {
+  "id": "E0347",
+  "type": "TELL",
+  "chapter": 36,
+  "text": "In a letter that Orlde burned after reading, Wezek Hollmere revealed that the old abbey at Coldgate hides a second cellar.",
+  "where": "L03",
+  "ref_deps": [
+   "E0251"
+  ],
+  "secret": "S02",
+  "src": "P054",
+  "dest": "P064"
+ },
+ {
+  "id": "E0348",
+  "type": "TRAVEL",
+  "chapter": 36,
+  "text": "Vodan rode out of Osthaven; by the next market day he was living in Fengate.",
+  "where": "L10",
+  "ref_deps": [
+   "E0105"
+  ],
+  "person": "P055",
+  "src": "L10",
+  "dest": "L03"
+ },
+ {
+  "id": "E0349",
+  "type": "TRAVEL",
+  "chapter": 36,
+  "text": "Weena followed him to Fengate within the month.",
+  "where": "L10",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P045",
+  "src": "L10",
+  "dest": "L03"
+ },
+ {
+  "id": "E0350",
+  "type": "MARRY",
+  "chapter": 36,
+  "text": "Rossa Tallowford and Zadan were wed at Yarlmere, with half the parish looking on. The couple lived in Yarlmere from then on.",
+  "where": "L15",
+  "ref_deps": [
+   "E0203"
+  ],
+  "a": "P010",
+  "b": "P061",
+  "place": "L15"
+ },
+ {
+  "id": "E0351",
+  "type": "MARRY",
+  "chapter": 36,
+  "text": "Before the spring was out, the eldest daughter of Pevus Thornner took Hadrek in marriage at Kelwick. The couple lived in Kelwick from then on.",
+  "where": "L06",
+  "ref_deps": [
+   "E0002",
+   "E0003"
+  ],
+  "a": "P015",
+  "b": "P017",
+  "place": "L06"
+ },
+ {
+  "id": "E0352",
+  "type": "TRAVEL",
+  "chapter": 37,
+  "text": "Aelia Hollmere packed a single trunk and moved from Fengate to Yarlby.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P020",
+  "src": "L03",
+  "dest": "L14"
+ },
+ {
+  "id": "E0353",
+  "type": "PROMISE",
+  "chapter": 37,
+  "text": "Vodan Grimett gave Orlde a solemn promise to plant an orchard on the slope above Yarlmere.",
+  "where": "L03",
+  "ref_deps": [
+   "E0251"
+  ],
+  "promise": "R30",
+  "a": "P055",
+  "b": "P064",
+  "act": "to plant an orchard on the slope above Yarlmere"
+ },
+ {
+  "id": "E0354",
+  "type": "PROMISE",
+  "chapter": 37,
+  "text": "Orlde Hollmere gave Wezek Hollmere a solemn promise to rebuild the fallen wall at Coldgate.",
+  "where": "L03",
+  "ref_deps": [],
+  "promise": "R31",
+  "a": "P064",
+  "b": "P054",
+  "act": "to rebuild the fallen wall at Coldgate"
+ },
+ {
+  "id": "E0355",
+  "type": "TRAVEL",
+  "chapter": 37,
+  "text": "Zaena Fellenridge left Fengate and settled in Mireholt.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P039",
+  "src": "L03",
+  "dest": "L08"
+ },
+ {
+  "id": "E0356",
+  "type": "DEATH",
+  "chapter": 37,
+  "text": "They laid Tadan Dornworth in the churchyard at Kelwick, dead of a long wasting sickness.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P000",
+  "cause": "a long wasting sickness",
+  "place": "L06"
+ },
+ {
+  "id": "E0357",
+  "type": "GIVE",
+  "chapter": 37,
+  "text": "The jade spyglass, which Tadan Dornworth had owned, went to Damira Thornner.",
+  "where": "L06",
+  "ref_deps": [],
+  "item": "I07",
+  "src": "P000",
+  "dest": "P016",
+  "inherit": true
+ },
+ {
+  "id": "E0358",
+  "type": "DEATH",
+  "chapter": 37,
+  "text": "Damira Thornner died of the coughing sickness at Kelwick.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P016",
+  "cause": "the coughing sickness",
+  "place": "L06"
+ },
+ {
+  "id": "E0359",
+  "type": "GIVE",
+  "chapter": 37,
+  "text": "Among the things left by Damira Thornner, the jade spyglass was handed to Dalis Thornner.",
+  "where": "L06",
+  "ref_deps": [],
+  "item": "I07",
+  "src": "P016",
+  "dest": "P015",
+  "inherit": true
+ },
+ {
+  "id": "E0360",
+  "type": "TRAVEL",
+  "chapter": 37,
+  "text": "Hadrek Hollmere packed a single trunk and moved from Kelwick to Ostholt.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P017",
+  "src": "L06",
+  "dest": "L11"
+ },
+ {
+  "id": "E0361",
+  "type": "TRAVEL",
+  "chapter": 37,
+  "text": "Dalis Thornner went along to live in Ostholt as well.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P015",
+  "src": "L06",
+  "dest": "L11"
+ },
+ {
+  "id": "E0362",
+  "type": "TRAVEL",
+  "chapter": 37,
+  "text": "After the quarrel, the eldest daughter of Rissa Haskoway quit Osthaven for good and took lodgings in Salhaven.",
+  "where": "L10",
+  "ref_deps": [
+   "E0005"
+  ],
+  "person": "P031",
+  "src": "L10",
+  "dest": "L13"
+ },
+ {
+  "id": "E0363",
+  "type": "TELL",
+  "chapter": 38,
+  "text": "In a letter that Vodan burned after reading, Zalis Dornworth revealed that the deed to the Braegate pastures was forged.",
+  "where": "L07",
+  "ref_deps": [
+   "E0105"
+  ],
+  "secret": "S07",
+  "src": "P005",
+  "dest": "P055"
+ },
+ {
+  "id": "E0364",
+  "type": "GIVE",
+  "chapter": 38,
+  "text": "Dalan Thornner sent the garnet compass by carrier to Zalis, who received it safely.",
+  "where": "L08",
+  "ref_deps": [
+   "E0000"
+  ],
+  "item": "I06",
+  "src": "P014",
+  "dest": "P005"
+ },
+ {
+  "id": "E0365",
+  "type": "MARRY",
+  "chapter": 38,
+  "text": "Dazek Grimett and Hawyn Dornner were wed at Yarlby, with half the parish looking on. The couple lived in Yarlby from then on.",
+  "where": "L14",
+  "ref_deps": [],
+  "a": "P059",
+  "b": "P066",
+  "place": "L14"
+ },
+ {
+  "id": "E0366",
+  "type": "TRAVEL",
+  "chapter": 38,
+  "text": "The husband of Hawyn Dornner found work in Ostholt, moved there, and did not return to Yarlby.",
+  "where": "L14",
+  "ref_deps": [
+   "E0365"
+  ],
+  "person": "P059",
+  "src": "L14",
+  "dest": "L11"
+ },
+ {
+  "id": "E0367",
+  "type": "TRAVEL",
+  "chapter": 38,
+  "text": "Hawyn Dornner went along to live in Ostholt as well.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P066",
+  "src": "L14",
+  "dest": "L11"
+ },
+ {
+  "id": "E0368",
+  "type": "GIVE",
+  "chapter": 38,
+  "text": "Werine Hollmere pressed the pewter map into the hands of Malis Thornner and would take nothing for it.",
+  "where": "L02",
+  "ref_deps": [],
+  "item": "I10",
+  "src": "P022",
+  "dest": "P060"
+ },
+ {
+  "id": "E0369",
+  "type": "PROMISE",
+  "chapter": 38,
+  "text": "The wife of Pemor Hollmere gave Aelia Hollmere a solemn promise to teach the children of Yarlby their letters.",
+  "where": "L14",
+  "ref_deps": [
+   "E0014"
+  ],
+  "promise": "R32",
+  "a": "P042",
+  "b": "P020",
+  "act": "to teach the children of Yarlby their letters"
+ },
+ {
+  "id": "E0370",
+  "type": "BIRTH",
+  "chapter": 39,
+  "text": "Aevie Thornner gave birth to a daughter, named Halia Grimett; the father was Mobin Grimett. The family lived in Gulton.",
+  "where": "L04",
+  "ref_deps": [],
+  "child": "P072",
+  "mother": "P057",
+  "father": "P049",
+  "place": "L04"
+ },
+ {
+  "id": "E0371",
+  "type": "TRAVEL",
+  "chapter": 39,
+  "text": "Aevie Thornner found work in Harrowford, moved there, and did not return to Gulton.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P057",
+  "src": "L04",
+  "dest": "L05"
+ },
+ {
+  "id": "E0372",
+  "type": "TRAVEL",
+  "chapter": 39,
+  "text": "Mobin Grimett followed her to Harrowford within the month.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P049",
+  "src": "L04",
+  "dest": "L05"
+ },
+ {
+  "id": "E0373",
+  "type": "MARRY",
+  "chapter": 39,
+  "text": "Werine Hollmere and Marald Grimett were wed at Coldgate, with half the parish looking on. The couple lived in Coldgate from then on.",
+  "where": "L02",
+  "ref_deps": [],
+  "a": "P022",
+  "b": "P065",
+  "place": "L02"
+ },
+ {
+  "id": "E0374",
+  "type": "PROMISE",
+  "chapter": 39,
+  "text": "Malis Thornner gave Marald Grimett a solemn promise to pay the old debt owed to the Haskoway family.",
+  "where": "L02",
+  "ref_deps": [],
+  "promise": "R33",
+  "a": "P060",
+  "b": "P065",
+  "act": "to pay the old debt owed to the Haskoway family"
+ },
+ {
+  "id": "E0375",
+  "type": "GIVE",
+  "chapter": 39,
+  "text": "Sedrek Dornner won the amber ledger from the wife of Sedrek Dornner at cards, fairly, and kept it.",
+  "where": "L10",
+  "ref_deps": [
+   "E0010"
+  ],
+  "item": "I00",
+  "src": "P047",
+  "dest": "P028"
+ },
+ {
+  "id": "E0376",
+  "type": "PLAN",
+  "chapter": 39,
+  "text": "Sedrek Dornner meant to go to Braegate before the frost, but the roads flooded and the journey was put off.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P028",
+  "dest": "L01"
+ },
+ {
+  "id": "E0377",
+  "type": "RUMOR",
+  "chapter": 39,
+  "text": "Gossip from Wezek Hollmere claimed Aevie Thornner and Dazek Grimett had been wed in secret.",
+  "where": "L03",
+  "ref_deps": [],
+  "teller": "P054",
+  "claim": {
+   "kind": "married",
+   "target": "P057",
+   "other": "P059"
+  }
+ },
+ {
+  "id": "E0378",
+  "type": "RUMOR",
+  "chapter": 39,
+  "text": "Gossip from Orlde Hollmere claimed Zabin Grimett and Rossa Tallowford had been wed in secret.",
+  "where": "L03",
+  "ref_deps": [],
+  "teller": "P064",
+  "claim": {
+   "kind": "married",
+   "target": "P052",
+   "other": "P010"
+  }
+ },
+ {
+  "id": "E0379",
+  "type": "RUMOR",
+  "chapter": 40,
+  "text": "Wezek Hollmere whispered that Damira Dornner had secretly married Vodan Grimett, but nobody could say where or when.",
+  "where": "L03",
+  "ref_deps": [],
+  "teller": "P054",
+  "claim": {
+   "kind": "married",
+   "target": "P026",
+   "other": "P055"
+  }
+ },
+ {
+  "id": "E0380",
+  "type": "RESOLVE",
+  "chapter": 40,
+  "text": "Wezek Hollmere kept the promise made to Damira Dornner: the task (pay the old debt owed to the Marrworth family) was done by harvest.",
+  "where": "L03",
+  "ref_deps": [],
+  "promise": "R21",
+  "kept": true
+ },
+ {
+  "id": "E0381",
+  "type": "BIRTH",
+  "chapter": 40,
+  "text": "Kanelle Fellenridge gave birth to a daughter, named Havie Hollmere; the father was Pemor Hollmere. The family lived in Yarlby.",
+  "where": "L14",
+  "ref_deps": [],
+  "child": "P073",
+  "mother": "P042",
+  "father": "P021",
+  "place": "L14"
+ },
+ {
+  "id": "E0382",
+  "type": "GIVE",
+  "chapter": 40,
+  "text": "Malis Thornner sent the pewter map by carrier to the eldest daughter of Rissa Haskoway, who received it safely.",
+  "where": "L02",
+  "ref_deps": [
+   "E0005"
+  ],
+  "item": "I10",
+  "src": "P060",
+  "dest": "P031"
+ },
+ {
+  "id": "E0383",
+  "type": "GIVE",
+  "chapter": 40,
+  "text": "Rossa Tallowford gave the brass compass to Illis Stenett.",
+  "where": "L15",
+  "ref_deps": [],
+  "item": "I05",
+  "src": "P010",
+  "dest": "P067"
+ },
+ {
+  "id": "E0384",
+  "type": "PLAN",
+  "chapter": 40,
+  "text": "The youngest daughter of Rilde Tallowford meant to go to Salhaven before the frost, but the roads flooded and the journey was put off.",
+  "where": "L15",
+  "ref_deps": [
+   "E0001"
+  ],
+  "person": "P010",
+  "dest": "L13"
+ },
+ {
+  "id": "E0385",
+  "type": "GIVE",
+  "chapter": 40,
+  "text": "A parcel from Dalis Thornner reached Nedette Dornner; inside was the jade spyglass, now hers to keep.",
+  "where": "L11",
+  "ref_deps": [],
+  "item": "I07",
+  "src": "P015",
+  "dest": "P025"
+ }
+]

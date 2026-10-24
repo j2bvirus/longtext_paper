@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "This is the search command executed after changing to the repository directory.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "Step 9 displayed line numbers and surrounding context for the messages.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "The test passed, and pytest displayed 100% completion.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ambiguous",
+  "reason": "Establishing the repository location is useful, but setting the working directory is not strictly required.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "Examining the containing classes and methods is a reasonable next action.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "wrong",
+  "reason": "Later commands repeatedly changed to and reported the repository directory, including Step 99.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "Step 8 returned four distinct locations generating “alias of” messages.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "The command would list names available in the autodoc module.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "wrong",
+  "reason": "No A/B options are provided; the command used -k for filtering and head -20 to truncate output.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "Step 6 reported 1707 collected items and 53 selected.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "wrong",
+  "reason": "The cited steps show exploration, not the claimed reproduction tests or source modifications; the class was GenericAliasMixin.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "wrong",
+  "reason": "No source fix was implemented; the agent concluded the issue was already resolved and ran existing tests.",
+  "evidence": "whole trajectory"
+ }
+}

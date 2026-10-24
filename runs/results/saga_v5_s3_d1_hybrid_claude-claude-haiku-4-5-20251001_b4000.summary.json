@@ -1,0 +1,36 @@
+{
+ "name": "saga_v5_s3_d1_hybrid_claude-claude-haiku-4-5-20251001_b4000",
+ "n": 222,
+ "acc": 0.8243243243243243,
+ "by_qtype": {
+  "ALIVE": 0.96,
+  "BIRTHPLACE": 0.958,
+  "EVER_VISITED": 1.0,
+  "GRANDPARENT": 0.385,
+  "KNOWS": 0.944,
+  "LOC_AT_EVENT": 0.5,
+  "LOC_NOW": 0.882,
+  "OCCUPATION_NOW": 0.84,
+  "OWNER_NOW": 0.75,
+  "OWNER_PREV": 0.7,
+  "PROMISE": 0.895,
+  "RULE_BRIDGE": 0.571,
+  "RULE_VAULT": 0.0,
+  "SPOUSE_NOW": 0.769
+ },
+ "mean_ctx_tokens": 4141.324324324324,
+ "sum_in_tokens": 1207107,
+ "sum_out_tokens": 59735,
+ "sum_usd": 1.505782,
+ "sum_wall_s": 1347.396240234375,
+ "build": {
+  "embed_tokens": 44727,
+  "llm_in": 0,
+  "llm_out": 0,
+  "usd": 0.0,
+  "wall_s": 0.015983104705810547
+ },
+ "record_tokens": 44727,
+ "n_chunks": 183,
+ "mean_ev_recall": 0.7940242669362993
+}

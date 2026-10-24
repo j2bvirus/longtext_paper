@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ambiguous",
+  "reason": "The shown steps do not establish which enzyme or Enzyme Commission number an enzyme-specific search would have retrieved.",
+  "evidence": "steps [17, 18, 19, 38, 39]"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "Step 15 fetched the CGSpace PDF at https://cgspace.cgiar.org/bitstream/10568/72519/2/79163.pdf.",
+  "evidence": "steps [14, 15, 16, 38, 39]"
+ },
+ "Q0002": {
+  "label": "wrong",
+  "reason": "Step 36 read search_results_summary_step3.md, not analysis_step2_canonical_names.md.",
+  "evidence": "steps [35, 36, 37, 38, 39]"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "Step 17 identified nitrocellulose and p-nitrophenyl phosphate and counted their method-section references as twice and once, respectively.",
+  "evidence": "steps [17, 18, 19, 38, 39]"
+ },
+ "Q0004": {
+  "label": "ambiguous",
+  "reason": "The searches include common and canonical names, but the shown steps do not establish that resolving canonical names was a required precondition for retrieval.",
+  "evidence": "steps [18, 19, 20, 21, 38, 39]"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "The task required alphabetized chemical order, and Step 38 confirms verification using canonical names before producing the final sequence.",
+  "evidence": "steps [19, 20, 21, 38, 39]"
+ },
+ "Q0006": {
+  "label": "wrong",
+  "reason": "The file was saved at Step 25; Step 26 marked the research step completed.",
+  "evidence": "steps [25, 26, 27, 38, 39]"
+ },
+ "Q0007": {
+  "label": "ambiguous",
+  "reason": "Step 38 lists the file as generated but does not show a save action or establish that it was the last file saved.",
+  "evidence": "steps [38, 39]"
+ },
+ "Q0008": {
+  "label": "ambiguous",
+  "reason": "Only two tavily_search actions are shown; omitted steps prevent verifying the total of 15.",
+  "evidence": "steps [0, 1, 38, 39]"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "Step 25 explicitly uses canonical ECHA names to avoid ambiguity, ordering Cellulose nitrate (C) before Disodium 4-nitrophenyl phosphate (D).",
+  "evidence": "steps [24, 25, 26, 38, 39]"
+ },
+ "Q0010": {
+  "label": "not auditable",
+  "reason": "names no step",
+  "evidence": ""
+ },
+ "Q0011": {
+  "label": "ambiguous",
+  "reason": "Steps 15–16 identify the two reagents, but the shown steps do not establish a shift from enzymatic classification or an early commitment to ECHA.",
+  "evidence": "steps [8, 9, 10, 15, 16, 17, 38, 39]"
+ }
+}

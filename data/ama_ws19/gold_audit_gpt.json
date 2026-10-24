@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "Step 3 executed `python -m pytest --version`.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "wrong",
+  "reason": "Step 20 searched for docfield files; the issue was located in `sphinx/util/docfields.py`, not Napoleon.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ambiguous",
+  "reason": "The hypothetical search scope is unspecified, so its results cannot be uniquely determined.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "Step 4 reports `/workspace/sphinx-doc__sphinx__4.1` as the working directory.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "wrong",
+  "reason": "Step 46 ran verification; the fix was implemented in steps 34–35.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "wrong",
+  "reason": "Step 25 showed `PyTypedField` and `PyObject`, not `_process_docstring`.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "wrong",
+  "reason": "Step 38 changed verification checks; step 32 explicitly established the bug location.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "wrong",
+  "reason": "Steps 20–40 focused on docfield transformation, not Napoleon parsing.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "wrong",
+  "reason": "Step 46 executed a reproduction script and made no modification.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "Step 65 showed correct rendering and reported the original issue fixed.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "wrong",
+  "reason": "The root cause was `fieldarg.split(None, 1)` in `sphinx/util/docfields.py`, confirmed at step 31.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "wrong",
+  "reason": "The fix added `_split_type_and_name` to split at whitespace outside parentheses and brackets; `_parse_arglist` was not modified.",
+  "evidence": "whole trajectory"
+ }
+}

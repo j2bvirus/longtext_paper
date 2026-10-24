@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "wrong",
+  "reason": "Step 51 added note_term and its duplicate detection; Step 85 ran a test.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "wrong",
+  "reason": "Step 77 was analysis of object storage, with no reproduction action.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "wrong",
+  "reason": "Preserving case-insensitive references was required, but Step 85 tested existing code rather than implementing a fix.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "wrong",
+  "reason": "The last source change was Step 82; Step 88 ran tests and no process_glossary_term function appears.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "The class supported case-sensitive duplicate detection and case-insensitive reference lookup by Step 86.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "wrong",
+  "reason": "Step 77 ran no script, and the code already prevented the original duplicate warning.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "wrong",
+  "reason": "Step 70 added a test; note_term had already been created in Step 51.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "wrong",
+  "reason": "The call changed explicitly in Step 52 in make_glossary_term, not between Steps 85–88.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "wrong",
+  "reason": "Step 82 modified _resolve_obj_xref; Step 86 modified test assertions.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "wrong",
+  "reason": "Step 88 only ran pytest and made no function modification.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "The new note_term method checked original-case terms separately and replaced the glossary registration call.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "wrong",
+  "reason": "More than three test scenarios were created, and the comprehensive test used CamelCase/camelcase, not HTML/html.",
+  "evidence": "whole trajectory"
+ }
+}

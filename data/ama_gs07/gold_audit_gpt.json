@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "Step 10 fetched https://www.fighters.co.jp/news/detail/00004535.html to verify the uniform number change.",
+  "evidence": "steps [9, 10, 11, 33, 34]"
+ },
+ "Q0001": {
+  "label": "not auditable",
+  "reason": "names no step",
+  "evidence": ""
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "Step 4 uses the exact query “玉井 大翔 背番号 2023 年 7 月”.",
+  "evidence": "steps [3, 4, 5, 33, 34]"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "Step 30 fetched Uehara’s official NPB player page, displaying “Uehara, Kenta.”",
+  "evidence": "steps [29, 30, 31, 33, 34]"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "Step 14 confirms Tamai’s number as 19 and his team as the Hokkaido Nippon-Ham Fighters, establishing the basis for the adjacent-number search.",
+  "evidence": "steps [14, 15, 16, 33, 34]"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "Step 16 follows the roster search with a targeted search for number 18, consistent with verifying the adjacent pitchers’ identities.",
+  "evidence": "steps [14, 15, 16, 33, 34]"
+ },
+ "Q0006": {
+  "label": "not auditable",
+  "reason": "names no step",
+  "evidence": ""
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "Step 31 saves search_results_summary_step3.md; no later file save occurs before the final answer in Step 34.",
+  "evidence": "steps [30, 31, 32, 33, 34]"
+ },
+ "Q0008": {
+  "label": "not auditable",
+  "reason": "names no step",
+  "evidence": ""
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "Step 33 specifies Roman-character last names only and formats them as \"Yoshida, Uehara\" in before-after order.",
+  "evidence": "steps [32, 33, 34]"
+ },
+ "Q0010": {
+  "label": "ambiguous",
+  "reason": "Steps 2 and 3 show search queries and results, but no recognition of a 2025 update or pivot to archived reports and Japanese number databases.",
+  "evidence": "steps [1, 2, 3, 4, 33, 34]"
+ },
+ "Q0011": {
+  "label": "ambiguous",
+  "reason": "Step 16 shows the Yuki Saito number 18 listing, but the claimed cross-referencing and resolution are not shown.",
+  "evidence": "steps [15, 16, 17, 33, 34]"
+ }
+}
