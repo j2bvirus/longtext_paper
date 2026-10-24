@@ -1,0 +1,70 @@
+{
+ "name": "agg2_s4_d16_mem-evx4v5_claude-claude-haiku-4-5-20251001_b4000_dev5",
+ "n": 37,
+ "acc": 0.918918918918919,
+ "by_qtype": {
+  "G2_FAM_BIRTHS": 1.0,
+  "G2_FAM_DEATHS": 1.0,
+  "G2_FAM_WED": 1.0,
+  "G2_NBIRTHS": 1.0,
+  "G2_NDEATHS": 1.0,
+  "G2_NWED": 1.0,
+  "G2_RANGE_DEATHS": 1.0,
+  "G2_RANGE_WED": 1.0,
+  "G_PLACE_BIRTHS": 0.833,
+  "G_PLACE_DEATHS": 0.667
+ },
+ "mean_ctx_tokens": 3980.3783783783783,
+ "sum_in_tokens": 201798,
+ "sum_out_tokens": 13796,
+ "sum_usd": 0.270778,
+ "sum_wall_s": 253.22966361045837,
+ "build": {
+  "embed_tokens": 0,
+  "llm_in": 1271769,
+  "llm_out": 81611,
+  "usd": 1.6798240000000002,
+  "wall_s": 18.24861216545105,
+  "llm_wall_s": 0.0,
+  "calls": 709,
+  "cached_build": true,
+  "idle": {
+   "llm_in": 7224,
+   "llm_out": 5013,
+   "usd": 0.032289,
+   "calls": 2
+  },
+  "events": 4272,
+  "types": 694,
+  "base": {
+   "llm_in": 815228,
+   "llm_out": 123036,
+   "usd": 1.4304079999999995,
+   "llm_wall_s": 0.0,
+   "calls": 341,
+   "cached_build": true,
+   "idle": {
+    "llm_in": 0,
+    "llm_out": 0,
+    "usd": 0.0,
+    "calls": 0
+   },
+   "registry": 2076,
+   "persons": 883,
+   "refs_llm": 485,
+   "ungrounded": 110,
+   "refs_resolved": 569,
+   "refs_total": 732
+  },
+  "implications": 31,
+  "lazy": {
+   "llm_in": 0,
+   "llm_out": 0,
+   "usd": 0.0,
+   "calls": 0
+  }
+ },
+ "record_tokens": 466845,
+ "n_chunks": 1960,
+ "mean_ev_recall": 1.0
+}

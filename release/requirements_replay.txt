@@ -1,0 +1,13 @@
+# Python packages used by the replay (release/reproduce_tables.py, release/restore_third_party_fields.py and the
+# report scripts they run), at the versions of the authors' replay, with Python 3.14.4 on Windows 11.
+# The PNG check of the three figures compares bytes, so it needs the same matplotlib version; the CSV check does not.
+# tiktoken downloads its cl100k_base vocabulary on first use; offline, set TIKTOKEN_CACHE_DIR to a folder that holds it.
+numpy==2.5.4
+scipy==1.18.1
+matplotlib==3.11.2
+tiktoken==0.14.0
+rank-bm25==0.2.2
+# preparing NovelHopQA (bench/novelhop_prepare.py) also needs
+pandas==3.0.6
+# re-running conditions (not part of the replay) also needs requests==2.34.2, the model clients named in the
+# manuscript (Table 3) and, for the Gemini API run only, google-genai==2.31.0

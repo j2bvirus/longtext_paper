@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "Step 20 ran COUNT(*) and returned 19,323,316.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "The steps cited (18, 20, 22, 26) match the trajectory; the bounding box is only computed at step 26, not yet applied.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "A speculative counterfactual, but its reasoning about pruning before the flatten and cross join is plausible.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "The bounding-box values and the source table and column match step 26.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "TO_GEOGRAPHY use, the BINARY geometry columns and the unsupported-subquery errors at steps 17 and 23 all match.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "The all_tags structure and the step 16 and 17 pitfalls match the trajectory.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "A reasonable next-step suggestion that avoids the failing patterns.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "The proposed sequence follows from the timeouts and the step 26 bounding box.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "Step 26 is the last step that added new Philadelphia geometry information.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "The evidence from steps 15 to 18 supports the inferred JSON key/value array format.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "The table and tool counts and the 5 succeeded versus 8 failed split all match; steps 17 and 23 were SQL errors.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "The blockers and the minimal sequence are consistent with the trajectory.",
+  "evidence": "whole trajectory"
+ }
+}

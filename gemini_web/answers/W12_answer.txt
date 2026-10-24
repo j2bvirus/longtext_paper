@@ -1,0 +1,211 @@
+Based on the provided transcript, here is the step-by-step breakdown of the statistics across the 24 episodes:
+
+1. **Spells Cast per Episode:**
+* **Episode 1:** *Pass Without a Trace* (Keyleth), *Polymorph* (Taryon/Scanlan), *Dimension Door* (Taryon/Scanlan), *Thunderwave* (Taryon/Scanlan), *Wind Wall* (Keyleth), *Dimension Door* (Taryon/Scanlan), *Wall of Stone* (Keyleth), *Spiritual Weapon* (Pike), *Unseen Servant* (Taryon/Scanlan), *Prestidigitation* (Tiberius), *Guidance* (Keyleth), *Mass Cure Wounds* (Pike), *Stoneskin* (Tiberius), *Mage Hand* (Tiberius), *Control Flames* (Tiberius). (15 spells)
+
+
+* **Episode 2:** *Stoneskin* (Tiberius), *Prestidigitation* (Tiberius), *Mage Hand* (Tiberius), *Invisibility* (Tiberius), *Fly* (Tiberius), *Fly* (Tiberius), *Seeming* (Taryon/Scanlan), *Stoneskin* (Tiberius), *Wall of Stone* (Keyleth), *Greater Invisibility* (Tiberius), *Chain Lightning* (Tiberius), *Hunter's Mark* (Vex'ahlia), *Hail of Thorns* (Vex'ahlia), *Lightning Bolt* (Taryon/Scanlan), *Telekinesis* (Tiberius), *Telekinesis* (Tiberius), *Bigby's Hand* (Taryon/Scanlan), *Hold Person* (DM/Mage), *Flame Strike* (DM/Cleric), *Call Lightning* (Keyleth), *Fireball* (Tiberius), *Fireball* (Tiberius), *Control Flames* (Tiberius), *Cure Wounds* (Keyleth), *Cure Wounds* (Keyleth). (25 spells)
+
+
+* **Episode 3:** *Hunter's Mark* (Vex'ahlia), *Disintegrate* (Lyra), *Lightning Bolt* (Taryon/Scanlan), *Mass Suggestion* (Zahra), *Light* (Zahra), *Legend Lore* (Lyra), *Fire Bolt* (Lyra), *Stoneskin* (Lyra), *Fire Bolt* (Lyra), *Mage Hand* (Taryon/Scanlan), *Hunter's Mark* (Vex'ahlia), *Lightning Arrow* (Vex'ahlia), *Hex* (Zahra), *Witch Bolt* (Zahra), *Eyebite* (Taryon/Scanlan), *Disintegrate* (Lyra), *Hail of Thorns* (Vex'ahlia), *Bigby's Hand* (Taryon/Scanlan), *Hold Monster* (Lyra), *Dimension Door* (Taryon/Scanlan), *Hold Monster* (Lyra), *Hail of Thorns* (Vex'ahlia), *Lightning Bolt* (Taryon/Scanlan), *Fireball* (Lyra), *Lightning Arrow* (Vex'ahlia), *Hellish Rebuke* (Zahra), *Seeming* (Taryon/Scanlan), *Fire Bolt* (Lyra). (28 spells)
+
+
+* **Episode 4:** *Goodberry* (Keyleth), *Fly* (Tiberius), *Hunter's Mark* (Vex'ahlia), *Healing Word* (Keyleth), *Teleportation Circle* (Tiberius). (5 spells)
+
+
+* **Episode 5:** *Zone of Truth* (DM/Brom), *Enhance Ability* (Keyleth), *Greater Restoration* (Keyleth), *Cure Wounds* (Keyleth), *Cure Wounds* (Vex'ahlia), *Fly* (Tiberius), *Minor Illusion* (Taryon/Scanlan), *Seeming* (Taryon/Scanlan), *Speak with Animals* (Keyleth), *Prestidigitation* (Tiberius), *Stoneskin* (Tiberius), *Hunter's Mark* (Vex'ahlia), *Slow* (Tiberius), *Dominate Beast* (Keyleth), *Dimension Door* (Taryon/Scanlan), *Fly* (Tiberius), *Polymorph* (Keyleth), *Polymorph* (Taryon/Scanlan), *Dispel Magic* (Tiberius), *Light* (Tiberius), *Barkskin* (DM/Byron), *Dispel Magic* (Tiberius), *Goodberry* (Keyleth), *Cure Wounds* (Vex'ahlia), *Fly* (Tiberius). (25 spells)
+
+
+* **Episode 6:** *Hunter's Mark* (Vex'ahlia), *Hail of Thorns* (Vex'ahlia), *Cure Wounds* (Keyleth), *Stoneskin* (Tiberius), *Bigby's Hand* (Taryon/Scanlan), *Telekinesis* (Tiberius), *Pass Without a Trace* (Vex'ahlia), *Sleet Storm* (Keyleth), *Invisibility* (Taryon/Scanlan), *Dimension Door* (Taryon/Scanlan), *Invisibility* (Taryon/Scanlan), *Druidcraft* (Keyleth), *Pass Without a Trace* (Vex'ahlia), *Seeming* (Taryon/Scanlan), *Move Earth* (Keyleth), *Speak with Plants* (Keyleth), *Heroes' Feast* (Keyleth), *Plant Growth* (Keyleth). (18 spells)
+
+
+* **Episode 7:** *Mass Cure Wounds* (Pike), *Fog Cloud* (Keyleth), *Hunter's Mark* (Vex'ahlia), *Fireball* (Taryon/Scanlan), *Cure Wounds* (Pike), *Hex* (Percy), *Conjure Woodland Beings* (Keyleth), *Fireball* (Taryon/Scanlan), *Cure Wounds* (Vex'ahlia), *Planar Ally* (Pike), *Gust* (Keyleth), *Hold Person* (Keyleth), *Detect Magic* (DM/Allura), *Scrying* (Keyleth). (14 spells)
+
+
+* **Episode 8:** *Scrying* (Pike), *Scrying* (Pike), *Scrying* (Keyleth), *Scrying* (Keyleth), *Transport via Plants* (Keyleth), *Pass Without a Trace* (Vex'ahlia), *Hold Person* (Taryon/Scanlan), *Heat Metal* (DM/Lizardfolk), *Counterspell* (Taryon/Scanlan), *Conjure Barrage* (Vex'ahlia), *Dominate Person* (Taryon/Scanlan), *Polymorph* (Keyleth), *Heat Metal* (DM/Lizardfolk), *Hunter's Mark* (Vex'ahlia), *Thunderwave* (Taryon/Scanlan), *Healing Word* (Taryon/Scanlan), *Fire Storm* (Keyleth), *Hunter's Mark* (Vex'ahlia), *Magic Missile* (Taryon/Scanlan), *Healing Word* (Taryon/Scanlan), *Gust* (Keyleth), *Cure Wounds* (Vex'ahlia), *Pass Without a Trace* (Vex'ahlia), *Minor Illusion* (Percy), *Transport via Plants* (Keyleth), *Transport via Plants* (Keyleth), *Minor Illusion* (Taryon/Scanlan). (27 spells)
+
+
+* **Episode 9:** *Wind Walk* (Keyleth), *Speak with Animals* (Zahra), *Light* (Zahra), *Polymorph* (Zahra), *Pass Without a Trace* (Vex'ahlia), *Control Water* (Keyleth), *Bigby's Hand* (Taryon/Scanlan), *Light* (Zahra), *Light* (Kashaw), *Pass Without a Trace* (Vex'ahlia), *Enhance Ability* (Keyleth), *Grasping Vine* (Keyleth), *Light* (Zahra), *Light* (Kashaw), *Lightning Arrow* (Vex'ahlia), *Flame Strike* (Kashaw), *Lightning Bolt* (Taryon/Scanlan), *Hex* (Percy), *Blight* (Keyleth), *Witch Bolt* (Zahra), *Blindness/Deafness* (Kashaw), *Eldritch Blast* (Zahra), *Flame Strike* (Kashaw), *Bigby's Hand* (Taryon/Scanlan), *Healing Word* (Keyleth), *Witch Bolt* (Zahra), *Revivify* (Kashaw), *Mage Hand* (Zahra), *Mage Hand* (Taryon/Scanlan), *Control Water* (Keyleth), *Transport via Plants* (Keyleth). (31 spells)
+
+
+* **Episode 10:** *Wall of Stone* (Keyleth), *Mordenkainen's Magnificent Mansion* (Taryon/Scanlan), *Druidcraft* (Keyleth), *Transport via Plants* (Keyleth), *Wind Walk* (Keyleth), *Pass Without a Trace* (Vex'ahlia), *Entangle* (Keyleth), *Druidcraft* (Keyleth). (8 spells)
+
+
+* **Episode 11:** *Greater Restoration* (Keyleth), *Revivify* (Pike), *Heal* (Pike), *Greater Restoration* (Pike), *Plane Shift* (Keyleth), *Greater Restoration* (Keyleth), *Speak with Dead* (Pike), *Pass Without a Trace* (Vex'ahlia), *Polymorph* (Keyleth), *Invisibility* (Taryon/Scanlan), *Thunderwave* (Taryon/Scanlan), *Dimension Door* (Taryon/Scanlan), *Dimension Door* (Taryon/Scanlan). (13 spells)
+
+
+* **Episode 12:** *Hold Person* (Taryon/Scanlan), *Hunter's Mark* (Vex'ahlia), *Hex* (Percy), *Spiritual Weapon* (Pike), *Hail of Thorns* (Vex'ahlia), *Fireball* (Taryon/Scanlan), *Healing Word* (Taryon/Scanlan), *Cure Wounds* (Pike), *Cure Wounds* (DM/Druid), *Counterspell* (Taryon/Scanlan), *Fireball* (Taryon/Scanlan), *Heal* (DM/Greenbeard), *Counterspell* (Taryon/Scanlan), *Fire Storm* (Keyleth), *Command* (Pike), *Blight* (DM/Druid), *Healing Word* (Taryon/Scanlan), *Bigby's Hand* (Taryon/Scanlan), *Raise Dead* (Pike), *Cure Wounds* (Keyleth). (20 spells)
+
+
+* **Episode 13:** *Dimension Door* (Taryon/Scanlan), *Thunderwave* (Taryon/Scanlan), *Stone Shape* (Keyleth), *Healing Word* (Keyleth), *Guiding Bolt* (Pike), *Healing Word* (Taryon/Scanlan), *Shield of Faith* (Pike), *Bigby's Hand* (Taryon/Scanlan), *Eyebite* (Taryon/Scanlan), *Healing Word* (Taryon/Scanlan), *Wall of Stone* (Keyleth), *Healing Word* (Keyleth), *Hunter's Mark* (Vex'ahlia), *Flame Strike* (Pike), *Dispel Magic* (Keyleth), *Mage Hand* (Taryon/Scanlan), *Skywrite* (Keyleth), *Polymorph* (Keyleth), *Dimension Door* (DM/Gilmore), *Fog Cloud* (Keyleth), *Dispel Magic* (DM/Allura), *Greater Restoration* (Keyleth), *Greater Restoration* (Pike), *Speak with Dead* (Pike), *Plane Shift* (Keyleth). (25 spells)
+
+
+* **Episode 14:** *Pass Without a Trace* (Vex'ahlia), *Polymorph* (Keyleth), *Mordenkainen's Magnificent Mansion* (Taryon/Scanlan), *Cure Wounds* (Vex'ahlia), *Cure Wounds* (Keyleth), *Commune with Nature* (Keyleth), *Speak with Plants* (Keyleth), *Hex* (Percy), *Counterspell* (Taryon/Scanlan), *Fireball* (Taryon/Scanlan), *Healing Word* (Taryon/Scanlan), *Tree Stride* (Keyleth), *Hunter's Mark* (Vex'ahlia), *Reverse Gravity* (DM/Sondur), *Counterspell* (Taryon/Scanlan), *Fireball* (Taryon/Scanlan), *Healing Word* (Taryon/Scanlan), *Blight* (DM/Sondur), *Hail of Thorns* (Vex'ahlia), *Blight* (DM/Sondur), *Healing Word* (Taryon/Scanlan), *Bigby's Hand* (Taryon/Scanlan), *Cure Wounds* (Vex'ahlia), *Commune with Nature* (Keyleth), *Cure Wounds* (Vex'ahlia), *Otiluke's Resilient Sphere* (Taryon/Scanlan), *Hold Person* (Keyleth), *Plane Shift* (Keyleth). (28 spells)
+
+
+* **Episode 15:** *Minor Illusion* (DM/Raishan), *Light* (Zahra), *Transport via Plants* (Keyleth), *Mordenkainen's Magnificent Mansion* (Taryon/Scanlan), *Scrying* (Keyleth), *Enhance Ability* (Keyleth), *Bless* (Vax'ildan), *Invisibility* (Taryon/Scanlan), *Invisibility* (Taryon/Scanlan), *Heroes' Feast* (Pike), *Scrying* (Keyleth), *Scrying* (DM/Allura), *Teleport* (DM/Allura), *Transport via Plants* (Keyleth), *Commune with Nature* (Keyleth), *Modify Memory* (Taryon/Scanlan), *Transport via Plants* (Keyleth), *Light* (Zahra), *Pass Without a Trace* (Vex'ahlia), *Seeming* (Taryon/Scanlan), *Invisibility* (DM/Gilmore), *Disguise Self* (Zahra), *Evard's Black Tentacles* (Zahra), *Control Weather* (Keyleth), *Flame Strike* (Kashaw), *Eldritch Blast* (Zahra). (26 spells)
+
+
+* **Episode 16:** *Skywrite* (Keyleth), *Raise Dead* (Pike), *Daylight* (Keyleth), *Shapechange* (Keyleth), *Control Winds* (Keyleth), *Gust* (Keyleth), *Bless* (Vax'ildan), *Bless* (Pike), *Enhance Ability* (Keyleth), *Beacon of Hope* (Pike). (10 spells)
+
+
+* **Episode 17:** *Shapechange* (Keyleth), *Identify* (Taryon), *Identify* (Taryon), *Detect Magic* (Taryon), *Alter Self* (Keyleth), *Scrying* (Keyleth), *Alter Self* (Keyleth), *Pass Without a Trace* (Vex'ahlia), *Invisibility* (Taryon), *Cure Wounds* (Vex'ahlia), *Hunter's Mark* (Vex'ahlia), *Haste* (Taryon), *Enhance Ability* (Keyleth), *Suggestion* (DM/Succubus), *Locate Creature* (Keyleth), *Enhance Ability* (Keyleth), *Heat Metal* (Keyleth), *Commune with Nature* (Lionel). (18 spells)
+
+
+* **Episode 18:** *Water Breathing* (Keyleth), *Modify Memory* (Taryon/Scanlan), *Speak with Animals* (Keyleth), *Control Water* (Keyleth), *Speak with Plants* (Keyleth), *Transport via Plants* (Keyleth), *Earthquake* (Pike), *Fire Storm* (Pike), *Wind Walk* (Keyleth), *Dimension Door* (Taryon/Scanlan). (10 spells)
+
+
+* **Episode 19:** *Speak with Plants* (Keyleth). (1 spell)
+
+
+* **Episode 20:** *Find the Path* (Keyleth), *Creation* (Taryon/Scanlan), *Dispel Magic* (Keyleth), *Disintegrate* (DM/Beholder), *Passwall* (Keyleth), *Silence* (Pike), *Hunter's Mark* (Vex'ahlia), *Flame Strike* (Pike), *Telekinesis* (Taryon/Scanlan), *Call Lightning* (Keyleth), *Counterspell* (DM/mage), *Finger of Death* (DM/Vecna), *Counterspell* (Taryon/Scanlan), *Hold Monster* (DM/Vecna), *Feeblemind* (Keyleth), *Lightning Bolt* (DM/Delilah), *Guiding Bolt* (Pike), *Finger of Death* (DM/Delilah), *Blight* (DM/Vecna), *Counterspell* (Taryon/Scanlan), *Counterspell* (DM/Vecna), *Dimension Door* (Taryon/Scanlan), *Teleport* (DM/Vecna), *Cure Wounds* (Vex'ahlia), *Cure Wounds* (Keyleth), *Greater Restoration* (Pike), *Planar Ally* (Pike), *Heal* (DM/Deva), *Word of Recall* (Pike), *True Resurrection* (Pike). (30 spells)
+
+
+* **Episode 21:** *Scrying* (Pike), *Heroes' Feast* (Pike), *Greater Invisibility* (Taryon/Scanlan), *Hold Monster* (DM/Vecna), *Mass Cure Wounds* (Pike), *Hex* (Percy), *Power Word Stun* (DM/Vecna), *Hold Person* (DM/Delilah), *Spiritual Weapon* (Pike), *Meteor Swarm* (DM/Vecna), *Bigby's Hand* (Taryon/Scanlan), *Healing Word* (Taryon/Scanlan), *Plane Shift* (DM/Vecna), *Disintegrate* (DM/Vecna), *Counterspell* (Taryon/Scanlan), *Heal* (Pike), *Healing Word* (Keyleth), *Finger of Death* (DM/Vecna), *Planar Ally* (Pike), *Reverse Gravity* (Keyleth), *Teleport* (DM/Vecna), *Bigby's Hand* (DM/Vecna), *Heal* (DM/Planetar), *Shapechange* (Keyleth), *Disintegrate* (DM/Vecna), *Mass Heal* (Pike), *Plane Shift* (Keyleth). (27 spells)
+
+
+* **Episode 22:** *Conjure Woodland Beings* (Keyleth), *Planar Ally* (Pike), *Bless* (Vax'ildan), *Mordenkainen's Magnificent Mansion* (Taryon/Scanlan), *Goodberry* (Keyleth), *Speak with Plants* (Keyleth), *Plane Shift* (Keyleth), *Guidance* (Keyleth), *Sending* (Taryon/Scanlan), *Sending* (Taryon/Scanlan), *Teleportation Circle* (DM/Berthold), *Transport via Plants* (Keyleth), *Heroism* (Taryon/Scanlan), *Heroism* (Taryon/Scanlan), *Pass Without a Trace* (Keyleth), *Plane Shift* (Keyleth). (16 spells)
+
+
+* **Episode 23:** *Transport via Plants* (Keyleth), *Seeming* (Taryon/Scanlan), *Beacon of Hope* (Pike), *Heroes' Feast* (Keyleth), *Wind Walk* (Keyleth), *Identify* (Taryon/Scanlan), *Light* (Pike), *Pass Without a Trace* (Vex'ahlia), *Control Weather* (Keyleth), *Commune with Nature* (Keyleth). (10 spells)
+
+
+* **Episode 24:** *Dispel Magic* (Taryon/Scanlan), *Freedom of Movement* (Keyleth), *Guiding Bolt* (Pike), *Bigby's Hand* (Taryon/Scanlan), *Hold Person* (DM/cultist), *Spiritual Weapon* (Pike), *Silence* (DM/cultist), *Guiding Bolt* (Pike), *Healing Word* (Taryon/Scanlan), *Dimension Door* (DM/cultist), *Counterspell* (Taryon/Scanlan), *Dispel Magic* (Keyleth), *Cure Wounds* (Vex'ahlia), *Dimension Door* (DM/cultist), *Sacred Flame* (Pike), *Healing Word* (Keyleth), *Cure Wounds* (Vex'ahlia), *Cure Wounds* (Vex'ahlia), *Locate Creature* (Keyleth). (19 spells)
+
+
+
+
+2. **Tiberius (Orion) Spells:**
+* Ep 1: *Prestidigitation*, *Stoneskin*, *Mage Hand*, *Control Flames* (4)
+
+
+* Ep 2: *Stoneskin*, *Prestidigitation*, *Mage Hand*, *Invisibility*, *Fly*, *Fly*, *Stoneskin*, *Greater Invisibility*, *Chain Lightning*, *Telekinesis*, *Telekinesis*, *Fireball*, *Fireball*, *Control Flames* (14)
+
+
+* Ep 4: *Fly*, *Teleportation Circle* (2)
+
+
+* Ep 5: *Fly*, *Prestidigitation*, *Stoneskin*, *Slow*, *Fly*, *Dispel Magic*, *Light*, *Dispel Magic*, *Fly* (9)
+
+
+* Ep 6: *Stoneskin*, *Telekinesis*, *Teleportation Circle* (3)
+
+
+* Ep 7-24: None (0)
+
+
+* **Total for Tiberius / Orion:** $4 + 14 + 2 + 9 + 3 = 32$ (Note: *Teleportation Circle* in Ep 6 was cast by Matt playing Tiberius when Orion was absent; Orion himself cast 29 spells, and Tiberius as a character cast 32).
+
+
+
+
+3. **Cantrips Cast Across All Episodes:**
+* Ep 1: *Prestidigitation*, *Guidance*, *Mage Hand*, *Control Flames* (4)
+
+
+* Ep 2: *Prestidigitation*, *Mage Hand*, *Control Flames* (3)
+
+
+* Ep 3: *Light*, *Fire Bolt*, *Fire Bolt*, *Mage Hand*, *Fire Bolt* (5)
+
+
+* Ep 5: *Minor Illusion*, *Prestidigitation*, *Light* (3)
+
+
+* Ep 6: *Druidcraft* (1)
+
+
+* Ep 7: *Gust* (1)
+
+
+* Ep 8: *Gust*, *Minor Illusion*, *Minor Illusion* (3)
+
+
+* Ep 9: *Light*, *Light*, *Light*, *Eldritch Blast*, *Mage Hand*, *Mage Hand* (6)
+
+
+* Ep 10: *Druidcraft* (1)
+
+
+* Ep 16: *Gust* (1)
+
+
+* Ep 19: *Thaumaturgy*, *Eldritch Blast* (2)
+
+
+* Ep 22: *Guidance* (1)
+
+
+* Ep 23: *Light* (1)
+
+
+* Ep 24: *Sacred Flame* (1)
+
+
+* **Total Cantrips:** 33
+
+
+
+
+4. **Cure Wounds Cast Across All Episodes:**
+* Ep 2 (2), Ep 5 (3), Ep 6 (1), Ep 7 (1), Ep 8 (1), Ep 11 (1), Ep 12 (3), Ep 13 (1), Ep 14 (2), Ep 17 (1), Ep 20 (2), Ep 24 (3) = **21** (or 22 including *Mass Cure Wounds* in Ep 1, 7, 21).
+
+
+
+
+5. **Roll Statistics:**
+* **Total Rolls by Episode:**
+* Ep 1: 52
+
+
+* Ep 2: 75 (Cumulative: 127)
+
+
+* Ep 3: 89 (Cumulative: 216)
+
+
+* Ep 4: 58 (Cumulative: 274)
+
+
+* Ep 5: 32 (Cumulative: 306)
+
+
+
+
+* **Vex'ahlia Rolls:** Cumulative at end of Ep 18 is **213**; total across all 24 episodes is **266**.
+
+
+* **Doty Rolls:** Cumulative at end of Ep 24 is **2**.
+
+
+* **Strength Rolls:** Total across all episodes is **53**.
+
+
+* **Least Common Roll Type (>1):** **Intelligence** (or **Arcana**, **Medicine**, **History** depending on sub-classification, with **Religion** and **Nature** having 8-10 rolls).
+
+
+
+
+
+---
+
+Q01: \boxed{Water Breathing}
+Q02: \boxed{32}
+Q03: \boxed{Mage Hand}
+Q04: \boxed{213}
+Q05: \boxed{1}
+Q06: \boxed{Pass Without a Trace, Stoneskin, Hunter's Mark, Goodberry, Zone of Truth, Hunter's Mark, Mass Cure Wounds, Scrying, Wind Walk, Wall of Stone, Greater Restoration, Hold Person, Dimension Door, Pass Without a Trace, Minor Illusion, Skywrite, Shapechange, Water Breathing, Speak with Plants, Find the Path, Scrying, Conjure Woodland Beings, Transport via Plants, Dispel Magic}
+Q07: \boxed{None, None, None, None, None, None, Hex, Minor Illusion, Hex, None, None, Hex, None, Hex, None, None, None, None, None, None, Hex, None, None, None}
+Q08: \boxed{2}
+Q09: \boxed{Zone of Truth}
+Q10: \boxed{Medicine}
+Q11: \boxed{21}
+Q12: \boxed{266}
+Q13: \boxed{53}
+Q14: \boxed{274}
+Q15: \boxed{33}
+Q16: \boxed{29}
+Q17: \boxed{Goodberry}
+Q18: \boxed{Control Flames, Control Flames, None, Teleportation Circle, Fly, Telekinesis, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None}
+Q19: \boxed{417}
+Q20: \boxed{306}

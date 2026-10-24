@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "The step 13 query is quoted exactly as the agent ran it.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "The chain from the step 9 error through the step 13 probe to the step 18 column list matches the trajectory.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "Removing the column avoids the compile error, with some risk that the COALESCE reference would also need removing.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "The counts 10, 210 and 223 and the scalar-subquery method match step 22.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "The listed preconditions are consistent with steps 9, 12 and 18.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "The UNION ALL conditions match the step 24 query.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "This is a reasonable justification based on steps 9 to 13.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "Step 18 is the first place the influenced-open view is shown to lack the column.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "Step 24 is where the agent returned from joins to UNION ALL and succeeded, though step 20 had tried a UNION earlier.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "The timeout evidence in steps 19, 20 and 23 against the success at step 24 supports the inference.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "wrong",
+  "reason": "The file read counts are off: DDL.csv was read at steps 3 and 12 (step 2 was only an ls), SEND_VIEW.json at steps 4, 8, 10 and 11, and INFLUENCEDOPEN_VIEW.json at steps 7, 17 and 18.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "The failures and the working sequence broadly match the trajectory.",
+  "evidence": "whole trajectory"
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "Step 8 matches the reference: LEFT JOINs on the four keys, grouped by match, over, innings and bowler, with LIMIT 10.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "The chain of timeouts at 11–13, fast single-table queries at 14–15, the step 24 duplication check and the step 25 fix matches the trajectory.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "Adding `ball_id` at step 24 would cut the duplication, and the reasoning about timeouts is plausible.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "The `max_overs` fields and how it is built from `over_runs` and `max_runs_per_match` match step 10, including the sample row.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "The preconditions on keys, granularity and bowler consistency are reasonable and consistent with the queries.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "Pre-aggregating, keeping `ball_id` in the joins and testing on one match is what the agent did next.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "The design (reuse step 25, filter to match-max overs, then attach bowlers) is sound apart from a small typo.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "The checks listed (one distinct bowler per over, innings included in the key) are valid.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "Step 25 is the last fundamental change, to ball-level aggregation driven by `BATSMAN_SCORED`.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "The 30-second read timeout appears at steps 11, 12, 13, 16, 18, 19, 21, 22 and 26.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "wrong",
+  "reason": "The `BALL_BY_BALL` count is wrong. It is referenced at steps 8–13, 16, 18 and 21–24 and 26, which is 13 times, not 10, and step 18 is missing from the reference list. The SQL (19 total, 10 succeeded, 9 timed out) and bash (6) counts are correct.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "The cause (heavy joins on `BALL_BY_BALL`) and the minimal path 5→6→25 are consistent with the trajectory.",
+  "evidence": "whole trajectory"
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "Steps 18–22 are west, east, east, west, east.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "Net displacement is zero; the agent is at (27,11) at both the end of Step 7 and the end of Step 11.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "Moving west again from x=28 to x=27 would plausibly give \"lava near\", matching the reference.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "Step 44 reads \"very near\" and Step 45 reads \"near\"; calling \"very near\" adjacent is a minor slip.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "The lava description changes from \"near east\" at step 19 to \"very near\" at step 20, as the reference says.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "wrong",
+  "reason": "North and south were not blocked (the agent moves south from (28,11) at Step 66), and moving east led safely to x=29 at Step 33, not into lava.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "wrong",
+  "reason": "The confusion explanation is invented; the observations show deliberate west actions and no such status.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "The repeated east and west moves at x=27/28 match the lava message change; \"directly adjacent\" is a slight overstatement.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "The sequence (west, north, south, east) does return the agent to (28,11), and the interpretation is reasonable.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "The east, west, east sequence and the \"lava very near\" cue match the observations.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "The change from \"lava near east\" at Step 7 to \"very near\" at Step 8 is correct.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "wrong",
+  "reason": "At step 20 the agent did move east, from x=27 to x=28, so the question's premise is false.",
+  "evidence": "whole trajectory"
+ }
+}

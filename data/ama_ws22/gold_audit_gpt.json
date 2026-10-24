@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "Same Python code, with semicolons replacing newlines and the repository-directory prefix omitted.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ambiguous",
+  "reason": "Step 6 lists the file; Steps 7–9 more directly identify its role.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "Execution failed because symbols was undefined before the symbolic Kumaraswamy test ran.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ambiguous",
+  "reason": "The trajectory establishes no required precondition; Step 23 inspected support, and implementation occurred at Step 29.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "Step 93 adds symbols to the import and reruns successfully.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "wrong",
+  "reason": "The last source modification was Step 76; Step 88 executed a validation command.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "wrong",
+  "reason": "The agent made separate, incremental modifications for individual distributions.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ambiguous",
+  "reason": "That exact symbolic test was not run before the fix, so its outcome is not established.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "wrong",
+  "reason": "Step 89 checked Kumaraswamy endpoints and Laplace and Logistic location values.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "Step 93 returned -(1 - 2**(-a))**b + 1.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "wrong",
+  "reason": "Precomputed _cdf methods were the approach, but Erlang reused GammaDistribution and received no separate method.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "wrong",
+  "reason": "UniformSum still timed out, Erlang still returned a Float, and comprehensive verification failed.",
+  "evidence": "whole trajectory"
+ }
+}

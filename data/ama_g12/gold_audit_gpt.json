@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ambiguous",
+  "reason": "The trajectory does not establish whether the file already existed or whether an unsuccessful save could leave a readable file.",
+  "evidence": "steps [20, 21, 22, 23, 24, 85, 86]"
+ },
+ "Q0001": {
+  "label": "ambiguous",
+  "reason": "Step 14 uses r.jina.ai, but the shown steps do not establish the initial rendering issue or whether this was the first bypass.",
+  "evidence": "steps [13, 14, 15, 85, 86]"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "Step 15 explicitly records 180,693 views for the video.",
+  "evidence": "steps [14, 15, 16, 85, 86]"
+ },
+ "Q0003": {
+  "label": "ambiguous",
+  "reason": "Step 22 includes step_index and step_status, but no tool schema is shown to establish that they are mandatory.",
+  "evidence": "steps [21, 22, 23, 85, 86]"
+ },
+ "Q0004": {
+  "label": "ambiguous",
+  "reason": "The observation suggests logging in or using a developer token, but does not establish what would make this specific proxy call succeed.",
+  "evidence": "steps [50, 85, 86]"
+ },
+ "Q0005": {
+  "label": "ambiguous",
+  "reason": "The shown steps do not include Turn 1’s “Work performed” explanation or the file_read verification.",
+  "evidence": "steps [0, 1, 2, 85, 86]"
+ },
+ "Q0006": {
+  "label": "wrong",
+  "reason": "Step 36 itself updates step_notes in a mark_step action, after Step 22.",
+  "evidence": "steps [21, 22, 23, 35, 36, 37, 85, 86]"
+ },
+ "Q0007": {
+  "label": "wrong",
+  "reason": "At Step 23, the exact Cheater CFM value still needed extraction; 101.376 is recorded only in later shown steps.",
+  "evidence": "steps [22, 23, 24, 85, 86]"
+ },
+ "Q0008": {
+  "label": "wrong",
+  "reason": "Turn 10 also returned the YouTube video titled “DOES SIZE MATTER? | Fan Showdown S4E6,” making it the last qualifying turn.",
+  "evidence": "steps [0, 1, 2, 8, 9, 10, 11, 85, 86]"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "Step 22 explicitly identifies the S4E6 Results segment at approximately 7:35.",
+  "evidence": "steps [21, 22, 23, 85, 86]"
+ },
+ "Q0010": {
+  "label": "ambiguous",
+  "reason": "Steps 6–8 are absent, and the shown fetches do not establish dynamic rendering as the cause; Step 14 does show adaptation to Jina AI.",
+  "evidence": "steps [3, 4, 5, 13, 14, 15, 85, 86]"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "Step 27 shows a Hugging Face dataset snippet containing the solution and explicitly listing Cheater: 101.376 and Cheater Beater: 84.348.",
+  "evidence": "steps [26, 27, 28, 85, 86]"
+ }
+}

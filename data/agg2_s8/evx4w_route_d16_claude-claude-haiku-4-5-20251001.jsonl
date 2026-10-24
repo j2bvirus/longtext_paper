@@ -1,0 +1,468 @@
+{"qid": "H0002", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1484, "out": 56, "usd": 0.001764, "cached": false}
+{"qid": "H0003", "types": ["death"], "filter": ["Corrford"], "in": 1439, "out": 14, "usd": 0.001509, "cached": false}
+{"qid": "H0000", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1476, "out": 56, "usd": 0.0017560000000000002, "cached": false}
+{"qid": "H0001", "types": ["birth"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1480, "out": 56, "usd": 0.0017599999999999998, "cached": false}
+{"qid": "H0004", "types": ["death"], "filter": ["Prydenridge"], "in": 1436, "out": 16, "usd": 0.001516, "cached": false}
+{"qid": "H0005", "types": ["death"], "filter": ["Stenenridge"], "in": 1437, "out": 15, "usd": 0.0015119999999999999, "cached": false}
+{"qid": "H0006", "types": ["death"], "filter": ["Corrley"], "in": 1436, "out": 14, "usd": 0.001506, "cached": false}
+{"qid": "H0007", "types": ["death"], "filter": ["Haskick"], "in": 1436, "out": 15, "usd": 0.001511, "cached": false}
+{"qid": "H0008", "types": ["death"], "filter": ["Stenworth"], "in": 1436, "out": 14, "usd": 0.001506, "cached": false}
+{"qid": "H0009", "types": ["birth"], "filter": ["Prydenridge"], "in": 1438, "out": 16, "usd": 0.001518, "cached": false}
+{"qid": "H0011", "types": ["birth"], "filter": ["Brackick"], "in": 1438, "out": 14, "usd": 0.001508, "cached": false}
+{"qid": "H0010", "types": ["birth"], "filter": ["Corrford"], "in": 1434, "out": 14, "usd": 0.001504, "cached": false}
+{"qid": "H0012", "types": ["birth"], "filter": ["Stenenridge"], "in": 1436, "out": 15, "usd": 0.001511, "cached": false}
+{"qid": "H0014", "types": ["birth"], "filter": ["Corrley"], "in": 1441, "out": 14, "usd": 0.001511, "cached": false}
+{"qid": "H0015", "types": ["marriage"], "filter": ["Haskick"], "in": 1443, "out": 15, "usd": 0.001518, "cached": false}
+{"qid": "H0013", "types": ["birth"], "filter": ["Stenson"], "in": 1437, "out": 14, "usd": 0.0015069999999999999, "cached": false}
+{"qid": "H0016", "types": ["marriage"], "filter": ["Lindmere"], "in": 1444, "out": 15, "usd": 0.001519, "cached": false}
+{"qid": "H0017", "types": ["marriage"], "filter": ["Corrley"], "in": 1441, "out": 14, "usd": 0.001511, "cached": false}
+{"qid": "H0018", "types": ["marriage"], "filter": ["Brackick"], "in": 1443, "out": 14, "usd": 0.001513, "cached": false}
+{"qid": "H0019", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1476, "out": 56, "usd": 0.0017560000000000002, "cached": false}
+{"qid": "H0020", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1475, "out": 56, "usd": 0.001755, "cached": false}
+{"qid": "H0021", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1477, "out": 56, "usd": 0.0017569999999999999, "cached": false}
+{"qid": "H0022", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1477, "out": 56, "usd": 0.0017569999999999999, "cached": false}
+{"qid": "H0023", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1489, "out": 56, "usd": 0.0017690000000000002, "cached": false}
+{"qid": "H0024", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1486, "out": 56, "usd": 0.0017659999999999998, "cached": false}
+{"qid": "H0025", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1489, "out": 56, "usd": 0.0017690000000000002, "cached": false}
+{"qid": "H0026", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1482, "out": 56, "usd": 0.0017620000000000001, "cached": false}
+{"qid": "H0027", "types": ["death", "burial"], "filter": ["Dunstead"], "in": 1427, "out": 16, "usd": 0.001507, "cached": false}
+{"qid": "H0028", "types": ["death", "burial"], "filter": ["Kelmere"], "in": 1427, "out": 17, "usd": 0.001512, "cached": false}
+{"qid": "H0029", "types": ["death", "burial"], "filter": ["Torton"], "in": 1422, "out": 16, "usd": 0.001502, "cached": false}
+{"qid": "H0030", "types": ["death", "burial"], "filter": ["Dungate"], "in": 1426, "out": 19, "usd": 0.001521, "cached": false}
+{"qid": "H0031", "types": ["death", "burial"], "filter": ["Quenford"], "in": 1426, "out": 17, "usd": 0.001511, "cached": false}
+{"qid": "H0032", "types": ["death", "burial"], "filter": ["Gulhaven"], "in": 1426, "out": 17, "usd": 0.001511, "cached": false}
+{"qid": "H0033", "types": ["birth"], "filter": ["Ostcombe"], "in": 1422, "out": 15, "usd": 0.001497, "cached": false}
+{"qid": "H0034", "types": ["birth"], "filter": ["Dunstead"], "in": 1423, "out": 14, "usd": 0.001493, "cached": false}
+{"qid": "H0035", "types": ["birth"], "filter": ["Torton"], "in": 1419, "out": 14, "usd": 0.0014889999999999999, "cached": false}
+{"qid": "H0036", "types": ["birth"], "filter": ["Ravenmere"], "in": 1421, "out": 15, "usd": 0.001496, "cached": false}
+{"qid": "H0037", "types": ["birth"], "filter": ["Wilwick"], "in": 1423, "out": 17, "usd": 0.001508, "cached": false}
+{"qid": "H0038", "types": ["birth"], "filter": ["Quenford"], "in": 1428, "out": 15, "usd": 0.001503, "cached": false}
+{"qid": "H0000", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1476, "out": 56, "usd": 0.0017560000000000002, "cached": true}
+{"qid": "H0001", "types": ["birth"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1480, "out": 56, "usd": 0.0017599999999999998, "cached": true}
+{"qid": "H0002", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1484, "out": 56, "usd": 0.001764, "cached": true}
+{"qid": "H0003", "types": ["death"], "filter": ["Corrford"], "in": 1439, "out": 14, "usd": 0.001509, "cached": true}
+{"qid": "H0004", "types": ["death"], "filter": ["Prydenridge"], "in": 1436, "out": 16, "usd": 0.001516, "cached": true}
+{"qid": "H0005", "types": ["death"], "filter": ["Stenenridge"], "in": 1437, "out": 15, "usd": 0.0015119999999999999, "cached": true}
+{"qid": "H0006", "types": ["death"], "filter": ["Corrley"], "in": 1436, "out": 14, "usd": 0.001506, "cached": true}
+{"qid": "H0007", "types": ["death"], "filter": ["Haskick"], "in": 1436, "out": 15, "usd": 0.001511, "cached": true}
+{"qid": "H0008", "types": ["death"], "filter": ["Stenworth"], "in": 1436, "out": 14, "usd": 0.001506, "cached": true}
+{"qid": "H0009", "types": ["birth"], "filter": ["Prydenridge"], "in": 1438, "out": 16, "usd": 0.001518, "cached": true}
+{"qid": "H0010", "types": ["birth"], "filter": ["Corrford"], "in": 1434, "out": 14, "usd": 0.001504, "cached": true}
+{"qid": "H0011", "types": ["birth"], "filter": ["Brackick"], "in": 1438, "out": 14, "usd": 0.001508, "cached": true}
+{"qid": "H0012", "types": ["birth"], "filter": ["Stenenridge"], "in": 1436, "out": 15, "usd": 0.001511, "cached": true}
+{"qid": "H0013", "types": ["birth"], "filter": ["Stenson"], "in": 1437, "out": 14, "usd": 0.0015069999999999999, "cached": true}
+{"qid": "H0014", "types": ["birth"], "filter": ["Corrley"], "in": 1441, "out": 14, "usd": 0.001511, "cached": true}
+{"qid": "H0015", "types": ["marriage"], "filter": ["Haskick"], "in": 1443, "out": 15, "usd": 0.001518, "cached": true}
+{"qid": "H0016", "types": ["marriage"], "filter": ["Lindmere"], "in": 1444, "out": 15, "usd": 0.001519, "cached": true}
+{"qid": "H0017", "types": ["marriage"], "filter": ["Corrley"], "in": 1441, "out": 14, "usd": 0.001511, "cached": true}
+{"qid": "H0018", "types": ["marriage"], "filter": ["Brackick"], "in": 1443, "out": 14, "usd": 0.001513, "cached": true}
+{"qid": "H0019", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1476, "out": 56, "usd": 0.0017560000000000002, "cached": true}
+{"qid": "H0020", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1475, "out": 56, "usd": 0.001755, "cached": true}
+{"qid": "H0021", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1477, "out": 56, "usd": 0.0017569999999999999, "cached": true}
+{"qid": "H0022", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1477, "out": 56, "usd": 0.0017569999999999999, "cached": true}
+{"qid": "H0023", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1489, "out": 56, "usd": 0.0017690000000000002, "cached": true}
+{"qid": "H0024", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1486, "out": 56, "usd": 0.0017659999999999998, "cached": true}
+{"qid": "H0025", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1489, "out": 56, "usd": 0.0017690000000000002, "cached": true}
+{"qid": "H0026", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1482, "out": 56, "usd": 0.0017620000000000001, "cached": true}
+{"qid": "H0027", "types": ["death", "burial"], "filter": ["Dunstead"], "in": 1427, "out": 16, "usd": 0.001507, "cached": true}
+{"qid": "H0028", "types": ["death", "burial"], "filter": ["Kelmere"], "in": 1427, "out": 17, "usd": 0.001512, "cached": true}
+{"qid": "H0029", "types": ["death", "burial"], "filter": ["Torton"], "in": 1422, "out": 16, "usd": 0.001502, "cached": true}
+{"qid": "H0030", "types": ["death", "burial"], "filter": ["Dungate"], "in": 1426, "out": 19, "usd": 0.001521, "cached": true}
+{"qid": "H0031", "types": ["death", "burial"], "filter": ["Quenford"], "in": 1426, "out": 17, "usd": 0.001511, "cached": true}
+{"qid": "H0032", "types": ["death", "burial"], "filter": ["Gulhaven"], "in": 1426, "out": 17, "usd": 0.001511, "cached": true}
+{"qid": "H0033", "types": ["birth"], "filter": ["Ostcombe"], "in": 1422, "out": 15, "usd": 0.001497, "cached": true}
+{"qid": "H0034", "types": ["birth"], "filter": ["Dunstead"], "in": 1423, "out": 14, "usd": 0.001493, "cached": true}
+{"qid": "H0035", "types": ["birth"], "filter": ["Torton"], "in": 1419, "out": 14, "usd": 0.0014889999999999999, "cached": true}
+{"qid": "H0036", "types": ["birth"], "filter": ["Ravenmere"], "in": 1421, "out": 15, "usd": 0.001496, "cached": true}
+{"qid": "H0037", "types": ["birth"], "filter": ["Wilwick"], "in": 1423, "out": 17, "usd": 0.001508, "cached": true}
+{"qid": "H0038", "types": ["birth"], "filter": ["Quenford"], "in": 1428, "out": 15, "usd": 0.001503, "cached": true}
+{"qid": "H0000", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1476, "out": 56, "usd": 0.0017560000000000002, "cached": true}
+{"qid": "H0001", "types": ["birth"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1480, "out": 56, "usd": 0.0017599999999999998, "cached": true}
+{"qid": "H0003", "types": ["death"], "filter": ["Corrford"], "in": 1439, "out": 14, "usd": 0.001509, "cached": true}
+{"qid": "H0002", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1484, "out": 56, "usd": 0.001764, "cached": true}
+{"qid": "H0004", "types": ["death"], "filter": ["Prydenridge"], "in": 1436, "out": 16, "usd": 0.001516, "cached": true}
+{"qid": "H0005", "types": ["death"], "filter": ["Stenenridge"], "in": 1437, "out": 15, "usd": 0.0015119999999999999, "cached": true}
+{"qid": "H0006", "types": ["death"], "filter": ["Corrley"], "in": 1436, "out": 14, "usd": 0.001506, "cached": true}
+{"qid": "H0007", "types": ["death"], "filter": ["Haskick"], "in": 1436, "out": 15, "usd": 0.001511, "cached": true}
+{"qid": "H0008", "types": ["death"], "filter": ["Stenworth"], "in": 1436, "out": 14, "usd": 0.001506, "cached": true}
+{"qid": "H0009", "types": ["birth"], "filter": ["Prydenridge"], "in": 1438, "out": 16, "usd": 0.001518, "cached": true}
+{"qid": "H0010", "types": ["birth"], "filter": ["Corrford"], "in": 1434, "out": 14, "usd": 0.001504, "cached": true}
+{"qid": "H0011", "types": ["birth"], "filter": ["Brackick"], "in": 1438, "out": 14, "usd": 0.001508, "cached": true}
+{"qid": "H0012", "types": ["birth"], "filter": ["Stenenridge"], "in": 1436, "out": 15, "usd": 0.001511, "cached": true}
+{"qid": "H0013", "types": ["birth"], "filter": ["Stenson"], "in": 1437, "out": 14, "usd": 0.0015069999999999999, "cached": true}
+{"qid": "H0014", "types": ["birth"], "filter": ["Corrley"], "in": 1441, "out": 14, "usd": 0.001511, "cached": true}
+{"qid": "H0015", "types": ["marriage"], "filter": ["Haskick"], "in": 1443, "out": 15, "usd": 0.001518, "cached": true}
+{"qid": "H0016", "types": ["marriage"], "filter": ["Lindmere"], "in": 1444, "out": 15, "usd": 0.001519, "cached": true}
+{"qid": "H0017", "types": ["marriage"], "filter": ["Corrley"], "in": 1441, "out": 14, "usd": 0.001511, "cached": true}
+{"qid": "H0018", "types": ["marriage"], "filter": ["Brackick"], "in": 1443, "out": 14, "usd": 0.001513, "cached": true}
+{"qid": "H0019", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1476, "out": 56, "usd": 0.0017560000000000002, "cached": true}
+{"qid": "H0020", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1475, "out": 56, "usd": 0.001755, "cached": true}
+{"qid": "H0021", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1477, "out": 56, "usd": 0.0017569999999999999, "cached": true}
+{"qid": "H0022", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1477, "out": 56, "usd": 0.0017569999999999999, "cached": true}
+{"qid": "H0023", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1489, "out": 56, "usd": 0.0017690000000000002, "cached": true}
+{"qid": "H0024", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1486, "out": 56, "usd": 0.0017659999999999998, "cached": true}
+{"qid": "H0025", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1489, "out": 56, "usd": 0.0017690000000000002, "cached": true}
+{"qid": "H0026", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1482, "out": 56, "usd": 0.0017620000000000001, "cached": true}
+{"qid": "H0027", "types": ["death", "burial"], "filter": ["Dunstead"], "in": 1427, "out": 16, "usd": 0.001507, "cached": true}
+{"qid": "H0028", "types": ["death", "burial"], "filter": ["Kelmere"], "in": 1427, "out": 17, "usd": 0.001512, "cached": true}
+{"qid": "H0029", "types": ["death", "burial"], "filter": ["Torton"], "in": 1422, "out": 16, "usd": 0.001502, "cached": true}
+{"qid": "H0030", "types": ["death", "burial"], "filter": ["Dungate"], "in": 1426, "out": 19, "usd": 0.001521, "cached": true}
+{"qid": "H0031", "types": ["death", "burial"], "filter": ["Quenford"], "in": 1426, "out": 17, "usd": 0.001511, "cached": true}
+{"qid": "H0032", "types": ["death", "burial"], "filter": ["Gulhaven"], "in": 1426, "out": 17, "usd": 0.001511, "cached": true}
+{"qid": "H0033", "types": ["birth"], "filter": ["Ostcombe"], "in": 1422, "out": 15, "usd": 0.001497, "cached": true}
+{"qid": "H0034", "types": ["birth"], "filter": ["Dunstead"], "in": 1423, "out": 14, "usd": 0.001493, "cached": true}
+{"qid": "H0035", "types": ["birth"], "filter": ["Torton"], "in": 1419, "out": 14, "usd": 0.0014889999999999999, "cached": true}
+{"qid": "H0036", "types": ["birth"], "filter": ["Ravenmere"], "in": 1421, "out": 15, "usd": 0.001496, "cached": true}
+{"qid": "H0037", "types": ["birth"], "filter": ["Wilwick"], "in": 1423, "out": 17, "usd": 0.001508, "cached": true}
+{"qid": "H0038", "types": ["birth"], "filter": ["Quenford"], "in": 1428, "out": 15, "usd": 0.001503, "cached": true}
+{"qid": "H0000", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1476, "out": 56, "usd": 0.0017560000000000002, "cached": true}
+{"qid": "H0001", "types": ["birth"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1480, "out": 56, "usd": 0.0017599999999999998, "cached": true}
+{"qid": "H0002", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1484, "out": 56, "usd": 0.001764, "cached": true}
+{"qid": "H0003", "types": ["death"], "filter": ["Corrford"], "in": 1439, "out": 14, "usd": 0.001509, "cached": true}
+{"qid": "H0004", "types": ["death"], "filter": ["Prydenridge"], "in": 1436, "out": 16, "usd": 0.001516, "cached": true}
+{"qid": "H0005", "types": ["death"], "filter": ["Stenenridge"], "in": 1437, "out": 15, "usd": 0.0015119999999999999, "cached": true}
+{"qid": "H0006", "types": ["death"], "filter": ["Corrley"], "in": 1436, "out": 14, "usd": 0.001506, "cached": true}
+{"qid": "H0007", "types": ["death"], "filter": ["Haskick"], "in": 1436, "out": 15, "usd": 0.001511, "cached": true}
+{"qid": "H0008", "types": ["death"], "filter": ["Stenworth"], "in": 1436, "out": 14, "usd": 0.001506, "cached": true}
+{"qid": "H0009", "types": ["birth"], "filter": ["Prydenridge"], "in": 1438, "out": 16, "usd": 0.001518, "cached": true}
+{"qid": "H0010", "types": ["birth"], "filter": ["Corrford"], "in": 1434, "out": 14, "usd": 0.001504, "cached": true}
+{"qid": "H0011", "types": ["birth"], "filter": ["Brackick"], "in": 1438, "out": 14, "usd": 0.001508, "cached": true}
+{"qid": "H0012", "types": ["birth"], "filter": ["Stenenridge"], "in": 1436, "out": 15, "usd": 0.001511, "cached": true}
+{"qid": "H0013", "types": ["birth"], "filter": ["Stenson"], "in": 1437, "out": 14, "usd": 0.0015069999999999999, "cached": true}
+{"qid": "H0014", "types": ["birth"], "filter": ["Corrley"], "in": 1441, "out": 14, "usd": 0.001511, "cached": true}
+{"qid": "H0015", "types": ["marriage"], "filter": ["Haskick"], "in": 1443, "out": 15, "usd": 0.001518, "cached": true}
+{"qid": "H0016", "types": ["marriage"], "filter": ["Lindmere"], "in": 1444, "out": 15, "usd": 0.001519, "cached": true}
+{"qid": "H0017", "types": ["marriage"], "filter": ["Corrley"], "in": 1441, "out": 14, "usd": 0.001511, "cached": true}
+{"qid": "H0018", "types": ["marriage"], "filter": ["Brackick"], "in": 1443, "out": 14, "usd": 0.001513, "cached": true}
+{"qid": "H0019", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1476, "out": 56, "usd": 0.0017560000000000002, "cached": true}
+{"qid": "H0020", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1475, "out": 56, "usd": 0.001755, "cached": true}
+{"qid": "H0021", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1477, "out": 56, "usd": 0.0017569999999999999, "cached": true}
+{"qid": "H0022", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1477, "out": 56, "usd": 0.0017569999999999999, "cached": true}
+{"qid": "H0023", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1489, "out": 56, "usd": 0.0017690000000000002, "cached": true}
+{"qid": "H0024", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1486, "out": 56, "usd": 0.0017659999999999998, "cached": true}
+{"qid": "H0025", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1489, "out": 56, "usd": 0.0017690000000000002, "cached": true}
+{"qid": "H0026", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1482, "out": 56, "usd": 0.0017620000000000001, "cached": true}
+{"qid": "H0027", "types": ["death", "burial"], "filter": ["Dunstead"], "in": 1427, "out": 16, "usd": 0.001507, "cached": true}
+{"qid": "H0028", "types": ["death", "burial"], "filter": ["Kelmere"], "in": 1427, "out": 17, "usd": 0.001512, "cached": true}
+{"qid": "H0029", "types": ["death", "burial"], "filter": ["Torton"], "in": 1422, "out": 16, "usd": 0.001502, "cached": true}
+{"qid": "H0030", "types": ["death", "burial"], "filter": ["Dungate"], "in": 1426, "out": 19, "usd": 0.001521, "cached": true}
+{"qid": "H0031", "types": ["death", "burial"], "filter": ["Quenford"], "in": 1426, "out": 17, "usd": 0.001511, "cached": true}
+{"qid": "H0032", "types": ["death", "burial"], "filter": ["Gulhaven"], "in": 1426, "out": 17, "usd": 0.001511, "cached": true}
+{"qid": "H0033", "types": ["birth"], "filter": ["Ostcombe"], "in": 1422, "out": 15, "usd": 0.001497, "cached": true}
+{"qid": "H0034", "types": ["birth"], "filter": ["Dunstead"], "in": 1423, "out": 14, "usd": 0.001493, "cached": true}
+{"qid": "H0035", "types": ["birth"], "filter": ["Torton"], "in": 1419, "out": 14, "usd": 0.0014889999999999999, "cached": true}
+{"qid": "H0036", "types": ["birth"], "filter": ["Ravenmere"], "in": 1421, "out": 15, "usd": 0.001496, "cached": true}
+{"qid": "H0037", "types": ["birth"], "filter": ["Wilwick"], "in": 1423, "out": 17, "usd": 0.001508, "cached": true}
+{"qid": "H0038", "types": ["birth"], "filter": ["Quenford"], "in": 1428, "out": 15, "usd": 0.001503, "cached": true}
+{"qid": "H0000", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1476, "out": 56, "usd": 0.0017560000000000002, "cached": true}
+{"qid": "H0001", "types": ["birth"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1480, "out": 56, "usd": 0.0017599999999999998, "cached": true}
+{"qid": "H0002", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1484, "out": 56, "usd": 0.001764, "cached": true}
+{"qid": "H0003", "types": ["death"], "filter": ["Corrford"], "in": 1439, "out": 14, "usd": 0.001509, "cached": true}
+{"qid": "H0004", "types": ["death"], "filter": ["Prydenridge"], "in": 1436, "out": 16, "usd": 0.001516, "cached": true}
+{"qid": "H0005", "types": ["death"], "filter": ["Stenenridge"], "in": 1437, "out": 15, "usd": 0.0015119999999999999, "cached": true}
+{"qid": "H0006", "types": ["death"], "filter": ["Corrley"], "in": 1436, "out": 14, "usd": 0.001506, "cached": true}
+{"qid": "H0007", "types": ["death"], "filter": ["Haskick"], "in": 1436, "out": 15, "usd": 0.001511, "cached": true}
+{"qid": "H0008", "types": ["death"], "filter": ["Stenworth"], "in": 1436, "out": 14, "usd": 0.001506, "cached": true}
+{"qid": "H0009", "types": ["birth"], "filter": ["Prydenridge"], "in": 1438, "out": 16, "usd": 0.001518, "cached": true}
+{"qid": "H0010", "types": ["birth"], "filter": ["Corrford"], "in": 1434, "out": 14, "usd": 0.001504, "cached": true}
+{"qid": "H0011", "types": ["birth"], "filter": ["Brackick"], "in": 1438, "out": 14, "usd": 0.001508, "cached": true}
+{"qid": "H0012", "types": ["birth"], "filter": ["Stenenridge"], "in": 1436, "out": 15, "usd": 0.001511, "cached": true}
+{"qid": "H0013", "types": ["birth"], "filter": ["Stenson"], "in": 1437, "out": 14, "usd": 0.0015069999999999999, "cached": true}
+{"qid": "H0014", "types": ["birth"], "filter": ["Corrley"], "in": 1441, "out": 14, "usd": 0.001511, "cached": true}
+{"qid": "H0015", "types": ["marriage"], "filter": ["Haskick"], "in": 1443, "out": 15, "usd": 0.001518, "cached": true}
+{"qid": "H0016", "types": ["marriage"], "filter": ["Lindmere"], "in": 1444, "out": 15, "usd": 0.001519, "cached": true}
+{"qid": "H0017", "types": ["marriage"], "filter": ["Corrley"], "in": 1441, "out": 14, "usd": 0.001511, "cached": true}
+{"qid": "H0018", "types": ["marriage"], "filter": ["Brackick"], "in": 1443, "out": 14, "usd": 0.001513, "cached": true}
+{"qid": "H0019", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1476, "out": 56, "usd": 0.0017560000000000002, "cached": true}
+{"qid": "H0020", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1475, "out": 56, "usd": 0.001755, "cached": true}
+{"qid": "H0021", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1477, "out": 56, "usd": 0.0017569999999999999, "cached": true}
+{"qid": "H0022", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1477, "out": 56, "usd": 0.0017569999999999999, "cached": true}
+{"qid": "H0023", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1489, "out": 56, "usd": 0.0017690000000000002, "cached": true}
+{"qid": "H0024", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1486, "out": 56, "usd": 0.0017659999999999998, "cached": true}
+{"qid": "H0025", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1489, "out": 56, "usd": 0.0017690000000000002, "cached": true}
+{"qid": "H0026", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1482, "out": 56, "usd": 0.0017620000000000001, "cached": true}
+{"qid": "H0027", "types": ["death", "burial"], "filter": ["Dunstead"], "in": 1427, "out": 16, "usd": 0.001507, "cached": true}
+{"qid": "H0028", "types": ["death", "burial"], "filter": ["Kelmere"], "in": 1427, "out": 17, "usd": 0.001512, "cached": true}
+{"qid": "H0029", "types": ["death", "burial"], "filter": ["Torton"], "in": 1422, "out": 16, "usd": 0.001502, "cached": true}
+{"qid": "H0030", "types": ["death", "burial"], "filter": ["Dungate"], "in": 1426, "out": 19, "usd": 0.001521, "cached": true}
+{"qid": "H0031", "types": ["death", "burial"], "filter": ["Quenford"], "in": 1426, "out": 17, "usd": 0.001511, "cached": true}
+{"qid": "H0032", "types": ["death", "burial"], "filter": ["Gulhaven"], "in": 1426, "out": 17, "usd": 0.001511, "cached": true}
+{"qid": "H0033", "types": ["birth"], "filter": ["Ostcombe"], "in": 1422, "out": 15, "usd": 0.001497, "cached": true}
+{"qid": "H0034", "types": ["birth"], "filter": ["Dunstead"], "in": 1423, "out": 14, "usd": 0.001493, "cached": true}
+{"qid": "H0035", "types": ["birth"], "filter": ["Torton"], "in": 1419, "out": 14, "usd": 0.0014889999999999999, "cached": true}
+{"qid": "H0036", "types": ["birth"], "filter": ["Ravenmere"], "in": 1421, "out": 15, "usd": 0.001496, "cached": true}
+{"qid": "H0037", "types": ["birth"], "filter": ["Wilwick"], "in": 1423, "out": 17, "usd": 0.001508, "cached": true}
+{"qid": "H0038", "types": ["birth"], "filter": ["Quenford"], "in": 1428, "out": 15, "usd": 0.001503, "cached": true}
+{"qid": "H0000", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1476, "out": 56, "usd": 0.0017560000000000002, "cached": true}
+{"qid": "H0001", "types": ["birth"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1480, "out": 56, "usd": 0.0017599999999999998, "cached": true}
+{"qid": "H0002", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1484, "out": 56, "usd": 0.001764, "cached": true}
+{"qid": "H0003", "types": ["death"], "filter": ["Corrford"], "in": 1439, "out": 14, "usd": 0.001509, "cached": true}
+{"qid": "H0004", "types": ["death"], "filter": ["Prydenridge"], "in": 1436, "out": 16, "usd": 0.001516, "cached": true}
+{"qid": "H0005", "types": ["death"], "filter": ["Stenenridge"], "in": 1437, "out": 15, "usd": 0.0015119999999999999, "cached": true}
+{"qid": "H0006", "types": ["death"], "filter": ["Corrley"], "in": 1436, "out": 14, "usd": 0.001506, "cached": true}
+{"qid": "H0007", "types": ["death"], "filter": ["Haskick"], "in": 1436, "out": 15, "usd": 0.001511, "cached": true}
+{"qid": "H0008", "types": ["death"], "filter": ["Stenworth"], "in": 1436, "out": 14, "usd": 0.001506, "cached": true}
+{"qid": "H0009", "types": ["birth"], "filter": ["Prydenridge"], "in": 1438, "out": 16, "usd": 0.001518, "cached": true}
+{"qid": "H0010", "types": ["birth"], "filter": ["Corrford"], "in": 1434, "out": 14, "usd": 0.001504, "cached": true}
+{"qid": "H0011", "types": ["birth"], "filter": ["Brackick"], "in": 1438, "out": 14, "usd": 0.001508, "cached": true}
+{"qid": "H0012", "types": ["birth"], "filter": ["Stenenridge"], "in": 1436, "out": 15, "usd": 0.001511, "cached": true}
+{"qid": "H0013", "types": ["birth"], "filter": ["Stenson"], "in": 1437, "out": 14, "usd": 0.0015069999999999999, "cached": true}
+{"qid": "H0014", "types": ["birth"], "filter": ["Corrley"], "in": 1441, "out": 14, "usd": 0.001511, "cached": true}
+{"qid": "H0015", "types": ["marriage"], "filter": ["Haskick"], "in": 1443, "out": 15, "usd": 0.001518, "cached": true}
+{"qid": "H0016", "types": ["marriage"], "filter": ["Lindmere"], "in": 1444, "out": 15, "usd": 0.001519, "cached": true}
+{"qid": "H0017", "types": ["marriage"], "filter": ["Corrley"], "in": 1441, "out": 14, "usd": 0.001511, "cached": true}
+{"qid": "H0018", "types": ["marriage"], "filter": ["Brackick"], "in": 1443, "out": 14, "usd": 0.001513, "cached": true}
+{"qid": "H0019", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1476, "out": 56, "usd": 0.0017560000000000002, "cached": true}
+{"qid": "H0020", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1475, "out": 56, "usd": 0.001755, "cached": true}
+{"qid": "H0021", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1477, "out": 56, "usd": 0.0017569999999999999, "cached": true}
+{"qid": "H0022", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1477, "out": 56, "usd": 0.0017569999999999999, "cached": true}
+{"qid": "H0023", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1489, "out": 56, "usd": 0.0017690000000000002, "cached": true}
+{"qid": "H0024", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1486, "out": 56, "usd": 0.0017659999999999998, "cached": true}
+{"qid": "H0025", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1489, "out": 56, "usd": 0.0017690000000000002, "cached": true}
+{"qid": "H0026", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1482, "out": 56, "usd": 0.0017620000000000001, "cached": true}
+{"qid": "H0027", "types": ["death", "burial"], "filter": ["Dunstead"], "in": 1427, "out": 16, "usd": 0.001507, "cached": true}
+{"qid": "H0028", "types": ["death", "burial"], "filter": ["Kelmere"], "in": 1427, "out": 17, "usd": 0.001512, "cached": true}
+{"qid": "H0029", "types": ["death", "burial"], "filter": ["Torton"], "in": 1422, "out": 16, "usd": 0.001502, "cached": true}
+{"qid": "H0030", "types": ["death", "burial"], "filter": ["Dungate"], "in": 1426, "out": 19, "usd": 0.001521, "cached": true}
+{"qid": "H0031", "types": ["death", "burial"], "filter": ["Quenford"], "in": 1426, "out": 17, "usd": 0.001511, "cached": true}
+{"qid": "H0032", "types": ["death", "burial"], "filter": ["Gulhaven"], "in": 1426, "out": 17, "usd": 0.001511, "cached": true}
+{"qid": "H0033", "types": ["birth"], "filter": ["Ostcombe"], "in": 1422, "out": 15, "usd": 0.001497, "cached": true}
+{"qid": "H0034", "types": ["birth"], "filter": ["Dunstead"], "in": 1423, "out": 14, "usd": 0.001493, "cached": true}
+{"qid": "H0035", "types": ["birth"], "filter": ["Torton"], "in": 1419, "out": 14, "usd": 0.0014889999999999999, "cached": true}
+{"qid": "H0036", "types": ["birth"], "filter": ["Ravenmere"], "in": 1421, "out": 15, "usd": 0.001496, "cached": true}
+{"qid": "H0037", "types": ["birth"], "filter": ["Wilwick"], "in": 1423, "out": 17, "usd": 0.001508, "cached": true}
+{"qid": "H0038", "types": ["birth"], "filter": ["Quenford"], "in": 1428, "out": 15, "usd": 0.001503, "cached": true}
+{"qid": "H0002", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1477, "out": 56, "usd": 0.0017569999999999999, "cached": false}
+{"qid": "H0001", "types": ["birth"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1476, "out": 56, "usd": 0.0017560000000000002, "cached": false}
+{"qid": "H0003", "types": ["death"], "filter": ["Corrford"], "in": 1429, "out": 14, "usd": 0.001499, "cached": false}
+{"qid": "H0000", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1470, "out": 56, "usd": 0.0017499999999999998, "cached": false}
+{"qid": "H0004", "types": ["death"], "filter": ["Prydenridge"], "in": 1431, "out": 16, "usd": 0.001511, "cached": false}
+{"qid": "H0005", "types": ["death"], "filter": ["Stenenridge"], "in": 1428, "out": 15, "usd": 0.001503, "cached": false}
+{"qid": "H0006", "types": ["death"], "filter": ["Corrley"], "in": 1429, "out": 14, "usd": 0.001499, "cached": false}
+{"qid": "H0007", "types": ["death"], "filter": ["Haskick"], "in": 1429, "out": 15, "usd": 0.001504, "cached": false}
+{"qid": "H0008", "types": ["death"], "filter": ["Stenworth"], "in": 1425, "out": 14, "usd": 0.001495, "cached": false}
+{"qid": "H0009", "types": ["birth"], "filter": ["Prydenridge"], "in": 1432, "out": 16, "usd": 0.0015119999999999999, "cached": false}
+{"qid": "H0010", "types": ["birth"], "filter": ["Corrford"], "in": 1429, "out": 14, "usd": 0.001499, "cached": false}
+{"qid": "H0011", "types": ["birth"], "filter": ["Brackick"], "in": 1427, "out": 14, "usd": 0.001497, "cached": false}
+{"qid": "H0012", "types": ["birth"], "filter": ["Stenenridge"], "in": 1430, "out": 15, "usd": 0.001505, "cached": false}
+{"qid": "H0013", "types": ["birth"], "filter": ["Stenson"], "in": 1427, "out": 14, "usd": 0.001497, "cached": false}
+{"qid": "H0014", "types": ["birth"], "filter": ["Corrley"], "in": 1429, "out": 14, "usd": 0.001499, "cached": false}
+{"qid": "H0015", "types": ["marriage"], "filter": ["Haskick"], "in": 1437, "out": 15, "usd": 0.0015119999999999999, "cached": false}
+{"qid": "H0016", "types": ["marriage"], "filter": ["Lindmere"], "in": 1437, "out": 15, "usd": 0.0015119999999999999, "cached": false}
+{"qid": "H0017", "types": ["marriage", "engagement"], "filter": ["Corrley"], "in": 1437, "out": 16, "usd": 0.001517, "cached": false}
+{"qid": "H0018", "types": ["marriage"], "filter": ["Brackick"], "in": 1437, "out": 14, "usd": 0.0015069999999999999, "cached": false}
+{"qid": "H0019", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1469, "out": 56, "usd": 0.0017490000000000001, "cached": false}
+{"qid": "H0020", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1468, "out": 56, "usd": 0.001748, "cached": false}
+{"qid": "H0021", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1468, "out": 56, "usd": 0.001748, "cached": false}
+{"qid": "H0022", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1468, "out": 56, "usd": 0.001748, "cached": false}
+{"qid": "H0023", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1474, "out": 56, "usd": 0.001754, "cached": false}
+{"qid": "H0024", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1477, "out": 56, "usd": 0.0017569999999999999, "cached": false}
+{"qid": "H0025", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1481, "out": 56, "usd": 0.001761, "cached": false}
+{"qid": "H0026", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1477, "out": 56, "usd": 0.0017569999999999999, "cached": false}
+{"qid": "H0027", "types": ["death", "burial"], "filter": ["Dunstead"], "in": 1419, "out": 16, "usd": 0.001499, "cached": false}
+{"qid": "H0028", "types": ["death", "burial"], "filter": ["Kelmere"], "in": 1420, "out": 17, "usd": 0.001505, "cached": false}
+{"qid": "H0029", "types": ["death", "burial"], "filter": ["Torton"], "in": 1413, "out": 16, "usd": 0.001493, "cached": false}
+{"qid": "H0030", "types": ["death", "burial"], "filter": ["Dungate"], "in": 1417, "out": 19, "usd": 0.001512, "cached": false}
+{"qid": "H0031", "types": ["death", "burial"], "filter": ["Quenford"], "in": 1419, "out": 17, "usd": 0.001504, "cached": false}
+{"qid": "H0032", "types": ["death", "burial"], "filter": ["Gulhaven"], "in": 1419, "out": 17, "usd": 0.001504, "cached": false}
+{"qid": "H0034", "types": ["birth"], "filter": ["Dunstead"], "in": 1420, "out": 14, "usd": 0.00149, "cached": false}
+{"qid": "H0033", "types": ["birth"], "filter": ["Ostcombe"], "in": 1415, "out": 15, "usd": 0.00149, "cached": false}
+{"qid": "H0035", "types": ["birth"], "filter": ["Torton"], "in": 1412, "out": 14, "usd": 0.001482, "cached": false}
+{"qid": "H0036", "types": ["birth"], "filter": ["Ravenmere"], "in": 1418, "out": 15, "usd": 0.001493, "cached": false}
+{"qid": "H0037", "types": ["birth"], "filter": ["Wilwick"], "in": 1416, "out": 14, "usd": 0.001486, "cached": false}
+{"qid": "H0038", "types": ["birth"], "filter": ["Quenford"], "in": 1416, "out": 15, "usd": 0.001491, "cached": false}
+{"qid": "H0000", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1470, "out": 56, "usd": 0.0017499999999999998, "cached": true}
+{"qid": "H0002", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1477, "out": 56, "usd": 0.0017569999999999999, "cached": true}
+{"qid": "H0001", "types": ["birth"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1476, "out": 56, "usd": 0.0017560000000000002, "cached": true}
+{"qid": "H0003", "types": ["death"], "filter": ["Corrford"], "in": 1429, "out": 14, "usd": 0.001499, "cached": true}
+{"qid": "H0004", "types": ["death"], "filter": ["Prydenridge"], "in": 1431, "out": 16, "usd": 0.001511, "cached": true}
+{"qid": "H0005", "types": ["death"], "filter": ["Stenenridge"], "in": 1428, "out": 15, "usd": 0.001503, "cached": true}
+{"qid": "H0006", "types": ["death"], "filter": ["Corrley"], "in": 1429, "out": 14, "usd": 0.001499, "cached": true}
+{"qid": "H0007", "types": ["death"], "filter": ["Haskick"], "in": 1429, "out": 15, "usd": 0.001504, "cached": true}
+{"qid": "H0008", "types": ["death"], "filter": ["Stenworth"], "in": 1425, "out": 14, "usd": 0.001495, "cached": true}
+{"qid": "H0010", "types": ["birth"], "filter": ["Corrford"], "in": 1429, "out": 14, "usd": 0.001499, "cached": true}
+{"qid": "H0009", "types": ["birth"], "filter": ["Prydenridge"], "in": 1432, "out": 16, "usd": 0.0015119999999999999, "cached": true}
+{"qid": "H0011", "types": ["birth"], "filter": ["Brackick"], "in": 1427, "out": 14, "usd": 0.001497, "cached": true}
+{"qid": "H0012", "types": ["birth"], "filter": ["Stenenridge"], "in": 1430, "out": 15, "usd": 0.001505, "cached": true}
+{"qid": "H0013", "types": ["birth"], "filter": ["Stenson"], "in": 1427, "out": 14, "usd": 0.001497, "cached": true}
+{"qid": "H0014", "types": ["birth"], "filter": ["Corrley"], "in": 1429, "out": 14, "usd": 0.001499, "cached": true}
+{"qid": "H0015", "types": ["marriage"], "filter": ["Haskick"], "in": 1437, "out": 15, "usd": 0.0015119999999999999, "cached": true}
+{"qid": "H0016", "types": ["marriage"], "filter": ["Lindmere"], "in": 1437, "out": 15, "usd": 0.0015119999999999999, "cached": true}
+{"qid": "H0017", "types": ["marriage", "engagement"], "filter": ["Corrley"], "in": 1437, "out": 16, "usd": 0.001517, "cached": true}
+{"qid": "H0018", "types": ["marriage"], "filter": ["Brackick"], "in": 1437, "out": 14, "usd": 0.0015069999999999999, "cached": true}
+{"qid": "H0019", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1469, "out": 56, "usd": 0.0017490000000000001, "cached": true}
+{"qid": "H0020", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1468, "out": 56, "usd": 0.001748, "cached": true}
+{"qid": "H0021", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1468, "out": 56, "usd": 0.001748, "cached": true}
+{"qid": "H0022", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1468, "out": 56, "usd": 0.001748, "cached": true}
+{"qid": "H0023", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1474, "out": 56, "usd": 0.001754, "cached": true}
+{"qid": "H0024", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1477, "out": 56, "usd": 0.0017569999999999999, "cached": true}
+{"qid": "H0025", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1481, "out": 56, "usd": 0.001761, "cached": true}
+{"qid": "H0026", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1477, "out": 56, "usd": 0.0017569999999999999, "cached": true}
+{"qid": "H0027", "types": ["death", "burial"], "filter": ["Dunstead"], "in": 1419, "out": 16, "usd": 0.001499, "cached": true}
+{"qid": "H0028", "types": ["death", "burial"], "filter": ["Kelmere"], "in": 1420, "out": 17, "usd": 0.001505, "cached": true}
+{"qid": "H0029", "types": ["death", "burial"], "filter": ["Torton"], "in": 1413, "out": 16, "usd": 0.001493, "cached": true}
+{"qid": "H0030", "types": ["death", "burial"], "filter": ["Dungate"], "in": 1417, "out": 19, "usd": 0.001512, "cached": true}
+{"qid": "H0031", "types": ["death", "burial"], "filter": ["Quenford"], "in": 1419, "out": 17, "usd": 0.001504, "cached": true}
+{"qid": "H0032", "types": ["death", "burial"], "filter": ["Gulhaven"], "in": 1419, "out": 17, "usd": 0.001504, "cached": true}
+{"qid": "H0033", "types": ["birth"], "filter": ["Ostcombe"], "in": 1415, "out": 15, "usd": 0.00149, "cached": true}
+{"qid": "H0034", "types": ["birth"], "filter": ["Dunstead"], "in": 1420, "out": 14, "usd": 0.00149, "cached": true}
+{"qid": "H0035", "types": ["birth"], "filter": ["Torton"], "in": 1412, "out": 14, "usd": 0.001482, "cached": true}
+{"qid": "H0036", "types": ["birth"], "filter": ["Ravenmere"], "in": 1418, "out": 15, "usd": 0.001493, "cached": true}
+{"qid": "H0037", "types": ["birth"], "filter": ["Wilwick"], "in": 1416, "out": 14, "usd": 0.001486, "cached": true}
+{"qid": "H0038", "types": ["birth"], "filter": ["Quenford"], "in": 1416, "out": 15, "usd": 0.001491, "cached": true}
+{"qid": "H0000", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1470, "out": 56, "usd": 0.0017499999999999998, "cached": true}
+{"qid": "H0001", "types": ["birth"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1476, "out": 56, "usd": 0.0017560000000000002, "cached": true}
+{"qid": "H0002", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1477, "out": 56, "usd": 0.0017569999999999999, "cached": true}
+{"qid": "H0003", "types": ["death"], "filter": ["Corrford"], "in": 1429, "out": 14, "usd": 0.001499, "cached": true}
+{"qid": "H0004", "types": ["death"], "filter": ["Prydenridge"], "in": 1431, "out": 16, "usd": 0.001511, "cached": true}
+{"qid": "H0005", "types": ["death"], "filter": ["Stenenridge"], "in": 1428, "out": 15, "usd": 0.001503, "cached": true}
+{"qid": "H0006", "types": ["death"], "filter": ["Corrley"], "in": 1429, "out": 14, "usd": 0.001499, "cached": true}
+{"qid": "H0007", "types": ["death"], "filter": ["Haskick"], "in": 1429, "out": 15, "usd": 0.001504, "cached": true}
+{"qid": "H0008", "types": ["death"], "filter": ["Stenworth"], "in": 1425, "out": 14, "usd": 0.001495, "cached": true}
+{"qid": "H0009", "types": ["birth"], "filter": ["Prydenridge"], "in": 1432, "out": 16, "usd": 0.0015119999999999999, "cached": true}
+{"qid": "H0010", "types": ["birth"], "filter": ["Corrford"], "in": 1429, "out": 14, "usd": 0.001499, "cached": true}
+{"qid": "H0011", "types": ["birth"], "filter": ["Brackick"], "in": 1427, "out": 14, "usd": 0.001497, "cached": true}
+{"qid": "H0012", "types": ["birth"], "filter": ["Stenenridge"], "in": 1430, "out": 15, "usd": 0.001505, "cached": true}
+{"qid": "H0013", "types": ["birth"], "filter": ["Stenson"], "in": 1427, "out": 14, "usd": 0.001497, "cached": true}
+{"qid": "H0014", "types": ["birth"], "filter": ["Corrley"], "in": 1429, "out": 14, "usd": 0.001499, "cached": true}
+{"qid": "H0015", "types": ["marriage"], "filter": ["Haskick"], "in": 1437, "out": 15, "usd": 0.0015119999999999999, "cached": true}
+{"qid": "H0016", "types": ["marriage"], "filter": ["Lindmere"], "in": 1437, "out": 15, "usd": 0.0015119999999999999, "cached": true}
+{"qid": "H0017", "types": ["marriage", "engagement"], "filter": ["Corrley"], "in": 1437, "out": 16, "usd": 0.001517, "cached": true}
+{"qid": "H0018", "types": ["marriage"], "filter": ["Brackick"], "in": 1437, "out": 14, "usd": 0.0015069999999999999, "cached": true}
+{"qid": "H0019", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1469, "out": 56, "usd": 0.0017490000000000001, "cached": true}
+{"qid": "H0020", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1468, "out": 56, "usd": 0.001748, "cached": true}
+{"qid": "H0021", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1468, "out": 56, "usd": 0.001748, "cached": true}
+{"qid": "H0022", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1468, "out": 56, "usd": 0.001748, "cached": true}
+{"qid": "H0023", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1474, "out": 56, "usd": 0.001754, "cached": true}
+{"qid": "H0024", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1477, "out": 56, "usd": 0.0017569999999999999, "cached": true}
+{"qid": "H0025", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1481, "out": 56, "usd": 0.001761, "cached": true}
+{"qid": "H0026", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1477, "out": 56, "usd": 0.0017569999999999999, "cached": true}
+{"qid": "H0027", "types": ["death", "burial"], "filter": ["Dunstead"], "in": 1419, "out": 16, "usd": 0.001499, "cached": true}
+{"qid": "H0028", "types": ["death", "burial"], "filter": ["Kelmere"], "in": 1420, "out": 17, "usd": 0.001505, "cached": true}
+{"qid": "H0029", "types": ["death", "burial"], "filter": ["Torton"], "in": 1413, "out": 16, "usd": 0.001493, "cached": true}
+{"qid": "H0030", "types": ["death", "burial"], "filter": ["Dungate"], "in": 1417, "out": 19, "usd": 0.001512, "cached": true}
+{"qid": "H0031", "types": ["death", "burial"], "filter": ["Quenford"], "in": 1419, "out": 17, "usd": 0.001504, "cached": true}
+{"qid": "H0032", "types": ["death", "burial"], "filter": ["Gulhaven"], "in": 1419, "out": 17, "usd": 0.001504, "cached": true}
+{"qid": "H0033", "types": ["birth"], "filter": ["Ostcombe"], "in": 1415, "out": 15, "usd": 0.00149, "cached": true}
+{"qid": "H0034", "types": ["birth"], "filter": ["Dunstead"], "in": 1420, "out": 14, "usd": 0.00149, "cached": true}
+{"qid": "H0035", "types": ["birth"], "filter": ["Torton"], "in": 1412, "out": 14, "usd": 0.001482, "cached": true}
+{"qid": "H0036", "types": ["birth"], "filter": ["Ravenmere"], "in": 1418, "out": 15, "usd": 0.001493, "cached": true}
+{"qid": "H0037", "types": ["birth"], "filter": ["Wilwick"], "in": 1416, "out": 14, "usd": 0.001486, "cached": true}
+{"qid": "H0038", "types": ["birth"], "filter": ["Quenford"], "in": 1416, "out": 15, "usd": 0.001491, "cached": true}
+{"qid": "H0000", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1470, "out": 56, "usd": 0.0017499999999999998, "cached": true}
+{"qid": "H0001", "types": ["birth"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1476, "out": 56, "usd": 0.0017560000000000002, "cached": true}
+{"qid": "H0002", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1477, "out": 56, "usd": 0.0017569999999999999, "cached": true}
+{"qid": "H0003", "types": ["death"], "filter": ["Corrford"], "in": 1429, "out": 14, "usd": 0.001499, "cached": true}
+{"qid": "H0004", "types": ["death"], "filter": ["Prydenridge"], "in": 1431, "out": 16, "usd": 0.001511, "cached": true}
+{"qid": "H0005", "types": ["death"], "filter": ["Stenenridge"], "in": 1428, "out": 15, "usd": 0.001503, "cached": true}
+{"qid": "H0006", "types": ["death"], "filter": ["Corrley"], "in": 1429, "out": 14, "usd": 0.001499, "cached": true}
+{"qid": "H0007", "types": ["death"], "filter": ["Haskick"], "in": 1429, "out": 15, "usd": 0.001504, "cached": true}
+{"qid": "H0008", "types": ["death"], "filter": ["Stenworth"], "in": 1425, "out": 14, "usd": 0.001495, "cached": true}
+{"qid": "H0009", "types": ["birth"], "filter": ["Prydenridge"], "in": 1432, "out": 16, "usd": 0.0015119999999999999, "cached": true}
+{"qid": "H0010", "types": ["birth"], "filter": ["Corrford"], "in": 1429, "out": 14, "usd": 0.001499, "cached": true}
+{"qid": "H0011", "types": ["birth"], "filter": ["Brackick"], "in": 1427, "out": 14, "usd": 0.001497, "cached": true}
+{"qid": "H0012", "types": ["birth"], "filter": ["Stenenridge"], "in": 1430, "out": 15, "usd": 0.001505, "cached": true}
+{"qid": "H0013", "types": ["birth"], "filter": ["Stenson"], "in": 1427, "out": 14, "usd": 0.001497, "cached": true}
+{"qid": "H0014", "types": ["birth"], "filter": ["Corrley"], "in": 1429, "out": 14, "usd": 0.001499, "cached": true}
+{"qid": "H0015", "types": ["marriage"], "filter": ["Haskick"], "in": 1437, "out": 15, "usd": 0.0015119999999999999, "cached": true}
+{"qid": "H0016", "types": ["marriage"], "filter": ["Lindmere"], "in": 1437, "out": 15, "usd": 0.0015119999999999999, "cached": true}
+{"qid": "H0017", "types": ["marriage", "engagement"], "filter": ["Corrley"], "in": 1437, "out": 16, "usd": 0.001517, "cached": true}
+{"qid": "H0018", "types": ["marriage"], "filter": ["Brackick"], "in": 1437, "out": 14, "usd": 0.0015069999999999999, "cached": true}
+{"qid": "H0019", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1469, "out": 56, "usd": 0.0017490000000000001, "cached": true}
+{"qid": "H0020", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1468, "out": 56, "usd": 0.001748, "cached": true}
+{"qid": "H0021", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1468, "out": 56, "usd": 0.001748, "cached": true}
+{"qid": "H0022", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1468, "out": 56, "usd": 0.001748, "cached": true}
+{"qid": "H0023", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1474, "out": 56, "usd": 0.001754, "cached": true}
+{"qid": "H0024", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1477, "out": 56, "usd": 0.0017569999999999999, "cached": true}
+{"qid": "H0025", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1481, "out": 56, "usd": 0.001761, "cached": true}
+{"qid": "H0026", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1477, "out": 56, "usd": 0.0017569999999999999, "cached": true}
+{"qid": "H0027", "types": ["death", "burial"], "filter": ["Dunstead"], "in": 1419, "out": 16, "usd": 0.001499, "cached": true}
+{"qid": "H0028", "types": ["death", "burial"], "filter": ["Kelmere"], "in": 1420, "out": 17, "usd": 0.001505, "cached": true}
+{"qid": "H0029", "types": ["death", "burial"], "filter": ["Torton"], "in": 1413, "out": 16, "usd": 0.001493, "cached": true}
+{"qid": "H0030", "types": ["death", "burial"], "filter": ["Dungate"], "in": 1417, "out": 19, "usd": 0.001512, "cached": true}
+{"qid": "H0031", "types": ["death", "burial"], "filter": ["Quenford"], "in": 1419, "out": 17, "usd": 0.001504, "cached": true}
+{"qid": "H0032", "types": ["death", "burial"], "filter": ["Gulhaven"], "in": 1419, "out": 17, "usd": 0.001504, "cached": true}
+{"qid": "H0033", "types": ["birth"], "filter": ["Ostcombe"], "in": 1415, "out": 15, "usd": 0.00149, "cached": true}
+{"qid": "H0034", "types": ["birth"], "filter": ["Dunstead"], "in": 1420, "out": 14, "usd": 0.00149, "cached": true}
+{"qid": "H0035", "types": ["birth"], "filter": ["Torton"], "in": 1412, "out": 14, "usd": 0.001482, "cached": true}
+{"qid": "H0036", "types": ["birth"], "filter": ["Ravenmere"], "in": 1418, "out": 15, "usd": 0.001493, "cached": true}
+{"qid": "H0037", "types": ["birth"], "filter": ["Wilwick"], "in": 1416, "out": 14, "usd": 0.001486, "cached": true}
+{"qid": "H0038", "types": ["birth"], "filter": ["Quenford"], "in": 1416, "out": 15, "usd": 0.001491, "cached": true}
+{"qid": "H0001", "types": ["birth"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1476, "out": 56, "usd": 0.0017560000000000002, "cached": true}
+{"qid": "H0000", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1470, "out": 56, "usd": 0.0017499999999999998, "cached": true}
+{"qid": "H0002", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1477, "out": 56, "usd": 0.0017569999999999999, "cached": true}
+{"qid": "H0003", "types": ["death"], "filter": ["Corrford"], "in": 1429, "out": 14, "usd": 0.001499, "cached": true}
+{"qid": "H0004", "types": ["death"], "filter": ["Prydenridge"], "in": 1431, "out": 16, "usd": 0.001511, "cached": true}
+{"qid": "H0005", "types": ["death"], "filter": ["Stenenridge"], "in": 1428, "out": 15, "usd": 0.001503, "cached": true}
+{"qid": "H0006", "types": ["death"], "filter": ["Corrley"], "in": 1429, "out": 14, "usd": 0.001499, "cached": true}
+{"qid": "H0007", "types": ["death"], "filter": ["Haskick"], "in": 1429, "out": 15, "usd": 0.001504, "cached": true}
+{"qid": "H0008", "types": ["death"], "filter": ["Stenworth"], "in": 1425, "out": 14, "usd": 0.001495, "cached": true}
+{"qid": "H0009", "types": ["birth"], "filter": ["Prydenridge"], "in": 1432, "out": 16, "usd": 0.0015119999999999999, "cached": true}
+{"qid": "H0010", "types": ["birth"], "filter": ["Corrford"], "in": 1429, "out": 14, "usd": 0.001499, "cached": true}
+{"qid": "H0011", "types": ["birth"], "filter": ["Brackick"], "in": 1427, "out": 14, "usd": 0.001497, "cached": true}
+{"qid": "H0012", "types": ["birth"], "filter": ["Stenenridge"], "in": 1430, "out": 15, "usd": 0.001505, "cached": true}
+{"qid": "H0013", "types": ["birth"], "filter": ["Stenson"], "in": 1427, "out": 14, "usd": 0.001497, "cached": true}
+{"qid": "H0014", "types": ["birth"], "filter": ["Corrley"], "in": 1429, "out": 14, "usd": 0.001499, "cached": true}
+{"qid": "H0015", "types": ["marriage"], "filter": ["Haskick"], "in": 1437, "out": 15, "usd": 0.0015119999999999999, "cached": true}
+{"qid": "H0016", "types": ["marriage"], "filter": ["Lindmere"], "in": 1437, "out": 15, "usd": 0.0015119999999999999, "cached": true}
+{"qid": "H0017", "types": ["marriage", "engagement"], "filter": ["Corrley"], "in": 1437, "out": 16, "usd": 0.001517, "cached": true}
+{"qid": "H0018", "types": ["marriage"], "filter": ["Brackick"], "in": 1437, "out": 14, "usd": 0.0015069999999999999, "cached": true}
+{"qid": "H0019", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1469, "out": 56, "usd": 0.0017490000000000001, "cached": true}
+{"qid": "H0020", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1468, "out": 56, "usd": 0.001748, "cached": true}
+{"qid": "H0021", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1468, "out": 56, "usd": 0.001748, "cached": true}
+{"qid": "H0022", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1468, "out": 56, "usd": 0.001748, "cached": true}
+{"qid": "H0023", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1474, "out": 56, "usd": 0.001754, "cached": true}
+{"qid": "H0024", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1477, "out": 56, "usd": 0.0017569999999999999, "cached": true}
+{"qid": "H0025", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1481, "out": 56, "usd": 0.001761, "cached": true}
+{"qid": "H0026", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1477, "out": 56, "usd": 0.0017569999999999999, "cached": true}
+{"qid": "H0027", "types": ["death", "burial"], "filter": ["Dunstead"], "in": 1419, "out": 16, "usd": 0.001499, "cached": true}
+{"qid": "H0028", "types": ["death", "burial"], "filter": ["Kelmere"], "in": 1420, "out": 17, "usd": 0.001505, "cached": true}
+{"qid": "H0029", "types": ["death", "burial"], "filter": ["Torton"], "in": 1413, "out": 16, "usd": 0.001493, "cached": true}
+{"qid": "H0030", "types": ["death", "burial"], "filter": ["Dungate"], "in": 1417, "out": 19, "usd": 0.001512, "cached": true}
+{"qid": "H0031", "types": ["death", "burial"], "filter": ["Quenford"], "in": 1419, "out": 17, "usd": 0.001504, "cached": true}
+{"qid": "H0032", "types": ["death", "burial"], "filter": ["Gulhaven"], "in": 1419, "out": 17, "usd": 0.001504, "cached": true}
+{"qid": "H0033", "types": ["birth"], "filter": ["Ostcombe"], "in": 1415, "out": 15, "usd": 0.00149, "cached": true}
+{"qid": "H0034", "types": ["birth"], "filter": ["Dunstead"], "in": 1420, "out": 14, "usd": 0.00149, "cached": true}
+{"qid": "H0035", "types": ["birth"], "filter": ["Torton"], "in": 1412, "out": 14, "usd": 0.001482, "cached": true}
+{"qid": "H0036", "types": ["birth"], "filter": ["Ravenmere"], "in": 1418, "out": 15, "usd": 0.001493, "cached": true}
+{"qid": "H0037", "types": ["birth"], "filter": ["Wilwick"], "in": 1416, "out": 14, "usd": 0.001486, "cached": true}
+{"qid": "H0038", "types": ["birth"], "filter": ["Quenford"], "in": 1416, "out": 15, "usd": 0.001491, "cached": true}
+{"qid": "H0000", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1470, "out": 56, "usd": 0.0017499999999999998, "cached": true}
+{"qid": "H0002", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1477, "out": 56, "usd": 0.0017569999999999999, "cached": true}
+{"qid": "H0001", "types": ["birth"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1476, "out": 56, "usd": 0.0017560000000000002, "cached": true}
+{"qid": "H0003", "types": ["death"], "filter": ["Corrford"], "in": 1429, "out": 14, "usd": 0.001499, "cached": true}
+{"qid": "H0004", "types": ["death"], "filter": ["Prydenridge"], "in": 1431, "out": 16, "usd": 0.001511, "cached": true}
+{"qid": "H0005", "types": ["death"], "filter": ["Stenenridge"], "in": 1428, "out": 15, "usd": 0.001503, "cached": true}
+{"qid": "H0006", "types": ["death"], "filter": ["Corrley"], "in": 1429, "out": 14, "usd": 0.001499, "cached": true}
+{"qid": "H0007", "types": ["death"], "filter": ["Haskick"], "in": 1429, "out": 15, "usd": 0.001504, "cached": true}
+{"qid": "H0008", "types": ["death"], "filter": ["Stenworth"], "in": 1425, "out": 14, "usd": 0.001495, "cached": true}
+{"qid": "H0009", "types": ["birth"], "filter": ["Prydenridge"], "in": 1432, "out": 16, "usd": 0.0015119999999999999, "cached": true}
+{"qid": "H0010", "types": ["birth"], "filter": ["Corrford"], "in": 1429, "out": 14, "usd": 0.001499, "cached": true}
+{"qid": "H0011", "types": ["birth"], "filter": ["Brackick"], "in": 1427, "out": 14, "usd": 0.001497, "cached": true}
+{"qid": "H0012", "types": ["birth"], "filter": ["Stenenridge"], "in": 1430, "out": 15, "usd": 0.001505, "cached": true}
+{"qid": "H0013", "types": ["birth"], "filter": ["Stenson"], "in": 1427, "out": 14, "usd": 0.001497, "cached": true}
+{"qid": "H0014", "types": ["birth"], "filter": ["Corrley"], "in": 1429, "out": 14, "usd": 0.001499, "cached": true}
+{"qid": "H0015", "types": ["marriage"], "filter": ["Haskick"], "in": 1437, "out": 15, "usd": 0.0015119999999999999, "cached": true}
+{"qid": "H0016", "types": ["marriage"], "filter": ["Lindmere"], "in": 1437, "out": 15, "usd": 0.0015119999999999999, "cached": true}
+{"qid": "H0017", "types": ["marriage", "engagement"], "filter": ["Corrley"], "in": 1437, "out": 16, "usd": 0.001517, "cached": true}
+{"qid": "H0018", "types": ["marriage"], "filter": ["Brackick"], "in": 1437, "out": 14, "usd": 0.0015069999999999999, "cached": true}
+{"qid": "H0019", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1469, "out": 56, "usd": 0.0017490000000000001, "cached": true}
+{"qid": "H0020", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1468, "out": 56, "usd": 0.001748, "cached": true}
+{"qid": "H0021", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1468, "out": 56, "usd": 0.001748, "cached": true}
+{"qid": "H0022", "types": ["death"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1468, "out": 56, "usd": 0.001748, "cached": true}
+{"qid": "H0023", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1474, "out": 56, "usd": 0.001754, "cached": true}
+{"qid": "H0024", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1477, "out": 56, "usd": 0.0017569999999999999, "cached": true}
+{"qid": "H0025", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1481, "out": 56, "usd": 0.001761, "cached": true}
+{"qid": "H0026", "types": ["marriage"], "filter": ["Prydenridge", "Lindmere", "Haskick", "Brackick", "Stenson", "Corrley", "Thornmere", "Stenenridge", "Stenworth", "Corrford"], "in": 1477, "out": 56, "usd": 0.0017569999999999999, "cached": true}
+{"qid": "H0027", "types": ["death", "burial"], "filter": ["Dunstead"], "in": 1419, "out": 16, "usd": 0.001499, "cached": true}
+{"qid": "H0028", "types": ["death", "burial"], "filter": ["Kelmere"], "in": 1420, "out": 17, "usd": 0.001505, "cached": true}
+{"qid": "H0029", "types": ["death", "burial"], "filter": ["Torton"], "in": 1413, "out": 16, "usd": 0.001493, "cached": true}
+{"qid": "H0030", "types": ["death", "burial"], "filter": ["Dungate"], "in": 1417, "out": 19, "usd": 0.001512, "cached": true}
+{"qid": "H0031", "types": ["death", "burial"], "filter": ["Quenford"], "in": 1419, "out": 17, "usd": 0.001504, "cached": true}
+{"qid": "H0032", "types": ["death", "burial"], "filter": ["Gulhaven"], "in": 1419, "out": 17, "usd": 0.001504, "cached": true}
+{"qid": "H0033", "types": ["birth"], "filter": ["Ostcombe"], "in": 1415, "out": 15, "usd": 0.00149, "cached": true}
+{"qid": "H0034", "types": ["birth"], "filter": ["Dunstead"], "in": 1420, "out": 14, "usd": 0.00149, "cached": true}
+{"qid": "H0035", "types": ["birth"], "filter": ["Torton"], "in": 1412, "out": 14, "usd": 0.001482, "cached": true}
+{"qid": "H0036", "types": ["birth"], "filter": ["Ravenmere"], "in": 1418, "out": 15, "usd": 0.001493, "cached": true}
+{"qid": "H0037", "types": ["birth"], "filter": ["Wilwick"], "in": 1416, "out": 14, "usd": 0.001486, "cached": true}
+{"qid": "H0038", "types": ["birth"], "filter": ["Quenford"], "in": 1416, "out": 15, "usd": 0.001491, "cached": true}

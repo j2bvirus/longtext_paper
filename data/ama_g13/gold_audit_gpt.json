@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ambiguous",
+  "reason": "The shown steps never mention spacelogo4.bmp or the three-image observation, so its first identification cannot be determined.",
+  "evidence": "steps [9, 10, 11, 89, 90]"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "Step 51 states the alien writing on top is from alien people from Antarctica who call themselves Kesovan",
+  "evidence": "steps [50, 51, 52, 89, 90]"
+ },
+ "Q0002": {
+  "label": "ambiguous",
+  "reason": "A 200 response alone does not guarantee a valid image, and the code extracts metadata without visually inspecting the banner or determining the later status",
+  "evidence": "steps [0, 1, 2, 38, 39, 40, 41, 42, 89, 90]"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "Step 40 explicitly adds the Macintosh Chrome User-Agent and a Referer pointing to the internal reticuli page.",
+  "evidence": "steps [39, 40, 41, 89, 90]"
+ },
+ "Q0004": {
+  "label": "wrong",
+  "reason": "The shown parameters are correct, but step_notes justified the change in execution flow; step_status recorded it as blocked.",
+  "evidence": "steps [8, 9, 10, 40, 41, 42, 89, 90]"
+ },
+ "Q0005": {
+  "label": "ambiguous",
+  "reason": "The shown steps do not establish live-site empty content or 404/465 errors, or a prerequisite for the SVGrepo searches.",
+  "evidence": "steps [24, 25, 26, 89, 90]"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "Step 41 updates Step 1’s status to blocked, its final state in that turn.",
+  "evidence": "steps [0, 1, 2, 40, 41, 42, 89, 90]"
+ },
+ "Q0007": {
+  "label": "ambiguous",
+  "reason": "Step 8 shows a successful write, but Step 89 reports a later saved validation file without showing the write action or its result.",
+  "evidence": "steps [7, 8, 9, 89, 90]"
+ },
+ "Q0008": {
+  "label": "wrong",
+  "reason": "Step 10 reported 0 total images; Step 35 reported 3, so the count increased rather than remaining at 3.",
+  "evidence": "steps [9, 10, 11, 34, 35, 36, 89, 90]"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "Step 53 shows unrendered binary data beginning with the BM bitmap header.",
+  "evidence": "steps [53, 89, 90]"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "Steps 10–11 returned empty content and no images; Python banner downloads in Steps 39–40 failed with HTTP 465 and 404 errors.",
+  "evidence": "steps [9, 10, 11, 39, 40, 41, 89, 90]"
+ },
+ "Q0011": {
+  "label": "wrong",
+  "reason": "Step 51 identifies the banner writing as Kesovan from Antarctica, but Step 89 identifies the target as a U-shaped bowl meaning container, not a Kesovan logotype.",
+  "evidence": "steps [50, 51, 52, 89, 90]"
+ }
+}

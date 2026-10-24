@@ -1,0 +1,22 @@
+Here are the answers to the 20 questions based on the provided transcript:
+
+Q01: \boxed{90}
+Q02: \boxed{756}
+Q03: \boxed{0}
+Q04: \boxed{70}
+Q05: \boxed{25}
+Q06: \boxed{Seeming}
+Q07: \boxed{49}
+Q08: \boxed{249}
+Q09: \boxed{Beast Sense, Cure Wounds, Gust of Wind, Hellish Rebuke, Counterspell, Gust of Wind, Cure Wounds,Speak with Animals, Plant Growth, Healing Word, Speak with Plants, Speak with Dead}
+Q10: \boxed{118}
+Q11: \boxed{47}
+Q12: \boxed{Disintegrate}
+Q13: \boxed{1}
+Q14: \boxed{1}
+Q15: \boxed{Scorching Ray}
+Q16: \boxed{Prestidigitation, True Strike, Prestidigitation,None,Sacred Flame, Light,None,None,None,None,None,None}
+Q17: \boxed{Greater Restoration}
+Q18: \boxed{25}
+Q19: \boxed{6}
+Q20: \boxed{5}

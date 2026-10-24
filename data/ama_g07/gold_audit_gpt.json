@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "Step 0 contains the Packt quote about OpenCV 4.0; Step 2 contains the forum statement that Mask-RCNN was added in OpenCV 3.4.3.",
+  "evidence": "steps [0, 1, 2, 3, 57, 58]"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "Step 35 shows the Wade-Giles form “Li P’eng”; Step 43 explicitly maps it to Pinyin “Li Peng” for the match.",
+  "evidence": "steps [35, 43, 57, 58]"
+ },
+ "Q0002": {
+  "label": "wrong",
+  "reason": "Step 34’s search results lack “Butcher of Beijing”; it appears in Step 45’s fetched page. The death date was already verified in Step 35.",
+  "evidence": "steps [33, 34, 35, 44, 45, 46, 57, 58]"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "Step 2 shows the OpenCV 3.4.3 CV_32FC1 assertion failure in function 'populateNet'.",
+  "evidence": "steps [1, 2, 3, 57, 58]"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "Step 27 successfully fetched the Wiki page; Step 49 attempted the raw markdown URL and received “404: Not Found.”",
+  "evidence": "steps [27, 49, 57, 58]"
+ },
+ "Q0005": {
+  "label": "wrong",
+  "reason": "Step 38 read search_results_summary_step2.md containing the PRC Premier list, not OpenCV Wiki Change Logs v2.2-v4.10.",
+  "evidence": "steps [10, 11, 12, 37, 38, 39, 57, 58]"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "The Notes explicitly say the Mask-RCNN support statement appears in 4.0.0, so its contributor list was used.",
+  "evidence": "steps [43, 57, 58]"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "Step 43 saves the results to the exact referenced path, and Step 44 contains the mark_step action summarizing the matching logic.",
+  "evidence": "steps [2, 3, 4, 43, 44, 45, 57, 58]"
+ },
+ "Q0008": {
+  "label": "ambiguous",
+  "reason": "Step 35 shows one fetch, but omitted Steps 4–33 could contain additional fetches of the same URL.",
+  "evidence": "steps [1, 2, 3, 34, 35, 36, 37, 38, 57, 58]"
+ },
+ "Q0009": {
+  "label": "ambiguous",
+  "reason": "Turn 14 first shows the Individual Contributors page, but omitted steps prevent determining the total number of tavily_search actions.",
+  "evidence": "steps [0, 1, 13, 14, 15, 57, 58]"
+ },
+ "Q0010": {
+  "label": "ambiguous",
+  "reason": "Step 25 shows a JavaScript/cookie barrier and Step 52 uses Packt, but the shown steps do not establish 404 errors, CSDN use, or the full verification workflow.",
+  "evidence": "steps [24, 25, 26, 50, 51, 52, 57, 58]"
+ },
+ "Q0011": {
+  "label": "not auditable",
+  "reason": "names no step",
+  "evidence": ""
+ }
+}

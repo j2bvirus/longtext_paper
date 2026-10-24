@@ -1,0 +1,36 @@
+{
+ "name": "saga_v5_s8_d16_hybrid_ollama-qwen3-14b-q8_0_b4000",
+ "n": 223,
+ "acc": 0.6591928251121076,
+ "by_qtype": {
+  "ALIVE": 0.88,
+  "BIRTHPLACE": 0.833,
+  "EVER_VISITED": 0.818,
+  "GRANDPARENT": 0.0,
+  "KNOWS": 0.684,
+  "LOC_AT_EVENT": 0.727,
+  "LOC_NOW": 0.909,
+  "OCCUPATION_NOW": 0.68,
+  "OWNER_NOW": 0.833,
+  "OWNER_PREV": 0.455,
+  "PROMISE": 0.421,
+  "RULE_BRIDGE": 0.5,
+  "RULE_VAULT": 0.5,
+  "SPOUSE_NOW": 0.8
+ },
+ "mean_ctx_tokens": 4157.905829596412,
+ "sum_in_tokens": 973497,
+ "sum_out_tokens": 1327,
+ "sum_usd": 0.0,
+ "sum_wall_s": 313.3197202682495,
+ "build": {
+  "embed_tokens": 481753,
+  "llm_in": 0,
+  "llm_out": 0,
+  "usd": 0.0,
+  "wall_s": 0.0984649658203125
+ },
+ "record_tokens": 481753,
+ "n_chunks": 2019,
+ "mean_ev_recall": 0.7590472481827621
+}

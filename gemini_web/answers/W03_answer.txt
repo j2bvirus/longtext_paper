@@ -1,0 +1,22 @@
+Here are the answers to the 20 questions based on the provided transcript:
+
+Q01: \boxed{Attack}
+Q02: \boxed{Pass Without a Trace}
+Q03: \boxed{16}
+Q04: \boxed{1}
+Q05: \boxed{0}
+Q06: \boxed{Prestidigitation, Silence, Prestidigitation, Enhance Ability, Transport via Plants, Mass Cure Wounds, Cure Wounds, Dispel Magic, Cure Wounds, Beacon of Hope, Cure Wounds, Pass Without a Trace, Skywrite, Pass Without a Trace, Blight, Pass Without a Trace}
+Q07: \boxed{68}
+Q08: \boxed{2}
+Q09: \boxed{25}
+Q10: \boxed{1}
+Q11: \boxed{Hunter's Mark}
+Q12: \boxed{103}
+Q13: \boxed{6}
+Q14: \boxed{Cure Wounds}
+Q15: \boxed{40}
+Q16: \boxed{1450}
+Q17: \boxed{193}
+Q18: \boxed{0}
+Q19: \boxed{Divine Smite}
+Q20: \boxed{40}

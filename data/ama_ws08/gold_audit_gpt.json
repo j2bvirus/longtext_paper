@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "wrong",
+  "reason": "Step 18 grepped choices-related context in tests/schema/tests.py.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "wrong",
+  "reason": "Step 19 searched tests for choices; Step 21 identified the base schema editor helper as the fix location.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "Step 31 demonstrated unnecessary table recreation SQL for choices-only changes.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "wrong",
+  "reason": "Step 25 created a reproduction script; the source fix occurred at Step 33.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "wrong",
+  "reason": "No fix was implemented at Step 25; it created the reproduction script.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ambiguous",
+  "reason": "Migration tests are reasonable, but several further verification actions would also be reasonable.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "wrong",
+  "reason": "Step 43 edited the script's real-change test; Step 44 executed it. No executable permission change appears.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "wrong",
+  "reason": "Steps 15–19 searched existing tests; table recreation was described earlier and demonstrated at Step 31.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "wrong",
+  "reason": "Step 25 implemented a reproduction script, not a choices-only early return.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "Step 46 reported OK with 2 skipped tests.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "wrong",
+  "reason": "The root cause was missing choices in base/schema.py's non_database_attrs; the original helper returned True for choices-only changes.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "wrong",
+  "reason": "Step 33 added choices to non_database_attrs in base/schema.py; the reference gives the wrong file, implementation steps, and final test categories.",
+  "evidence": "whole trajectory"
+ }
+}

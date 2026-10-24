@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "Step 8 `up` undoes the Step 7 `down`, so the agent is back at its Step 6 position with no net progress.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "At Step 46 the DOOR block is 3 left, so a `right` move would put it 4 left, further from the key blocks.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ambiguous",
+  "reason": "The agent does share the ball's tile at Step 42, but the claim that this sets up a push of the ball is speculative, since the agent walked onto the ball.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "The `down` (actually Step 24) is what closes the vertical distance to the bottom row of rule blocks; the step number is the question's slip.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ambiguous",
+  "reason": "Whether `left` would have been the better move is speculation, though `left` does work from that position (Step 56).",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "wrong",
+  "reason": "The action at Step 21 was `left`, not `right`, and the agent moved left as logged; Step 19's `right` moved it right, so the controls are not inverted.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "The `down`/`up` pairs make the agent oscillate between two tiles with no progress.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "wrong",
+  "reason": "The ball is not in the way (the agent walks onto its tile at Step 42), so \"bypassing\" it and \"BALL IS PUSH\" do not fit the trajectory.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ambiguous",
+  "reason": "The `down` is the key action, but it occurs at Step 24, not Step 23 as the reference states (Step 23 is `left`).",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "The oscillation does nothing to the rules or blocks; calling the ball a word block is a minor slip.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "The `down` at Step 24 breaks the right/left loop and moves the agent closer to the rule blocks.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "The `left` at Step 23 moves the agent off the ball's tile, so the ball reappears in the Step 23 observation.",
+  "evidence": "whole trajectory"
+ }
+}

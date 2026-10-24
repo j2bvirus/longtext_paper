@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "Step 4 records August 14 with revision ID 1150025367 and timestamp 2023-04-15T22:33:17Z.",
+  "evidence": "steps [4, 31, 32]"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "Step 3 sets the fallback query’s rvstart to 2023-07-01T00:00:00Z.",
+  "evidence": "steps [2, 3, 4, 31, 32]"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "The code appends 'cite_tweet_noid:' followed by the first 12 characters of the reference content’s SHA-1 hash.",
+  "evidence": "steps [12, 31, 32]"
+ },
+ "Q0003": {
+  "label": "ambiguous",
+  "reason": "Step 3 shows 'older' was used, but does not establish all allowed values or that 'older' was strictly required.",
+  "evidence": "steps [2, 3, 4, 31, 32]"
+ },
+ "Q0004": {
+  "label": "ambiguous",
+  "reason": "Step 12 requires JSON files in data/revisions_august with a day number extractable from the filename, but does not require the specific august_XX.json format.",
+  "evidence": "steps [12, 31, 32]"
+ },
+ "Q0005": {
+  "label": "wrong",
+  "reason": "Successful redirection is not mandatory: a failed shortener resolution still counts if the reference uses Cite tweet with tweet-identifying parameters.",
+  "evidence": "steps [0, 1, 31, 32]"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "Step 16 marks step_index 2 completed and lists direct tweet permalinks, archived tweet permalinks, and {{Cite tweet}} templates.",
+  "evidence": "steps [1, 2, 3, 15, 16, 17, 31, 32]"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "Step 13 records a tweet_citation_count of 1 for August 8, 11, and 18, and 0 for all other days.",
+  "evidence": "steps [12, 13, 14, 31, 32]"
+ },
+ "Q0008": {
+  "label": "ambiguous",
+  "reason": "Step 10 shows the directory walk, but omitted steps could contain a later one.",
+  "evidence": "steps [10, 31, 32]"
+ },
+ "Q0009": {
+  "label": "ambiguous",
+  "reason": "The shown steps give August 18 a count of one, but do not show the details JSON or confirm the content-hash placeholder and missed ID.",
+  "evidence": "steps [1, 2, 3, 31, 32]"
+ },
+ "Q0010": {
+  "label": "ambiguous",
+  "reason": "Step 12 only checks id= and url=, but the shown steps do not include those citations’ wikitext or evidence that they used number= or triggered the hash fallback.",
+  "evidence": "steps [12, 31, 32]"
+ },
+ "Q0011": {
+  "label": "not auditable",
+  "reason": "names no step",
+  "evidence": ""
+ }
+}

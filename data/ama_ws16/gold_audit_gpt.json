@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "wrong",
+  "reason": "Step 25 viewed requests/models.py lines 388–396, not requests/__init__.py.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "wrong",
+  "reason": "The agent explicitly identified the root cause at Step 15, not Step 35.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "Step 62 showed Content-Length: 9 for the encoded body key=value.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "The final implementation assigns zero for empty bodies only for POST, PUT, and PATCH.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "wrong",
+  "reason": "Step 57 created an edge-case script; the fix had already been implemented.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "wrong",
+  "reason": "Step 44 created a debug script; the subsequent observation showed no Content-Length header.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "wrong",
+  "reason": "Step 30 last changed prepare_content_length; Step 57 created a test script.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "wrong",
+  "reason": "Step 35 showed prepare_body after earlier fixes, not the original prepare_content_length implementation.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "wrong",
+  "reason": "Step 47 ran comprehensive_test.py and observed all five test groups passing.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "Step 62 explicitly showed Content-Length: 0 for POST without data.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "The described method condition and body-dependent header assignment match the implemented changes.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "wrong",
+  "reason": "Tests verified prepared headers and compatibility, but never sent an Amazon request or confirmed the 503 error was resolved.",
+  "evidence": "whole trajectory"
+ }
+}

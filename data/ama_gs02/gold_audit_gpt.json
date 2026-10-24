@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "Step 8’s direct fetch was blocked by “Enable JavaScript and cookies to continue”; Step 12 obtained the content through the Jina mirror.",
+  "evidence": "steps [7, 8, 9, 11, 12, 13, 39, 40]"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "Step 12 successfully fetched the Poetry Foundation poem text through the Jina mirror URL.",
+  "evidence": "steps [11, 12, 13, 39, 40]"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "Step 14 saves extracts from both Poetry Foundation and Zócalo Poets to the specified file.",
+  "evidence": "steps [13, 14, 15, 39, 40]"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "Step 16 saved the detailed layout analysis to the specified workspace file before the mark_step command in Step 17.",
+  "evidence": "steps [16, 17, 18, 39, 40]"
+ },
+ "Q0004": {
+  "label": "ambiguous",
+  "reason": "Step 11 shows periods separating stanzas but no preserved indentation; the shown steps do not establish why this was considered a state-dependency failure.",
+  "evidence": "steps [10, 11, 12, 39, 40]"
+ },
+ "Q0005": {
+  "label": "ambiguous",
+  "reason": "Step 5 uses those three JSON keys, but the trajectory does not establish that they are mandatory.",
+  "evidence": "steps [4, 5, 6, 39, 40]"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "Turn 16 successfully saved the analysis file; no later shown turn through Turn 20 wrote a file.",
+  "evidence": "steps [15, 16, 17, 19, 20, 21, 39, 40]"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "Step 17 marked Step 1 as completed, with notes on stanza layout extraction and identification of Stanza 2.",
+  "evidence": "steps [0, 1, 2, 16, 17, 18, 39, 40]"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "Step 4 was the last search query before the workspace file was read in Step 7.",
+  "evidence": "steps [3, 4, 5, 6, 7, 8, 39, 40]"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "Step 15 searches for extra spacing in “wait   and do not recognize us”; its result also shows spacing in “Each week   a different woman”.",
+  "evidence": "steps [14, 15, 16, 39, 40]"
+ },
+ "Q0010": {
+  "label": "not auditable",
+  "reason": "names no step",
+  "evidence": ""
+ },
+ "Q0011": {
+  "label": "ambiguous",
+  "reason": "The shown retrieval does not establish a formatting cross-check, Stanza 2’s indentation, or why the PDF was critical to success.",
+  "evidence": "steps [32, 39, 40]"
+ }
+}

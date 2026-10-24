@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "wrong",
+  "reason": "Baba can push text, so the stated reason is false; the agent was only moving toward the `baba` row.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "wrong",
+  "reason": "the agent kept going up past the rule row (steps 11-12), then pushed `wall` down at step 18, not up.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "the same `up` succeeded at step 9 from the same spot, and the wall to the right was blocking `right`.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "after step 15 the `is` block is directly below the agent. The wall rule was later broken by pushing `wall` down, but the positional claim holds.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "`wall is stop` was gone from step 18, so the wall below at step 25 did not block movement.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "the setup is for pushing a rule word down to break `wall is stop`. The agent actually pushed `wall` rather than `is`, but the purpose is correct.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "wrong",
+  "reason": "step 8 was a blocked `right`, and the agent went above the rule row to push it down, not up from below.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "wrong",
+  "reason": "the premise that no key exists is false, since a key appears in every observation, and the reference accepts it.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "wrong",
+  "reason": "the `right` moves were blocked, not executed, and the door rule was visible from step 0, so the premise is false.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ambiguous",
+  "reason": "the downward moves are plausibly purposeful, but with walls non-solid the \"narrow corridor\" explanation is shaky.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "the wall one step to the right was stop-blocked, and nothing blocked the `up` move.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "there was a wall to the right and none above.",
+  "evidence": "whole trajectory"
+ }
+}

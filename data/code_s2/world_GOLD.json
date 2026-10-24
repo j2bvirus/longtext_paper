@@ -1,0 +1,807 @@
+{
+ "seed": 2,
+ "persons": {
+  "D00": {
+   "id": "D00",
+   "first": "Dana",
+   "surname": "Okafor"
+  },
+  "D01": {
+   "id": "D01",
+   "first": "Sefa",
+   "surname": "Nakamura"
+  },
+  "D02": {
+   "id": "D02",
+   "first": "Kesh",
+   "surname": "Nakamura"
+  },
+  "D03": {
+   "id": "D03",
+   "first": "Lune",
+   "surname": "Okafor"
+  },
+  "D04": {
+   "id": "D04",
+   "first": "Rhea",
+   "surname": "Tsang"
+  },
+  "D05": {
+   "id": "D05",
+   "first": "Hadi",
+   "surname": "Lindqvist"
+  },
+  "D06": {
+   "id": "D06",
+   "first": "Pell",
+   "surname": "Nakamura"
+  },
+  "D07": {
+   "id": "D07",
+   "first": "Maren",
+   "surname": "Marchetti"
+  },
+  "D08": {
+   "id": "D08",
+   "first": "Ilya",
+   "surname": "Kroll"
+  },
+  "D09": {
+   "id": "D09",
+   "first": "Brann",
+   "surname": "Ibarra"
+  },
+  "D10": {
+   "id": "D10",
+   "first": "Corin",
+   "surname": "Halvorsen"
+  },
+  "D11": {
+   "id": "D11",
+   "first": "Oriel",
+   "surname": "Abernet"
+  }
+ },
+ "modules": [
+  "notify/jobs.py",
+  "report/store.py",
+  "audit/store.py",
+  "geo/handlers.py",
+  "cache/api.py",
+  "billing/handlers.py",
+  "auth/worker.py",
+  "sync/client.py",
+  "export/core.py",
+  "ledger/jobs.py",
+  "cache/store.py",
+  "report/jobs.py",
+  "export/rules.py",
+  "notify/worker.py"
+ ],
+ "fn": {
+  "F00": {
+   "orig": "apply_batch",
+   "name": "render_cursor",
+   "module": "sync/client.py",
+   "params": [
+    [
+     "cursor",
+     null
+    ],
+    [
+     "max_age",
+     "5"
+    ],
+    [
+     "tenant",
+     "45"
+    ]
+   ],
+   "deprecated": false,
+   "replacement": null
+  },
+  "F01": {
+   "orig": "apply_bundle",
+   "name": "parse_token",
+   "module": "report/jobs.py",
+   "params": [
+    [
+     "batch_size",
+     null
+    ],
+    [
+     "limit",
+     "5"
+    ],
+    [
+     "timeout",
+     "2"
+    ]
+   ],
+   "deprecated": true,
+   "replacement": "F20"
+  },
+  "F02": {
+   "orig": "compute_policy",
+   "name": "compute_policy",
+   "module": "report/store.py",
+   "params": [
+    [
+     "verbose",
+     null
+    ],
+    [
+     "currency",
+     "3"
+    ],
+    [
+     "tenant",
+     "100"
+    ],
+    [
+     "retries",
+     "60"
+    ],
+    [
+     "dry_run",
+     "1"
+    ]
+   ],
+   "deprecated": false,
+   "replacement": null
+  },
+  "F03": {
+   "orig": "compute_session",
+   "name": "compute_session",
+   "module": "geo/handlers.py",
+   "params": [
+    [
+     "currency",
+     null
+    ],
+    [
+     "timeout",
+     "10"
+    ],
+    [
+     "dry_run",
+     "1"
+    ]
+   ],
+   "deprecated": false,
+   "replacement": null
+  },
+  "F04": {
+   "orig": "emit_receipt",
+   "name": "rotate_cursor",
+   "module": "export/core.py",
+   "params": [
+    [
+     "max_age",
+     null
+    ],
+    [
+     "currency",
+     "5"
+    ],
+    [
+     "locale",
+     "60"
+    ],
+    [
+     "region",
+     "2"
+    ]
+   ],
+   "deprecated": false,
+   "replacement": null
+  },
+  "F05": {
+   "orig": "fetch_cursor",
+   "name": "apply_profile",
+   "module": "audit/store.py",
+   "params": [
+    [
+     "batch_size",
+     null
+    ],
+    [
+     "tenant",
+     "5"
+    ],
+    [
+     "cursor",
+     "2"
+    ],
+    [
+     "currency",
+     "50"
+    ]
+   ],
+   "deprecated": false,
+   "replacement": null
+  },
+  "F06": {
+   "orig": "fetch_ledger",
+   "name": "merge_shard",
+   "module": "audit/store.py",
+   "params": [
+    [
+     "region",
+     null
+    ],
+    [
+     "verbose",
+     "5"
+    ],
+    [
+     "user_id",
+     "1"
+    ]
+   ],
+   "deprecated": false,
+   "replacement": null
+  },
+  "F07": {
+   "orig": "fetch_shard",
+   "name": "fetch_shard",
+   "module": "report/jobs.py",
+   "params": [
+    [
+     "strict",
+     null
+    ],
+    [
+     "max_age",
+     "10"
+    ],
+    [
+     "limit",
+     "1"
+    ],
+    [
+     "timeout",
+     "5"
+    ]
+   ],
+   "deprecated": false,
+   "replacement": null
+  },
+  "F08": {
+   "orig": "flush_cursor",
+   "name": "flush_cursor",
+   "module": "export/rules.py",
+   "params": [
+    [
+     "user_id",
+     null
+    ],
+    [
+     "dry_run",
+     "10"
+    ]
+   ],
+   "deprecated": true,
+   "replacement": "F27"
+  },
+  "F09": {
+   "orig": "flush_session",
+   "name": "index_invoice",
+   "module": "ledger/jobs.py",
+   "params": [
+    [
+     "strict",
+     null
+    ],
+    [
+     "locale",
+     "100"
+    ],
+    [
+     "currency",
+     "1"
+    ],
+    [
+     "cursor",
+     "50"
+    ]
+   ],
+   "deprecated": false,
+   "replacement": null
+  },
+  "F10": {
+   "orig": "index_ledger",
+   "name": "index_ledger",
+   "module": "sync/client.py",
+   "params": [
+    [
+     "limit",
+     null
+    ],
+    [
+     "max_age",
+     "60"
+    ],
+    [
+     "cursor",
+     "100"
+    ],
+    [
+     "user_id",
+     "3"
+    ],
+    [
+     "verbose",
+     "1"
+    ]
+   ],
+   "deprecated": true,
+   "replacement": "F28"
+  },
+  "F11": {
+   "orig": "index_receipt",
+   "name": "index_receipt",
+   "module": "audit/store.py",
+   "params": [
+    [
+     "region",
+     null
+    ],
+    [
+     "verbose",
+     "2"
+    ],
+    [
+     "limit",
+     "10"
+    ],
+    [
+     "cursor",
+     "30"
+    ],
+    [
+     "max_age",
+     "5"
+    ]
+   ],
+   "deprecated": false,
+   "replacement": null
+  },
+  "F12": {
+   "orig": "index_tariff",
+   "name": "load_batch",
+   "module": "notify/worker.py",
+   "params": [
+    [
+     "batch_size",
+     null
+    ],
+    [
+     "strict",
+     "100"
+    ]
+   ],
+   "deprecated": false,
+   "replacement": null
+  },
+  "F13": {
+   "orig": "load_invoice",
+   "name": "load_invoice",
+   "module": "export/rules.py",
+   "params": [
+    [
+     "region",
+     null
+    ],
+    [
+     "cursor",
+     "2"
+    ]
+   ],
+   "deprecated": false,
+   "replacement": null
+  },
+  "F14": {
+   "orig": "merge_batch",
+   "name": "merge_batch",
+   "module": "ledger/jobs.py",
+   "params": [
+    [
+     "max_age",
+     null
+    ],
+    [
+     "retries",
+     "2"
+    ],
+    [
+     "user_id",
+     "60"
+    ]
+   ],
+   "deprecated": false,
+   "replacement": null
+  },
+  "F15": {
+   "orig": "merge_token",
+   "name": "flush_shard",
+   "module": "notify/worker.py",
+   "params": [
+    [
+     "locale",
+     null
+    ],
+    [
+     "user_id",
+     "5"
+    ],
+    [
+     "strict",
+     "30"
+    ]
+   ],
+   "deprecated": true,
+   "replacement": "F22"
+  },
+  "F16": {
+   "orig": "render_batch",
+   "name": "emit_report",
+   "module": "auth/worker.py",
+   "params": [
+    [
+     "batch_size",
+     null
+    ],
+    [
+     "locale",
+     "10"
+    ]
+   ],
+   "deprecated": false,
+   "replacement": null
+  },
+  "F17": {
+   "orig": "render_receipt",
+   "name": "render_receipt",
+   "module": "cache/api.py",
+   "params": [
+    [
+     "user_id",
+     null
+    ],
+    [
+     "verbose",
+     "30"
+    ],
+    [
+     "limit",
+     "5"
+    ],
+    [
+     "tenant",
+     "30"
+    ]
+   ],
+   "deprecated": true,
+   "replacement": "F24"
+  },
+  "F18": {
+   "orig": "render_session",
+   "name": "render_session",
+   "module": "export/core.py",
+   "params": [
+    [
+     "dry_run",
+     null
+    ],
+    [
+     "timeout",
+     "100"
+    ]
+   ],
+   "deprecated": false,
+   "replacement": null
+  },
+  "F19": {
+   "orig": "render_snapshot",
+   "name": "render_batch",
+   "module": "billing/handlers.py",
+   "params": [
+    [
+     "limit",
+     null
+    ],
+    [
+     "batch_size",
+     "3"
+    ],
+    [
+     "cursor",
+     "2"
+    ],
+    [
+     "timeout",
+     "3"
+    ]
+   ],
+   "deprecated": false,
+   "replacement": null
+  },
+  "F20": {
+   "orig": "resolve_ledger",
+   "name": "parse_invoice",
+   "module": "geo/handlers.py",
+   "params": [
+    [
+     "limit",
+     null
+    ],
+    [
+     "tenant",
+     "1"
+    ],
+    [
+     "locale",
+     "5"
+    ],
+    [
+     "currency",
+     "1"
+    ]
+   ],
+   "deprecated": false,
+   "replacement": null
+  },
+  "F21": {
+   "orig": "resolve_token",
+   "name": "resolve_token",
+   "module": "auth/worker.py",
+   "params": [
+    [
+     "timeout",
+     null
+    ],
+    [
+     "locale",
+     "3"
+    ],
+    [
+     "user_id",
+     "2"
+    ]
+   ],
+   "deprecated": true,
+   "replacement": "F04"
+  },
+  "F22": {
+   "orig": "rotate_ledger",
+   "name": "rotate_ledger",
+   "module": "sync/client.py",
+   "params": [
+    [
+     "max_age",
+     null
+    ],
+    [
+     "region",
+     "100"
+    ],
+    [
+     "retries",
+     "1"
+    ],
+    [
+     "timeout",
+     "5"
+    ]
+   ],
+   "deprecated": false,
+   "replacement": null
+  },
+  "F23": {
+   "orig": "rotate_session",
+   "name": "rotate_session",
+   "module": "notify/jobs.py",
+   "params": [
+    [
+     "max_age",
+     null
+    ],
+    [
+     "currency",
+     "1"
+    ],
+    [
+     "region",
+     "3"
+    ],
+    [
+     "retries",
+     "1"
+    ]
+   ],
+   "deprecated": true,
+   "replacement": "F18"
+  },
+  "F24": {
+   "orig": "score_digest",
+   "name": "sync_snapshot",
+   "module": "cache/store.py",
+   "params": [
+    [
+     "region",
+     null
+    ],
+    [
+     "strict",
+     "10"
+    ],
+    [
+     "limit",
+     "10"
+    ]
+   ],
+   "deprecated": false,
+   "replacement": null
+  },
+  "F25": {
+   "orig": "score_policy",
+   "name": "score_receipt",
+   "module": "notify/jobs.py",
+   "params": [
+    [
+     "limit",
+     null
+    ],
+    [
+     "verbose",
+     "10"
+    ],
+    [
+     "tenant",
+     "10"
+    ]
+   ],
+   "deprecated": true,
+   "replacement": "F09"
+  },
+  "F26": {
+   "orig": "score_shard",
+   "name": "score_shard",
+   "module": "report/jobs.py",
+   "params": [
+    [
+     "max_age",
+     null
+    ],
+    [
+     "strict",
+     "60"
+    ],
+    [
+     "verbose",
+     "100"
+    ]
+   ],
+   "deprecated": true,
+   "replacement": "F16"
+  },
+  "F27": {
+   "orig": "score_tariff",
+   "name": "score_tariff",
+   "module": "export/rules.py",
+   "params": [
+    [
+     "region",
+     null
+    ],
+    [
+     "currency",
+     "100"
+    ],
+    [
+     "limit",
+     "5"
+    ]
+   ],
+   "deprecated": false,
+   "replacement": null
+  },
+  "F28": {
+   "orig": "sync_digest",
+   "name": "sync_receipt",
+   "module": "report/store.py",
+   "params": [
+    [
+     "cursor",
+     null
+    ],
+    [
+     "retries",
+     "5"
+    ],
+    [
+     "dry_run",
+     "10"
+    ],
+    [
+     "tenant",
+     "5"
+    ],
+    [
+     "region",
+     "0"
+    ]
+   ],
+   "deprecated": true,
+   "replacement": "F00"
+  },
+  "F29": {
+   "orig": "sync_report",
+   "name": "sync_report",
+   "module": "notify/jobs.py",
+   "params": [
+    [
+     "strict",
+     null
+    ],
+    [
+     "tenant",
+     "100"
+    ],
+    [
+     "dry_run",
+     "100"
+    ]
+   ],
+   "deprecated": false,
+   "replacement": null
+  }
+ },
+ "config": {
+  "RETRY_LIMIT": "15",
+  "CACHE_TTL_SECONDS": "15",
+  "MAX_UPLOAD_MB": "300",
+  "SESSION_TIMEOUT_MIN": "3",
+  "BATCH_WINDOW_SEC": "45",
+  "RATE_LIMIT_RPS": "30",
+  "EXPORT_CHUNK_ROWS": "5",
+  "AUDIT_RETENTION_DAYS": "300",
+  "SEARCH_PAGE_SIZE": "180",
+  "SYNC_INTERVAL_SEC": "120",
+  "TOKEN_TTL_MIN": "180",
+  "NOTIFY_BATCH_SIZE": "600"
+ },
+ "owner": {
+  "notify/jobs.py": "D05",
+  "report/store.py": "D06",
+  "audit/store.py": "D03",
+  "geo/handlers.py": "D06",
+  "cache/api.py": "D11",
+  "billing/handlers.py": "D05",
+  "auth/worker.py": "D06",
+  "sync/client.py": "D11",
+  "export/core.py": "D10",
+  "ledger/jobs.py": "D11",
+  "cache/store.py": "D04",
+  "report/jobs.py": "D02",
+  "export/rules.py": "D02",
+  "notify/worker.py": "D06"
+ },
+ "rules": {
+  "call": {
+   "domain": "billing",
+   "services": [
+    "reporting",
+    "scheduler"
+   ],
+   "eid": "E0059"
+  },
+  "flag": {
+   "flag": "ENABLE_PREFETCH",
+   "key": "CACHE_TTL_SECONDS",
+   "min": 60,
+   "eid": "E0060"
+  }
+ }
+}

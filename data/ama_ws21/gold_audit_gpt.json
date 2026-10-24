@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "Matches the search command, excluding the directory-changing prefix.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ambiguous",
+  "reason": "Step 5 lists matching files; Step 6 establishes which file implements polylog.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "Step 62 returned -log(-z + 1) and confirmed no exp_polar.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "The issue explicitly requires that exact symbolic value.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "Locating the implementation was a reasonable next action.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "wrong",
+  "reason": "Implementation began at Step 27; Step 35 only verified behavior.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "These are the two cases identified and handled in the source changes.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "Step 4 directly demonstrates this original expansion.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "Step 8 examined sympy/functions/special/zeta_functions.py.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ambiguous",
+  "reason": "Step 62 demonstrates success, but several earlier steps also demonstrate both fixes.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "Accurately describes the source edits in Steps 27 and 28.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "wrong",
+  "reason": "Both fixes were demonstrated, but only selected tests passed after a test was modified; all existing tests were not verified.",
+  "evidence": "whole trajectory"
+ }
+}

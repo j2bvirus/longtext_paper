@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "A wall sits 1 step to the right and `wall is stop` is active, so it blocks the move.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "Same cause: the wall 1 step to the right plus `wall is stop`.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "Nothing is listed 1 step to the left, so moving left would have succeeded.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "The `wall is stop` rule and the wall 1 step to the right together block movement.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "The agent would need to break `wall is stop`, and its text blocks are to the upper-left (wall 4 left, 1 up).",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "Breaking `wall is stop` by displacing one of its words would remove the barrier.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "The wall blocks `right`, and nothing is directly adjacent up, down or left.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "The agent's own position fails to update because the wall blocks it.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "The agent is directly left of a wall, held by `wall is stop`.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "None of the `right` actions made progress because the wall blocked every one.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "The `wall` 1 step to the right is the blocker, and `wall is stop` is the rule responsible.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "A wall adjacent on the right blocks movement through the STOP property.",
+  "evidence": "whole trajectory"
+ }
+}

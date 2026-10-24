@@ -1,0 +1,36 @@
+{
+ "name": "saga_v5_s3_d1_oracle_para_claude-claude-haiku-4-5-20251001_b4000",
+ "n": 222,
+ "acc": 0.8738738738738738,
+ "by_qtype": {
+  "ALIVE": 0.76,
+  "BIRTHPLACE": 0.875,
+  "EVER_VISITED": 1.0,
+  "GRANDPARENT": 1.0,
+  "KNOWS": 0.889,
+  "LOC_AT_EVENT": 0.571,
+  "LOC_NOW": 0.882,
+  "OCCUPATION_NOW": 1.0,
+  "OWNER_NOW": 0.917,
+  "OWNER_PREV": 1.0,
+  "PROMISE": 0.632,
+  "RULE_BRIDGE": 1.0,
+  "RULE_VAULT": 1.0,
+  "SPOUSE_NOW": 0.923
+ },
+ "mean_ctx_tokens": 126.3963963963964,
+ "sum_in_tokens": 203332,
+ "sum_out_tokens": 29135,
+ "sum_usd": 0.349007,
+ "sum_wall_s": 1093.575856924057,
+ "build": {
+  "embed_tokens": 0,
+  "llm_in": 0,
+  "llm_out": 0,
+  "usd": 0.0,
+  "wall_s": 3.337860107421875e-06
+ },
+ "record_tokens": 44727,
+ "n_chunks": 183,
+ "mean_ev_recall": 1.0
+}

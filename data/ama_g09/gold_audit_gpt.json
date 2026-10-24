@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "Step 0 explicitly saves the scope and tie-break rules to the referenced file path.",
+  "evidence": "steps [0, 1, 22, 23]"
+ },
+ "Q0001": {
+  "label": "ambiguous",
+  "reason": "Step 6 shows the Census Bureau “Page not found” error, but the shown steps do not establish a subsequent search for national zip archives.",
+  "evidence": "steps [5, 6, 7, 22, 23]"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "Step 3 provides the complete mapping of Washington’s 39 counties to county seats, needed to identify and compare the seats in Census data.",
+  "evidence": "steps [2, 3, 4, 22, 23]"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "Step 3 states Washington’s FIPS code is 53, and the task specifies the 2020 Census period.",
+  "evidence": "steps [3, 4, 5, 22, 23]"
+ },
+ "Q0004": {
+  "label": "ambiguous",
+  "reason": "Step 0 shows string values for file_path and content, but does not establish the tool’s exact required schema.",
+  "evidence": "steps [0, 1, 22, 23]"
+ },
+ "Q0005": {
+  "label": "ambiguous",
+  "reason": "Step 3 retrieved readable content and Step 10 returned binary data, but omitted Steps 4–9 could include a later successful retrieval.",
+  "evidence": "steps [3, 10, 22, 23]"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "Step 3 fetched the Wikipedia page listing Washington’s 39 counties and their respective county seats.",
+  "evidence": "steps [2, 3, 4, 22, 23]"
+ },
+ "Q0007": {
+  "label": "ambiguous",
+  "reason": "Step 9 searches for a .zip file, but earlier steps are not shown, so the first use or change from .txt cannot be established.",
+  "evidence": "steps [9, 22, 23]"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "Step 2 uses tavily_search with the exact query 'site:wikipedia.org List of counties in Washington county seat'.",
+  "evidence": "steps [1, 2, 3, 22, 23]"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "Step 1 marks the initial planning phase, step 0, as completed; no shown change occurs by Step 5.",
+  "evidence": "steps [0, 1, 2, 4, 5, 6, 22, 23]"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "Step 6 returned “Page not found,” and Step 10 exposed ZIP binary content rather than readable land area data.",
+  "evidence": "steps [6, 10, 22, 23]"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "Step 0 saved the dataset criteria, and Step 3 fetched the full county-to-seat mapping, establishing the rules and target entities.",
+  "evidence": "steps [0, 1, 2, 3, 4, 22, 23]"
+ }
+}

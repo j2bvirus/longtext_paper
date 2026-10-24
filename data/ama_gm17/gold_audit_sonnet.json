@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "wrong",
+  "reason": "The map already showed floor tiles. Step 22 reveals corridor `#` tiles, not `.`, and the door leads to a corridor, not a room.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ambiguous",
+  "reason": "Rewards are not in the trajectory. The doorway phrase does first appear at step 9, but the reward explanation is unverifiable.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "The failed east at step 45 left the position unchanged, so a repeat would fail the same way. Going south then let the agent move east again.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "wrong",
+  "reason": "Both failed moves were into solid stone in a corridor, not a room corner.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "The door opened at step 19 (\"The door opens.\"), and the agent could not pass it otherwise.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "wrong",
+  "reason": "At step 9 the tile west of (37,7) is a dark area, not a wall. The horizontal wall is to the southwest.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "The area is a corridor, shown as a \"dark area\" before it was entered.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "Step 9 first reports a \"doorway adjacent southwest\", and the agent turned south at step 10.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ambiguous",
+  "reason": "The probes were into solid stone in a corridor, not room boundaries. The intent is speculative.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "wrong",
+  "reason": "Step 19 only opened the door and the agent stayed at x=30, so it was not an entry step.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "ambiguous",
+  "reason": "Same unverifiable reward claim as Q0001.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "The door was closed and unlocked, since it opened on the first attempt.",
+  "evidence": "whole trajectory"
+ }
+}

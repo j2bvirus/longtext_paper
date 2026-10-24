@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "The SQL text and the 85084 count match step 10.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "Step 11 returned 517 from COUNT(DISTINCT \"case_barcode\").",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "Steps 11, 24, 25 and 26 form a plausible causal chain, and the 371 and 1232 figures match the observations.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "Dropping the per-case grouping would collapse the result to one max per cytoband, which is a sound counterfactual.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "The preconditions are supported by steps 5, 6, 12 and 15.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "The suggested next actions follow from steps 13–15 and match what the agent later did.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "The quoted `\"max_copy_number\"` caused the error, and step 17 fixed it by using the unquoted alias.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ambiguous",
+  "reason": "Step 19 hardcoded 517 inside a CTE, but step 23 then inlined 517 and dropped the CTE, so the \"last change\" is arguably step 23.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "The inference that large GROUP BY aggregation is the bottleneck is reasonable and consistent with the timeout pattern.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "Zero-length segments can pass the join predicates yet give an overlap of 0, which explains the 245,215 vs 245,594 gap.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "The table reference counts (15 and 15), the tool-call counts (8 bash, 17 SQL) and the outcome counts (10 successes, 6 timeouts, 1 compile error) all match.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "The turning points are correct, including step 24 grouping at the wrong grain and step 25 fixing it.",
+  "evidence": "whole trajectory"
+ }
+}

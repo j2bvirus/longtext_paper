@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "wrong",
+  "reason": "step 387 merged two 8s into a 16 (column [32,16,8,8] → [32,16,16,0]), not two 16s. The 64 came at step 389, not 388.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "wrong",
+  "reason": "the 2 at [2,1] was a spawn after the right move. The original 2s in row 2 merged into a 4.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "down merges the vertical 2s and 8s into 4 and 16; right would merge nothing. The column labels are off by one, but the conclusion holds.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "32+32 gives 64 in column 0 and 4+4 gives 8 in column 3, totalling 72.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "wrong",
+  "reason": "step 387 merged 8s, not 16s. Step 388 merged 16s into a 32 (reward 32), not 32s into a 64.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "the up at step 174 merged the 8s in column 1 into a 16 at (2,1), next to the 16 at (2,0).",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "the right and left outcomes described match the board.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "column [32,16,8,8] became [32,16,16,0], which enabled the 32 reward at step 388.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "wrong",
+  "reason": "the 2 at [2,1] was a spawn, not the slid 2 from [2,0]. The slid 2s merged into a 4.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "the left at step 386 only merged 2s in the bottom row, away from column 0.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "two 4s were vertically adjacent before step 71, and no vertical pair existed before step 72.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "a 2 spawned at [2,1] under the 2 at [1,1]. The step labels are shifted by one, but the event is correct.",
+  "evidence": "whole trajectory"
+ }
+}

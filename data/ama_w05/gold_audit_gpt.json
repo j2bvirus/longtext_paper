@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "This is the grep command executed at Step 12, excluding the directory-changing prefix.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "Step 10 searches _base.py for clear(), followed by viewing its implementation in Step 11.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ambiguous",
+  "reason": "“Without the fix applied” is unclear because the script itself applies a monkey patch; the reference also misstates the output text.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "Step 149 fails with the stated x-axis visibility AssertionError.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "wrong",
+  "reason": "Step 91 prints sys.path; it implements no fix or shared-axis prerequisite.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ambiguous",
+  "reason": "Additional tests and regression checks are reasonable, but several other next steps are equally supported.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "wrong",
+  "reason": "Step 91 makes no modification; the latest modification to cla() at that point was Step 63.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "wrong",
+  "reason": "Step 91 contains no fix implementation and reveals only Python import paths.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "wrong",
+  "reason": "Step 85 executes pip show matplotlib; it examines no method implementation.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "Steps 10–11 locate and display clear(), showing that it calls self.cla().",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "wrong",
+  "reason": "Axis.clear() resets tick parameters; the implemented approach reapplies outer-label hiding, rather than preserving state around an existing _label_outer() call.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "wrong",
+  "reason": "Successful checks validate monkey patches on installed Matplotlib; repository validation remains unsuccessful, and the final regression test fails.",
+  "evidence": "whole trajectory"
+ }
+}

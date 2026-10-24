@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "Step 10 shows the University of Leicester PDF returned 403 Forbidden, blocking extraction of its full text and volume calculations.",
+  "evidence": "steps [10, 11, 12, 33, 34]"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "Step 11 reports successful PDF extraction across 7 pages, including the bag volume calculation of 0.1777 m³.",
+  "evidence": "steps [10, 11, 12, 33, 34]"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "Step 6 marks discovery as completed and explicitly states readiness to proceed to Step 1 for extracting the fish bag volume.",
+  "evidence": "steps [0, 1, 2, 5, 6, 7, 33, 34]"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "Step 29 shows both PDF downloads returned 403 Forbidden, and Step 33 explicitly marks independent verification as blocked.",
+  "evidence": "steps [1, 2, 3, 28, 29, 30, 31, 33, 34]"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "Step 11 successfully retrieved the paper from the SciSpace mirror after the official URLs returned 403 errors.",
+  "evidence": "steps [8, 9, 10, 11, 33, 34]"
+ },
+ "Q0005": {
+  "label": "wrong",
+  "reason": "The download URL appeared in Step 0, but Step 9 had already revealed a 403 access restriction on the official Leicester site.",
+  "evidence": "steps [0, 1, 9, 10, 11, 33, 34]"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "Step 33 explicitly updates the Independent Verification objective (Step 2) to “blocked.”",
+  "evidence": "steps [1, 2, 3, 32, 33, 34]"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "Step 11 states “Therefore, the bag has a capacity of 0.1777 m3.”",
+  "evidence": "steps [10, 11, 12, 33, 34]"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "Step 11 explicitly states the bag could hold 56 Atlantic salmon and 13 Icelandic cod.",
+  "evidence": "steps [10, 11, 12, 33, 34]"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "Step 6 last modified the Step 0 status, marking it completed.",
+  "evidence": "steps [0, 1, 5, 6, 7, 33, 34]"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "Step 33 reports 403 errors blocking further PDF verification, while Step 11 had already extracted the explicit bag volume of 0.1777 m³.",
+  "evidence": "steps [1, 2, 3, 10, 11, 12, 13, 14, 15, 32, 33, 34]"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "Step 11 records the cylindrical bag, height and diameter of 0.6094 m, radius of 0.3047 m, and volume of 0.1777 m³, alongside the prolate-spheroid fish model.",
+  "evidence": "steps [10, 11, 12, 33, 34]"
+ }
+}

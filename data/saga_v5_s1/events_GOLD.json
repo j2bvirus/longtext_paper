@@ -1,0 +1,4724 @@
+[
+ {
+  "id": "E0000",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Corrmere household lived in the harbor town of Harrowford. Nymor Corrmere and his wife Ririne Corrmere had 4 children, all living at home: the eldest a son, Luric Corrmere; then a son, Motho Corrmere; then a daughter, Zadette Corrmere; then a son, Werald Corrmere.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P000",
+  "mother": "P001",
+  "children": [
+   "P002",
+   "P003",
+   "P004",
+   "P005"
+  ],
+  "place": "L07"
+ },
+ {
+  "id": "E0001",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Haskson household lived in Yarlhaven. Welan Haskson and his wife Islde Haskson had 3 children, all living at home: the eldest a son, Thirald Haskson; then a son, Gaten Haskson; then a son, Nedan Haskson.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P006",
+  "mother": "P007",
+  "children": [
+   "P008",
+   "P009",
+   "P010"
+  ],
+  "place": "L15"
+ },
+ {
+  "id": "E0002",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Corrwood household lived in the hill farms of Ostgate. Thiric Corrwood and his wife Thidette Corrwood had 4 children, all living at home: the eldest a daughter, Ullia Corrwood; then a daughter, Pevie Corrwood; then a daughter, Darine Corrwood; then a son, Nyvus Corrwood.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P011",
+  "mother": "P012",
+  "children": [
+   "P013",
+   "P014",
+   "P015",
+   "P016"
+  ],
+  "place": "L10"
+ },
+ {
+  "id": "E0003",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "In the hill farms of Ostgate lived Lurald Prydaby, married to Zaena Prydaby, with their children. In order of birth these were the eldest a son, Brebin Prydaby; then a son, Kanar Prydaby; then a daughter, Karine Prydaby; then a son, Haric Prydaby.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P017",
+  "mother": "P018",
+  "children": [
+   "P019",
+   "P020",
+   "P021",
+   "P022"
+  ],
+  "place": "L10"
+ },
+ {
+  "id": "E0004",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Marroway household lived in the river crossing at Gulstead. Orric Marroway and his wife Vovie Marroway had 3 children, all living at home: the eldest a son, Nyvus Marroway; then a daughter, Romira Marroway; then a son, Elten Marroway.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P023",
+  "mother": "P024",
+  "children": [
+   "P025",
+   "P026",
+   "P027"
+  ],
+  "place": "L06"
+ },
+ {
+  "id": "E0005",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "In the hill farms of Kelwick lived Voten Quillett, married to Comira Quillett, with their children. In order of birth these were the eldest a son, Wedan Quillett; then a daughter, Aelia Quillett.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P028",
+  "mother": "P029",
+  "children": [
+   "P030",
+   "P031"
+  ],
+  "place": "L09"
+ },
+ {
+  "id": "E0006",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Corrner household lived in the harbor town of Harrowford. Lulan Corrner and his wife Codette Corrner had 2 children, all living at home: the eldest a son, Thirald Corrner; then a daughter, Isena Corrner.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P032",
+  "mother": "P033",
+  "children": [
+   "P034",
+   "P035"
+  ],
+  "place": "L07"
+ },
+ {
+  "id": "E0007",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "In the harbor town of Fencombe lived Uldan Grimworth, married to Thilia Grimworth, with their children. In order of birth these were the eldest a daughter, Ilssa Grimworth; then a daughter, Darine Grimworth; then a daughter, Yessa Grimworth; then a son, Nylan Grimworth.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P036",
+  "mother": "P037",
+  "children": [
+   "P038",
+   "P039",
+   "P040",
+   "P041"
+  ],
+  "place": "L05"
+ },
+ {
+  "id": "E0008",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Stenner household lived in the village of Elmhaven. Garic Stenner and his wife Jomira Stenner had 3 children, all living at home: the eldest a daughter, Vowyn Stenner; then a daughter, Rolis Stenner; then a son, Ismor Stenner.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P042",
+  "mother": "P043",
+  "children": [
+   "P044",
+   "P045",
+   "P046"
+  ],
+  "place": "L04"
+ },
+ {
+  "id": "E0009",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "In the market town of Brynby lived Brerald Marrworth, married to Nemira Marrworth, with their children. In order of birth these were the eldest a son, Jomor Marrworth; then a son, Sebin Marrworth.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P047",
+  "mother": "P048",
+  "children": [
+   "P049",
+   "P050"
+  ],
+  "place": "L00"
+ },
+ {
+  "id": "E0010",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Haric Prydaby had married Romira Marroway some years before. The couple lived in Ostgate.",
+  "where": "L10",
+  "ref_deps": [],
+  "a": "P022",
+  "b": "P026",
+  "place": "L10"
+ },
+ {
+  "id": "E0011",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Thirald Corrner had married Ilssa Grimworth some years before. The couple lived in Harrowford.",
+  "where": "L07",
+  "ref_deps": [],
+  "a": "P034",
+  "b": "P038",
+  "place": "L07"
+ },
+ {
+  "id": "E0012",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Vowyn Stenner and Nedan Haskson were husband and wife. The couple lived in Elmhaven.",
+  "where": "L04",
+  "ref_deps": [],
+  "a": "P044",
+  "b": "P010",
+  "place": "L04"
+ },
+ {
+  "id": "E0013",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Darine Corrwood and Nyvus Marroway were husband and wife. The couple lived in Ostgate.",
+  "where": "L10",
+  "ref_deps": [],
+  "a": "P015",
+  "b": "P025",
+  "place": "L10"
+ },
+ {
+  "id": "E0014",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Kanar Prydaby and Aelia Quillett were husband and wife. The couple lived in Ostgate.",
+  "where": "L10",
+  "ref_deps": [],
+  "a": "P020",
+  "b": "P031",
+  "place": "L10"
+ },
+ {
+  "id": "E0015",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Isena Corrner had married Nyvus Corrwood some years before. The couple lived in Harrowford.",
+  "where": "L07",
+  "ref_deps": [],
+  "a": "P035",
+  "b": "P016",
+  "place": "L07"
+ },
+ {
+  "id": "E0016",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Nymor Corrmere worked as a herbalist.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P000",
+  "occupation": "herbalist",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0017",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Ririne Corrmere was a scribe.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P001",
+  "occupation": "scribe",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0018",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Luric Corrmere was born at Yarlhaven.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P002",
+  "occupation": null,
+  "birthplace": "L15",
+  "nick": null
+ },
+ {
+  "id": "E0019",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Motho Corrmere had been born in Gulstead.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P003",
+  "occupation": null,
+  "birthplace": "L06",
+  "nick": null
+ },
+ {
+  "id": "E0020",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Zadette Corrmere was born at Torcombe.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P004",
+  "occupation": null,
+  "birthplace": "L13",
+  "nick": null
+ },
+ {
+  "id": "E0021",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Werald Corrmere was a weaver.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P005",
+  "occupation": "weaver",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0022",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Welan Haskson worked as a miller.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P006",
+  "occupation": "miller",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0023",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Islde Haskson was a chandler.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P007",
+  "occupation": "chandler",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0024",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Thirald Haskson was born at Fencombe.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P008",
+  "occupation": null,
+  "birthplace": "L05",
+  "nick": null
+ },
+ {
+  "id": "E0025",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Gaten Haskson was a ferryman. Folk called Gaten Haskson \"Lame Gaten\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P009",
+  "occupation": "ferryman",
+  "birthplace": null,
+  "nick": "Lame Gaten"
+ },
+ {
+  "id": "E0026",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Nedan Haskson was a fisher. Nedan Haskson was born at Kelwick. Folk called Nedan Haskson \"Red Nedan\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P010",
+  "occupation": "fisher",
+  "birthplace": "L09",
+  "nick": "Red Nedan"
+ },
+ {
+  "id": "E0027",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Thidette Corrwood worked as a miller.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P012",
+  "occupation": "miller",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0028",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Ullia Corrwood was a chandler. Ullia Corrwood had been born in Elmhaven.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P013",
+  "occupation": "chandler",
+  "birthplace": "L04",
+  "nick": null
+ },
+ {
+  "id": "E0029",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Darine Corrwood was a scribe. Folk called Darine Corrwood \"Tall Darine\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P015",
+  "occupation": "scribe",
+  "birthplace": null,
+  "nick": "Tall Darine"
+ },
+ {
+  "id": "E0030",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Nyvus Corrwood had been born in Torcombe.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P016",
+  "occupation": null,
+  "birthplace": "L13",
+  "nick": null
+ },
+ {
+  "id": "E0031",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Zaena Prydaby was a scribe. Folk called Zaena Prydaby \"Old Zaena\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P018",
+  "occupation": "scribe",
+  "birthplace": null,
+  "nick": "Old Zaena"
+ },
+ {
+  "id": "E0032",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Brebin Prydaby was a cooper. Brebin Prydaby had been born in Wendhaven. Folk called Brebin Prydaby \"Red Brebin\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P019",
+  "occupation": "cooper",
+  "birthplace": "L14",
+  "nick": "Red Brebin"
+ },
+ {
+  "id": "E0033",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Kanar Prydaby was born at Gulstead.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P020",
+  "occupation": null,
+  "birthplace": "L06",
+  "nick": null
+ },
+ {
+  "id": "E0034",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Karine Prydaby was a mason. Karine Prydaby was born at Elmhaven. Folk called Karine Prydaby \"Karine the Younger\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P021",
+  "occupation": "mason",
+  "birthplace": "L04",
+  "nick": "Karine the Younger"
+ },
+ {
+  "id": "E0035",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Haric Prydaby was a miller. Haric Prydaby had been born in Salby.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P022",
+  "occupation": "miller",
+  "birthplace": "L12",
+  "nick": null
+ },
+ {
+  "id": "E0036",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Orric Marroway was a smith. Orric Marroway had been born in Coldstead.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P023",
+  "occupation": "smith",
+  "birthplace": "L02",
+  "nick": null
+ },
+ {
+  "id": "E0037",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Vovie Marroway worked as a smith. Folk called Vovie Marroway \"Old Vovie\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P024",
+  "occupation": "smith",
+  "birthplace": null,
+  "nick": "Old Vovie"
+ },
+ {
+  "id": "E0038",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Nyvus Marroway was a brewer.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P025",
+  "occupation": "brewer",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0039",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Romira Marroway was born at Elmhaven.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P026",
+  "occupation": null,
+  "birthplace": "L04",
+  "nick": null
+ },
+ {
+  "id": "E0040",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Elten Marroway was a scribe.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P027",
+  "occupation": "scribe",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0041",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Voten Quillett was a smith.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P028",
+  "occupation": "smith",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0042",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Wedan Quillett was a scribe. Wedan Quillett had been born in Gulstead.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P030",
+  "occupation": "scribe",
+  "birthplace": "L06",
+  "nick": null
+ },
+ {
+  "id": "E0043",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Aelia Quillett was born at Coldby.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P031",
+  "occupation": null,
+  "birthplace": "L01",
+  "nick": null
+ },
+ {
+  "id": "E0044",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Lulan Corrner was born at Brynby.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P032",
+  "occupation": null,
+  "birthplace": "L00",
+  "nick": null
+ },
+ {
+  "id": "E0045",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Codette Corrner was a smith.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P033",
+  "occupation": "smith",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0046",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Thirald Corrner had been born in Elmhaven.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P034",
+  "occupation": null,
+  "birthplace": "L04",
+  "nick": null
+ },
+ {
+  "id": "E0047",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Folk called Isena Corrner \"Old Isena\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P035",
+  "occupation": null,
+  "birthplace": null,
+  "nick": "Old Isena"
+ },
+ {
+  "id": "E0048",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Uldan Grimworth was a smith. Uldan Grimworth had been born in Coldstead. Folk called Uldan Grimworth \"Red Uldan\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P036",
+  "occupation": "smith",
+  "birthplace": "L02",
+  "nick": "Red Uldan"
+ },
+ {
+  "id": "E0049",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Thilia Grimworth worked as a cooper. Thilia Grimworth was born at Coldstead. Folk called Thilia Grimworth \"Lame Thilia\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P037",
+  "occupation": "cooper",
+  "birthplace": "L02",
+  "nick": "Lame Thilia"
+ },
+ {
+  "id": "E0050",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Ilssa Grimworth worked as a scribe. Ilssa Grimworth was born at Elmhaven.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P038",
+  "occupation": "scribe",
+  "birthplace": "L04",
+  "nick": null
+ },
+ {
+  "id": "E0051",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Yessa Grimworth was a smith.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P040",
+  "occupation": "smith",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0052",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Nylan Grimworth worked as a glazier.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P041",
+  "occupation": "glazier",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0053",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Garic Stenner was a smith. Garic Stenner was born at Harrowford.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P042",
+  "occupation": "smith",
+  "birthplace": "L07",
+  "nick": null
+ },
+ {
+  "id": "E0054",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Jomira Stenner was a chandler. Jomira Stenner had been born in Yarlhaven.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P043",
+  "occupation": "chandler",
+  "birthplace": "L15",
+  "nick": null
+ },
+ {
+  "id": "E0055",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Vowyn Stenner worked as a ferryman. Vowyn Stenner had been born in Harrowford.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P044",
+  "occupation": "ferryman",
+  "birthplace": "L07",
+  "nick": null
+ },
+ {
+  "id": "E0056",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Rolis Stenner worked as a fisher.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P045",
+  "occupation": "fisher",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0057",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Ismor Stenner worked as a fisher. Ismor Stenner was born at Kelcombe. Folk called Ismor Stenner \"Old Ismor\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P046",
+  "occupation": "fisher",
+  "birthplace": "L08",
+  "nick": "Old Ismor"
+ },
+ {
+  "id": "E0058",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Brerald Marrworth worked as a cooper.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P047",
+  "occupation": "cooper",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0059",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Nemira Marrworth was a mason. Nemira Marrworth was born at Kelwick.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P048",
+  "occupation": "mason",
+  "birthplace": "L09",
+  "nick": null
+ },
+ {
+  "id": "E0060",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Jomor Marrworth was a ferryman.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P049",
+  "occupation": "ferryman",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0061",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Sebin Marrworth had been born in Fencombe.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P050",
+  "occupation": null,
+  "birthplace": "L05",
+  "nick": null
+ },
+ {
+  "id": "E0062",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Garic Stenner kept the amber ring in a cedar box.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I02",
+  "owner": "P042"
+ },
+ {
+  "id": "E0063",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The garnet flute belonged to Werald Corrmere.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I05",
+  "owner": "P005"
+ },
+ {
+  "id": "E0064",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The iron dagger belonged to Brebin Prydaby.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I06",
+  "owner": "P019"
+ },
+ {
+  "id": "E0065",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The jade dagger belonged to Nymor Corrmere, head of the Corrmere household.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I09",
+  "owner": "P000"
+ },
+ {
+  "id": "E0066",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The silver map belonged to Vowyn Stenner.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I11",
+  "owner": "P044"
+ },
+ {
+  "id": "E0067",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Among the possessions of Brebin Prydaby was the jade chalice.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I08",
+  "owner": "P019"
+ },
+ {
+  "id": "E0068",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Nymor Corrmere kept the copper map in a cedar box.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I03",
+  "owner": "P000"
+ },
+ {
+  "id": "E0069",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Romira Marroway kept the amber flute in a cedar box.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I01",
+  "owner": "P026"
+ },
+ {
+  "id": "E0070",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Among the possessions of Thirald Haskson was the ivory locket.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I07",
+  "owner": "P008"
+ },
+ {
+  "id": "E0071",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Among the possessions of Garic Stenner was the garnet comb.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I04",
+  "owner": "P042"
+ },
+ {
+  "id": "E0072",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The amber compass belonged to Brebin Prydaby.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I00",
+  "owner": "P019"
+ },
+ {
+  "id": "E0073",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Among the possessions of Nyvus Marroway was the jade ring.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I10",
+  "owner": "P025"
+ },
+ {
+  "id": "E0074",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Werald Corrmere knew that the harbor master of Coldwick takes bribes.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S00",
+  "person": "P005"
+ },
+ {
+  "id": "E0075",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Nyvus Marroway alone carried the knowledge that the Stenner mill ledger was rewritten after the flood.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S01",
+  "person": "P025"
+ },
+ {
+  "id": "E0076",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Thidette Corrwood knew that the fire at the Yarlhaven granary was set on purpose.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S02",
+  "person": "P012"
+ },
+ {
+  "id": "E0077",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Darine Grimworth knew that a chest of silver lies buried beneath the well at Coldwick.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S03",
+  "person": "P039"
+ },
+ {
+  "id": "E0078",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Pevie Corrwood knew that the Marroway family once owed a blood debt to the Haskson family.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S04",
+  "person": "P014"
+ },
+ {
+  "id": "E0079",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Thirald Haskson knew that the bridge toll at Kelwick is skimmed every month.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S05",
+  "person": "P008"
+ },
+ {
+  "id": "E0080",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Lulan Corrner alone carried the knowledge that the old abbey at Ostton hides a second cellar.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S06",
+  "person": "P032"
+ },
+ {
+  "id": "E0081",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Werald Corrmere knew that the deed to the Gulstead pastures was forged.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S07",
+  "person": "P005"
+ },
+ {
+  "id": "E0082",
+  "type": "RULE_VAULT",
+  "chapter": 1,
+  "text": "It was an old law of Coldstead that the vault beneath its chapel would open only for a living person who held both the silver map and the copper map at once.",
+  "where": null,
+  "ref_deps": [],
+  "place": "L02",
+  "items": [
+   "I11",
+   "I03"
+  ]
+ },
+ {
+  "id": "E0083",
+  "type": "RULE_BRIDGE",
+  "chapter": 1,
+  "text": "The toll bridge at Ostton belonged to the Stenner family, and only those born a Stenner, or presently married to one, were allowed to cross it.",
+  "where": null,
+  "ref_deps": [],
+  "place": "L11",
+  "surname": "Stenner"
+ },
+ {
+  "id": "E0084",
+  "type": "RULE_HEIR",
+  "chapter": 1,
+  "text": "By custom, the jade dagger always passed, on the death of whoever held it, to the eldest living child of that holder; no will could change this, and it passed without ceremony.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I09",
+  "surname": "Corrmere"
+ },
+ {
+  "id": "E0085",
+  "type": "MARRY",
+  "chapter": 2,
+  "text": "Before the autumn was out, Motho Corrmere took Yessa Grimworth in marriage at Harrowford. The couple lived in Harrowford from then on.",
+  "where": "L07",
+  "ref_deps": [],
+  "a": "P003",
+  "b": "P040",
+  "place": "L07"
+ },
+ {
+  "id": "E0086",
+  "type": "BIRTH",
+  "chapter": 2,
+  "text": "Isena Corrner gave birth to a son, named Romor Corrwood; the father was Nyvus Corrwood. The family lived in Harrowford.",
+  "where": "L07",
+  "ref_deps": [],
+  "child": "P051",
+  "mother": "P035",
+  "father": "P016",
+  "place": "L07"
+ },
+ {
+  "id": "E0087",
+  "type": "TELL",
+  "chapter": 2,
+  "text": "Lulan Corrner could keep it no longer and told the wife of Nymor Corrmere that the old abbey at Ostton hides a second cellar.",
+  "where": "L07",
+  "ref_deps": [
+   "E0000"
+  ],
+  "secret": "S06",
+  "src": "P032",
+  "dest": "P001"
+ },
+ {
+  "id": "E0088",
+  "type": "PLAN",
+  "chapter": 2,
+  "text": "Comira Quillett meant to go to Coldby before the frost, but the roads flooded and the journey was put off.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P029",
+  "dest": "L01"
+ },
+ {
+  "id": "E0089",
+  "type": "GIVE",
+  "chapter": 2,
+  "text": "Red Brebin gave the iron dagger to Nyvus Marroway.",
+  "where": "L10",
+  "ref_deps": [
+   "E0032"
+  ],
+  "item": "I06",
+  "src": "P019",
+  "dest": "P025"
+ },
+ {
+  "id": "E0090",
+  "type": "MARRY",
+  "chapter": 2,
+  "text": "Elten Marroway and Darine Grimworth were wed at Gulstead, with half the parish looking on. The couple lived in Gulstead from then on.",
+  "where": "L06",
+  "ref_deps": [],
+  "a": "P027",
+  "b": "P039",
+  "place": "L06"
+ },
+ {
+  "id": "E0091",
+  "type": "PROMISE",
+  "chapter": 3,
+  "text": "Sebin gave Brerald Marrworth a solemn promise to carry a sealed letter to Torcombe.",
+  "where": "L00",
+  "ref_deps": [
+   "E0009"
+  ],
+  "promise": "R00",
+  "a": "P050",
+  "b": "P047",
+  "act": "to carry a sealed letter to Torcombe"
+ },
+ {
+  "id": "E0092",
+  "type": "MARRY",
+  "chapter": 3,
+  "text": "Before the winter was out, Pevie Corrwood took Jomor in marriage at Ostgate. The couple lived in Ostgate from then on.",
+  "where": "L10",
+  "ref_deps": [
+   "E0009"
+  ],
+  "a": "P014",
+  "b": "P049",
+  "place": "L10"
+ },
+ {
+  "id": "E0093",
+  "type": "TELL",
+  "chapter": 3,
+  "text": "Werald could keep it no longer and told Ilssa Grimworth that the deed to the Gulstead pastures was forged.",
+  "where": "L07",
+  "ref_deps": [
+   "E0000"
+  ],
+  "secret": "S07",
+  "src": "P005",
+  "dest": "P038"
+ },
+ {
+  "id": "E0094",
+  "type": "GIVE",
+  "chapter": 3,
+  "text": "Werald Corrmere gave the garnet flute to Ririne Corrmere.",
+  "where": "L07",
+  "ref_deps": [],
+  "item": "I05",
+  "src": "P005",
+  "dest": "P001"
+ },
+ {
+  "id": "E0095",
+  "type": "TELL",
+  "chapter": 3,
+  "text": "In a letter that the husband of Darine Grimworth burned after reading, the second daughter of Thilia Grimworth revealed that a chest of silver lies buried beneath the well at Coldwick.",
+  "where": "L06",
+  "ref_deps": [
+   "E0007",
+   "E0090"
+  ],
+  "secret": "S03",
+  "src": "P039",
+  "dest": "P027"
+ },
+ {
+  "id": "E0096",
+  "type": "TRAVEL",
+  "chapter": 3,
+  "text": "The wife of Elten Marroway packed a single trunk and moved from Gulstead to Harrowford.",
+  "where": "L06",
+  "ref_deps": [
+   "E0090"
+  ],
+  "person": "P039",
+  "src": "L06",
+  "dest": "L07"
+ },
+ {
+  "id": "E0097",
+  "type": "TRAVEL",
+  "chapter": 3,
+  "text": "Elten went along to live in Harrowford as well.",
+  "where": "L06",
+  "ref_deps": [
+   "E0004"
+  ],
+  "person": "P027",
+  "src": "L06",
+  "dest": "L07"
+ },
+ {
+  "id": "E0098",
+  "type": "BIRTH",
+  "chapter": 4,
+  "text": "A son was born to Yessa Grimworth and Motho Corrmere, and they called the child Aelan Corrmere. The family lived in Harrowford.",
+  "where": "L07",
+  "ref_deps": [],
+  "child": "P052",
+  "mother": "P040",
+  "father": "P003",
+  "place": "L07"
+ },
+ {
+  "id": "E0099",
+  "type": "GIVE",
+  "chapter": 4,
+  "text": "Thirald Haskson sent the ivory locket by carrier to Garic, who received it safely.",
+  "where": "L15",
+  "ref_deps": [
+   "E0008"
+  ],
+  "item": "I07",
+  "src": "P008",
+  "dest": "P042"
+ },
+ {
+  "id": "E0100",
+  "type": "GIVE",
+  "chapter": 4,
+  "text": "Garic Stenner gave the garnet comb to Ismor.",
+  "where": "L04",
+  "ref_deps": [
+   "E0008"
+  ],
+  "item": "I04",
+  "src": "P042",
+  "dest": "P046"
+ },
+ {
+  "id": "E0101",
+  "type": "GIVE",
+  "chapter": 4,
+  "text": "Brebin Prydaby pressed the jade chalice into the hands of Jomor Marrworth and would take nothing for it.",
+  "where": "L10",
+  "ref_deps": [],
+  "item": "I08",
+  "src": "P019",
+  "dest": "P049"
+ },
+ {
+  "id": "E0102",
+  "type": "MARRY",
+  "chapter": 4,
+  "text": "In the chapel at Ostgate, Karine Prydaby married Sebin Marrworth. The couple lived in Ostgate from then on.",
+  "where": "L10",
+  "ref_deps": [],
+  "a": "P021",
+  "b": "P050",
+  "place": "L10"
+ },
+ {
+  "id": "E0103",
+  "type": "MARRY",
+  "chapter": 4,
+  "text": "In the chapel at Kelwick, the only son of Comira Quillett married Ullia Corrwood. The couple lived in Kelwick from then on.",
+  "where": "L09",
+  "ref_deps": [
+   "E0005"
+  ],
+  "a": "P030",
+  "b": "P013",
+  "place": "L09"
+ },
+ {
+  "id": "E0104",
+  "type": "TELL",
+  "chapter": 4,
+  "text": "In a letter that Lulan Corrner burned after reading, Werald Corrmere revealed that the harbor master of Coldwick takes bribes.",
+  "where": "L07",
+  "ref_deps": [],
+  "secret": "S00",
+  "src": "P005",
+  "dest": "P032"
+ },
+ {
+  "id": "E0105",
+  "type": "MARRY",
+  "chapter": 4,
+  "text": "In the chapel at Harrowford, Werald Corrmere married Rolis Stenner. The couple lived in Harrowford from then on.",
+  "where": "L07",
+  "ref_deps": [],
+  "a": "P005",
+  "b": "P045",
+  "place": "L07"
+ },
+ {
+  "id": "E0106",
+  "type": "MARRY",
+  "chapter": 5,
+  "text": "Brebin and Zadette were wed at Ostgate, with half the parish looking on. The couple lived in Ostgate from then on.",
+  "where": "L10",
+  "ref_deps": [
+   "E0000",
+   "E0003"
+  ],
+  "a": "P019",
+  "b": "P004",
+  "place": "L10"
+ },
+ {
+  "id": "E0107",
+  "type": "PROMISE",
+  "chapter": 5,
+  "text": "Jomor Marrworth swore to Thiric Corrwood to plant an orchard on the slope above Coldstead, and shook on it.",
+  "where": "L10",
+  "ref_deps": [],
+  "promise": "R01",
+  "a": "P049",
+  "b": "P011",
+  "act": "to plant an orchard on the slope above Coldstead"
+ },
+ {
+  "id": "E0108",
+  "type": "RUMOR",
+  "chapter": 5,
+  "text": "A rumor started by Comira Quillett had it that Brebin Prydaby was dead of plague; Comira Quillett had it from a peddler.",
+  "where": "L09",
+  "ref_deps": [],
+  "teller": "P029",
+  "claim": {
+   "kind": "dead",
+   "target": "P019"
+  }
+ },
+ {
+  "id": "E0109",
+  "type": "TRAVEL",
+  "chapter": 5,
+  "text": "Comira found work in Coldwick, moved there, and did not return to Kelwick.",
+  "where": "L09",
+  "ref_deps": [
+   "E0005"
+  ],
+  "person": "P029",
+  "src": "L09",
+  "dest": "L03"
+ },
+ {
+  "id": "E0110",
+  "type": "TRAVEL",
+  "chapter": 5,
+  "text": "Voten Quillett went along to live in Coldwick as well.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P028",
+  "src": "L09",
+  "dest": "L03"
+ },
+ {
+  "id": "E0111",
+  "type": "TRAVEL",
+  "chapter": 5,
+  "text": "The only son of Jomira Stenner found work in Coldstead, moved there, and did not return to Elmhaven.",
+  "where": "L04",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P046",
+  "src": "L04",
+  "dest": "L02"
+ },
+ {
+  "id": "E0112",
+  "type": "TRAVEL",
+  "chapter": 5,
+  "text": "Zaena packed a single trunk and moved from Ostgate to Kelwick.",
+  "where": "L10",
+  "ref_deps": [
+   "E0003"
+  ],
+  "person": "P018",
+  "src": "L10",
+  "dest": "L09"
+ },
+ {
+  "id": "E0113",
+  "type": "TRAVEL",
+  "chapter": 5,
+  "text": "Lurald went along to live in Kelwick as well.",
+  "where": "L10",
+  "ref_deps": [
+   "E0003"
+  ],
+  "person": "P017",
+  "src": "L10",
+  "dest": "L09"
+ },
+ {
+  "id": "E0114",
+  "type": "OCCUPATION",
+  "chapter": 5,
+  "text": "Lurald Prydaby was apprenticed anew and became a fisher.",
+  "where": "L09",
+  "ref_deps": [
+   "E0003"
+  ],
+  "person": "P017",
+  "old": null,
+  "new": "fisher"
+ },
+ {
+  "id": "E0115",
+  "type": "TELL",
+  "chapter": 6,
+  "text": "In a letter that Thidette Corrwood burned after reading, Pevie Corrwood revealed that the Marroway family once owed a blood debt to the Haskson family.",
+  "where": "L10",
+  "ref_deps": [],
+  "secret": "S04",
+  "src": "P014",
+  "dest": "P012"
+ },
+ {
+  "id": "E0116",
+  "type": "TRAVEL",
+  "chapter": 6,
+  "text": "Pevie rode out of Ostgate; by the next market day she was living in Harrowford.",
+  "where": "L10",
+  "ref_deps": [
+   "E0002"
+  ],
+  "person": "P014",
+  "src": "L10",
+  "dest": "L07"
+ },
+ {
+  "id": "E0117",
+  "type": "TRAVEL",
+  "chapter": 6,
+  "text": "Jomor Marrworth went along to live in Harrowford as well.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P049",
+  "src": "L10",
+  "dest": "L07"
+ },
+ {
+  "id": "E0118",
+  "type": "TRAVEL",
+  "chapter": 6,
+  "text": "The wife of Thiric Corrwood rode out of Ostgate; by the next market day she was living in Yarlhaven.",
+  "where": "L10",
+  "ref_deps": [
+   "E0002"
+  ],
+  "person": "P012",
+  "src": "L10",
+  "dest": "L15"
+ },
+ {
+  "id": "E0119",
+  "type": "TRAVEL",
+  "chapter": 6,
+  "text": "Thiric Corrwood followed her to Yarlhaven within the month.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P011",
+  "src": "L10",
+  "dest": "L15"
+ },
+ {
+  "id": "E0120",
+  "type": "GIVE",
+  "chapter": 6,
+  "text": "A parcel from Ismor reached Thiric Corrwood; inside was the garnet comb, now his to keep.",
+  "where": "L02",
+  "ref_deps": [
+   "E0008"
+  ],
+  "item": "I04",
+  "src": "P046",
+  "dest": "P011"
+ },
+ {
+  "id": "E0121",
+  "type": "RESOLVE",
+  "chapter": 6,
+  "text": "True to his word to Thiric Corrwood, Jomor Marrworth finished what he had promised (plant an orchard on the slope above Coldstead).",
+  "where": "L07",
+  "ref_deps": [],
+  "promise": "R01",
+  "kept": true
+ },
+ {
+  "id": "E0122",
+  "type": "TELL",
+  "chapter": 6,
+  "text": "Late one night Lulan confided to Nymor Corrmere that the harbor master of Coldwick takes bribes.",
+  "where": "L07",
+  "ref_deps": [
+   "E0006"
+  ],
+  "secret": "S00",
+  "src": "P032",
+  "dest": "P000"
+ },
+ {
+  "id": "E0123",
+  "type": "PROMISE",
+  "chapter": 6,
+  "text": "Ririne Corrmere swore to Codette Corrner to rebuild the fallen wall at Yarlhaven, and shook on it.",
+  "where": "L07",
+  "ref_deps": [],
+  "promise": "R02",
+  "a": "P001",
+  "b": "P033",
+  "act": "to rebuild the fallen wall at Yarlhaven"
+ },
+ {
+  "id": "E0124",
+  "type": "TELL",
+  "chapter": 7,
+  "text": "Darine Grimworth could keep it no longer and told Old Isena that a chest of silver lies buried beneath the well at Coldwick.",
+  "where": "L07",
+  "ref_deps": [
+   "E0047"
+  ],
+  "secret": "S03",
+  "src": "P039",
+  "dest": "P035"
+ },
+ {
+  "id": "E0125",
+  "type": "GIVE",
+  "chapter": 7,
+  "text": "Garic pressed the ivory locket into the hands of Nedan Haskson and would take nothing for it.",
+  "where": "L04",
+  "ref_deps": [
+   "E0008"
+  ],
+  "item": "I07",
+  "src": "P042",
+  "dest": "P010"
+ },
+ {
+  "id": "E0126",
+  "type": "GIVE",
+  "chapter": 7,
+  "text": "Thiric Corrwood gave the garnet comb to Thidette Corrwood.",
+  "where": "L15",
+  "ref_deps": [],
+  "item": "I04",
+  "src": "P011",
+  "dest": "P012"
+ },
+ {
+  "id": "E0127",
+  "type": "TRAVEL",
+  "chapter": 7,
+  "text": "Brebin Prydaby left Ostgate and settled in Fencombe.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P019",
+  "src": "L10",
+  "dest": "L05"
+ },
+ {
+  "id": "E0128",
+  "type": "TRAVEL",
+  "chapter": 7,
+  "text": "Zadette Corrmere followed him to Fencombe within the month.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P004",
+  "src": "L10",
+  "dest": "L05"
+ },
+ {
+  "id": "E0129",
+  "type": "RESOLVE",
+  "chapter": 7,
+  "text": "Ririne Corrmere never did keep the promise made to Codette Corrner (rebuild the fallen wall at Yarlhaven); the matter was abandoned.",
+  "where": "L07",
+  "ref_deps": [],
+  "promise": "R02",
+  "kept": false
+ },
+ {
+  "id": "E0130",
+  "type": "TELL",
+  "chapter": 8,
+  "text": "Late one night the second daughter of Thiric Corrwood confided to Nyvus Corrwood that the Marroway family once owed a blood debt to the Haskson family.",
+  "where": "L07",
+  "ref_deps": [
+   "E0002"
+  ],
+  "secret": "S04",
+  "src": "P014",
+  "dest": "P016"
+ },
+ {
+  "id": "E0131",
+  "type": "TRAVEL",
+  "chapter": 8,
+  "text": "Rolis packed a single trunk and moved from Harrowford to Kelcombe.",
+  "where": "L07",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P045",
+  "src": "L07",
+  "dest": "L08"
+ },
+ {
+  "id": "E0132",
+  "type": "TRAVEL",
+  "chapter": 8,
+  "text": "Werald Corrmere went along to live in Kelcombe as well.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P005",
+  "src": "L07",
+  "dest": "L08"
+ },
+ {
+  "id": "E0133",
+  "type": "TRAVEL",
+  "chapter": 8,
+  "text": "Ilssa Grimworth packed a single trunk and moved from Harrowford to Brynby.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P038",
+  "src": "L07",
+  "dest": "L00"
+ },
+ {
+  "id": "E0134",
+  "type": "TRAVEL",
+  "chapter": 8,
+  "text": "Thirald Corrner followed her to Brynby within the month.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P034",
+  "src": "L07",
+  "dest": "L00"
+ },
+ {
+  "id": "E0135",
+  "type": "GIVE",
+  "chapter": 8,
+  "text": "Nedan pressed the ivory locket into the hands of Vowyn Stenner and would take nothing for it.",
+  "where": "L04",
+  "ref_deps": [
+   "E0001"
+  ],
+  "item": "I07",
+  "src": "P010",
+  "dest": "P044"
+ },
+ {
+  "id": "E0136",
+  "type": "TRAVEL",
+  "chapter": 8,
+  "text": "Zaena packed a single trunk and moved from Kelwick to Ostton.",
+  "where": "L09",
+  "ref_deps": [
+   "E0003"
+  ],
+  "person": "P018",
+  "src": "L09",
+  "dest": "L11"
+ },
+ {
+  "id": "E0137",
+  "type": "TRAVEL",
+  "chapter": 8,
+  "text": "Lurald Prydaby followed her to Ostton within the month.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P017",
+  "src": "L09",
+  "dest": "L11"
+ },
+ {
+  "id": "E0138",
+  "type": "TRAVEL",
+  "chapter": 8,
+  "text": "Wedan Quillett rode out of Kelwick; by the next market day he was living in Coldstead.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P030",
+  "src": "L09",
+  "dest": "L02"
+ },
+ {
+  "id": "E0139",
+  "type": "TRAVEL",
+  "chapter": 8,
+  "text": "Ullia Corrwood followed him to Coldstead within the month.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P013",
+  "src": "L09",
+  "dest": "L02"
+ },
+ {
+  "id": "E0140",
+  "type": "TELL",
+  "chapter": 9,
+  "text": "In a letter that Isena Corrner burned after reading, Lulan revealed that the harbor master of Coldwick takes bribes.",
+  "where": "L07",
+  "ref_deps": [
+   "E0006"
+  ],
+  "secret": "S00",
+  "src": "P032",
+  "dest": "P035"
+ },
+ {
+  "id": "E0141",
+  "type": "TRAVEL",
+  "chapter": 9,
+  "text": "Codette Corrner found work in Torcombe, moved there, and did not return to Harrowford.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P033",
+  "src": "L07",
+  "dest": "L13"
+ },
+ {
+  "id": "E0142",
+  "type": "TRAVEL",
+  "chapter": 9,
+  "text": "Lulan Corrner went along to live in Torcombe as well.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P032",
+  "src": "L07",
+  "dest": "L13"
+ },
+ {
+  "id": "E0143",
+  "type": "TELL",
+  "chapter": 9,
+  "text": "Late one night the second daughter of Uldan Grimworth confided to the only son of Thidette Corrwood that a chest of silver lies buried beneath the well at Coldwick.",
+  "where": "L07",
+  "ref_deps": [
+   "E0002",
+   "E0007"
+  ],
+  "secret": "S03",
+  "src": "P039",
+  "dest": "P016"
+ },
+ {
+  "id": "E0144",
+  "type": "RUMOR",
+  "chapter": 9,
+  "text": "Nymor told everyone at the inn that Welan Haskson had drowned crossing the estuary, though no body was ever seen.",
+  "where": "L07",
+  "ref_deps": [
+   "E0000"
+  ],
+  "teller": "P000",
+  "claim": {
+   "kind": "dead",
+   "target": "P006"
+  }
+ },
+ {
+  "id": "E0145",
+  "type": "PROMISE",
+  "chapter": 9,
+  "text": "Pevie Corrwood swore to Motho to rebuild the fallen wall at Kelcombe, and shook on it.",
+  "where": "L07",
+  "ref_deps": [
+   "E0000"
+  ],
+  "promise": "R03",
+  "a": "P014",
+  "b": "P003",
+  "act": "to rebuild the fallen wall at Kelcombe"
+ },
+ {
+  "id": "E0146",
+  "type": "PLAN",
+  "chapter": 10,
+  "text": "Ririne meant to go to Brynby before the frost, but the roads flooded and the journey was put off.",
+  "where": "L07",
+  "ref_deps": [
+   "E0000"
+  ],
+  "person": "P001",
+  "dest": "L00"
+ },
+ {
+  "id": "E0147",
+  "type": "GIVE",
+  "chapter": 10,
+  "text": "A parcel from Garic Stenner reached Rolis; inside was the amber ring, now hers to keep.",
+  "where": "L04",
+  "ref_deps": [
+   "E0008"
+  ],
+  "item": "I02",
+  "src": "P042",
+  "dest": "P045"
+ },
+ {
+  "id": "E0148",
+  "type": "DEATH",
+  "chapter": 10,
+  "text": "That autumn, a kick from a cart horse took Brerald Marrworth; he was buried at Brynby.",
+  "where": "L00",
+  "ref_deps": [],
+  "person": "P047",
+  "cause": "a kick from a cart horse",
+  "place": "L00"
+ },
+ {
+  "id": "E0149",
+  "type": "PROMISE",
+  "chapter": 10,
+  "text": "Jomor Marrworth swore to Ririne to pay the old debt owed to the Quillett family, and shook on it.",
+  "where": "L07",
+  "ref_deps": [
+   "E0000"
+  ],
+  "promise": "R04",
+  "a": "P049",
+  "b": "P001",
+  "act": "to pay the old debt owed to the Quillett family"
+ },
+ {
+  "id": "E0150",
+  "type": "TRAVEL",
+  "chapter": 10,
+  "text": "Jomor found work in Kelwick, moved there, and did not return to Harrowford.",
+  "where": "L07",
+  "ref_deps": [
+   "E0009"
+  ],
+  "person": "P049",
+  "src": "L07",
+  "dest": "L09"
+ },
+ {
+  "id": "E0151",
+  "type": "TRAVEL",
+  "chapter": 10,
+  "text": "Pevie Corrwood went along to live in Kelwick as well.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P014",
+  "src": "L07",
+  "dest": "L09"
+ },
+ {
+  "id": "E0152",
+  "type": "PLAN",
+  "chapter": 10,
+  "text": "Brebin Prydaby meant to go to Brynby before the frost, but the roads flooded and the journey was put off.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P019",
+  "dest": "L00"
+ },
+ {
+  "id": "E0153",
+  "type": "MARRY",
+  "chapter": 11,
+  "text": "In the chapel at Coldstead, Ismor Stenner married Nemira Marrworth. The couple lived in Coldstead from then on.",
+  "where": "L02",
+  "ref_deps": [],
+  "a": "P046",
+  "b": "P048",
+  "place": "L02"
+ },
+ {
+  "id": "E0154",
+  "type": "PLAN",
+  "chapter": 11,
+  "text": "Elten talked for weeks of going to Fencombe, yet in the end stayed where he was.",
+  "where": "L07",
+  "ref_deps": [
+   "E0004"
+  ],
+  "person": "P027",
+  "dest": "L05"
+ },
+ {
+  "id": "E0155",
+  "type": "PLAN",
+  "chapter": 11,
+  "text": "Isena Corrner talked for weeks of going to Wendhaven, yet in the end stayed where she was.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P035",
+  "dest": "L14"
+ },
+ {
+  "id": "E0156",
+  "type": "RESOLVE",
+  "chapter": 11,
+  "text": "Pevie never did keep the promise made to Motho Corrmere (rebuild the fallen wall at Kelcombe); the matter was abandoned.",
+  "where": "L09",
+  "ref_deps": [
+   "E0002"
+  ],
+  "promise": "R03",
+  "kept": false
+ },
+ {
+  "id": "E0157",
+  "type": "GIVE",
+  "chapter": 11,
+  "text": "A parcel from Nyvus Marroway reached the wife of Nyvus Corrwood; inside was the iron dagger, now hers to keep.",
+  "where": "L10",
+  "ref_deps": [
+   "E0015"
+  ],
+  "item": "I06",
+  "src": "P025",
+  "dest": "P035"
+ },
+ {
+  "id": "E0158",
+  "type": "BIRTH",
+  "chapter": 11,
+  "text": "A daughter was born to Darine Corrwood and Nyvus Marroway, and they called the child Nenelle Marroway. The family lived in Ostgate.",
+  "where": "L10",
+  "ref_deps": [],
+  "child": "P053",
+  "mother": "P015",
+  "father": "P025",
+  "place": "L10"
+ },
+ {
+  "id": "E0159",
+  "type": "PROMISE",
+  "chapter": 11,
+  "text": "Yessa Grimworth gave Luric Corrmere a solemn promise to teach the children of Salby their letters.",
+  "where": "L07",
+  "ref_deps": [],
+  "promise": "R05",
+  "a": "P040",
+  "b": "P002",
+  "act": "to teach the children of Salby their letters"
+ },
+ {
+  "id": "E0160",
+  "type": "DEATH",
+  "chapter": 12,
+  "text": "Ilssa died of a winter fever at Brynby.",
+  "where": "L00",
+  "ref_deps": [
+   "E0007"
+  ],
+  "person": "P038",
+  "cause": "a winter fever",
+  "place": "L00"
+ },
+ {
+  "id": "E0161",
+  "type": "RESOLVE",
+  "chapter": 12,
+  "text": "Yessa Grimworth kept the promise made to Luric Corrmere: the task (teach the children of Salby their letters) was done by harvest.",
+  "where": "L07",
+  "ref_deps": [],
+  "promise": "R05",
+  "kept": true
+ },
+ {
+  "id": "E0162",
+  "type": "BIRTH",
+  "chapter": 12,
+  "text": "Darine Grimworth gave birth to a daughter, named Jossa Marroway; the father was Elten Marroway. The family lived in Harrowford.",
+  "where": "L07",
+  "ref_deps": [],
+  "child": "P054",
+  "mother": "P039",
+  "father": "P027",
+  "place": "L07"
+ },
+ {
+  "id": "E0163",
+  "type": "GIVE",
+  "chapter": 12,
+  "text": "Brebin Prydaby gave the amber compass to Uldan Grimworth.",
+  "where": "L05",
+  "ref_deps": [],
+  "item": "I00",
+  "src": "P019",
+  "dest": "P036"
+ },
+ {
+  "id": "E0164",
+  "type": "GIVE",
+  "chapter": 12,
+  "text": "The eldest son of Orric Marroway pressed the jade ring into the hands of the wife of Haric Prydaby and would take nothing for it.",
+  "where": "L10",
+  "ref_deps": [
+   "E0004",
+   "E0010"
+  ],
+  "item": "I10",
+  "src": "P025",
+  "dest": "P026"
+ },
+ {
+  "id": "E0165",
+  "type": "RUMOR",
+  "chapter": 12,
+  "text": "A rumor started by Nyvus Marroway had it that Thilia Grimworth was dead of plague; Nyvus Marroway had it from a peddler.",
+  "where": "L10",
+  "ref_deps": [],
+  "teller": "P025",
+  "claim": {
+   "kind": "dead",
+   "target": "P037"
+  }
+ },
+ {
+  "id": "E0166",
+  "type": "TELL",
+  "chapter": 12,
+  "text": "Late one night Werald Corrmere confided to Rolis Stenner that the harbor master of Coldwick takes bribes.",
+  "where": "L08",
+  "ref_deps": [],
+  "secret": "S00",
+  "src": "P005",
+  "dest": "P045"
+ },
+ {
+  "id": "E0167",
+  "type": "TRAVEL",
+  "chapter": 13,
+  "text": "Nemira Marrworth found work in Brynby, moved there, and did not return to Coldstead.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P048",
+  "src": "L02",
+  "dest": "L00"
+ },
+ {
+  "id": "E0168",
+  "type": "TRAVEL",
+  "chapter": 13,
+  "text": "Ismor Stenner went along to live in Brynby as well.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P046",
+  "src": "L02",
+  "dest": "L00"
+ },
+ {
+  "id": "E0169",
+  "type": "TRAVEL",
+  "chapter": 13,
+  "text": "The only son of Voten Quillett rode out of Coldstead; by the next market day he was living in Coldwick.",
+  "where": "L02",
+  "ref_deps": [
+   "E0005"
+  ],
+  "person": "P030",
+  "src": "L02",
+  "dest": "L03"
+ },
+ {
+  "id": "E0170",
+  "type": "TRAVEL",
+  "chapter": 13,
+  "text": "Ullia Corrwood followed him to Coldwick within the month.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P013",
+  "src": "L02",
+  "dest": "L03"
+ },
+ {
+  "id": "E0171",
+  "type": "TRAVEL",
+  "chapter": 13,
+  "text": "After the quarrel, Werald Corrmere quit Kelcombe for good and took lodgings in Harrowford.",
+  "where": "L08",
+  "ref_deps": [],
+  "person": "P005",
+  "src": "L08",
+  "dest": "L07"
+ },
+ {
+  "id": "E0172",
+  "type": "TRAVEL",
+  "chapter": 13,
+  "text": "Rolis Stenner went along to live in Harrowford as well.",
+  "where": "L08",
+  "ref_deps": [],
+  "person": "P045",
+  "src": "L08",
+  "dest": "L07"
+ },
+ {
+  "id": "E0173",
+  "type": "RESOLVE",
+  "chapter": 13,
+  "text": "Sebin broke faith with Brerald Marrworth, and the promised work (carry a sealed letter to Torcombe) was never begun.",
+  "where": "L10",
+  "ref_deps": [
+   "E0009"
+  ],
+  "promise": "R00",
+  "kept": false
+ },
+ {
+  "id": "E0174",
+  "type": "BIRTH",
+  "chapter": 13,
+  "text": "Darine Grimworth gave birth to a daughter, named Yelis Marroway; the father was Elten Marroway. The family lived in Harrowford.",
+  "where": "L07",
+  "ref_deps": [],
+  "child": "P055",
+  "mother": "P039",
+  "father": "P027",
+  "place": "L07"
+ },
+ {
+  "id": "E0175",
+  "type": "BIRTH",
+  "chapter": 13,
+  "text": "A daughter was born to Zadette Corrmere and Brebin Prydaby, and they called the child Kawyn Prydaby. The family lived in Fencombe.",
+  "where": "L05",
+  "ref_deps": [],
+  "child": "P056",
+  "mother": "P004",
+  "father": "P019",
+  "place": "L05"
+ },
+ {
+  "id": "E0176",
+  "type": "TRAVEL",
+  "chapter": 14,
+  "text": "Lulan Corrner rode out of Torcombe; by the next market day he was living in Fencombe.",
+  "where": "L13",
+  "ref_deps": [],
+  "person": "P032",
+  "src": "L13",
+  "dest": "L05"
+ },
+ {
+  "id": "E0177",
+  "type": "TRAVEL",
+  "chapter": 14,
+  "text": "Codette Corrner followed him to Fencombe within the month.",
+  "where": "L13",
+  "ref_deps": [],
+  "person": "P033",
+  "src": "L13",
+  "dest": "L05"
+ },
+ {
+  "id": "E0178",
+  "type": "GIVE",
+  "chapter": 14,
+  "text": "Rolis Stenner gave the amber ring to Elten Marroway.",
+  "where": "L07",
+  "ref_deps": [],
+  "item": "I02",
+  "src": "P045",
+  "dest": "P027"
+ },
+ {
+  "id": "E0179",
+  "type": "TRAVEL",
+  "chapter": 14,
+  "text": "The youngest son of Vovie Marroway packed a single trunk and moved from Harrowford to Yarlhaven.",
+  "where": "L07",
+  "ref_deps": [
+   "E0004"
+  ],
+  "person": "P027",
+  "src": "L07",
+  "dest": "L15"
+ },
+ {
+  "id": "E0180",
+  "type": "TRAVEL",
+  "chapter": 14,
+  "text": "Darine Grimworth followed him to Yarlhaven within the month.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P039",
+  "src": "L07",
+  "dest": "L15"
+ },
+ {
+  "id": "E0181",
+  "type": "TRAVEL",
+  "chapter": 14,
+  "text": "Nymor Corrmere packed a single trunk and moved from Harrowford to Brynby.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P000",
+  "src": "L07",
+  "dest": "L00"
+ },
+ {
+  "id": "E0182",
+  "type": "TRAVEL",
+  "chapter": 14,
+  "text": "Ririne Corrmere went along to live in Brynby as well.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P001",
+  "src": "L07",
+  "dest": "L00"
+ },
+ {
+  "id": "E0183",
+  "type": "RESOLVE",
+  "chapter": 14,
+  "text": "Jomor Marrworth broke faith with Ririne Corrmere, and the promised work (pay the old debt owed to the Quillett family) was never begun.",
+  "where": "L09",
+  "ref_deps": [],
+  "promise": "R04",
+  "kept": false
+ },
+ {
+  "id": "E0184",
+  "type": "PLAN",
+  "chapter": 14,
+  "text": "Pevie Corrwood talked for weeks of going to Kelcombe, yet in the end stayed where she was.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P014",
+  "dest": "L08"
+ },
+ {
+  "id": "E0185",
+  "type": "TRAVEL",
+  "chapter": 14,
+  "text": "After the quarrel, Jomor Marrworth quit Kelwick for good and took lodgings in Wendhaven.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P049",
+  "src": "L09",
+  "dest": "L14"
+ },
+ {
+  "id": "E0186",
+  "type": "TRAVEL",
+  "chapter": 14,
+  "text": "Pevie followed him to Wendhaven within the month.",
+  "where": "L09",
+  "ref_deps": [
+   "E0002"
+  ],
+  "person": "P014",
+  "src": "L09",
+  "dest": "L14"
+ },
+ {
+  "id": "E0187",
+  "type": "BIRTH",
+  "chapter": 15,
+  "text": "A daughter was born to Ullia Corrwood and Wedan Quillett, and they called the child Nyena Quillett. The family lived in Coldwick.",
+  "where": "L03",
+  "ref_deps": [],
+  "child": "P057",
+  "mother": "P013",
+  "father": "P030",
+  "place": "L03"
+ },
+ {
+  "id": "E0188",
+  "type": "TRAVEL",
+  "chapter": 15,
+  "text": "Voten Quillett found work in Kelwick, moved there, and did not return to Coldwick.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P028",
+  "src": "L03",
+  "dest": "L09"
+ },
+ {
+  "id": "E0189",
+  "type": "TRAVEL",
+  "chapter": 15,
+  "text": "Comira Quillett followed him to Kelwick within the month.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P029",
+  "src": "L03",
+  "dest": "L09"
+ },
+ {
+  "id": "E0190",
+  "type": "GIVE",
+  "chapter": 15,
+  "text": "Elten gave the amber ring to Thidette Corrwood.",
+  "where": "L15",
+  "ref_deps": [
+   "E0004"
+  ],
+  "item": "I02",
+  "src": "P027",
+  "dest": "P012"
+ },
+ {
+  "id": "E0191",
+  "type": "BIRTH",
+  "chapter": 15,
+  "text": "A son was born to Romira Marroway and Haric Prydaby, and they called the child Weric Prydaby. The family lived in Ostgate.",
+  "where": "L10",
+  "ref_deps": [],
+  "child": "P058",
+  "mother": "P026",
+  "father": "P022",
+  "place": "L10"
+ },
+ {
+  "id": "E0192",
+  "type": "DEATH",
+  "chapter": 15,
+  "text": "They laid Nymor Corrmere in the churchyard at Brynby, dead of the coughing sickness.",
+  "where": "L00",
+  "ref_deps": [],
+  "person": "P000",
+  "cause": "the coughing sickness",
+  "place": "L00"
+ },
+ {
+  "id": "E0193",
+  "type": "GIVE",
+  "chapter": 15,
+  "text": "The copper map, which Nymor Corrmere had owned, went to Ririne Corrmere.",
+  "where": "L00",
+  "ref_deps": [],
+  "item": "I03",
+  "src": "P000",
+  "dest": "P001",
+  "inherit": true
+ },
+ {
+  "id": "E0194",
+  "type": "DEATH",
+  "chapter": 15,
+  "text": "They laid Lame Thilia in the churchyard at Fencombe, dead of a kick from a cart horse.",
+  "where": "L05",
+  "ref_deps": [
+   "E0049"
+  ],
+  "person": "P037",
+  "cause": "a kick from a cart horse",
+  "place": "L05"
+ },
+ {
+  "id": "E0195",
+  "type": "GIVE",
+  "chapter": 15,
+  "text": "Jomor Marrworth sent the jade chalice by carrier to Haric Prydaby, who received it safely.",
+  "where": "L14",
+  "ref_deps": [],
+  "item": "I08",
+  "src": "P049",
+  "dest": "P022"
+ },
+ {
+  "id": "E0196",
+  "type": "MARRY",
+  "chapter": 16,
+  "text": "Romor and Ririne Corrmere were wed at Harrowford, with half the parish looking on. The couple lived in Harrowford from then on.",
+  "where": "L07",
+  "ref_deps": [
+   "E0086"
+  ],
+  "a": "P051",
+  "b": "P001",
+  "place": "L07"
+ },
+ {
+  "id": "E0197",
+  "type": "GIVE",
+  "chapter": 16,
+  "text": "Romira pressed the amber flute into the hands of the youngest daughter of Thidette Corrwood and would take nothing for it.",
+  "where": "L10",
+  "ref_deps": [
+   "E0002",
+   "E0004"
+  ],
+  "item": "I01",
+  "src": "P026",
+  "dest": "P015"
+ },
+ {
+  "id": "E0198",
+  "type": "TRAVEL",
+  "chapter": 16,
+  "text": "Red Nedan rode out of Elmhaven; by the next market day he was living in Ostgate.",
+  "where": "L04",
+  "ref_deps": [
+   "E0026"
+  ],
+  "person": "P010",
+  "src": "L04",
+  "dest": "L10"
+ },
+ {
+  "id": "E0199",
+  "type": "TRAVEL",
+  "chapter": 16,
+  "text": "Vowyn Stenner went along to live in Ostgate as well.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P044",
+  "src": "L04",
+  "dest": "L10"
+ },
+ {
+  "id": "E0200",
+  "type": "TRAVEL",
+  "chapter": 16,
+  "text": "After the quarrel, Jomira Stenner quit Elmhaven for good and took lodgings in Coldwick.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P043",
+  "src": "L04",
+  "dest": "L03"
+ },
+ {
+  "id": "E0201",
+  "type": "TRAVEL",
+  "chapter": 16,
+  "text": "Garic went along to live in Coldwick as well.",
+  "where": "L04",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P042",
+  "src": "L04",
+  "dest": "L03"
+ },
+ {
+  "id": "E0202",
+  "type": "GIVE",
+  "chapter": 16,
+  "text": "Thidette Corrwood gave the amber ring to Gaten.",
+  "where": "L15",
+  "ref_deps": [
+   "E0001"
+  ],
+  "item": "I02",
+  "src": "P012",
+  "dest": "P009"
+ },
+ {
+  "id": "E0203",
+  "type": "OCCUPATION",
+  "chapter": 17,
+  "text": "Gaten Haskson gave up being a ferryman and took work as a shepherd.",
+  "where": "L15",
+  "ref_deps": [
+   "E0025"
+  ],
+  "person": "P009",
+  "old": "ferryman",
+  "new": "shepherd"
+ },
+ {
+  "id": "E0204",
+  "type": "TELL",
+  "chapter": 17,
+  "text": "Late one night Werald Corrmere confided to Luric Corrmere that the deed to the Gulstead pastures was forged.",
+  "where": "L07",
+  "ref_deps": [],
+  "secret": "S07",
+  "src": "P005",
+  "dest": "P002"
+ },
+ {
+  "id": "E0205",
+  "type": "TELL",
+  "chapter": 17,
+  "text": "In a letter that Codette Corrner burned after reading, Lulan Corrner revealed that the old abbey at Ostton hides a second cellar.",
+  "where": "L05",
+  "ref_deps": [],
+  "secret": "S06",
+  "src": "P032",
+  "dest": "P033"
+ },
+ {
+  "id": "E0206",
+  "type": "GIVE",
+  "chapter": 17,
+  "text": "The husband of Karine Prydaby won the amber flute from the youngest daughter of Thidette Corrwood at cards, fairly, and kept it.",
+  "where": "L10",
+  "ref_deps": [
+   "E0002",
+   "E0102"
+  ],
+  "item": "I01",
+  "src": "P015",
+  "dest": "P050"
+ },
+ {
+  "id": "E0207",
+  "type": "PROMISE",
+  "chapter": 18,
+  "text": "Welan Haskson gave Darine Grimworth a solemn promise to rebuild the fallen wall at Ostgate.",
+  "where": "L15",
+  "ref_deps": [],
+  "promise": "R06",
+  "a": "P006",
+  "b": "P039",
+  "act": "to rebuild the fallen wall at Ostgate"
+ },
+ {
+  "id": "E0208",
+  "type": "TRAVEL",
+  "chapter": 18,
+  "text": "Thiric Corrwood found work in Coldby, moved there, and did not return to Yarlhaven.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P011",
+  "src": "L15",
+  "dest": "L01"
+ },
+ {
+  "id": "E0209",
+  "type": "TRAVEL",
+  "chapter": 18,
+  "text": "Thidette Corrwood followed him to Coldby within the month.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P012",
+  "src": "L15",
+  "dest": "L01"
+ },
+ {
+  "id": "E0210",
+  "type": "GIVE",
+  "chapter": 18,
+  "text": "A parcel from Haric reached Wedan; inside was the jade chalice, now his to keep.",
+  "where": "L10",
+  "ref_deps": [
+   "E0003",
+   "E0005"
+  ],
+  "item": "I08",
+  "src": "P022",
+  "dest": "P030"
+ },
+ {
+  "id": "E0211",
+  "type": "TRAVEL",
+  "chapter": 18,
+  "text": "After the quarrel, Motho Corrmere quit Harrowford for good and took lodgings in Elmhaven.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P003",
+  "src": "L07",
+  "dest": "L04"
+ },
+ {
+  "id": "E0212",
+  "type": "TRAVEL",
+  "chapter": 18,
+  "text": "Yessa Grimworth went along to live in Elmhaven as well.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P040",
+  "src": "L07",
+  "dest": "L04"
+ },
+ {
+  "id": "E0213",
+  "type": "TRAVEL",
+  "chapter": 18,
+  "text": "After the quarrel, Romor Corrwood quit Harrowford for good and took lodgings in Wendhaven.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P051",
+  "src": "L07",
+  "dest": "L14"
+ },
+ {
+  "id": "E0214",
+  "type": "TRAVEL",
+  "chapter": 18,
+  "text": "Ririne Corrmere followed him to Wendhaven within the month.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P001",
+  "src": "L07",
+  "dest": "L14"
+ },
+ {
+  "id": "E0215",
+  "type": "DEATH",
+  "chapter": 18,
+  "text": "That autumn, old age, quietly in sleep took Voten Quillett; he was buried at Kelwick.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P028",
+  "cause": "old age, quietly in sleep",
+  "place": "L09"
+ },
+ {
+  "id": "E0216",
+  "type": "OCCUPATION",
+  "chapter": 19,
+  "text": "Sebin was apprenticed anew and became a fisher.",
+  "where": "L10",
+  "ref_deps": [
+   "E0009"
+  ],
+  "person": "P050",
+  "old": null,
+  "new": "fisher"
+ },
+ {
+  "id": "E0217",
+  "type": "TRAVEL",
+  "chapter": 19,
+  "text": "After the quarrel, Zaena Prydaby quit Ostton for good and took lodgings in Fencombe.",
+  "where": "L11",
+  "ref_deps": [],
+  "person": "P018",
+  "src": "L11",
+  "dest": "L05"
+ },
+ {
+  "id": "E0218",
+  "type": "TRAVEL",
+  "chapter": 19,
+  "text": "Lurald Prydaby followed her to Fencombe within the month.",
+  "where": "L11",
+  "ref_deps": [],
+  "person": "P017",
+  "src": "L11",
+  "dest": "L05"
+ },
+ {
+  "id": "E0219",
+  "type": "GIVE",
+  "chapter": 19,
+  "text": "Ririne gave the garnet flute to Romor Corrwood.",
+  "where": "L14",
+  "ref_deps": [
+   "E0000"
+  ],
+  "item": "I05",
+  "src": "P001",
+  "dest": "P051"
+ },
+ {
+  "id": "E0220",
+  "type": "MARRY",
+  "chapter": 19,
+  "text": "In the chapel at Harrowford, Aelan Corrmere married Comira Quillett. The couple lived in Harrowford from then on.",
+  "where": "L07",
+  "ref_deps": [],
+  "a": "P052",
+  "b": "P029",
+  "place": "L07"
+ },
+ {
+  "id": "E0221",
+  "type": "BIRTH",
+  "chapter": 19,
+  "text": "A son was born to Zadette Corrmere and Brebin Prydaby, and they called the child Aebin Prydaby. The family lived in Fencombe.",
+  "where": "L05",
+  "ref_deps": [],
+  "child": "P059",
+  "mother": "P004",
+  "father": "P019",
+  "place": "L05"
+ },
+ {
+  "id": "E0222",
+  "type": "PROMISE",
+  "chapter": 19,
+  "text": "The only daughter of Nymor Corrmere gave Brebin a solemn promise to carry a sealed letter to Kelwick.",
+  "where": "L05",
+  "ref_deps": [
+   "E0000",
+   "E0003"
+  ],
+  "promise": "R07",
+  "a": "P004",
+  "b": "P019",
+  "act": "to carry a sealed letter to Kelwick"
+ },
+ {
+  "id": "E0223",
+  "type": "TRAVEL",
+  "chapter": 19,
+  "text": "After the quarrel, Uldan Grimworth quit Fencombe for good and took lodgings in Torcombe.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P036",
+  "src": "L05",
+  "dest": "L13"
+ },
+ {
+  "id": "E0224",
+  "type": "TRAVEL",
+  "chapter": 19,
+  "text": "After the quarrel, Thirald Haskson quit Yarlhaven for good and took lodgings in Kelwick.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P008",
+  "src": "L15",
+  "dest": "L09"
+ },
+ {
+  "id": "E0225",
+  "type": "DEATH",
+  "chapter": 20,
+  "text": "Lurald Prydaby died of drowning in the flood at Fencombe.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P017",
+  "cause": "drowning in the flood",
+  "place": "L05"
+ },
+ {
+  "id": "E0226",
+  "type": "DEATH",
+  "chapter": 20,
+  "text": "That spring, a wound that festered took Comira; she was buried at Harrowford.",
+  "where": "L07",
+  "ref_deps": [
+   "E0005"
+  ],
+  "person": "P029",
+  "cause": "a wound that festered",
+  "place": "L07"
+ },
+ {
+  "id": "E0227",
+  "type": "TELL",
+  "chapter": 20,
+  "text": "Late one night Darine Grimworth confided to Welan Haskson that a chest of silver lies buried beneath the well at Coldwick.",
+  "where": "L15",
+  "ref_deps": [],
+  "secret": "S03",
+  "src": "P039",
+  "dest": "P006"
+ },
+ {
+  "id": "E0228",
+  "type": "TRAVEL",
+  "chapter": 20,
+  "text": "After the quarrel, Brebin Prydaby quit Fencombe for good and took lodgings in Kelcombe.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P019",
+  "src": "L05",
+  "dest": "L08"
+ },
+ {
+  "id": "E0229",
+  "type": "TRAVEL",
+  "chapter": 20,
+  "text": "Zadette Corrmere went along to live in Kelcombe as well.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P004",
+  "src": "L05",
+  "dest": "L08"
+ },
+ {
+  "id": "E0230",
+  "type": "TRAVEL",
+  "chapter": 20,
+  "text": "After the quarrel, Ismor Stenner quit Brynby for good and took lodgings in Elmhaven.",
+  "where": "L00",
+  "ref_deps": [],
+  "person": "P046",
+  "src": "L00",
+  "dest": "L04"
+ },
+ {
+  "id": "E0231",
+  "type": "TRAVEL",
+  "chapter": 20,
+  "text": "Nemira Marrworth went along to live in Elmhaven as well.",
+  "where": "L00",
+  "ref_deps": [],
+  "person": "P048",
+  "src": "L00",
+  "dest": "L04"
+ },
+ {
+  "id": "E0232",
+  "type": "GIVE",
+  "chapter": 21,
+  "text": "The second son of Islde Haskson gave the amber ring to Elten Marroway.",
+  "where": "L15",
+  "ref_deps": [
+   "E0001"
+  ],
+  "item": "I02",
+  "src": "P009",
+  "dest": "P027"
+ },
+ {
+  "id": "E0233",
+  "type": "RUMOR",
+  "chapter": 21,
+  "text": "Gossip from Elten claimed Vowyn Stenner and Jomor Marrworth had been wed in secret.",
+  "where": "L15",
+  "ref_deps": [
+   "E0004"
+  ],
+  "teller": "P027",
+  "claim": {
+   "kind": "married",
+   "target": "P044",
+   "other": "P049"
+  }
+ },
+ {
+  "id": "E0234",
+  "type": "TRAVEL",
+  "chapter": 21,
+  "text": "Nemira Marrworth rode out of Elmhaven; by the next market day she was living in Salby.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P048",
+  "src": "L04",
+  "dest": "L12"
+ },
+ {
+  "id": "E0235",
+  "type": "TRAVEL",
+  "chapter": 21,
+  "text": "Ismor Stenner went along to live in Salby as well.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P046",
+  "src": "L04",
+  "dest": "L12"
+ },
+ {
+  "id": "E0236",
+  "type": "DEATH",
+  "chapter": 21,
+  "text": "They laid Old Vovie in the churchyard at Gulstead, dead of a long wasting sickness.",
+  "where": "L06",
+  "ref_deps": [
+   "E0037"
+  ],
+  "person": "P024",
+  "cause": "a long wasting sickness",
+  "place": "L06"
+ },
+ {
+  "id": "E0237",
+  "type": "PLAN",
+  "chapter": 21,
+  "text": "Orric Marroway talked for weeks of going to Brynby, yet in the end stayed where he was.",
+  "where": "L06",
+  "ref_deps": [
+   "E0004"
+  ],
+  "person": "P023",
+  "dest": "L00"
+ },
+ {
+  "id": "E0238",
+  "type": "GIVE",
+  "chapter": 21,
+  "text": "The husband of Ullia Corrwood gave the jade chalice to Garic Stenner.",
+  "where": "L03",
+  "ref_deps": [
+   "E0103"
+  ],
+  "item": "I08",
+  "src": "P030",
+  "dest": "P042"
+ },
+ {
+  "id": "E0239",
+  "type": "GIVE",
+  "chapter": 22,
+  "text": "The only daughter of Codette Corrner pressed the iron dagger into the hands of Aelan Corrmere and would take nothing for it.",
+  "where": "L07",
+  "ref_deps": [
+   "E0006"
+  ],
+  "item": "I06",
+  "src": "P035",
+  "dest": "P052"
+ },
+ {
+  "id": "E0240",
+  "type": "TELL",
+  "chapter": 22,
+  "text": "Old Isena could keep it no longer and told the eldest son of Nymor Corrmere that a chest of silver lies buried beneath the well at Coldwick.",
+  "where": "L07",
+  "ref_deps": [
+   "E0000",
+   "E0047"
+  ],
+  "secret": "S03",
+  "src": "P035",
+  "dest": "P002"
+ },
+ {
+  "id": "E0241",
+  "type": "PROMISE",
+  "chapter": 22,
+  "text": "Zaena swore to Nylan Grimworth to carry a sealed letter to Coldstead, and shook on it.",
+  "where": "L05",
+  "ref_deps": [
+   "E0003"
+  ],
+  "promise": "R08",
+  "a": "P018",
+  "b": "P041",
+  "act": "to carry a sealed letter to Coldstead"
+ },
+ {
+  "id": "E0242",
+  "type": "RESOLVE",
+  "chapter": 22,
+  "text": "True to her word to Brebin Prydaby, Zadette finished what she had promised (carry a sealed letter to Kelwick).",
+  "where": "L08",
+  "ref_deps": [
+   "E0000"
+  ],
+  "promise": "R07",
+  "kept": true
+ },
+ {
+  "id": "E0243",
+  "type": "GIVE",
+  "chapter": 22,
+  "text": "Garic Stenner gave the jade chalice to Jomira.",
+  "where": "L03",
+  "ref_deps": [
+   "E0008"
+  ],
+  "item": "I08",
+  "src": "P042",
+  "dest": "P043"
+ },
+ {
+  "id": "E0244",
+  "type": "OCCUPATION",
+  "chapter": 22,
+  "text": "The wife of Nedan Haskson was apprenticed anew and became a cooper.",
+  "where": "L10",
+  "ref_deps": [
+   "E0012"
+  ],
+  "person": "P044",
+  "old": "ferryman",
+  "new": "cooper"
+ },
+ {
+  "id": "E0245",
+  "type": "GIVE",
+  "chapter": 22,
+  "text": "A parcel from the wife of Nedan Haskson reached Ririne Corrmere; inside was the silver map, now hers to keep.",
+  "where": "L10",
+  "ref_deps": [
+   "E0012"
+  ],
+  "item": "I11",
+  "src": "P044",
+  "dest": "P001"
+ },
+ {
+  "id": "E0246",
+  "type": "DEATH",
+  "chapter": 23,
+  "text": "Old Zaena died of the coughing sickness at Fencombe.",
+  "where": "L05",
+  "ref_deps": [
+   "E0031"
+  ],
+  "person": "P018",
+  "cause": "the coughing sickness",
+  "place": "L05"
+ },
+ {
+  "id": "E0247",
+  "type": "TELL",
+  "chapter": 23,
+  "text": "Late one night Luric Corrmere confided to Rolis Stenner that the deed to the Gulstead pastures was forged.",
+  "where": "L07",
+  "ref_deps": [],
+  "secret": "S07",
+  "src": "P002",
+  "dest": "P045"
+ },
+ {
+  "id": "E0248",
+  "type": "OCCUPATION",
+  "chapter": 23,
+  "text": "Werald Corrmere was apprenticed anew and became a fisher.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P005",
+  "old": "weaver",
+  "new": "fisher"
+ },
+ {
+  "id": "E0249",
+  "type": "TELL",
+  "chapter": 23,
+  "text": "Luric could keep it no longer and told the husband of Rolis Stenner that a chest of silver lies buried beneath the well at Coldwick.",
+  "where": "L07",
+  "ref_deps": [
+   "E0000",
+   "E0105"
+  ],
+  "secret": "S03",
+  "src": "P002",
+  "dest": "P005"
+ },
+ {
+  "id": "E0250",
+  "type": "GIVE",
+  "chapter": 23,
+  "text": "Jomira pressed the jade chalice into the hands of Garic Stenner and would take nothing for it.",
+  "where": "L03",
+  "ref_deps": [
+   "E0008"
+  ],
+  "item": "I08",
+  "src": "P043",
+  "dest": "P042"
+ },
+ {
+  "id": "E0251",
+  "type": "DEATH",
+  "chapter": 23,
+  "text": "They laid Ririne in the churchyard at Wendhaven, dead of a winter fever.",
+  "where": "L14",
+  "ref_deps": [
+   "E0000"
+  ],
+  "person": "P001",
+  "cause": "a winter fever",
+  "place": "L14"
+ },
+ {
+  "id": "E0252",
+  "type": "GIVE",
+  "chapter": 23,
+  "text": "The silver map, which Ririne Corrmere had owned, went to Romor Corrwood.",
+  "where": "L14",
+  "ref_deps": [],
+  "item": "I11",
+  "src": "P001",
+  "dest": "P051",
+  "inherit": true
+ },
+ {
+  "id": "E0253",
+  "type": "GIVE",
+  "chapter": 23,
+  "text": "The copper map, which Ririne Corrmere had owned, went to Romor.",
+  "where": "L14",
+  "ref_deps": [
+   "E0086"
+  ],
+  "item": "I03",
+  "src": "P001",
+  "dest": "P051",
+  "inherit": true
+ },
+ {
+  "id": "E0254",
+  "type": "GIVE",
+  "chapter": 24,
+  "text": "Romor gave the garnet flute to Jomor Marrworth.",
+  "where": "L14",
+  "ref_deps": [
+   "E0086"
+  ],
+  "item": "I05",
+  "src": "P051",
+  "dest": "P049"
+ },
+ {
+  "id": "E0255",
+  "type": "RESOLVE",
+  "chapter": 24,
+  "text": "Welan Haskson never did keep the promise made to Darine Grimworth (rebuild the fallen wall at Ostgate); the matter was abandoned.",
+  "where": "L15",
+  "ref_deps": [],
+  "promise": "R06",
+  "kept": false
+ },
+ {
+  "id": "E0256",
+  "type": "TELL",
+  "chapter": 24,
+  "text": "In a letter that Nylan Grimworth burned after reading, Codette Corrner revealed that the old abbey at Ostton hides a second cellar.",
+  "where": "L05",
+  "ref_deps": [],
+  "secret": "S06",
+  "src": "P033",
+  "dest": "P041"
+ },
+ {
+  "id": "E0257",
+  "type": "GIVE",
+  "chapter": 24,
+  "text": "Romor Corrwood won the garnet flute from Jomor Marrworth at cards, fairly, and kept it.",
+  "where": "L14",
+  "ref_deps": [],
+  "item": "I05",
+  "src": "P049",
+  "dest": "P051"
+ },
+ {
+  "id": "E0258",
+  "type": "TRAVEL",
+  "chapter": 24,
+  "text": "Pevie left Wendhaven and settled in Ostton.",
+  "where": "L14",
+  "ref_deps": [
+   "E0002"
+  ],
+  "person": "P014",
+  "src": "L14",
+  "dest": "L11"
+ },
+ {
+  "id": "E0259",
+  "type": "TRAVEL",
+  "chapter": 24,
+  "text": "Jomor went along to live in Ostton as well.",
+  "where": "L14",
+  "ref_deps": [
+   "E0009"
+  ],
+  "person": "P049",
+  "src": "L14",
+  "dest": "L11"
+ },
+ {
+  "id": "E0260",
+  "type": "GIVE",
+  "chapter": 24,
+  "text": "Romor sent the garnet flute by carrier to Thirald Haskson, who received it safely.",
+  "where": "L14",
+  "ref_deps": [
+   "E0086"
+  ],
+  "item": "I05",
+  "src": "P051",
+  "dest": "P008"
+ },
+ {
+  "id": "E0261",
+  "type": "PROMISE",
+  "chapter": 24,
+  "text": "Nedan gave Karine Prydaby a solemn promise to plant an orchard on the slope above Fencombe.",
+  "where": "L10",
+  "ref_deps": [
+   "E0001"
+  ],
+  "promise": "R09",
+  "a": "P010",
+  "b": "P021",
+  "act": "to plant an orchard on the slope above Fencombe"
+ },
+ {
+  "id": "E0262",
+  "type": "PROMISE",
+  "chapter": 25,
+  "text": "Orric Marroway swore to Nemira Marrworth to carry a sealed letter to Coldstead, and shook on it.",
+  "where": "L06",
+  "ref_deps": [],
+  "promise": "R10",
+  "a": "P023",
+  "b": "P048",
+  "act": "to carry a sealed letter to Coldstead"
+ },
+ {
+  "id": "E0263",
+  "type": "PROMISE",
+  "chapter": 25,
+  "text": "Orric Marroway gave Sebin Marrworth a solemn promise to carry a sealed letter to Elmhaven.",
+  "where": "L06",
+  "ref_deps": [],
+  "promise": "R11",
+  "a": "P023",
+  "b": "P050",
+  "act": "to carry a sealed letter to Elmhaven"
+ },
+ {
+  "id": "E0264",
+  "type": "RESOLVE",
+  "chapter": 25,
+  "text": "Orric Marroway never did keep the promise made to Nemira Marrworth (carry a sealed letter to Coldstead); the matter was abandoned.",
+  "where": "L06",
+  "ref_deps": [],
+  "promise": "R10",
+  "kept": false
+ },
+ {
+  "id": "E0265",
+  "type": "DEATH",
+  "chapter": 25,
+  "text": "Codette died of old age, quietly in sleep at Fencombe.",
+  "where": "L05",
+  "ref_deps": [
+   "E0006"
+  ],
+  "person": "P033",
+  "cause": "old age, quietly in sleep",
+  "place": "L05"
+ },
+ {
+  "id": "E0266",
+  "type": "RUMOR",
+  "chapter": 25,
+  "text": "Gossip from Wedan Quillett claimed Brebin Prydaby and Yelis Marroway had been wed in secret.",
+  "where": "L03",
+  "ref_deps": [],
+  "teller": "P030",
+  "claim": {
+   "kind": "married",
+   "target": "P019",
+   "other": "P055"
+  }
+ },
+ {
+  "id": "E0267",
+  "type": "PROMISE",
+  "chapter": 25,
+  "text": "Isena Corrner gave Rolis a solemn promise to teach the children of Wendhaven their letters.",
+  "where": "L07",
+  "ref_deps": [
+   "E0008"
+  ],
+  "promise": "R12",
+  "a": "P035",
+  "b": "P045",
+  "act": "to teach the children of Wendhaven their letters"
+ },
+ {
+  "id": "E0268",
+  "type": "TELL",
+  "chapter": 26,
+  "text": "In a letter that Jossa Marroway burned after reading, Rolis revealed that the harbor master of Coldwick takes bribes.",
+  "where": "L07",
+  "ref_deps": [
+   "E0008"
+  ],
+  "secret": "S00",
+  "src": "P045",
+  "dest": "P054"
+ },
+ {
+  "id": "E0269",
+  "type": "DEATH",
+  "chapter": 26,
+  "text": "They laid Brebin in the churchyard at Kelcombe, dead of the coughing sickness.",
+  "where": "L08",
+  "ref_deps": [
+   "E0003"
+  ],
+  "person": "P019",
+  "cause": "the coughing sickness",
+  "place": "L08"
+ },
+ {
+  "id": "E0270",
+  "type": "PROMISE",
+  "chapter": 26,
+  "text": "Zadette Corrmere gave Sebin Marrworth a solemn promise to repair the roof of the chapel at Wendhaven.",
+  "where": "L08",
+  "ref_deps": [],
+  "promise": "R13",
+  "a": "P004",
+  "b": "P050",
+  "act": "to repair the roof of the chapel at Wendhaven"
+ },
+ {
+  "id": "E0271",
+  "type": "TELL",
+  "chapter": 26,
+  "text": "In a letter that Nyvus Corrwood burned after reading, Isena Corrner revealed that the harbor master of Coldwick takes bribes.",
+  "where": "L07",
+  "ref_deps": [],
+  "secret": "S00",
+  "src": "P035",
+  "dest": "P016"
+ },
+ {
+  "id": "E0272",
+  "type": "OCCUPATION",
+  "chapter": 26,
+  "text": "Romor Corrwood was apprenticed anew and became a tanner.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P051",
+  "old": null,
+  "new": "tanner"
+ },
+ {
+  "id": "E0273",
+  "type": "BIRTH",
+  "chapter": 26,
+  "text": "A daughter was born to Isena Corrner and Nyvus Corrwood, and they called the child Nessa Corrwood. The family lived in Harrowford.",
+  "where": "L07",
+  "ref_deps": [],
+  "child": "P060",
+  "mother": "P035",
+  "father": "P016",
+  "place": "L07"
+ },
+ {
+  "id": "E0274",
+  "type": "GIVE",
+  "chapter": 26,
+  "text": "The wife of Thiric Corrwood gave the garnet comb to Thiric Corrwood.",
+  "where": "L01",
+  "ref_deps": [
+   "E0002"
+  ],
+  "item": "I04",
+  "src": "P012",
+  "dest": "P011"
+ },
+ {
+  "id": "E0275",
+  "type": "TRAVEL",
+  "chapter": 27,
+  "text": "Uldan Grimworth packed a single trunk and moved from Torcombe to Yarlhaven.",
+  "where": "L13",
+  "ref_deps": [],
+  "person": "P036",
+  "src": "L13",
+  "dest": "L15"
+ },
+ {
+  "id": "E0276",
+  "type": "TRAVEL",
+  "chapter": 27,
+  "text": "Uldan Grimworth rode out of Yarlhaven; by the next market day he was living in Coldby.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P036",
+  "src": "L15",
+  "dest": "L01"
+ },
+ {
+  "id": "E0277",
+  "type": "PROMISE",
+  "chapter": 27,
+  "text": "Welan swore to Islde Haskson to carry a sealed letter to Coldby, and shook on it.",
+  "where": "L15",
+  "ref_deps": [
+   "E0001"
+  ],
+  "promise": "R14",
+  "a": "P006",
+  "b": "P007",
+  "act": "to carry a sealed letter to Coldby"
+ },
+ {
+  "id": "E0278",
+  "type": "BIRTH",
+  "chapter": 27,
+  "text": "A son was born to Rolis Stenner and Werald Corrmere, and they called the child Elric Corrmere. The family lived in Harrowford.",
+  "where": "L07",
+  "ref_deps": [],
+  "child": "P061",
+  "mother": "P045",
+  "father": "P005",
+  "place": "L07"
+ },
+ {
+  "id": "E0279",
+  "type": "BIRTH",
+  "chapter": 27,
+  "text": "A son was born to Darine Corrwood and Nyvus Marroway, and they called the child Thimor Marroway. The family lived in Ostgate.",
+  "where": "L10",
+  "ref_deps": [],
+  "child": "P062",
+  "mother": "P015",
+  "father": "P025",
+  "place": "L10"
+ },
+ {
+  "id": "E0280",
+  "type": "TRAVEL",
+  "chapter": 28,
+  "text": "Nyena packed a single trunk and moved from Coldwick to Coldby.",
+  "where": "L03",
+  "ref_deps": [
+   "E0187"
+  ],
+  "person": "P057",
+  "src": "L03",
+  "dest": "L01"
+ },
+ {
+  "id": "E0281",
+  "type": "TRAVEL",
+  "chapter": 28,
+  "text": "Jomira Stenner packed a single trunk and moved from Coldwick to Kelwick.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P043",
+  "src": "L03",
+  "dest": "L09"
+ },
+ {
+  "id": "E0282",
+  "type": "TRAVEL",
+  "chapter": 28,
+  "text": "Garic followed her to Kelwick within the month.",
+  "where": "L03",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P042",
+  "src": "L03",
+  "dest": "L09"
+ },
+ {
+  "id": "E0283",
+  "type": "PLAN",
+  "chapter": 28,
+  "text": "The wife of Kanar Prydaby meant to go to Elmhaven before the frost, but the roads flooded and the journey was put off.",
+  "where": "L10",
+  "ref_deps": [
+   "E0014"
+  ],
+  "person": "P031",
+  "dest": "L04"
+ },
+ {
+  "id": "E0284",
+  "type": "MARRY",
+  "chapter": 28,
+  "text": "Before the spring was out, Thirald Haskson took Zadette Corrmere in marriage at Kelwick. The couple lived in Kelwick from then on.",
+  "where": "L09",
+  "ref_deps": [],
+  "a": "P008",
+  "b": "P004",
+  "place": "L09"
+ },
+ {
+  "id": "E0285",
+  "type": "DEATH",
+  "chapter": 28,
+  "text": "They laid Thiric in the churchyard at Coldby, dead of a long wasting sickness.",
+  "where": "L01",
+  "ref_deps": [
+   "E0002"
+  ],
+  "person": "P011",
+  "cause": "a long wasting sickness",
+  "place": "L01"
+ },
+ {
+  "id": "E0286",
+  "type": "GIVE",
+  "chapter": 28,
+  "text": "Among the things left by Thiric Corrwood, the garnet comb was handed to Thidette Corrwood.",
+  "where": "L01",
+  "ref_deps": [],
+  "item": "I04",
+  "src": "P011",
+  "dest": "P012",
+  "inherit": true
+ },
+ {
+  "id": "E0287",
+  "type": "PROMISE",
+  "chapter": 28,
+  "text": "Jossa Marroway gave Yelis Marroway a solemn promise to teach the children of Kelwick their letters.",
+  "where": "L07",
+  "ref_deps": [],
+  "promise": "R15",
+  "a": "P054",
+  "b": "P055",
+  "act": "to teach the children of Kelwick their letters"
+ },
+ {
+  "id": "E0288",
+  "type": "TRAVEL",
+  "chapter": 28,
+  "text": "Werald Corrmere packed a single trunk and moved from Harrowford to Ostgate.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P005",
+  "src": "L07",
+  "dest": "L10"
+ },
+ {
+  "id": "E0289",
+  "type": "TRAVEL",
+  "chapter": 28,
+  "text": "Rolis followed him to Ostgate within the month.",
+  "where": "L07",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P045",
+  "src": "L07",
+  "dest": "L10"
+ },
+ {
+  "id": "E0290",
+  "type": "BIRTH",
+  "chapter": 28,
+  "text": "A daughter was born to Aelia Quillett and Kanar Prydaby, and they called the child Isra Prydaby. The family lived in Ostgate.",
+  "where": "L10",
+  "ref_deps": [],
+  "child": "P063",
+  "mother": "P031",
+  "father": "P020",
+  "place": "L10"
+ },
+ {
+  "id": "E0291",
+  "type": "PROMISE",
+  "chapter": 29,
+  "text": "Yelis Marroway gave Nyvus Corrwood a solemn promise to plant an orchard on the slope above Kelcombe.",
+  "where": "L07",
+  "ref_deps": [],
+  "promise": "R16",
+  "a": "P055",
+  "b": "P016",
+  "act": "to plant an orchard on the slope above Kelcombe"
+ },
+ {
+  "id": "E0292",
+  "type": "GIVE",
+  "chapter": 29,
+  "text": "Isena Corrner won the iron dagger from Aelan Corrmere at cards, fairly, and kept it.",
+  "where": "L07",
+  "ref_deps": [],
+  "item": "I06",
+  "src": "P052",
+  "dest": "P035"
+ },
+ {
+  "id": "E0293",
+  "type": "BIRTH",
+  "chapter": 29,
+  "text": "Zadette gave birth to a daughter, named Welis Haskson; the father was Thirald Haskson. The family lived in Kelwick.",
+  "where": "L09",
+  "ref_deps": [
+   "E0000"
+  ],
+  "child": "P064",
+  "mother": "P004",
+  "father": "P008",
+  "place": "L09"
+ },
+ {
+  "id": "E0294",
+  "type": "PROMISE",
+  "chapter": 29,
+  "text": "Thidette swore to Nyena to carry a sealed letter to Gulstead, and shook on it.",
+  "where": "L01",
+  "ref_deps": [
+   "E0002",
+   "E0187"
+  ],
+  "promise": "R17",
+  "a": "P012",
+  "b": "P057",
+  "act": "to carry a sealed letter to Gulstead"
+ },
+ {
+  "id": "E0295",
+  "type": "PROMISE",
+  "chapter": 29,
+  "text": "Nenelle Marroway swore to Rolis to pay the old debt owed to the Grimworth family, and shook on it.",
+  "where": "L10",
+  "ref_deps": [
+   "E0008"
+  ],
+  "promise": "R18",
+  "a": "P053",
+  "b": "P045",
+  "act": "to pay the old debt owed to the Grimworth family"
+ },
+ {
+  "id": "E0296",
+  "type": "TRAVEL",
+  "chapter": 30,
+  "text": "Elten Marroway found work in Kelcombe, moved there, and did not return to Yarlhaven.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P027",
+  "src": "L15",
+  "dest": "L08"
+ },
+ {
+  "id": "E0297",
+  "type": "TRAVEL",
+  "chapter": 30,
+  "text": "Darine Grimworth followed him to Kelcombe within the month.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P039",
+  "src": "L15",
+  "dest": "L08"
+ },
+ {
+  "id": "E0298",
+  "type": "RUMOR",
+  "chapter": 30,
+  "text": "Gossip from Jomor claimed Uldan Grimworth and Nenelle Marroway had been wed in secret.",
+  "where": "L11",
+  "ref_deps": [
+   "E0009"
+  ],
+  "teller": "P049",
+  "claim": {
+   "kind": "married",
+   "target": "P036",
+   "other": "P053"
+  }
+ },
+ {
+  "id": "E0299",
+  "type": "PLAN",
+  "chapter": 30,
+  "text": "Thidette Corrwood talked for weeks of going to Coldwick, yet in the end stayed where she was.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P012",
+  "dest": "L03"
+ },
+ {
+  "id": "E0300",
+  "type": "MARRY",
+  "chapter": 30,
+  "text": "Nenelle Marroway and Uldan Grimworth were wed at Ostgate, with half the parish looking on. The couple lived in Ostgate from then on.",
+  "where": "L10",
+  "ref_deps": [],
+  "a": "P053",
+  "b": "P036",
+  "place": "L10"
+ },
+ {
+  "id": "E0301",
+  "type": "PROMISE",
+  "chapter": 30,
+  "text": "The youngest son of Orric Marroway gave Darine Grimworth a solemn promise to repair the roof of the chapel at Brynby.",
+  "where": "L08",
+  "ref_deps": [
+   "E0004"
+  ],
+  "promise": "R19",
+  "a": "P027",
+  "b": "P039",
+  "act": "to repair the roof of the chapel at Brynby"
+ },
+ {
+  "id": "E0302",
+  "type": "DEATH",
+  "chapter": 30,
+  "text": "They laid Jomira Stenner in the churchyard at Kelwick, dead of old age, quietly in sleep.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P043",
+  "cause": "old age, quietly in sleep",
+  "place": "L09"
+ },
+ {
+  "id": "E0303",
+  "type": "TRAVEL",
+  "chapter": 30,
+  "text": "Motho Corrmere packed a single trunk and moved from Elmhaven to Yarlhaven.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P003",
+  "src": "L04",
+  "dest": "L15"
+ },
+ {
+  "id": "E0304",
+  "type": "TRAVEL",
+  "chapter": 30,
+  "text": "Yessa Grimworth followed him to Yarlhaven within the month.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P040",
+  "src": "L04",
+  "dest": "L15"
+ },
+ {
+  "id": "E0305",
+  "type": "DEATH",
+  "chapter": 30,
+  "text": "Nemira died of the coughing sickness at Salby.",
+  "where": "L12",
+  "ref_deps": [
+   "E0009"
+  ],
+  "person": "P048",
+  "cause": "the coughing sickness",
+  "place": "L12"
+ },
+ {
+  "id": "E0306",
+  "type": "TELL",
+  "chapter": 31,
+  "text": "Nyvus Corrwood could keep it no longer and told Aelan Corrmere that the harbor master of Coldwick takes bribes.",
+  "where": "L07",
+  "ref_deps": [],
+  "secret": "S00",
+  "src": "P016",
+  "dest": "P052"
+ },
+ {
+  "id": "E0307",
+  "type": "TELL",
+  "chapter": 31,
+  "text": "In a letter that Yelis Marroway burned after reading, Nyvus Corrwood revealed that the harbor master of Coldwick takes bribes.",
+  "where": "L07",
+  "ref_deps": [],
+  "secret": "S00",
+  "src": "P016",
+  "dest": "P055"
+ },
+ {
+  "id": "E0308",
+  "type": "TRAVEL",
+  "chapter": 31,
+  "text": "Jossa Marroway packed a single trunk and moved from Harrowford to Kelwick.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P054",
+  "src": "L07",
+  "dest": "L09"
+ },
+ {
+  "id": "E0309",
+  "type": "GIVE",
+  "chapter": 31,
+  "text": "A parcel from the eldest daughter of Garic Stenner reached Gaten Haskson; inside was the ivory locket, now his to keep.",
+  "where": "L10",
+  "ref_deps": [
+   "E0008"
+  ],
+  "item": "I07",
+  "src": "P044",
+  "dest": "P009"
+ },
+ {
+  "id": "E0310",
+  "type": "TELL",
+  "chapter": 31,
+  "text": "In a letter that Aelia Quillett burned after reading, Werald revealed that a chest of silver lies buried beneath the well at Coldwick.",
+  "where": "L10",
+  "ref_deps": [
+   "E0000"
+  ],
+  "secret": "S03",
+  "src": "P005",
+  "dest": "P031"
+ },
+ {
+  "id": "E0311",
+  "type": "RESOLVE",
+  "chapter": 31,
+  "text": "Elten Marroway broke faith with Darine Grimworth, and the promised work (repair the roof of the chapel at Brynby) was never begun.",
+  "where": "L08",
+  "ref_deps": [],
+  "promise": "R19",
+  "kept": false
+ },
+ {
+  "id": "E0312",
+  "type": "RUMOR",
+  "chapter": 31,
+  "text": "The youngest son of Vovie Marroway whispered that Ullia Corrwood had secretly married Ismor Stenner, but nobody could say where or when.",
+  "where": "L08",
+  "ref_deps": [
+   "E0004"
+  ],
+  "teller": "P027",
+  "claim": {
+   "kind": "married",
+   "target": "P013",
+   "other": "P046"
+  }
+ },
+ {
+  "id": "E0313",
+  "type": "MARRY",
+  "chapter": 31,
+  "text": "In the chapel at Fencombe, Aebin Prydaby married Yelis. The couple lived in Fencombe from then on.",
+  "where": "L05",
+  "ref_deps": [
+   "E0174"
+  ],
+  "a": "P059",
+  "b": "P055",
+  "place": "L05"
+ },
+ {
+  "id": "E0314",
+  "type": "MARRY",
+  "chapter": 32,
+  "text": "Before the spring was out, Orric Marroway took Kawyn Prydaby in marriage at Gulstead. The couple lived in Gulstead from then on.",
+  "where": "L06",
+  "ref_deps": [],
+  "a": "P023",
+  "b": "P056",
+  "place": "L06"
+ },
+ {
+  "id": "E0315",
+  "type": "TRAVEL",
+  "chapter": 32,
+  "text": "Aelan packed a single trunk and moved from Harrowford to Kelcombe.",
+  "where": "L07",
+  "ref_deps": [
+   "E0098"
+  ],
+  "person": "P052",
+  "src": "L07",
+  "dest": "L08"
+ },
+ {
+  "id": "E0316",
+  "type": "GIVE",
+  "chapter": 32,
+  "text": "Isena Corrner pressed the iron dagger into the hands of Luric Corrmere and would take nothing for it.",
+  "where": "L07",
+  "ref_deps": [],
+  "item": "I06",
+  "src": "P035",
+  "dest": "P002"
+ },
+ {
+  "id": "E0317",
+  "type": "PROMISE",
+  "chapter": 32,
+  "text": "The only son of Thiric Corrwood swore to Luric Corrmere to repair the roof of the chapel at Coldwick, and shook on it.",
+  "where": "L07",
+  "ref_deps": [
+   "E0002"
+  ],
+  "promise": "R20",
+  "a": "P016",
+  "b": "P002",
+  "act": "to repair the roof of the chapel at Coldwick"
+ },
+ {
+  "id": "E0318",
+  "type": "TRAVEL",
+  "chapter": 32,
+  "text": "Aelia Quillett rode out of Ostgate; by the next market day she was living in Wendhaven.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P031",
+  "src": "L10",
+  "dest": "L14"
+ },
+ {
+  "id": "E0319",
+  "type": "TRAVEL",
+  "chapter": 32,
+  "text": "Kanar followed her to Wendhaven within the month.",
+  "where": "L10",
+  "ref_deps": [
+   "E0003"
+  ],
+  "person": "P020",
+  "src": "L10",
+  "dest": "L14"
+ },
+ {
+  "id": "E0320",
+  "type": "GIVE",
+  "chapter": 33,
+  "text": "Islde Haskson won the ivory locket from Gaten at cards, fairly, and kept it.",
+  "where": "L15",
+  "ref_deps": [
+   "E0001"
+  ],
+  "item": "I07",
+  "src": "P009",
+  "dest": "P007"
+ },
+ {
+  "id": "E0321",
+  "type": "DEATH",
+  "chapter": 33,
+  "text": "The husband of Nenelle Marroway died of the coughing sickness at Ostgate.",
+  "where": "L10",
+  "ref_deps": [
+   "E0300"
+  ],
+  "person": "P036",
+  "cause": "the coughing sickness",
+  "place": "L10"
+ },
+ {
+  "id": "E0322",
+  "type": "GIVE",
+  "chapter": 33,
+  "text": "Among the things left by Uldan Grimworth, the amber compass was handed to Nenelle Marroway.",
+  "where": "L10",
+  "ref_deps": [],
+  "item": "I00",
+  "src": "P036",
+  "dest": "P053",
+  "inherit": true
+ },
+ {
+  "id": "E0323",
+  "type": "RUMOR",
+  "chapter": 33,
+  "text": "Werald Corrmere told everyone at the inn that Yelis Marroway had drowned crossing the estuary, though no body was ever seen.",
+  "where": "L10",
+  "ref_deps": [],
+  "teller": "P005",
+  "claim": {
+   "kind": "dead",
+   "target": "P055"
+  }
+ },
+ {
+  "id": "E0324",
+  "type": "TELL",
+  "chapter": 33,
+  "text": "In a letter that Ismor Stenner burned after reading, Isena Corrner revealed that a chest of silver lies buried beneath the well at Coldwick.",
+  "where": "L07",
+  "ref_deps": [],
+  "secret": "S03",
+  "src": "P035",
+  "dest": "P046"
+ },
+ {
+  "id": "E0325",
+  "type": "GIVE",
+  "chapter": 33,
+  "text": "Weric Prydaby won the amber compass from Nenelle Marroway at cards, fairly, and kept it.",
+  "where": "L10",
+  "ref_deps": [],
+  "item": "I00",
+  "src": "P053",
+  "dest": "P058"
+ },
+ {
+  "id": "E0326",
+  "type": "TRAVEL",
+  "chapter": 33,
+  "text": "Nyvus Marroway packed a single trunk and moved from Ostgate to Brynby.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P025",
+  "src": "L10",
+  "dest": "L00"
+ },
+ {
+  "id": "E0327",
+  "type": "TRAVEL",
+  "chapter": 33,
+  "text": "Darine Corrwood went along to live in Brynby as well.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P015",
+  "src": "L10",
+  "dest": "L00"
+ },
+ {
+  "id": "E0328",
+  "type": "RESOLVE",
+  "chapter": 33,
+  "text": "Nyvus Corrwood never did keep the promise made to Luric Corrmere (repair the roof of the chapel at Coldwick); the matter was abandoned.",
+  "where": "L07",
+  "ref_deps": [],
+  "promise": "R20",
+  "kept": false
+ },
+ {
+  "id": "E0329",
+  "type": "GIVE",
+  "chapter": 33,
+  "text": "Sebin Marrworth won the jade ring from Romira Marroway at cards, fairly, and kept it.",
+  "where": "L10",
+  "ref_deps": [],
+  "item": "I10",
+  "src": "P026",
+  "dest": "P050"
+ },
+ {
+  "id": "E0330",
+  "type": "MARRY",
+  "chapter": 34,
+  "text": "Jossa Marroway and the only son of Lulan Corrner were wed at Kelwick, with half the parish looking on. The couple lived in Kelwick from then on.",
+  "where": "L09",
+  "ref_deps": [
+   "E0006"
+  ],
+  "a": "P054",
+  "b": "P034",
+  "place": "L09"
+ },
+ {
+  "id": "E0331",
+  "type": "TRAVEL",
+  "chapter": 34,
+  "text": "Thirald Corrner rode out of Kelwick; by the next market day he was living in Coldby.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P034",
+  "src": "L09",
+  "dest": "L01"
+ },
+ {
+  "id": "E0332",
+  "type": "TRAVEL",
+  "chapter": 34,
+  "text": "Jossa Marroway went along to live in Coldby as well.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P054",
+  "src": "L09",
+  "dest": "L01"
+ },
+ {
+  "id": "E0333",
+  "type": "DEATH",
+  "chapter": 34,
+  "text": "They laid Nyvus Marroway in the churchyard at Brynby, dead of a kick from a cart horse.",
+  "where": "L00",
+  "ref_deps": [],
+  "person": "P025",
+  "cause": "a kick from a cart horse",
+  "place": "L00"
+ },
+ {
+  "id": "E0334",
+  "type": "PROMISE",
+  "chapter": 34,
+  "text": "Darine Corrwood gave Thidette a solemn promise to rebuild the fallen wall at Wendhaven.",
+  "where": "L00",
+  "ref_deps": [
+   "E0002"
+  ],
+  "promise": "R21",
+  "a": "P015",
+  "b": "P012",
+  "act": "to rebuild the fallen wall at Wendhaven"
+ },
+ {
+  "id": "E0335",
+  "type": "TRAVEL",
+  "chapter": 34,
+  "text": "Gaten Haskson left Yarlhaven and settled in Wendhaven.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P009",
+  "src": "L15",
+  "dest": "L14"
+ },
+ {
+  "id": "E0336",
+  "type": "OCCUPATION",
+  "chapter": 34,
+  "text": "Darine Corrwood was apprenticed anew and became a ferryman.",
+  "where": "L00",
+  "ref_deps": [
+   "E0002"
+  ],
+  "person": "P015",
+  "old": "scribe",
+  "new": "ferryman"
+ },
+ {
+  "id": "E0337",
+  "type": "TELL",
+  "chapter": 34,
+  "text": "Nyvus Corrwood could keep it no longer and told the eldest son of Nymor Corrmere that the Marroway family once owed a blood debt to the Haskson family.",
+  "where": "L07",
+  "ref_deps": [
+   "E0000"
+  ],
+  "secret": "S04",
+  "src": "P016",
+  "dest": "P002"
+ },
+ {
+  "id": "E0338",
+  "type": "TELL",
+  "chapter": 35,
+  "text": "Thirald Haskson could keep it no longer and told Zadette Corrmere that the bridge toll at Kelwick is skimmed every month.",
+  "where": "L09",
+  "ref_deps": [],
+  "secret": "S05",
+  "src": "P008",
+  "dest": "P004"
+ },
+ {
+  "id": "E0339",
+  "type": "GIVE",
+  "chapter": 35,
+  "text": "A parcel from Sebin Marrworth reached Ismor Stenner; inside was the amber flute, now his to keep.",
+  "where": "L10",
+  "ref_deps": [],
+  "item": "I01",
+  "src": "P050",
+  "dest": "P046"
+ },
+ {
+  "id": "E0340",
+  "type": "TRAVEL",
+  "chapter": 35,
+  "text": "Zadette Corrmere found work in Ostgate, moved there, and did not return to Kelwick.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P004",
+  "src": "L09",
+  "dest": "L10"
+ },
+ {
+  "id": "E0341",
+  "type": "TRAVEL",
+  "chapter": 35,
+  "text": "Thirald Haskson went along to live in Ostgate as well.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P008",
+  "src": "L09",
+  "dest": "L10"
+ },
+ {
+  "id": "E0342",
+  "type": "RESOLVE",
+  "chapter": 35,
+  "text": "Yelis Marroway broke faith with Nyvus Corrwood, and the promised work (plant an orchard on the slope above Kelcombe) was never begun.",
+  "where": "L05",
+  "ref_deps": [],
+  "promise": "R16",
+  "kept": false
+ },
+ {
+  "id": "E0343",
+  "type": "GIVE",
+  "chapter": 35,
+  "text": "A parcel from Ismor reached Thidette Corrwood; inside was the amber flute, now hers to keep.",
+  "where": "L12",
+  "ref_deps": [
+   "E0008"
+  ],
+  "item": "I01",
+  "src": "P046",
+  "dest": "P012"
+ },
+ {
+  "id": "E0344",
+  "type": "DEATH",
+  "chapter": 35,
+  "text": "Lulan Corrner died of drowning in the flood at Fencombe.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P032",
+  "cause": "drowning in the flood",
+  "place": "L05"
+ },
+ {
+  "id": "E0345",
+  "type": "TRAVEL",
+  "chapter": 35,
+  "text": "After the quarrel, Haric quit Ostgate for good and took lodgings in Coldwick.",
+  "where": "L10",
+  "ref_deps": [
+   "E0003"
+  ],
+  "person": "P022",
+  "src": "L10",
+  "dest": "L03"
+ },
+ {
+  "id": "E0346",
+  "type": "TRAVEL",
+  "chapter": 35,
+  "text": "Romira Marroway went along to live in Coldwick as well.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P026",
+  "src": "L10",
+  "dest": "L03"
+ },
+ {
+  "id": "E0347",
+  "type": "MARRY",
+  "chapter": 35,
+  "text": "Before the winter was out, Gaten Haskson took Nenelle Marroway in marriage at Wendhaven. The couple lived in Wendhaven from then on.",
+  "where": "L14",
+  "ref_deps": [],
+  "a": "P009",
+  "b": "P053",
+  "place": "L14"
+ },
+ {
+  "id": "E0348",
+  "type": "MARRY",
+  "chapter": 36,
+  "text": "Aelan Corrmere and Nyena Quillett were wed at Kelcombe, with half the parish looking on. The couple lived in Kelcombe from then on.",
+  "where": "L08",
+  "ref_deps": [],
+  "a": "P052",
+  "b": "P057",
+  "place": "L08"
+ },
+ {
+  "id": "E0349",
+  "type": "DEATH",
+  "chapter": 36,
+  "text": "They laid Yelis Marroway in the churchyard at Fencombe, dead of the coughing sickness.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P055",
+  "cause": "the coughing sickness",
+  "place": "L05"
+ },
+ {
+  "id": "E0350",
+  "type": "GIVE",
+  "chapter": 36,
+  "text": "Weric Prydaby pressed the amber compass into the hands of Vowyn and would take nothing for it.",
+  "where": "L10",
+  "ref_deps": [
+   "E0008"
+  ],
+  "item": "I00",
+  "src": "P058",
+  "dest": "P044"
+ },
+ {
+  "id": "E0351",
+  "type": "TRAVEL",
+  "chapter": 36,
+  "text": "After the quarrel, the husband of Vowyn Stenner quit Ostgate for good and took lodgings in Brynby.",
+  "where": "L10",
+  "ref_deps": [
+   "E0012"
+  ],
+  "person": "P010",
+  "src": "L10",
+  "dest": "L00"
+ },
+ {
+  "id": "E0352",
+  "type": "TRAVEL",
+  "chapter": 36,
+  "text": "Vowyn Stenner went along to live in Brynby as well.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P044",
+  "src": "L10",
+  "dest": "L00"
+ },
+ {
+  "id": "E0353",
+  "type": "MARRY",
+  "chapter": 36,
+  "text": "In the chapel at Kelwick, Garic married Thidette Corrwood. The couple lived in Kelwick from then on.",
+  "where": "L09",
+  "ref_deps": [
+   "E0008"
+  ],
+  "a": "P042",
+  "b": "P012",
+  "place": "L09"
+ },
+ {
+  "id": "E0354",
+  "type": "PROMISE",
+  "chapter": 36,
+  "text": "Zadette Corrmere swore to Karine to pay the old debt owed to the Corrmere family, and shook on it.",
+  "where": "L10",
+  "ref_deps": [
+   "E0003"
+  ],
+  "promise": "R22",
+  "a": "P004",
+  "b": "P021",
+  "act": "to pay the old debt owed to the Corrmere family"
+ },
+ {
+  "id": "E0355",
+  "type": "TELL",
+  "chapter": 36,
+  "text": "Luric could keep it no longer and told the only son of Thidette Corrwood that the deed to the Gulstead pastures was forged.",
+  "where": "L07",
+  "ref_deps": [
+   "E0000",
+   "E0002"
+  ],
+  "secret": "S07",
+  "src": "P002",
+  "dest": "P016"
+ },
+ {
+  "id": "E0356",
+  "type": "PLAN",
+  "chapter": 36,
+  "text": "Romor Corrwood meant to go to Coldwick before the frost, but the roads flooded and the journey was put off.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P051",
+  "dest": "L03"
+ },
+ {
+  "id": "E0357",
+  "type": "PLAN",
+  "chapter": 37,
+  "text": "Pevie Corrwood meant to go to Salby before the frost, but the roads flooded and the journey was put off.",
+  "where": "L11",
+  "ref_deps": [
+   "E0002"
+  ],
+  "person": "P014",
+  "dest": "L12"
+ },
+ {
+  "id": "E0358",
+  "type": "GIVE",
+  "chapter": 37,
+  "text": "Garic Stenner won the amber flute from Thidette Corrwood at cards, fairly, and kept it.",
+  "where": "L09",
+  "ref_deps": [],
+  "item": "I01",
+  "src": "P012",
+  "dest": "P042"
+ },
+ {
+  "id": "E0359",
+  "type": "TRAVEL",
+  "chapter": 37,
+  "text": "The wife of Garic Stenner left Kelwick and settled in Wendhaven.",
+  "where": "L09",
+  "ref_deps": [
+   "E0353"
+  ],
+  "person": "P012",
+  "src": "L09",
+  "dest": "L14"
+ },
+ {
+  "id": "E0360",
+  "type": "TRAVEL",
+  "chapter": 37,
+  "text": "Garic Stenner went along to live in Wendhaven as well.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P042",
+  "src": "L09",
+  "dest": "L14"
+ },
+ {
+  "id": "E0361",
+  "type": "TRAVEL",
+  "chapter": 37,
+  "text": "Aelan Corrmere found work in Kelwick, moved there, and did not return to Kelcombe.",
+  "where": "L08",
+  "ref_deps": [],
+  "person": "P052",
+  "src": "L08",
+  "dest": "L09"
+ },
+ {
+  "id": "E0362",
+  "type": "TRAVEL",
+  "chapter": 37,
+  "text": "Nyena Quillett went along to live in Kelwick as well.",
+  "where": "L08",
+  "ref_deps": [],
+  "person": "P057",
+  "src": "L08",
+  "dest": "L09"
+ },
+ {
+  "id": "E0363",
+  "type": "GIVE",
+  "chapter": 37,
+  "text": "Motho won the ivory locket from Islde at cards, fairly, and kept it.",
+  "where": "L15",
+  "ref_deps": [
+   "E0000",
+   "E0001"
+  ],
+  "item": "I07",
+  "src": "P007",
+  "dest": "P003"
+ },
+ {
+  "id": "E0364",
+  "type": "DEATH",
+  "chapter": 37,
+  "text": "Motho Corrmere died of a kick from a cart horse at Yarlhaven.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P003",
+  "cause": "a kick from a cart horse",
+  "place": "L15"
+ },
+ {
+  "id": "E0365",
+  "type": "GIVE",
+  "chapter": 37,
+  "text": "Among the things left by Motho Corrmere, the ivory locket was handed to Yessa Grimworth.",
+  "where": "L15",
+  "ref_deps": [],
+  "item": "I07",
+  "src": "P003",
+  "dest": "P040",
+  "inherit": true
+ },
+ {
+  "id": "E0366",
+  "type": "TELL",
+  "chapter": 37,
+  "text": "Jossa could keep it no longer and told Thirald Corrner that the harbor master of Coldwick takes bribes.",
+  "where": "L01",
+  "ref_deps": [
+   "E0162"
+  ],
+  "secret": "S00",
+  "src": "P054",
+  "dest": "P034"
+ },
+ {
+  "id": "E0367",
+  "type": "DEATH",
+  "chapter": 38,
+  "text": "They laid Garic in the churchyard at Wendhaven, dead of a fall from the mill loft.",
+  "where": "L14",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P042",
+  "cause": "a fall from the mill loft",
+  "place": "L14"
+ },
+ {
+  "id": "E0368",
+  "type": "GIVE",
+  "chapter": 38,
+  "text": "The jade chalice, which Garic Stenner had owned, went to Thidette.",
+  "where": "L14",
+  "ref_deps": [
+   "E0002"
+  ],
+  "item": "I08",
+  "src": "P042",
+  "dest": "P012",
+  "inherit": true
+ },
+ {
+  "id": "E0369",
+  "type": "GIVE",
+  "chapter": 38,
+  "text": "The amber flute, which Garic Stenner had owned, went to Thidette.",
+  "where": "L14",
+  "ref_deps": [
+   "E0002"
+  ],
+  "item": "I01",
+  "src": "P042",
+  "dest": "P012",
+  "inherit": true
+ },
+ {
+  "id": "E0370",
+  "type": "TRAVEL",
+  "chapter": 38,
+  "text": "Gaten rode out of Wendhaven; by the next market day he was living in Harrowford.",
+  "where": "L14",
+  "ref_deps": [
+   "E0001"
+  ],
+  "person": "P009",
+  "src": "L14",
+  "dest": "L07"
+ },
+ {
+  "id": "E0371",
+  "type": "TRAVEL",
+  "chapter": 38,
+  "text": "Nenelle Marroway went along to live in Harrowford as well.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P053",
+  "src": "L14",
+  "dest": "L07"
+ },
+ {
+  "id": "E0372",
+  "type": "GIVE",
+  "chapter": 38,
+  "text": "Sebin Marrworth pressed the jade ring into the hands of Rolis Stenner and would take nothing for it.",
+  "where": "L10",
+  "ref_deps": [],
+  "item": "I10",
+  "src": "P050",
+  "dest": "P045"
+ },
+ {
+  "id": "E0373",
+  "type": "RESOLVE",
+  "chapter": 38,
+  "text": "Thidette Corrwood broke faith with Nyena Quillett, and the promised work (carry a sealed letter to Gulstead) was never begun.",
+  "where": "L14",
+  "ref_deps": [],
+  "promise": "R17",
+  "kept": false
+ },
+ {
+  "id": "E0374",
+  "type": "RUMOR",
+  "chapter": 38,
+  "text": "Aelan Corrmere whispered that Darine Grimworth had secretly married Welan Haskson, but nobody could say where or when.",
+  "where": "L09",
+  "ref_deps": [],
+  "teller": "P052",
+  "claim": {
+   "kind": "married",
+   "target": "P039",
+   "other": "P006"
+  }
+ },
+ {
+  "id": "E0375",
+  "type": "RUMOR",
+  "chapter": 39,
+  "text": "Gossip from the wife of Elten Marroway claimed Werald Corrmere and Karine Prydaby had been wed in secret.",
+  "where": "L08",
+  "ref_deps": [
+   "E0090"
+  ],
+  "teller": "P039",
+  "claim": {
+   "kind": "married",
+   "target": "P005",
+   "other": "P021"
+  }
+ },
+ {
+  "id": "E0376",
+  "type": "DEATH",
+  "chapter": 39,
+  "text": "Thidette Corrwood died of a fall from the mill loft at Wendhaven.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P012",
+  "cause": "a fall from the mill loft",
+  "place": "L14"
+ },
+ {
+  "id": "E0377",
+  "type": "GIVE",
+  "chapter": 39,
+  "text": "The jade chalice, which Thidette Corrwood had owned, went to Ullia Corrwood.",
+  "where": "L14",
+  "ref_deps": [],
+  "item": "I08",
+  "src": "P012",
+  "dest": "P013",
+  "inherit": true
+ },
+ {
+  "id": "E0378",
+  "type": "GIVE",
+  "chapter": 39,
+  "text": "Among the things left by Thidette Corrwood, the amber flute was handed to Ullia.",
+  "where": "L14",
+  "ref_deps": [
+   "E0002"
+  ],
+  "item": "I01",
+  "src": "P012",
+  "dest": "P013",
+  "inherit": true
+ },
+ {
+  "id": "E0379",
+  "type": "GIVE",
+  "chapter": 39,
+  "text": "Among the things left by Thidette Corrwood, the garnet comb was handed to Ullia.",
+  "where": "L14",
+  "ref_deps": [
+   "E0002"
+  ],
+  "item": "I04",
+  "src": "P012",
+  "dest": "P013",
+  "inherit": true
+ },
+ {
+  "id": "E0380",
+  "type": "TELL",
+  "chapter": 39,
+  "text": "Ismor Stenner could keep it no longer and told the husband of Kawyn Prydaby that a chest of silver lies buried beneath the well at Coldwick.",
+  "where": "L12",
+  "ref_deps": [
+   "E0314"
+  ],
+  "secret": "S03",
+  "src": "P046",
+  "dest": "P023"
+ },
+ {
+  "id": "E0381",
+  "type": "GIVE",
+  "chapter": 39,
+  "text": "Ullia gave the jade chalice to Wedan Quillett.",
+  "where": "L03",
+  "ref_deps": [
+   "E0002"
+  ],
+  "item": "I08",
+  "src": "P013",
+  "dest": "P030"
+ },
+ {
+  "id": "E0382",
+  "type": "TRAVEL",
+  "chapter": 39,
+  "text": "Karine Prydaby rode out of Ostgate; by the next market day she was living in Fencombe.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P021",
+  "src": "L10",
+  "dest": "L05"
+ },
+ {
+  "id": "E0383",
+  "type": "TRAVEL",
+  "chapter": 39,
+  "text": "Sebin went along to live in Fencombe as well.",
+  "where": "L10",
+  "ref_deps": [
+   "E0009"
+  ],
+  "person": "P050",
+  "src": "L10",
+  "dest": "L05"
+ },
+ {
+  "id": "E0384",
+  "type": "TRAVEL",
+  "chapter": 40,
+  "text": "Elric left Harrowford and settled in Ostton.",
+  "where": "L07",
+  "ref_deps": [
+   "E0278"
+  ],
+  "person": "P061",
+  "src": "L07",
+  "dest": "L11"
+ },
+ {
+  "id": "E0385",
+  "type": "DEATH",
+  "chapter": 40,
+  "text": "That spring, the coughing sickness took Islde; she was buried at Yarlhaven.",
+  "where": "L15",
+  "ref_deps": [
+   "E0001"
+  ],
+  "person": "P007",
+  "cause": "the coughing sickness",
+  "place": "L15"
+ },
+ {
+  "id": "E0386",
+  "type": "GIVE",
+  "chapter": 40,
+  "text": "A parcel from Luric Corrmere reached Darine Corrwood; inside was the iron dagger, now hers to keep.",
+  "where": "L07",
+  "ref_deps": [],
+  "item": "I06",
+  "src": "P002",
+  "dest": "P015"
+ },
+ {
+  "id": "E0387",
+  "type": "TELL",
+  "chapter": 40,
+  "text": "Late one night Nyvus Corrwood confided to Old Isena that the deed to the Gulstead pastures was forged.",
+  "where": "L07",
+  "ref_deps": [
+   "E0047"
+  ],
+  "secret": "S07",
+  "src": "P016",
+  "dest": "P035"
+ },
+ {
+  "id": "E0388",
+  "type": "BIRTH",
+  "chapter": 40,
+  "text": "A daughter was born to Romira Marroway and Haric Prydaby, and they called the child Lurine Prydaby. The family lived in Coldwick.",
+  "where": "L03",
+  "ref_deps": [],
+  "child": "P065",
+  "mother": "P026",
+  "father": "P022",
+  "place": "L03"
+ },
+ {
+  "id": "E0389",
+  "type": "TRAVEL",
+  "chapter": 40,
+  "text": "Wedan Quillett found work in Brynby, moved there, and did not return to Coldwick.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P030",
+  "src": "L03",
+  "dest": "L00"
+ },
+ {
+  "id": "E0390",
+  "type": "TRAVEL",
+  "chapter": 40,
+  "text": "Ullia Corrwood went along to live in Brynby as well.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P013",
+  "src": "L03",
+  "dest": "L00"
+ },
+ {
+  "id": "E0391",
+  "type": "BIRTH",
+  "chapter": 40,
+  "text": "A daughter was born to Ullia Corrwood and Wedan Quillett, and they called the child Cora Quillett. The family lived in Brynby.",
+  "where": "L00",
+  "ref_deps": [],
+  "child": "P066",
+  "mother": "P013",
+  "father": "P030",
+  "place": "L00"
+ }
+]

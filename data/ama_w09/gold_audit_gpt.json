@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "Step 8 uses that grep pipeline, preceded by changing directories.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ambiguous",
+  "reason": "Step 8 already reveals prepend_prolog; Step 9 reveals its implementation.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "Those are the primary source definition and usage, although tests would also match.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "prepend_prolog is defined at line 78.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ambiguous",
+  "reason": "The stated prerequisites are not uniquely required; identifying the docinfo misclassification can explain the bug.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "Examining the implementation and parser call is a reasonable next action.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "wrong",
+  "reason": "Later exploration returns to specific functions, including prepend_prolog at Step 180.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "The function inserts the prolog after lines classified as docinfo and before the remaining content.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "wrong",
+  "reason": "The executed pipeline also includes `| head -20`.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "Step 8 shows the rst_prolog configuration entry in sphinx/config.py.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "wrong",
+  "reason": "The discovered issue is an overly broad docinfo regex; line 97 already uses lineno + 1.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "The described reproduction and heading/toctree symptoms match the trajectory.",
+  "evidence": "whole trajectory"
+ }
+}

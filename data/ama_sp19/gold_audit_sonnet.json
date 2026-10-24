@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "Step 12's SQL and its filters are quoted accurately.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "Step 19's query and its example row (TCGA-AB-2802, chr 15, 64023328–64039113, 1.2128) match.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "Step 16 filtered on 'chr15', while steps 18–19 show the segment table stores '15'.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "The counterfactual is plausible, since the step 16 query had no alias problem and would likely have returned data.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "The interval is chr15:19000000–25500000, obtained in step 12 and reconfirmed in step 21.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "The listed preconditions are all supported by steps 8, 12, 13, 18–19 and 22.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "Step 14 created the alias unquoted and then referenced it as a quoted \"overlap_length\".",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "Switching the filter to '15' and re-running is exactly what step 22 did.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ambiguous",
+  "reason": "Steps 22–25 query the cytoband table again with the same filter, so \"last reconfirmed\" could be step 21 or later.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "The timeout inference is speculative but consistent with the observed pattern of failures and successes.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "wrong",
+  "reason": "The cytoband table is also queried in steps 14, 15 and 16, so it has 10 queries, not 7.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "It correctly summarizes the key failures, the chromosome-encoding fix and the minimal action chain.",
+  "evidence": "whole trajectory"
+ }
+}

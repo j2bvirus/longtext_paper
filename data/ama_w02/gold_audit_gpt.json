@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "wrong",
+  "reason": "Step 17 viewed query.py lines 1680–1720 containing prefetch_related_objects().",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ambiguous",
+  "reason": "Step 8 identified base.py, but understanding its deferred-field handling could also come from Steps 11–12.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "The reproduction still failed at Step 82; the successful change came later.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "Step 131 reported set() for both User references and passed.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "wrong",
+  "reason": "Step 97 conditionally copied loaded field values into an existing cached User, not a deferred_fields set.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "wrong",
+  "reason": "The evidence pointed to relation-cache overwriting; no Model.__init__ change was supported or made.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "wrong",
+  "reason": "Step 97 modified related_descriptors.py, and later changes included Steps 109, 115, and 117.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "wrong",
+  "reason": "The outer User instance overwrote the prefetched User in the relation cache; no deferred_fields set was copied.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "wrong",
+  "reason": "Step 96 ran the reproduction with debugging; it did not examine a __dict__.update() modification.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "wrong",
+  "reason": "Step 128 expected 2 queries and observed 3; the expectation changed at Step 129.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "wrong",
+  "reason": "The finding concerned cached-instance replacement in related descriptors, not incorrect behavior in from_db().",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "wrong",
+  "reason": "from_db() was unchanged, and the comprehensive ForeignKey case still failed at Step 130.",
+  "evidence": "whole trajectory"
+ }
+}

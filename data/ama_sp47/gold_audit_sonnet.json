@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "The SQL and the seven columns match step 9.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "Step 11's total_points CTE used unquoted `season` on a column created as quoted \"season\"; step 10 only timed out.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "Unquoted `am.season` would still fail, and unquoted `points` would match the unquoted alias.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "The filter and the sample values (8635 with 43, 10001 with 32) match step 20.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "The preconditions listed are consistent with the trajectory.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "These are reasonable next actions given the identifier errors and timeouts.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "Step 18 returned MATCH_COUNT = 25979, and nothing later changes it.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "Step 24 returned the first five seasons listed.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "The quoted/unquoted case-sensitivity rule fits the errors at steps 11, 12, 15 and 16.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "The timeout steps and the quick successes match the trajectory, including step 26.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "The counts check out: 7 bash calls, 18 SQL calls (4 successes, 10 timeouts, 4 compile errors), and 9 objects if the directory listing is excluded.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "The blockers and the minimal sequence are consistent with the trajectory.",
+  "evidence": "whole trajectory"
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "The quoted SQL and the FLATTEN/PARSE_JSON transformation match Step 9.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "Steps 5, 6, 8 and 9 do supply the evidence described.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "The change from `A01B3%` to `A01B3/%` is visible between Steps 9 and 10.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "The counterfactual is plausible and consistent with the Step 9 output, which includes A01B39 and A01B33 codes.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "The listed preconditions are supported by Steps 5, 8 and 10.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "The Step 14 to 17 facts are correct and the suggested next actions are reasonable.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "Step 22 failed on the alias `by`, and Step 23 renamed it to `best_yr`.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "wrong",
+  "reason": "Step 25 is the last changed attempt, but the CTE structure was already the same in Step 23. The real Step 25 changes were adding `!= ''` to the assignee filter and dropping `cpc_code`.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "Step 8 shows A01B3/54 twice in one array, and Step 21 adds DISTINCT.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "It is a plausible inference; the switch to TRY_PARSE_JSON does appear at Step 22.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "The counts are 4 successes, 11 timeouts and 1 compilation error over 16 SQL calls, with 7 bash calls and the file access counts as listed.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "The key corrections and the minimal sequence match the trajectory.",
+  "evidence": "whole trajectory"
+ }
+}

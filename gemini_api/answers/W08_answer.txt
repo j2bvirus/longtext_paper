@@ -1,0 +1,96 @@
+Let's analyze the transcripts episode by episode to gather the exact counts of rolls and spells cast.
+
+**Episode 1:**
+- First spell cast: Pass Without a Trace (Keyleth)
+- Last spell cast by Tiberius: Control Flames
+- Last spell cast: Cure Wounds (Pike)
+
+**Episode 2:**
+- First spell cast: Prestidigitation (Tiberius)
+- Spells cast: Prestidigitation (Tiberius), Enhance Ability (Keyleth), Greater Restoration (Keyleth), Fly (Tiberius), Cure Wounds (Keyleth), Cure Wounds (Vex'ahlia), Seeming (Taryon/Scanlan), Speak with Animals (Keyleth), Prestidigitation (Tiberius), Stoneskin (Tiberius), Hunter's Mark (Vex'ahlia), Slow (Tiberius), Dominate Beast (Keyleth), Dimension Door (Taryon/Scanlan), Fly (Tiberius), Polymorph (Keyleth), Polymorph (Taryon/Scanlan), Dispel Magic (Tiberius), Light (Tiberius), Dispel Magic (Tiberius), Cure Wounds (Vex'ahlia), Fly (Tiberius).
+- Last spell cast by Tiberius: Fly
+- Last spell cast: Fly (Tiberius)
+
+**Episode 3:**
+- First spell cast: Cure Wounds (Keyleth)
+- Second spell cast: Stoneskin (Tiberius)
+- Third spell cast: Bigby's Hand (Taryon/Scanlan)
+- Last spell cast by Tiberius: Teleportation Circle
+- Last spell cast: Plant Growth (Keyleth)
+
+**Episode 4:**
+- First spell cast: Invisibility (Taryon/Scanlan)
+- Last spell cast: Pass Without a Trace (Vex'ahlia)
+
+**Episode 5:**
+- First spell cast: Hallucinatory Terrain (Keyleth)
+- Last spell cast: Polymorph (Taryon/Scanlan)
+
+**Episode 6:**
+- First spell cast: Cure Wounds (Vex'ahlia)
+- Last spell cast: Commune with Nature (Keyleth)
+
+**Episode 7:**
+- First spell cast: Mass Cure Wounds (Pike)
+- Last spell cast: Scrying (Keyleth)
+
+**Episode 8:**
+- First spell cast: Cure Wounds (Vex'ahlia)
+- Last spell cast: Skywrite (Keyleth)
+
+**Episode 9:**
+- First spell cast: Pass Without a Trace (Vex'ahlia)
+- Last spell cast: Cure Wounds (Vex'ahlia)
+
+**Episode 10:**
+- First spell cast: Greater Restoration (Pike)
+- Last spell cast: Speak with Dead (Pike)
+
+**Episode 11:**
+- First spell cast: Greater Restoration (Pike)
+- Last spell cast:Mordenkainen's Magnificent Mansion (Taryon/Scanlan)
+
+**Episode 12:**
+- First spell cast: Transport via Plants (Keyleth)
+- Second spell cast: Pass Without a Trace (Vex'ahlia)
+- Third spell cast: Cure Wounds (Vex'ahlia)
+- Last spell cast: Wind Walk (Keyleth)
+
+**Episode 13:**
+- First spell cast:Prismatic Spray (Taryon)
+- Last spell cast: Transport via Plants (Keyleth)
+
+**Episode 14:**
+- First spell cast: Locate Object (Vex'ahlia)
+- Last spell cast: Wind Walk (Keyleth)
+
+**Episode 15:**
+- First spell cast: Plane Shift (Keyleth)
+- Last spell cast: Silence (Percy)
+
+**Episode 16:**
+- First spell cast: Hunter's Mark (Vex'ahlia)
+- Last spell cast: Enhance Ability (Keyleth)
+
+Now, compiling the final answers to the 20 questions:
+
+Q01: \boxed{46}
+Q02: \boxed{Prestidigitation}
+Q03: \boxed{155}
+Q04: \boxed{187}
+Q05: \boxed{Bigby's Hand}
+Q06: \boxed{1}
+Q07: \boxed{136}
+Q08: \boxed{259}
+Q09: \boxed{43}
+Q10: \boxed{25}
+Q11: \boxed{Arcana, Religion}
+Q12: \boxed{Pass Without a Trace}
+Q13: \boxed{Cure Wounds, Fly, Plant Growth, Pass Without a Trace, Polymorph, Commune with Nature, Scrying, Skywrite, Cure Wounds, Speak with Dead, Mordenkainen's Magnificent Mansion, Wind Walk, Transport via Plants, Wind Walk, Silence, Enhance Ability}
+Q14: \boxed{Pass Without a Trace, Prestidigitation, Cure Wounds, Invisibility, Hallucinatory Terrain, Cure Wounds, Mass Cure Wounds, Cure Wounds, Pass Without a Trace, Greater Restoration, Greater Restoration, Transport via Plants, Prismatic Spray, Locate Object, Plane Shift, Hunter's Mark}
+Q15: \boxed{Control Flames, Fly, Teleportation Circle, None, None, None, None, None, None, None, None, None, None, None, None, None}
+Q16: \boxed{Attack}
+Q17: \boxed{53}
+Q18: \boxed{Cure Wounds}
+Q19: \boxed{Cure Wounds}
+Q20: \boxed{179}

@@ -1,0 +1,62 @@
+Based on the provided transcript, here is the breakdown and final answers for each question:
+
+* **Q01**: Across all 24 episodes, **Cure Wounds** and **Healing Word** are the most frequently cast spells (28 times each).
+
+
+* **Q02 & Q05**: There are 46 rolls with a natural value of 4 out of 2,215 total rolls across the episodes, which is approximately **2%**.
+
+
+* **Q03, Q04, & Q11**: Percy (played by Taliesin) makes a total of **275** rolls across all 24 episodes. At the end of Episode 18, his cumulative total is **215**, and at the end of Episode 23, his cumulative total is **266**.
+
+
+* **Q06**: In Episode 4, the first spell cast is **Pass Without a Trace** (by Vex'ahlia).
+
+
+* **Q07 & Q08**: Sam plays Scanlan in the earlier episodes and Taryon later on, but the prompt's mapping explicitly defines `Sam plays the character Taryon`. Sam makes a total of **215** rolls across all episodes.
+
+
+* **Q09**: In Episode 8, after *Pass Without a Trace*, the second spell cast is **Cure Wounds** (by Vex'ahlia).
+
+
+* **Q10, Q15, & Q18**: Grog (played by Travis) is a barbarian and casts **0** spells across all episodes (resulting in an empty list for Q10).
+
+
+* **Q12**: Listing the first spell cast in each of the 24 episodes in order.
+
+
+* **Q13 & Q16**: Spells explicitly cast at a higher spell slot level than their base level occur **37** times across 15 unique spells.
+
+
+* **Q14**: A total of **382** spells are cast across all episodes.
+
+
+* **Q17**: Tiberius (played by Orion) casts **21** spells across the episodes he appears in.
+
+
+* **Q19**: There are **0** rolls of type "Determine Focus".
+
+
+* **Q20**: In Episode 2, the spells cast in order are *Silence*, *Dispel Magic*, and **Counterspell**.
+
+
+
+Q01: \boxed{Cure Wounds, Healing Word}
+Q02: \boxed{46}
+Q03: \boxed{275}
+Q04: \boxed{266}
+Q05: \boxed{2}
+Q06: \boxed{Pass Without a Trace}
+Q07: \boxed{215}
+Q08: \boxed{215}
+Q09: \boxed{Cure Wounds}
+Q10: \boxed{None}
+Q11: \boxed{215}
+Q12: \boxed{Mage Hand, Silence, Stoneskin, Pass Without a Trace, Hunter's Mark, Seeming, Hunter's Mark, Pass Without a Trace, Pass Without a Trace, Cure Wounds, Dispel Magic, Transport via Plants, Bless, Pass Without a Trace, Transport via Plants, Heroes' Feast, Pass Without a Trace, Guiding Bolt, Cure Wounds, Pass Without a Trace, Hex, Fireball, Grasping Vine, Pass Without a Trace}
+Q13: \boxed{Aid, Banishment, Bigby's Hand, Blight,Call Lightning, Counterspell, Cure Wounds, Disintegrate,Dominate Monster,Enhance Ability,Flame Strike, Fly, Guiding Bolt, Hail of Thorns, Heal, Healing Word, Hold Monster, Invisibility, Lightning Bolt, Mass Cure Wounds,Melf's Acid Arrow, Mind Spike, Otiluke's Resilient Sphere,Scorching Ray, Sleep, Slow, Spiritual Weapon, Thunderwave,Wall of Thorns, Witch Bolt}
+Q14: \boxed{382}
+Q15: \boxed{0}
+Q16: \boxed{37}
+Q17: \boxed{21}
+Q18: \boxed{0}
+Q19: \boxed{0}
+Q20: \boxed{Counterspell}

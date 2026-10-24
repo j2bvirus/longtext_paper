@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "wrong",
+  "reason": "Step 27 executed `python test_reproduction.py`.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "wrong",
+  "reason": "The template was changed in Step 33, not Step 48.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "wrong",
+  "reason": "The fix was already implemented by Step 34; the reproduction script would show the invalid value.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "wrong",
+  "reason": "By Step 46, the template already included `%(value)s`.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "wrong",
+  "reason": "The ValidationError modification occurred in Step 34; Step 50 attempted a command that failed with SyntaxError.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "Running edge case tests was reasonable and occurred in Step 76.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "wrong",
+  "reason": "The params parameter was added in Step 34, not Step 50.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "Steps 73 and 74 reported passing forms_tests and model_forms suites.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "wrong",
+  "reason": "Step 50 made no modification; it executed a command that failed with SyntaxError.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "wrong",
+  "reason": "Problem analysis and both fixes occurred in Steps 32–34.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "These are the two source changes shown in Steps 33 and 34.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "Reproduction and edge case scripts verified the behavior, and both named test suites reported passing.",
+  "evidence": "whole trajectory"
+ }
+}

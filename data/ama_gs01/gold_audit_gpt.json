@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "Step 15 fetches the YouTube page through https://r.jina.ai/.",
+  "evidence": "steps [14, 15, 16, 27, 28]"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "Step 18 fetched the BBC Two clips page, which lists “Brave mother rock hoppers.”",
+  "evidence": "steps [17, 18, 19, 27, 28]"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "Step 17 uses the exact reference query and returns the Laughing Squid article.",
+  "evidence": "steps [16, 17, 18, 27, 28]"
+ },
+ "Q0003": {
+  "label": "not auditable",
+  "reason": "names no step",
+  "evidence": ""
+ },
+ "Q0004": {
+  "label": "not auditable",
+  "reason": "names no step",
+  "evidence": ""
+ },
+ "Q0005": {
+  "label": "ambiguous",
+  "reason": "The shown steps contain no Laughing Squid article before Step 19, so the reference answer cannot be verified.",
+  "evidence": "steps [18, 19, 20, 27, 28]"
+ },
+ "Q0006": {
+  "label": "ambiguous",
+  "reason": "Step 16 already mentions “rockhopper penguin,” and Step 17’s query uses that name; the exact turn when understanding changed is unclear.",
+  "evidence": "steps [16, 17, 18, 27, 28]"
+ },
+ "Q0007": {
+  "label": "not auditable",
+  "reason": "names no step",
+  "evidence": ""
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "Step 23 explicitly verifies lowercase, no articles, no abbreviations, and minimal words.",
+  "evidence": "steps [22, 23, 24, 27, 28]"
+ },
+ "Q0009": {
+  "label": "not auditable",
+  "reason": "names no step",
+  "evidence": ""
+ },
+ "Q0010": {
+  "label": "ambiguous",
+  "reason": "Steps 3 and 7 support the pivot to a readable text mirror, but do not establish it was the only way to access chapter titles or identify the species.",
+  "evidence": "steps [2, 3, 4, 6, 7, 8, 27, 28]"
+ },
+ "Q0011": {
+  "label": "ambiguous",
+  "reason": "Step 17 identifies the Wild Patagonia penguins, but the shown steps do not establish their link to the Top 5 video, so immediate completion and redundancy cannot be determined.",
+  "evidence": "steps [16, 17, 18, 19, 20, 27, 28]"
+ }
+}

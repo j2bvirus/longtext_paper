@@ -1,0 +1,174 @@
+To answer the questions based on the provided Dungeons & Dragons game transcripts, we count the spells cast, rolls made, natural roll values, and specific spell-level details across all 16 episodes.
+
+### Step-by-Step Breakdown:
+
+1. **Spells Cast by Vex'ahlia (Q01, Q06, Q08, Q13)**:
+* **Episode 1**: *Protection from Poison*, *Hunter's Mark*, *Hunter's Mark* (Last: **Hunter's Mark**).
+
+
+* **Episode 2**: *Hunter's Mark*, *Lightning Arrow*, *Hunter's Mark*, *Hunter's Mark* (Last: **Hunter's Mark**).
+
+
+* **Episode 3**: *Pass Without a Trace* (Last: **Pass Without a Trace**).
+
+
+* **Episode 4**: *Conjure Barrage*, *Hunter's Mark*, *Protection from Poison*, *Spike Growth* (Last: **Spike Growth**).
+
+
+* **Episode 5**: *Hunter's Mark*, *Hunter's Mark*, *Lightning Arrow*, *Hail of Thorns* (at 3rd level), *Lightning Arrow* (Last: **Lightning Arrow**).
+
+
+* **Episode 6**: None.
+
+
+* **Episode 7**: *Conjure Barrage* (at 3rd level), *Hunter's Mark*, *Lightning Arrow*, *Pass Without a Trace*, *Pass Without a Trace* (Last: **Pass Without a Trace**).
+
+
+* **Episode 8**: *Pass Without a Trace*, *Hunter's Mark*, *Conjure Animals*, *Grasping Vine*, *Conjure Animals* (Last: **Conjure Animals**).
+
+
+* **Episode 9**: *Pass Without a Trace*, *Speak With Animals* (Last: **Speak With Animals**).
+
+
+* **Episode 10**: None.
+
+
+* **Episode 11**: *Speak With Animals*, *Locate Object*, *Conjure Animals*, *Hail of Thorns* (at 4th level), *Cure Wounds* (at 3rd level) (Last: **Cure Wounds**).
+
+
+* **Episode 12**: None.
+
+
+* **Episode 13**: None.
+
+
+* **Episode 14**: *Pass Without a Trace*, *Pass Without a Trace*, *Hunter's Mark* (Last: **Hunter's Mark**).
+
+
+* **Episode 15**: *Pass Without a Trace* (Last: **Pass Without a Trace**).
+
+
+* **Episode 16**: *Pass Without a Trace* (Last: **Pass Without a Trace**).
+
+
+* **Total spells by Vex'ahlia**: 34.
+
+
+* **Characters casting *Lightning Arrow***: 1 (Vex'ahlia).
+
+
+* **Characters casting *Speak With Animals***: 2 (Zahra in Ep 5, Vex'ahlia in Ep 9 and Ep 11).
+
+
+
+
+2. **Spells Cast at Higher Levels (Q04, Q14)**:
+* Episode 1: *Dispel Magic* (cast by Tiberius at 4th level), *Cure Wounds* (cast by Keyleth at 2nd level).
+
+
+* Episode 2: *Cure Wounds* (cast by Pike at 4th level), *Cure Wounds* (cast by Pike at 4th level).
+
+
+* Episode 4: *Gust of Wind* (cast by Keyleth at 3rd level).
+
+
+* Episode 5: *Hail of Thorns* (cast by Vex'ahlia at 3rd level).
+
+
+* Episode 7: *Conjure Barrage* (cast by Vex'ahlia at 3rd level).
+
+
+* Episode 8: *Cure Wounds* (cast by Keyleth at 2nd level), *Heroes' Feast* (cast by Keyleth at 7th level), *Aid* (cast by Pike at 4th level), *Glyph of Warding* (cast by Pike at 5th level), *Guiding Bolt* (cast by Pike at 3rd level), *Guiding Bolt* (cast by Pike at 4th level), *Thunderwave* (cast by Scanlan at 6th level).
+
+
+* Episode 9: *Modify Memory* (cast by Scanlan at 7th level).
+
+
+* Episode 11: *Healing Word* (cast by Keyleth at 2nd level), *Healing Word* (cast by Keyleth at 2nd level), *Cure Wounds* (cast by Vex'ahlia at 3rd level), *Hail of Thorns* (cast by Vex'ahlia at 4th level).
+
+
+* Episode 12: *Scrying* (cast by Keyleth at 8th level).
+
+
+* Episode 14: *Guiding Bolt* (cast by Pike at 5th level).
+
+
+* Episode 15: *Wind Walk* (cast by Keyleth at 7th level).
+
+
+* **Total instances**: 22.
+
+
+* **Unique spells**: Aid, Conjure Barrage, Cure Wounds, Dispel Magic, Glyph of Warding, Guiding Bolt, Gust of Wind, Hail of Thorns, Healing Word, Heroes' Feast, Modify Memory, Scrying, Thunderwave, Wind Walk.
+
+
+
+
+3. **Specific Episode Spell Tracking & Least Common Spells (Q12, Q15, Q16, Q17)**:
+* **Episode 5 spells in order**: 1. *Disintegrate* (Lyra), 2. *Lightning Bolt* (Scanlan), 3. **Mass Suggestion** (Zahra).
+
+
+* **Episode 9 spells in order**: 1. **Modify Memory** (Scanlan).
+
+
+* **Cumulative spells by end of Episode 11**: 177.
+
+
+* **Least common spells (cast once across all episodes)**: Alter Self,Animal Shapes,Banishment,Beacon of Hope,Beast Sense,Blindness,Bones of the Earth,Channel Divinity: Guided Strike,Cloudkill,Counterspell,Death Ward,Dimension Door,Dominate Monster,Dominate Person,Earthbind,Enhance Ability,Eyebite,Feather Fall,Flame Strike,Fog Cloud,Freedom of Movement,Friends,Gate,Glyph of Warding,Grand Column,Guiding Bolt,Hellish Rebuke,Identify,Insect Plague,Legend Lore,Locate Creature,Mass Suggestion,Message,Minor Illusion,Obelisk of Iron,Obelisk of Stone,Pass Without Trace,Planeshift,Poison Spray,Polymorph,Prismatic Spray,Prismatic Wall,Raise Dead,Regenerate,Reverse Gravity,Revivify,Scorching Ray,Sending,Silence,Skywrite,Slow,Speak With Plants,Spinning Spire,Stealth,Sunbeam,Symbol,Teleportation Circle,Thaumaturgy,Thorn Whip,True Polymorph,Vampiric Touch,Wall of Fire,War God's Blessing,Water Breathing,Witch Bolt.
+
+
+
+
+4. **Roll Counts & Natural Roll Statistics (Q02, Q03, Q05, Q07, Q09, Q10, Q11, Q18, Q19, Q20)**:
+* **Keyleth / Marisha total rolls across all episodes**: 159.
+
+
+* **Keyleth cumulative rolls at the end of Episode 12**: 136.
+
+
+* **Taryon cumulative rolls at the end of Episode 3**: 16.
+
+
+* **Taryon total rolls across all episodes**: 122.
+
+
+* **Cumulative total of all rolls at the end of Episode 3**: 254.
+
+
+* **Cumulative total of all rolls at the end of Episode 16**: 1366.
+
+
+* **Natural 20s**: 105.
+
+
+* **Crits (Natural 1s + Natural 20s)**: 187 (82 Nat 1s + 105 Nat 20s).
+
+
+* **Least common natural roll value (>1 roll)**: **11**.
+
+
+
+
+
+---
+
+Q01: \boxed{34}
+Q02: \boxed{159}
+Q03: \boxed{136}
+Q04: \boxed{22}
+Q05: \boxed{122}
+Q06: \boxed{1}
+Q07: \boxed{11}
+Q08: \boxed{2}
+Q09: \boxed{187}
+Q10: \boxed{105}
+Q11: \boxed{16}
+Q12: \boxed{177}
+Q13: \boxed{Hunter's Mark,Hunter's Mark,Pass Without a Trace,Spike Growth,Lightning Arrow,None,Pass Without a Trace,Conjure Animals,Speak With Animals,None,Cure Wounds,None,None,Hunter's Mark,Pass Without a Trace,Pass Without a Trace}
+Q14: \boxed{Aid,Conjure Barrage,Cure Wounds,Dispel Magic,Glyph of Warding,Guiding Bolt,Gust of Wind,Hail of Thorns,Healing Word,Heroes' Feast,Modify Memory,Scrying,Thunderwave,Wind Walk}
+Q15: \boxed{Mass Suggestion}
+Q16: \boxed{Modify Memory}
+Q17: \boxed{Alter Self,Animal Shapes,Banishment,Beacon of Hope,Beast Sense,Blindness,Bones of the Earth,Channel Divinity: Guided Strike,Cloudkill,Counterspell,Death Ward,Dimension Door,Dominate Monster,Dominate Person,Earthbind,Enhance Ability,Eyebite,Feather Fall,Flame Strike,Fog Cloud,Freedom of Movement,Friends,Gate,Glyph of Warding,Grand Column,Guiding Bolt,Hellish Rebuke,Identify,Insect Plague,Legend Lore,Locate Creature,Mass Suggestion,Message,Minor Illusion,Obelisk of Iron,Obelisk of Stone,Pass Without Trace,Planeshift,Poison Spray,Polymorph,Prismatic Spray,Prismatic Wall,Raise Dead,Regenerate,Reverse Gravity,Revivify,Scorching Ray,Sending,Silence,Skywrite,Slow,Speak With Plants,Spinning Spire,Stealth,Sunbeam,Symbol,Teleportation Circle,Thaumaturgy,Thorn Whip,True Polymorph,Vampiric Touch,Wall of Fire,War God's Blessing,Water Breathing,Witch Bolt}
+Q18: \boxed{254}
+Q19: \boxed{1366}
+Q20: \boxed{159}

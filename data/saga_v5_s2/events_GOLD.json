@@ -1,0 +1,4794 @@
+[
+ {
+  "id": "E0000",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Marroway household lived in the market town of Ravenhaven. Taten Marroway and his wife Jora Marroway had 3 children, all living at home: the eldest a daughter, Malis Marroway; then a daughter, Zalis Marroway; then a son, Jolan Marroway.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P000",
+  "mother": "P001",
+  "children": [
+   "P002",
+   "P003",
+   "P004"
+  ],
+  "place": "L11"
+ },
+ {
+  "id": "E0001",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Haskoway household lived in the village of Larkholt. Jovus Haskoway and his wife Kara Haskoway had 3 children, all living at home: the eldest a daughter, Rodette Haskoway; then a son, Dabin Haskoway; then a daughter, Thilis Haskoway.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P005",
+  "mother": "P006",
+  "children": [
+   "P007",
+   "P008",
+   "P009"
+  ],
+  "place": "L05"
+ },
+ {
+  "id": "E0002",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "In the market town of Wilholt lived Nyzek Dornick, married to Illia Dornick, with their children. In order of birth these were the eldest a son, Karald Dornick; then a son, Kabin Dornick; then a daughter, Voena Dornick.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P010",
+  "mother": "P011",
+  "children": [
+   "P012",
+   "P013",
+   "P014"
+  ],
+  "place": "L15"
+ },
+ {
+  "id": "E0003",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Velloway household lived in the village of Larkholt. Molan Velloway and his wife Colis Velloway had 3 children, all living at home: the eldest a son, Katho Velloway; then a daughter, Ulena Velloway; then a daughter, Pemira Velloway.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P015",
+  "mother": "P016",
+  "children": [
+   "P017",
+   "P018",
+   "P019"
+  ],
+  "place": "L05"
+ },
+ {
+  "id": "E0004",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Ashmere household lived in the hill farms of Mireholt. Pemor Ashmere and his wife Ellia Ashmere had 4 children, all living at home: the eldest a daughter, Vesra Ashmere; then a son, Pedan Ashmere; then a daughter, Elra Ashmere; then a son, Maric Ashmere.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P020",
+  "mother": "P021",
+  "children": [
+   "P022",
+   "P023",
+   "P024",
+   "P025"
+  ],
+  "place": "L10"
+ },
+ {
+  "id": "E0005",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Wexwood household lived in the market town of Wilholt. Elrald Wexwood and his wife Jossa Wexwood had 3 children, all living at home: the eldest a son, Jolan Wexwood; then a son, Ribin Wexwood; then a son, Zaten Wexwood.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P026",
+  "mother": "P027",
+  "children": [
+   "P028",
+   "P029",
+   "P030"
+  ],
+  "place": "L15"
+ },
+ {
+  "id": "E0006",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "In Larkhaven lived Garald Fellwood, married to Yedette Fellwood, with their children. In order of birth these were the eldest a daughter, Rolde Fellwood; then a daughter, Vonelle Fellwood.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P031",
+  "mother": "P032",
+  "children": [
+   "P033",
+   "P034"
+  ],
+  "place": "L04"
+ },
+ {
+  "id": "E0007",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "In the hill farms of Larkmere lived Isdan Wexson, married to Thinelle Wexson, with their children. In order of birth these were the eldest a daughter, Fenelle Wexson; then a son, Dabin Wexson.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P035",
+  "mother": "P036",
+  "children": [
+   "P037",
+   "P038"
+  ],
+  "place": "L06"
+ },
+ {
+  "id": "E0008",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Brackett household lived in the hill farms of Torton. Eltho Brackett and his wife Isdette Brackett had 3 children, all living at home: the eldest a son, Lunar Brackett; then a daughter, Ormira Brackett; then a son, Isbin Brackett.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P039",
+  "mother": "P040",
+  "children": [
+   "P041",
+   "P042",
+   "P043"
+  ],
+  "place": "L13"
+ },
+ {
+  "id": "E0009",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "In Larkhaven lived Orrald Stenoway, married to Pewyn Stenoway, with their children. In order of birth these were the eldest a son, Lubin Stenoway; then a daughter, Aera Stenoway; then a son, Zamor Stenoway.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P044",
+  "mother": "P045",
+  "children": [
+   "P046",
+   "P047",
+   "P048"
+  ],
+  "place": "L04"
+ },
+ {
+  "id": "E0010",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Maric Ashmere and Rodette Haskoway were husband and wife. The couple lived in Mireholt.",
+  "where": "L10",
+  "ref_deps": [],
+  "a": "P025",
+  "b": "P007",
+  "place": "L10"
+ },
+ {
+  "id": "E0011",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Lunar Brackett and Vesra Ashmere were husband and wife. The couple lived in Torton.",
+  "where": "L13",
+  "ref_deps": [],
+  "a": "P041",
+  "b": "P022",
+  "place": "L13"
+ },
+ {
+  "id": "E0012",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Zalis Marroway had married Ribin Wexwood some years before. The couple lived in Ravenhaven.",
+  "where": "L11",
+  "ref_deps": [],
+  "a": "P003",
+  "b": "P029",
+  "place": "L11"
+ },
+ {
+  "id": "E0013",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Katho Velloway and Aera Stenoway were husband and wife. The couple lived in Larkholt.",
+  "where": "L05",
+  "ref_deps": [],
+  "a": "P017",
+  "b": "P047",
+  "place": "L05"
+ },
+ {
+  "id": "E0014",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Zamor Stenoway and Rolde Fellwood were husband and wife. The couple lived in Larkhaven.",
+  "where": "L04",
+  "ref_deps": [],
+  "a": "P048",
+  "b": "P033",
+  "place": "L04"
+ },
+ {
+  "id": "E0015",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Lubin Stenoway had married Malis Marroway some years before. The couple lived in Larkhaven.",
+  "where": "L04",
+  "ref_deps": [],
+  "a": "P046",
+  "b": "P002",
+  "place": "L04"
+ },
+ {
+  "id": "E0016",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Taten Marroway worked as a ferryman. Taten Marroway had been born in Mireholt.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P000",
+  "occupation": "ferryman",
+  "birthplace": "L10",
+  "nick": null
+ },
+ {
+  "id": "E0017",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Jora Marroway was a cooper.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P001",
+  "occupation": "cooper",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0018",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Malis Marroway was a weaver. Malis Marroway was born at Mireholt.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P002",
+  "occupation": "weaver",
+  "birthplace": "L10",
+  "nick": null
+ },
+ {
+  "id": "E0019",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Zalis Marroway worked as a tanner.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P003",
+  "occupation": "tanner",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0020",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Jolan Marroway worked as a fisher.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P004",
+  "occupation": "fisher",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0021",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Jovus Haskoway was a shepherd. Folk called Jovus Haskoway \"Quiet Jovus\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P005",
+  "occupation": "shepherd",
+  "birthplace": null,
+  "nick": "Quiet Jovus"
+ },
+ {
+  "id": "E0022",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Kara Haskoway was a herbalist. Kara Haskoway was born at Salford.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P006",
+  "occupation": "herbalist",
+  "birthplace": "L12",
+  "nick": null
+ },
+ {
+  "id": "E0023",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Dabin Haskoway worked as a mason. Dabin Haskoway was born at Salford.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P008",
+  "occupation": "mason",
+  "birthplace": "L12",
+  "nick": null
+ },
+ {
+  "id": "E0024",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Thilis Haskoway worked as a mason.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P009",
+  "occupation": "mason",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0025",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Folk called Nyzek Dornick \"Red Nyzek\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P010",
+  "occupation": null,
+  "birthplace": null,
+  "nick": "Red Nyzek"
+ },
+ {
+  "id": "E0026",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Illia Dornick worked as a mason. Illia Dornick had been born in Mirehaven. Folk called Illia Dornick \"Old Illia\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P011",
+  "occupation": "mason",
+  "birthplace": "L09",
+  "nick": "Old Illia"
+ },
+ {
+  "id": "E0027",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Karald Dornick worked as a chandler.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P012",
+  "occupation": "chandler",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0028",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Kabin Dornick worked as a cooper. Folk called Kabin Dornick \"Old Kabin\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P013",
+  "occupation": "cooper",
+  "birthplace": null,
+  "nick": "Old Kabin"
+ },
+ {
+  "id": "E0029",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Voena Dornick worked as a mason.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P014",
+  "occupation": "mason",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0030",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Molan Velloway was a brewer.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P015",
+  "occupation": "brewer",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0031",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Colis Velloway was a glazier. Colis Velloway was born at Wilholt.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P016",
+  "occupation": "glazier",
+  "birthplace": "L15",
+  "nick": null
+ },
+ {
+  "id": "E0032",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Katho Velloway was a smith.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P017",
+  "occupation": "smith",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0033",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Ulena Velloway was a cooper.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P018",
+  "occupation": "cooper",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0034",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Pemira Velloway worked as a chandler. Pemira Velloway had been born in Wilcombe.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P019",
+  "occupation": "chandler",
+  "birthplace": "L14",
+  "nick": null
+ },
+ {
+  "id": "E0035",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Pemor Ashmere was born at Mireholt.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P020",
+  "occupation": null,
+  "birthplace": "L10",
+  "nick": null
+ },
+ {
+  "id": "E0036",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Ellia Ashmere worked as a smith. Ellia Ashmere had been born in Mireford.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P021",
+  "occupation": "smith",
+  "birthplace": "L08",
+  "nick": null
+ },
+ {
+  "id": "E0037",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Vesra Ashmere was a shepherd. Folk called Vesra Ashmere \"Tall Vesra\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P022",
+  "occupation": "shepherd",
+  "birthplace": null,
+  "nick": "Tall Vesra"
+ },
+ {
+  "id": "E0038",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Elra Ashmere worked as a weaver. Elra Ashmere had been born in Larkmere.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P024",
+  "occupation": "weaver",
+  "birthplace": "L06",
+  "nick": null
+ },
+ {
+  "id": "E0039",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Maric Ashmere was a smith. Folk called Maric Ashmere \"Lame Maric\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P025",
+  "occupation": "smith",
+  "birthplace": null,
+  "nick": "Lame Maric"
+ },
+ {
+  "id": "E0040",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Jossa Wexwood worked as a weaver.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P027",
+  "occupation": "weaver",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0041",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Jolan Wexwood was a brewer. Jolan Wexwood was born at Larkhaven.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P028",
+  "occupation": "brewer",
+  "birthplace": "L04",
+  "nick": null
+ },
+ {
+  "id": "E0042",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Folk called Ribin Wexwood \"Old Ribin\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P029",
+  "occupation": null,
+  "birthplace": null,
+  "nick": "Old Ribin"
+ },
+ {
+  "id": "E0043",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Zaten Wexwood worked as a weaver. Zaten Wexwood was born at Wilholt. Folk called Zaten Wexwood \"Red Zaten\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P030",
+  "occupation": "weaver",
+  "birthplace": "L15",
+  "nick": "Red Zaten"
+ },
+ {
+  "id": "E0044",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Garald Fellwood was a cooper.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P031",
+  "occupation": "cooper",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0045",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Yedette Fellwood worked as a cooper. Folk called Yedette Fellwood \"Tall Yedette\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P032",
+  "occupation": "cooper",
+  "birthplace": null,
+  "nick": "Tall Yedette"
+ },
+ {
+  "id": "E0046",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Rolde Fellwood worked as a tanner. Rolde Fellwood was born at Larkholt.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P033",
+  "occupation": "tanner",
+  "birthplace": "L05",
+  "nick": null
+ },
+ {
+  "id": "E0047",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Isdan Wexson was a scribe.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P035",
+  "occupation": "scribe",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0048",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Thinelle Wexson worked as a miller.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P036",
+  "occupation": "miller",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0049",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Fenelle Wexson was born at Wilcombe.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P037",
+  "occupation": null,
+  "birthplace": "L14",
+  "nick": null
+ },
+ {
+  "id": "E0050",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Eltho Brackett was a herbalist.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P039",
+  "occupation": "herbalist",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0051",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Isdette Brackett worked as a ferryman. Isdette Brackett had been born in Mireford.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P040",
+  "occupation": "ferryman",
+  "birthplace": "L08",
+  "nick": null
+ },
+ {
+  "id": "E0052",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Lunar Brackett worked as a scribe. Lunar Brackett had been born in Mirehaven.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P041",
+  "occupation": "scribe",
+  "birthplace": "L09",
+  "nick": null
+ },
+ {
+  "id": "E0053",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Ormira Brackett was a miller. Ormira Brackett had been born in Ravenhaven. Folk called Ormira Brackett \"Red Ormira\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P042",
+  "occupation": "miller",
+  "birthplace": "L11",
+  "nick": "Red Ormira"
+ },
+ {
+  "id": "E0054",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Isbin Brackett was a mason. Isbin Brackett had been born in Salford.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P043",
+  "occupation": "mason",
+  "birthplace": "L12",
+  "nick": null
+ },
+ {
+  "id": "E0055",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Orrald Stenoway was a scribe.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P044",
+  "occupation": "scribe",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0056",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Pewyn Stenoway was a brewer.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P045",
+  "occupation": "brewer",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0057",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Lubin Stenoway had been born in Mirehaven. Folk called Lubin Stenoway \"Red Lubin\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P046",
+  "occupation": null,
+  "birthplace": "L09",
+  "nick": "Red Lubin"
+ },
+ {
+  "id": "E0058",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Aera Stenoway worked as a weaver.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P047",
+  "occupation": "weaver",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0059",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Zamor Stenoway was born at Mireholt.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P048",
+  "occupation": null,
+  "birthplace": "L10",
+  "nick": null
+ },
+ {
+  "id": "E0060",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Among the possessions of Rolde Fellwood was the bone seal.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I02",
+  "owner": "P033"
+ },
+ {
+  "id": "E0061",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The jade compass belonged to Elrald Wexwood.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I07",
+  "owner": "P026"
+ },
+ {
+  "id": "E0062",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The jade map belonged to Aera Stenoway.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I09",
+  "owner": "P047"
+ },
+ {
+  "id": "E0063",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The bone lantern belonged to Taten Marroway, head of the Marroway household.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I01",
+  "owner": "P000"
+ },
+ {
+  "id": "E0064",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The copper comb belonged to Garald Fellwood.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I05",
+  "owner": "P031"
+ },
+ {
+  "id": "E0065",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Zaten Wexwood kept the brass spyglass in a cedar box.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I04",
+  "owner": "P030"
+ },
+ {
+  "id": "E0066",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The brass flute belonged to Voena Dornick.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I03",
+  "owner": "P014"
+ },
+ {
+  "id": "E0067",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Among the possessions of Elra Ashmere was the iron ledger.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I06",
+  "owner": "P024"
+ },
+ {
+  "id": "E0068",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The oak bell belonged to Zamor Stenoway.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I10",
+  "owner": "P048"
+ },
+ {
+  "id": "E0069",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The silver ring belonged to Maric Ashmere.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I11",
+  "owner": "P025"
+ },
+ {
+  "id": "E0070",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Among the possessions of Pedan Ashmere was the amber flute.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I00",
+  "owner": "P023"
+ },
+ {
+  "id": "E0071",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The jade ledger belonged to Elrald Wexwood.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I08",
+  "owner": "P026"
+ },
+ {
+  "id": "E0072",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Isdette Brackett knew that the bridge toll at Wilcombe is skimmed every month.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S00",
+  "person": "P040"
+ },
+ {
+  "id": "E0073",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Yedette Fellwood knew that the Wexwood family once owed a blood debt to the Marroway family.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S01",
+  "person": "P032"
+ },
+ {
+  "id": "E0074",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Vesra Ashmere alone carried the knowledge that a chest of silver lies buried beneath the well at Wilcombe.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S02",
+  "person": "P022"
+ },
+ {
+  "id": "E0075",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Elrald Wexwood knew that the fire at the Fenmere granary was set on purpose.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S03",
+  "person": "P026"
+ },
+ {
+  "id": "E0076",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Nyzek Dornick knew that the harbor master of Mireford takes bribes.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S04",
+  "person": "P010"
+ },
+ {
+  "id": "E0077",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Lubin Stenoway alone carried the knowledge that the old abbey at Mirecombe hides a second cellar.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S05",
+  "person": "P046"
+ },
+ {
+  "id": "E0078",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Elrald Wexwood knew that the Fellwood mill ledger was rewritten after the flood.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S06",
+  "person": "P026"
+ },
+ {
+  "id": "E0079",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Eltho Brackett knew that the deed to the Mirecombe pastures was forged.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S07",
+  "person": "P039"
+ },
+ {
+  "id": "E0080",
+  "type": "RULE_VAULT",
+  "chapter": 1,
+  "text": "It was an old law of Mirehaven that the vault beneath its chapel would open only for a living person who held both the jade map and the oak bell at once.",
+  "where": null,
+  "ref_deps": [],
+  "place": "L09",
+  "items": [
+   "I09",
+   "I10"
+  ]
+ },
+ {
+  "id": "E0081",
+  "type": "RULE_BRIDGE",
+  "chapter": 1,
+  "text": "The toll bridge at Wilcombe belonged to the Haskoway family, and only those born a Haskoway, or presently married to one, were allowed to cross it.",
+  "where": null,
+  "ref_deps": [],
+  "place": "L14",
+  "surname": "Haskoway"
+ },
+ {
+  "id": "E0082",
+  "type": "RULE_HEIR",
+  "chapter": 1,
+  "text": "By custom, the bone lantern always passed, on the death of whoever held it, to the eldest living child of that holder; no will could change this, and it passed without ceremony.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I01",
+  "surname": "Marroway"
+ },
+ {
+  "id": "E0083",
+  "type": "OCCUPATION",
+  "chapter": 2,
+  "text": "Pemor Ashmere was apprenticed anew and became a herbalist.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P020",
+  "old": null,
+  "new": "herbalist"
+ },
+ {
+  "id": "E0084",
+  "type": "PROMISE",
+  "chapter": 2,
+  "text": "The wife of Maric Ashmere swore to Ellia to repair the roof of the chapel at Mireholt, and shook on it.",
+  "where": "L10",
+  "ref_deps": [
+   "E0004",
+   "E0010"
+  ],
+  "promise": "R00",
+  "a": "P007",
+  "b": "P021",
+  "act": "to repair the roof of the chapel at Mireholt"
+ },
+ {
+  "id": "E0085",
+  "type": "RESOLVE",
+  "chapter": 2,
+  "text": "Rodette Haskoway never did keep the promise made to Ellia Ashmere (repair the roof of the chapel at Mireholt); the matter was abandoned.",
+  "where": "L10",
+  "ref_deps": [],
+  "promise": "R00",
+  "kept": false
+ },
+ {
+  "id": "E0086",
+  "type": "TELL",
+  "chapter": 2,
+  "text": "Elrald Wexwood could keep it no longer and told Illia Dornick that the Fellwood mill ledger was rewritten after the flood.",
+  "where": "L15",
+  "ref_deps": [],
+  "secret": "S06",
+  "src": "P026",
+  "dest": "P011"
+ },
+ {
+  "id": "E0087",
+  "type": "PROMISE",
+  "chapter": 2,
+  "text": "Elrald Wexwood swore to Zaten to plant an orchard on the slope above Mirehaven, and shook on it.",
+  "where": "L15",
+  "ref_deps": [
+   "E0005"
+  ],
+  "promise": "R01",
+  "a": "P026",
+  "b": "P030",
+  "act": "to plant an orchard on the slope above Mirehaven"
+ },
+ {
+  "id": "E0088",
+  "type": "PROMISE",
+  "chapter": 2,
+  "text": "Nyzek Dornick swore to Voena to rebuild the fallen wall at Wilcombe, and shook on it.",
+  "where": "L15",
+  "ref_deps": [
+   "E0002"
+  ],
+  "promise": "R02",
+  "a": "P010",
+  "b": "P014",
+  "act": "to rebuild the fallen wall at Wilcombe"
+ },
+ {
+  "id": "E0089",
+  "type": "TRAVEL",
+  "chapter": 2,
+  "text": "After the quarrel, Zaten Wexwood quit Wilholt for good and took lodgings in Larkmere.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P030",
+  "src": "L15",
+  "dest": "L06"
+ },
+ {
+  "id": "E0090",
+  "type": "TELL",
+  "chapter": 2,
+  "text": "Late one night Elrald confided to Nyzek Dornick that the Fellwood mill ledger was rewritten after the flood.",
+  "where": "L15",
+  "ref_deps": [
+   "E0005"
+  ],
+  "secret": "S06",
+  "src": "P026",
+  "dest": "P010"
+ },
+ {
+  "id": "E0091",
+  "type": "GIVE",
+  "chapter": 3,
+  "text": "Pewyn won the bone seal from Rolde Fellwood at cards, fairly, and kept it.",
+  "where": "L04",
+  "ref_deps": [
+   "E0009"
+  ],
+  "item": "I02",
+  "src": "P033",
+  "dest": "P045"
+ },
+ {
+  "id": "E0092",
+  "type": "TELL",
+  "chapter": 3,
+  "text": "In a letter that the wife of Lunar Brackett burned after reading, Eltho Brackett revealed that the deed to the Mirecombe pastures was forged.",
+  "where": "L13",
+  "ref_deps": [
+   "E0011"
+  ],
+  "secret": "S07",
+  "src": "P039",
+  "dest": "P022"
+ },
+ {
+  "id": "E0093",
+  "type": "BIRTH",
+  "chapter": 3,
+  "text": "Rodette Haskoway gave birth to a daughter, named Aewyn Ashmere; the father was Maric Ashmere. The family lived in Mireholt.",
+  "where": "L10",
+  "ref_deps": [],
+  "child": "P049",
+  "mother": "P007",
+  "father": "P025",
+  "place": "L10"
+ },
+ {
+  "id": "E0094",
+  "type": "GIVE",
+  "chapter": 3,
+  "text": "Pedan gave the amber flute to Elra Ashmere.",
+  "where": "L10",
+  "ref_deps": [
+   "E0004"
+  ],
+  "item": "I00",
+  "src": "P023",
+  "dest": "P024"
+ },
+ {
+  "id": "E0095",
+  "type": "TELL",
+  "chapter": 3,
+  "text": "Late one night Isdette Brackett confided to Isbin Brackett that the bridge toll at Wilcombe is skimmed every month.",
+  "where": "L13",
+  "ref_deps": [],
+  "secret": "S00",
+  "src": "P040",
+  "dest": "P043"
+ },
+ {
+  "id": "E0096",
+  "type": "TRAVEL",
+  "chapter": 3,
+  "text": "Elrald found work in Mireford, moved there, and did not return to Wilholt.",
+  "where": "L15",
+  "ref_deps": [
+   "E0005"
+  ],
+  "person": "P026",
+  "src": "L15",
+  "dest": "L08"
+ },
+ {
+  "id": "E0097",
+  "type": "TRAVEL",
+  "chapter": 3,
+  "text": "Jossa Wexwood followed him to Mireford within the month.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P027",
+  "src": "L15",
+  "dest": "L08"
+ },
+ {
+  "id": "E0098",
+  "type": "TELL",
+  "chapter": 4,
+  "text": "Late one night Elrald Wexwood confided to Jossa Wexwood that the Fellwood mill ledger was rewritten after the flood.",
+  "where": "L08",
+  "ref_deps": [],
+  "secret": "S06",
+  "src": "P026",
+  "dest": "P027"
+ },
+ {
+  "id": "E0099",
+  "type": "PROMISE",
+  "chapter": 4,
+  "text": "The husband of Jossa Wexwood swore to Jossa to rebuild the fallen wall at Torton, and shook on it.",
+  "where": "L08",
+  "ref_deps": [
+   "E0005"
+  ],
+  "promise": "R03",
+  "a": "P026",
+  "b": "P027",
+  "act": "to rebuild the fallen wall at Torton"
+ },
+ {
+  "id": "E0100",
+  "type": "PLAN",
+  "chapter": 4,
+  "text": "Jossa talked for weeks of going to Larkmere, yet in the end stayed where she was.",
+  "where": "L08",
+  "ref_deps": [
+   "E0005"
+  ],
+  "person": "P027",
+  "dest": "L06"
+ },
+ {
+  "id": "E0101",
+  "type": "RUMOR",
+  "chapter": 4,
+  "text": "A rumor started by Jossa Wexwood had it that Zalis Marroway was dead of plague; Jossa Wexwood had it from a peddler.",
+  "where": "L08",
+  "ref_deps": [],
+  "teller": "P027",
+  "claim": {
+   "kind": "dead",
+   "target": "P003"
+  }
+ },
+ {
+  "id": "E0102",
+  "type": "PLAN",
+  "chapter": 4,
+  "text": "Elrald Wexwood meant to go to Dunton before the frost, but the roads flooded and the journey was put off.",
+  "where": "L08",
+  "ref_deps": [
+   "E0005"
+  ],
+  "person": "P026",
+  "dest": "L01"
+ },
+ {
+  "id": "E0103",
+  "type": "MARRY",
+  "chapter": 5,
+  "text": "Elra and Isbin Brackett were wed at Mireholt, with half the parish looking on. The couple lived in Mireholt from then on.",
+  "where": "L10",
+  "ref_deps": [
+   "E0004"
+  ],
+  "a": "P024",
+  "b": "P043",
+  "place": "L10"
+ },
+ {
+  "id": "E0104",
+  "type": "TELL",
+  "chapter": 5,
+  "text": "In a letter that Lunar Brackett burned after reading, Eltho revealed that the deed to the Mirecombe pastures was forged.",
+  "where": "L13",
+  "ref_deps": [
+   "E0008"
+  ],
+  "secret": "S07",
+  "src": "P039",
+  "dest": "P041"
+ },
+ {
+  "id": "E0105",
+  "type": "TRAVEL",
+  "chapter": 5,
+  "text": "Rodette left Mireholt and settled in Salford.",
+  "where": "L10",
+  "ref_deps": [
+   "E0001"
+  ],
+  "person": "P007",
+  "src": "L10",
+  "dest": "L12"
+ },
+ {
+  "id": "E0106",
+  "type": "TRAVEL",
+  "chapter": 5,
+  "text": "Lame Maric went along to live in Salford as well.",
+  "where": "L10",
+  "ref_deps": [
+   "E0039"
+  ],
+  "person": "P025",
+  "src": "L10",
+  "dest": "L12"
+ },
+ {
+  "id": "E0107",
+  "type": "TRAVEL",
+  "chapter": 5,
+  "text": "Colis rode out of Larkholt; by the next market day she was living in Mireholt.",
+  "where": "L05",
+  "ref_deps": [
+   "E0003"
+  ],
+  "person": "P016",
+  "src": "L05",
+  "dest": "L10"
+ },
+ {
+  "id": "E0108",
+  "type": "TRAVEL",
+  "chapter": 5,
+  "text": "Molan Velloway went along to live in Mireholt as well.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P015",
+  "src": "L05",
+  "dest": "L10"
+ },
+ {
+  "id": "E0109",
+  "type": "GIVE",
+  "chapter": 5,
+  "text": "The only son of Thinelle Wexson won the brass spyglass from Zaten Wexwood at cards, fairly, and kept it.",
+  "where": "L06",
+  "ref_deps": [
+   "E0007"
+  ],
+  "item": "I04",
+  "src": "P030",
+  "dest": "P038"
+ },
+ {
+  "id": "E0110",
+  "type": "TELL",
+  "chapter": 5,
+  "text": "In a letter that Karald Dornick burned after reading, Nyzek Dornick revealed that the harbor master of Mireford takes bribes.",
+  "where": "L15",
+  "ref_deps": [],
+  "secret": "S04",
+  "src": "P010",
+  "dest": "P012"
+ },
+ {
+  "id": "E0111",
+  "type": "TRAVEL",
+  "chapter": 5,
+  "text": "After the quarrel, Ormira Brackett quit Torton for good and took lodgings in Braegate.",
+  "where": "L13",
+  "ref_deps": [],
+  "person": "P042",
+  "src": "L13",
+  "dest": "L00"
+ },
+ {
+  "id": "E0112",
+  "type": "TRAVEL",
+  "chapter": 6,
+  "text": "Karald left Wilholt and settled in Elmgate.",
+  "where": "L15",
+  "ref_deps": [
+   "E0002"
+  ],
+  "person": "P012",
+  "src": "L15",
+  "dest": "L02"
+ },
+ {
+  "id": "E0113",
+  "type": "TRAVEL",
+  "chapter": 6,
+  "text": "After the quarrel, Thinelle Wexson quit Larkmere for good and took lodgings in Fenmere.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P036",
+  "src": "L06",
+  "dest": "L03"
+ },
+ {
+  "id": "E0114",
+  "type": "TRAVEL",
+  "chapter": 6,
+  "text": "Isdan Wexson went along to live in Fenmere as well.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P035",
+  "src": "L06",
+  "dest": "L03"
+ },
+ {
+  "id": "E0115",
+  "type": "MARRY",
+  "chapter": 6,
+  "text": "Jolan Marroway and Thilis Haskoway were wed at Ravenhaven, with half the parish looking on. The couple lived in Ravenhaven from then on.",
+  "where": "L11",
+  "ref_deps": [],
+  "a": "P004",
+  "b": "P009",
+  "place": "L11"
+ },
+ {
+  "id": "E0116",
+  "type": "TELL",
+  "chapter": 6,
+  "text": "In a letter that Isdette Brackett burned after reading, Vesra Ashmere revealed that a chest of silver lies buried beneath the well at Wilcombe.",
+  "where": "L13",
+  "ref_deps": [],
+  "secret": "S02",
+  "src": "P022",
+  "dest": "P040"
+ },
+ {
+  "id": "E0117",
+  "type": "TRAVEL",
+  "chapter": 6,
+  "text": "Lunar found work in Mirecombe, moved there, and did not return to Torton.",
+  "where": "L13",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P041",
+  "src": "L13",
+  "dest": "L07"
+ },
+ {
+  "id": "E0118",
+  "type": "TRAVEL",
+  "chapter": 6,
+  "text": "Vesra Ashmere went along to live in Mirecombe as well.",
+  "where": "L13",
+  "ref_deps": [],
+  "person": "P022",
+  "src": "L13",
+  "dest": "L07"
+ },
+ {
+  "id": "E0119",
+  "type": "OCCUPATION",
+  "chapter": 6,
+  "text": "Eltho Brackett was apprenticed anew and became a miller.",
+  "where": "L13",
+  "ref_deps": [],
+  "person": "P039",
+  "old": "herbalist",
+  "new": "miller"
+ },
+ {
+  "id": "E0120",
+  "type": "TRAVEL",
+  "chapter": 7,
+  "text": "Jolan Wexwood found work in Elmgate, moved there, and did not return to Wilholt.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P028",
+  "src": "L15",
+  "dest": "L02"
+ },
+ {
+  "id": "E0121",
+  "type": "BIRTH",
+  "chapter": 7,
+  "text": "A daughter was born to Zalis Marroway and Ribin Wexwood, and they called the child Ferine Wexwood. The family lived in Ravenhaven.",
+  "where": "L11",
+  "ref_deps": [],
+  "child": "P050",
+  "mother": "P003",
+  "father": "P029",
+  "place": "L11"
+ },
+ {
+  "id": "E0122",
+  "type": "MARRY",
+  "chapter": 7,
+  "text": "In the chapel at Larkholt, Ulena Velloway married Red Zaten. The couple lived in Larkholt from then on.",
+  "where": "L05",
+  "ref_deps": [
+   "E0043"
+  ],
+  "a": "P018",
+  "b": "P030",
+  "place": "L05"
+ },
+ {
+  "id": "E0123",
+  "type": "MARRY",
+  "chapter": 7,
+  "text": "Kabin and Vonelle Fellwood were wed at Wilholt, with half the parish looking on. The couple lived in Wilholt from then on.",
+  "where": "L15",
+  "ref_deps": [
+   "E0002"
+  ],
+  "a": "P013",
+  "b": "P034",
+  "place": "L15"
+ },
+ {
+  "id": "E0124",
+  "type": "GIVE",
+  "chapter": 7,
+  "text": "Dabin Wexson gave the brass spyglass to Fenelle Wexson.",
+  "where": "L06",
+  "ref_deps": [],
+  "item": "I04",
+  "src": "P038",
+  "dest": "P037"
+ },
+ {
+  "id": "E0125",
+  "type": "RUMOR",
+  "chapter": 7,
+  "text": "Gossip from Taten Marroway claimed Rolde Fellwood and Taten Marroway had been wed in secret.",
+  "where": "L11",
+  "ref_deps": [],
+  "teller": "P000",
+  "claim": {
+   "kind": "married",
+   "target": "P033",
+   "other": "P000"
+  }
+ },
+ {
+  "id": "E0126",
+  "type": "TELL",
+  "chapter": 7,
+  "text": "Yedette Fellwood could keep it no longer and told Malis Marroway that the Wexwood family once owed a blood debt to the Marroway family.",
+  "where": "L04",
+  "ref_deps": [],
+  "secret": "S01",
+  "src": "P032",
+  "dest": "P002"
+ },
+ {
+  "id": "E0127",
+  "type": "TRAVEL",
+  "chapter": 7,
+  "text": "Lubin Stenoway rode out of Larkhaven; by the next market day he was living in Elmgate.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P046",
+  "src": "L04",
+  "dest": "L02"
+ },
+ {
+  "id": "E0128",
+  "type": "TRAVEL",
+  "chapter": 7,
+  "text": "Malis Marroway went along to live in Elmgate as well.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P002",
+  "src": "L04",
+  "dest": "L02"
+ },
+ {
+  "id": "E0129",
+  "type": "TRAVEL",
+  "chapter": 8,
+  "text": "Lunar Brackett rode out of Mirecombe; by the next market day he was living in Wilholt.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P041",
+  "src": "L07",
+  "dest": "L15"
+ },
+ {
+  "id": "E0130",
+  "type": "TRAVEL",
+  "chapter": 8,
+  "text": "Vesra Ashmere went along to live in Wilholt as well.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P022",
+  "src": "L07",
+  "dest": "L15"
+ },
+ {
+  "id": "E0131",
+  "type": "PROMISE",
+  "chapter": 8,
+  "text": "Isdette Brackett gave Eltho Brackett a solemn promise to teach the children of Larkholt their letters.",
+  "where": "L13",
+  "ref_deps": [],
+  "promise": "R04",
+  "a": "P040",
+  "b": "P039",
+  "act": "to teach the children of Larkholt their letters"
+ },
+ {
+  "id": "E0132",
+  "type": "GIVE",
+  "chapter": 8,
+  "text": "Garald gave the copper comb to Zamor Stenoway.",
+  "where": "L04",
+  "ref_deps": [
+   "E0006"
+  ],
+  "item": "I05",
+  "src": "P031",
+  "dest": "P048"
+ },
+ {
+  "id": "E0133",
+  "type": "MARRY",
+  "chapter": 8,
+  "text": "Pemira Velloway and Karald Dornick were wed at Larkholt, with half the parish looking on. The couple lived in Larkholt from then on.",
+  "where": "L05",
+  "ref_deps": [],
+  "a": "P019",
+  "b": "P012",
+  "place": "L05"
+ },
+ {
+  "id": "E0134",
+  "type": "TRAVEL",
+  "chapter": 8,
+  "text": "Aera Stenoway found work in Braegate, moved there, and did not return to Larkholt.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P047",
+  "src": "L05",
+  "dest": "L00"
+ },
+ {
+  "id": "E0135",
+  "type": "TRAVEL",
+  "chapter": 8,
+  "text": "Katho Velloway went along to live in Braegate as well.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P017",
+  "src": "L05",
+  "dest": "L00"
+ },
+ {
+  "id": "E0136",
+  "type": "PROMISE",
+  "chapter": 8,
+  "text": "Ulena Velloway swore to Karald to rebuild the fallen wall at Mireholt, and shook on it.",
+  "where": "L05",
+  "ref_deps": [
+   "E0002"
+  ],
+  "promise": "R05",
+  "a": "P018",
+  "b": "P012",
+  "act": "to rebuild the fallen wall at Mireholt"
+ },
+ {
+  "id": "E0137",
+  "type": "TELL",
+  "chapter": 8,
+  "text": "Lunar Brackett could keep it no longer and told the youngest daughter of Yedette Fellwood that the deed to the Mirecombe pastures was forged.",
+  "where": "L15",
+  "ref_deps": [
+   "E0006"
+  ],
+  "secret": "S07",
+  "src": "P041",
+  "dest": "P034"
+ },
+ {
+  "id": "E0138",
+  "type": "GIVE",
+  "chapter": 8,
+  "text": "A parcel from Fenelle Wexson reached Isdette Brackett; inside was the brass spyglass, now hers to keep.",
+  "where": "L06",
+  "ref_deps": [],
+  "item": "I04",
+  "src": "P037",
+  "dest": "P040"
+ },
+ {
+  "id": "E0139",
+  "type": "TRAVEL",
+  "chapter": 9,
+  "text": "Kabin Dornick packed a single trunk and moved from Wilholt to Wilcombe.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P013",
+  "src": "L15",
+  "dest": "L14"
+ },
+ {
+  "id": "E0140",
+  "type": "TRAVEL",
+  "chapter": 9,
+  "text": "Vonelle Fellwood went along to live in Wilcombe as well.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P034",
+  "src": "L15",
+  "dest": "L14"
+ },
+ {
+  "id": "E0141",
+  "type": "GIVE",
+  "chapter": 9,
+  "text": "Isdette pressed the brass spyglass into the hands of Eltho Brackett and would take nothing for it.",
+  "where": "L13",
+  "ref_deps": [
+   "E0008"
+  ],
+  "item": "I04",
+  "src": "P040",
+  "dest": "P039"
+ },
+ {
+  "id": "E0142",
+  "type": "GIVE",
+  "chapter": 9,
+  "text": "A parcel from Pewyn Stenoway reached Pemira Velloway; inside was the bone seal, now hers to keep.",
+  "where": "L04",
+  "ref_deps": [],
+  "item": "I02",
+  "src": "P045",
+  "dest": "P019"
+ },
+ {
+  "id": "E0143",
+  "type": "DEATH",
+  "chapter": 9,
+  "text": "Pemor died of a long wasting sickness at Mireholt.",
+  "where": "L10",
+  "ref_deps": [
+   "E0004"
+  ],
+  "person": "P020",
+  "cause": "a long wasting sickness",
+  "place": "L10"
+ },
+ {
+  "id": "E0144",
+  "type": "TELL",
+  "chapter": 9,
+  "text": "Tall Vesra could keep it no longer and told Illia Dornick that the deed to the Mirecombe pastures was forged.",
+  "where": "L15",
+  "ref_deps": [
+   "E0037"
+  ],
+  "secret": "S07",
+  "src": "P022",
+  "dest": "P011"
+ },
+ {
+  "id": "E0145",
+  "type": "PLAN",
+  "chapter": 9,
+  "text": "Tall Vesra talked for weeks of going to Ravenhaven, yet in the end stayed where she was.",
+  "where": "L15",
+  "ref_deps": [
+   "E0004",
+   "E0037"
+  ],
+  "person": "P022",
+  "dest": "L11"
+ },
+ {
+  "id": "E0146",
+  "type": "RUMOR",
+  "chapter": 10,
+  "text": "The husband of Jossa Wexwood whispered that Ormira Brackett had secretly married Eltho Brackett, but nobody could say where or when.",
+  "where": "L08",
+  "ref_deps": [
+   "E0005"
+  ],
+  "teller": "P026",
+  "claim": {
+   "kind": "married",
+   "target": "P042",
+   "other": "P039"
+  }
+ },
+ {
+  "id": "E0147",
+  "type": "TRAVEL",
+  "chapter": 10,
+  "text": "Jovus Haskoway left Larkholt and settled in Larkmere.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P005",
+  "src": "L05",
+  "dest": "L06"
+ },
+ {
+  "id": "E0148",
+  "type": "TRAVEL",
+  "chapter": 10,
+  "text": "Kara Haskoway went along to live in Larkmere as well.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P006",
+  "src": "L05",
+  "dest": "L06"
+ },
+ {
+  "id": "E0149",
+  "type": "DEATH",
+  "chapter": 10,
+  "text": "Thinelle died of a wound that festered at Fenmere.",
+  "where": "L03",
+  "ref_deps": [
+   "E0007"
+  ],
+  "person": "P036",
+  "cause": "a wound that festered",
+  "place": "L03"
+ },
+ {
+  "id": "E0150",
+  "type": "TRAVEL",
+  "chapter": 10,
+  "text": "Isdan Wexson found work in Larkmere, moved there, and did not return to Fenmere.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P035",
+  "src": "L03",
+  "dest": "L06"
+ },
+ {
+  "id": "E0151",
+  "type": "GIVE",
+  "chapter": 10,
+  "text": "Elra Ashmere pressed the amber flute into the hands of Ellia Ashmere and would take nothing for it.",
+  "where": "L10",
+  "ref_deps": [],
+  "item": "I00",
+  "src": "P024",
+  "dest": "P021"
+ },
+ {
+  "id": "E0152",
+  "type": "DEATH",
+  "chapter": 11,
+  "text": "That winter, a wound that festered took Karald Dornick; he was buried at Larkholt.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P012",
+  "cause": "a wound that festered",
+  "place": "L05"
+ },
+ {
+  "id": "E0153",
+  "type": "PLAN",
+  "chapter": 11,
+  "text": "Zaten talked for weeks of going to Braegate, yet in the end stayed where he was.",
+  "where": "L05",
+  "ref_deps": [
+   "E0005",
+   "E0043"
+  ],
+  "person": "P030",
+  "dest": "L00"
+ },
+ {
+  "id": "E0154",
+  "type": "TRAVEL",
+  "chapter": 11,
+  "text": "After the quarrel, Dabin Haskoway quit Larkholt for good and took lodgings in Mireford.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P008",
+  "src": "L05",
+  "dest": "L08"
+ },
+ {
+  "id": "E0155",
+  "type": "GIVE",
+  "chapter": 11,
+  "text": "Elrald Wexwood pressed the jade compass into the hands of Jossa Wexwood and would take nothing for it.",
+  "where": "L08",
+  "ref_deps": [],
+  "item": "I07",
+  "src": "P026",
+  "dest": "P027"
+ },
+ {
+  "id": "E0156",
+  "type": "GIVE",
+  "chapter": 11,
+  "text": "Lunar won the brass flute from Voena at cards, fairly, and kept it.",
+  "where": "L15",
+  "ref_deps": [
+   "E0002",
+   "E0008"
+  ],
+  "item": "I03",
+  "src": "P014",
+  "dest": "P041"
+ },
+ {
+  "id": "E0157",
+  "type": "MARRY",
+  "chapter": 11,
+  "text": "Red Ormira and Dabin Haskoway were wed at Braegate, with half the parish looking on. The couple lived in Braegate from then on.",
+  "where": "L00",
+  "ref_deps": [
+   "E0053"
+  ],
+  "a": "P042",
+  "b": "P008",
+  "place": "L00"
+ },
+ {
+  "id": "E0158",
+  "type": "GIVE",
+  "chapter": 11,
+  "text": "Lunar Brackett pressed the brass flute into the hands of Voena and would take nothing for it.",
+  "where": "L15",
+  "ref_deps": [
+   "E0002"
+  ],
+  "item": "I03",
+  "src": "P041",
+  "dest": "P014"
+ },
+ {
+  "id": "E0159",
+  "type": "MARRY",
+  "chapter": 11,
+  "text": "Dabin Wexson and Pemira Velloway were wed at Larkmere, with half the parish looking on. The couple lived in Larkmere from then on.",
+  "where": "L06",
+  "ref_deps": [],
+  "a": "P038",
+  "b": "P019",
+  "place": "L06"
+ },
+ {
+  "id": "E0160",
+  "type": "DEATH",
+  "chapter": 12,
+  "text": "Katho died of old age, quietly in sleep at Braegate.",
+  "where": "L00",
+  "ref_deps": [
+   "E0003"
+  ],
+  "person": "P017",
+  "cause": "old age, quietly in sleep",
+  "place": "L00"
+ },
+ {
+  "id": "E0161",
+  "type": "DEATH",
+  "chapter": 12,
+  "text": "Nyzek Dornick died of a winter fever at Wilholt.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P010",
+  "cause": "a winter fever",
+  "place": "L15"
+ },
+ {
+  "id": "E0162",
+  "type": "TELL",
+  "chapter": 12,
+  "text": "In a letter that Malis Marroway burned after reading, Lubin Stenoway revealed that the old abbey at Mirecombe hides a second cellar.",
+  "where": "L02",
+  "ref_deps": [],
+  "secret": "S05",
+  "src": "P046",
+  "dest": "P002"
+ },
+ {
+  "id": "E0163",
+  "type": "PROMISE",
+  "chapter": 12,
+  "text": "The youngest son of Pemor Ashmere gave Rodette a solemn promise to pay the old debt owed to the Marroway family.",
+  "where": "L12",
+  "ref_deps": [
+   "E0001",
+   "E0004"
+  ],
+  "promise": "R06",
+  "a": "P025",
+  "b": "P007",
+  "act": "to pay the old debt owed to the Marroway family"
+ },
+ {
+  "id": "E0164",
+  "type": "BIRTH",
+  "chapter": 12,
+  "text": "Vonelle Fellwood gave birth to a son, named Orten Dornick; the father was Kabin Dornick. The family lived in Wilcombe.",
+  "where": "L14",
+  "ref_deps": [],
+  "child": "P051",
+  "mother": "P034",
+  "father": "P013",
+  "place": "L14"
+ },
+ {
+  "id": "E0165",
+  "type": "TRAVEL",
+  "chapter": 12,
+  "text": "Vonelle packed a single trunk and moved from Wilcombe to Mirehaven.",
+  "where": "L14",
+  "ref_deps": [
+   "E0006"
+  ],
+  "person": "P034",
+  "src": "L14",
+  "dest": "L09"
+ },
+ {
+  "id": "E0166",
+  "type": "TRAVEL",
+  "chapter": 12,
+  "text": "Kabin Dornick followed her to Mirehaven within the month.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P013",
+  "src": "L14",
+  "dest": "L09"
+ },
+ {
+  "id": "E0167",
+  "type": "MARRY",
+  "chapter": 12,
+  "text": "In the chapel at Mireholt, Ellia married Isdan Wexson. The couple lived in Mireholt from then on.",
+  "where": "L10",
+  "ref_deps": [
+   "E0004"
+  ],
+  "a": "P021",
+  "b": "P035",
+  "place": "L10"
+ },
+ {
+  "id": "E0168",
+  "type": "TRAVEL",
+  "chapter": 12,
+  "text": "Orrald left Larkhaven and settled in Salford.",
+  "where": "L04",
+  "ref_deps": [
+   "E0009"
+  ],
+  "person": "P044",
+  "src": "L04",
+  "dest": "L12"
+ },
+ {
+  "id": "E0169",
+  "type": "TRAVEL",
+  "chapter": 12,
+  "text": "Pewyn Stenoway followed him to Salford within the month.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P045",
+  "src": "L04",
+  "dest": "L12"
+ },
+ {
+  "id": "E0170",
+  "type": "PLAN",
+  "chapter": 13,
+  "text": "Kabin Dornick talked for weeks of going to Elmgate, yet in the end stayed where he was.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P013",
+  "dest": "L02"
+ },
+ {
+  "id": "E0171",
+  "type": "MARRY",
+  "chapter": 13,
+  "text": "Before the summer was out, Aera Stenoway took Pedan Ashmere in marriage at Braegate. The couple lived in Braegate from then on.",
+  "where": "L00",
+  "ref_deps": [],
+  "a": "P047",
+  "b": "P023",
+  "place": "L00"
+ },
+ {
+  "id": "E0172",
+  "type": "TRAVEL",
+  "chapter": 13,
+  "text": "Ormira found work in Wilcombe, moved there, and did not return to Braegate.",
+  "where": "L00",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P042",
+  "src": "L00",
+  "dest": "L14"
+ },
+ {
+  "id": "E0173",
+  "type": "TRAVEL",
+  "chapter": 13,
+  "text": "Dabin Haskoway followed her to Wilcombe within the month.",
+  "where": "L00",
+  "ref_deps": [],
+  "person": "P008",
+  "src": "L00",
+  "dest": "L14"
+ },
+ {
+  "id": "E0174",
+  "type": "PROMISE",
+  "chapter": 13,
+  "text": "Pedan Ashmere swore to Aera to plant an orchard on the slope above Torton, and shook on it.",
+  "where": "L00",
+  "ref_deps": [
+   "E0009"
+  ],
+  "promise": "R07",
+  "a": "P023",
+  "b": "P047",
+  "act": "to plant an orchard on the slope above Torton"
+ },
+ {
+  "id": "E0175",
+  "type": "GIVE",
+  "chapter": 13,
+  "text": "Garald Fellwood won the copper comb from Zamor Stenoway at cards, fairly, and kept it.",
+  "where": "L04",
+  "ref_deps": [],
+  "item": "I05",
+  "src": "P048",
+  "dest": "P031"
+ },
+ {
+  "id": "E0176",
+  "type": "TRAVEL",
+  "chapter": 13,
+  "text": "Garald Fellwood found work in Larkmere, moved there, and did not return to Larkhaven.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P031",
+  "src": "L04",
+  "dest": "L06"
+ },
+ {
+  "id": "E0177",
+  "type": "TRAVEL",
+  "chapter": 13,
+  "text": "Yedette Fellwood went along to live in Larkmere as well.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P032",
+  "src": "L04",
+  "dest": "L06"
+ },
+ {
+  "id": "E0178",
+  "type": "BIRTH",
+  "chapter": 13,
+  "text": "A daughter was born to Elra Ashmere and Isbin Brackett, and they called the child Ordette Brackett. The family lived in Mireholt.",
+  "where": "L10",
+  "ref_deps": [],
+  "child": "P052",
+  "mother": "P024",
+  "father": "P043",
+  "place": "L10"
+ },
+ {
+  "id": "E0179",
+  "type": "RESOLVE",
+  "chapter": 13,
+  "text": "True to his word to Rodette Haskoway, Maric Ashmere finished what he had promised (pay the old debt owed to the Marroway family).",
+  "where": "L12",
+  "ref_deps": [],
+  "promise": "R06",
+  "kept": true
+ },
+ {
+  "id": "E0180",
+  "type": "TRAVEL",
+  "chapter": 14,
+  "text": "The husband of Thilis Haskoway packed a single trunk and moved from Ravenhaven to Larkmere.",
+  "where": "L11",
+  "ref_deps": [
+   "E0115"
+  ],
+  "person": "P004",
+  "src": "L11",
+  "dest": "L06"
+ },
+ {
+  "id": "E0181",
+  "type": "TRAVEL",
+  "chapter": 14,
+  "text": "Thilis Haskoway went along to live in Larkmere as well.",
+  "where": "L11",
+  "ref_deps": [],
+  "person": "P009",
+  "src": "L11",
+  "dest": "L06"
+ },
+ {
+  "id": "E0182",
+  "type": "DEATH",
+  "chapter": 14,
+  "text": "They laid the wife of Zaten Wexwood in the churchyard at Larkholt, dead of a fall from the mill loft.",
+  "where": "L05",
+  "ref_deps": [
+   "E0122"
+  ],
+  "person": "P018",
+  "cause": "a fall from the mill loft",
+  "place": "L05"
+ },
+ {
+  "id": "E0183",
+  "type": "RESOLVE",
+  "chapter": 14,
+  "text": "True to her word to Eltho Brackett, Isdette Brackett finished what she had promised (teach the children of Larkholt their letters).",
+  "where": "L13",
+  "ref_deps": [],
+  "promise": "R04",
+  "kept": true
+ },
+ {
+  "id": "E0184",
+  "type": "PROMISE",
+  "chapter": 14,
+  "text": "Zaten Wexwood gave Lubin a solemn promise to teach the children of Braegate their letters.",
+  "where": "L05",
+  "ref_deps": [
+   "E0009"
+  ],
+  "promise": "R08",
+  "a": "P030",
+  "b": "P046",
+  "act": "to teach the children of Braegate their letters"
+ },
+ {
+  "id": "E0185",
+  "type": "TRAVEL",
+  "chapter": 14,
+  "text": "Zaten found work in Elmgate, moved there, and did not return to Larkholt.",
+  "where": "L05",
+  "ref_deps": [
+   "E0005"
+  ],
+  "person": "P030",
+  "src": "L05",
+  "dest": "L02"
+ },
+ {
+  "id": "E0186",
+  "type": "TRAVEL",
+  "chapter": 14,
+  "text": "After the quarrel, Ellia Ashmere quit Mireholt for good and took lodgings in Mirecombe.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P021",
+  "src": "L10",
+  "dest": "L07"
+ },
+ {
+  "id": "E0187",
+  "type": "TRAVEL",
+  "chapter": 14,
+  "text": "Isdan went along to live in Mirecombe as well.",
+  "where": "L10",
+  "ref_deps": [
+   "E0007"
+  ],
+  "person": "P035",
+  "src": "L10",
+  "dest": "L07"
+ },
+ {
+  "id": "E0188",
+  "type": "TELL",
+  "chapter": 14,
+  "text": "Late one night Illia confided to Vesra Ashmere that the Fellwood mill ledger was rewritten after the flood.",
+  "where": "L15",
+  "ref_deps": [
+   "E0002"
+  ],
+  "secret": "S06",
+  "src": "P011",
+  "dest": "P022"
+ },
+ {
+  "id": "E0189",
+  "type": "PROMISE",
+  "chapter": 15,
+  "text": "Kara gave Garald Fellwood a solemn promise to teach the children of Mirecombe their letters.",
+  "where": "L06",
+  "ref_deps": [
+   "E0001"
+  ],
+  "promise": "R09",
+  "a": "P006",
+  "b": "P031",
+  "act": "to teach the children of Mirecombe their letters"
+ },
+ {
+  "id": "E0190",
+  "type": "TELL",
+  "chapter": 15,
+  "text": "Late one night Isbin Brackett confided to Molan Velloway that the bridge toll at Wilcombe is skimmed every month.",
+  "where": "L10",
+  "ref_deps": [],
+  "secret": "S00",
+  "src": "P043",
+  "dest": "P015"
+ },
+ {
+  "id": "E0191",
+  "type": "DEATH",
+  "chapter": 15,
+  "text": "Yedette Fellwood died of a kick from a cart horse at Larkmere.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P032",
+  "cause": "a kick from a cart horse",
+  "place": "L06"
+ },
+ {
+  "id": "E0192",
+  "type": "RESOLVE",
+  "chapter": 15,
+  "text": "Red Zaten broke faith with Lubin Stenoway, and the promised work (teach the children of Braegate their letters) was never begun.",
+  "where": "L02",
+  "ref_deps": [
+   "E0043"
+  ],
+  "promise": "R08",
+  "kept": false
+ },
+ {
+  "id": "E0193",
+  "type": "TRAVEL",
+  "chapter": 15,
+  "text": "Malis rode out of Elmgate; by the next market day she was living in Mireford.",
+  "where": "L02",
+  "ref_deps": [
+   "E0000"
+  ],
+  "person": "P002",
+  "src": "L02",
+  "dest": "L08"
+ },
+ {
+  "id": "E0194",
+  "type": "TRAVEL",
+  "chapter": 15,
+  "text": "Lubin Stenoway went along to live in Mireford as well.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P046",
+  "src": "L02",
+  "dest": "L08"
+ },
+ {
+  "id": "E0195",
+  "type": "GIVE",
+  "chapter": 15,
+  "text": "A parcel from Elra Ashmere reached Garald Fellwood; inside was the iron ledger, now his to keep.",
+  "where": "L10",
+  "ref_deps": [],
+  "item": "I06",
+  "src": "P024",
+  "dest": "P031"
+ },
+ {
+  "id": "E0196",
+  "type": "MARRY",
+  "chapter": 15,
+  "text": "In the chapel at Elmgate, Jolan Wexwood married Illia. The couple lived in Elmgate from then on.",
+  "where": "L02",
+  "ref_deps": [
+   "E0002"
+  ],
+  "a": "P028",
+  "b": "P011",
+  "place": "L02"
+ },
+ {
+  "id": "E0197",
+  "type": "GIVE",
+  "chapter": 16,
+  "text": "Pewyn Stenoway won the silver ring from the husband of Rodette Haskoway at cards, fairly, and kept it.",
+  "where": "L12",
+  "ref_deps": [
+   "E0010"
+  ],
+  "item": "I11",
+  "src": "P025",
+  "dest": "P045"
+ },
+ {
+  "id": "E0198",
+  "type": "PROMISE",
+  "chapter": 16,
+  "text": "Lame Maric swore to Orrald Stenoway to plant an orchard on the slope above Dunton, and shook on it.",
+  "where": "L12",
+  "ref_deps": [
+   "E0039"
+  ],
+  "promise": "R10",
+  "a": "P025",
+  "b": "P044",
+  "act": "to plant an orchard on the slope above Dunton"
+ },
+ {
+  "id": "E0199",
+  "type": "MARRY",
+  "chapter": 16,
+  "text": "In the chapel at Larkmere, the only daughter of Isdan Wexson married Garald Fellwood. The couple lived in Larkmere from then on.",
+  "where": "L06",
+  "ref_deps": [
+   "E0007"
+  ],
+  "a": "P037",
+  "b": "P031",
+  "place": "L06"
+ },
+ {
+  "id": "E0200",
+  "type": "GIVE",
+  "chapter": 16,
+  "text": "Garald Fellwood pressed the copper comb into the hands of Fenelle Wexson and would take nothing for it.",
+  "where": "L06",
+  "ref_deps": [],
+  "item": "I05",
+  "src": "P031",
+  "dest": "P037"
+ },
+ {
+  "id": "E0201",
+  "type": "TRAVEL",
+  "chapter": 16,
+  "text": "After the quarrel, Ribin Wexwood quit Ravenhaven for good and took lodgings in Wilholt.",
+  "where": "L11",
+  "ref_deps": [],
+  "person": "P029",
+  "src": "L11",
+  "dest": "L15"
+ },
+ {
+  "id": "E0202",
+  "type": "TRAVEL",
+  "chapter": 16,
+  "text": "Zalis went along to live in Wilholt as well.",
+  "where": "L11",
+  "ref_deps": [
+   "E0000"
+  ],
+  "person": "P003",
+  "src": "L11",
+  "dest": "L15"
+ },
+ {
+  "id": "E0203",
+  "type": "BIRTH",
+  "chapter": 16,
+  "text": "A daughter was born to Elra Ashmere and Isbin Brackett, and they called the child Wedette Brackett. The family lived in Mireholt.",
+  "where": "L10",
+  "ref_deps": [],
+  "child": "P053",
+  "mother": "P024",
+  "father": "P043",
+  "place": "L10"
+ },
+ {
+  "id": "E0204",
+  "type": "TRAVEL",
+  "chapter": 16,
+  "text": "Thilis Haskoway found work in Braegate, moved there, and did not return to Larkmere.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P009",
+  "src": "L06",
+  "dest": "L00"
+ },
+ {
+  "id": "E0205",
+  "type": "TRAVEL",
+  "chapter": 16,
+  "text": "Jolan Marroway went along to live in Braegate as well.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P004",
+  "src": "L06",
+  "dest": "L00"
+ },
+ {
+  "id": "E0206",
+  "type": "TRAVEL",
+  "chapter": 17,
+  "text": "Pedan Ashmere found work in Elmgate, moved there, and did not return to Braegate.",
+  "where": "L00",
+  "ref_deps": [],
+  "person": "P023",
+  "src": "L00",
+  "dest": "L02"
+ },
+ {
+  "id": "E0207",
+  "type": "TRAVEL",
+  "chapter": 17,
+  "text": "Aera Stenoway went along to live in Elmgate as well.",
+  "where": "L00",
+  "ref_deps": [],
+  "person": "P047",
+  "src": "L00",
+  "dest": "L02"
+ },
+ {
+  "id": "E0208",
+  "type": "TELL",
+  "chapter": 17,
+  "text": "Late one night Elrald Wexwood confided to Lubin that the Fellwood mill ledger was rewritten after the flood.",
+  "where": "L08",
+  "ref_deps": [
+   "E0009"
+  ],
+  "secret": "S06",
+  "src": "P026",
+  "dest": "P046"
+ },
+ {
+  "id": "E0209",
+  "type": "RESOLVE",
+  "chapter": 17,
+  "text": "Kara Haskoway never did keep the promise made to Garald Fellwood (teach the children of Mirecombe their letters); the matter was abandoned.",
+  "where": "L06",
+  "ref_deps": [],
+  "promise": "R09",
+  "kept": false
+ },
+ {
+  "id": "E0210",
+  "type": "TRAVEL",
+  "chapter": 17,
+  "text": "Garald Fellwood packed a single trunk and moved from Larkmere to Wilcombe.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P031",
+  "src": "L06",
+  "dest": "L14"
+ },
+ {
+  "id": "E0211",
+  "type": "TRAVEL",
+  "chapter": 17,
+  "text": "Fenelle Wexson went along to live in Wilcombe as well.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P037",
+  "src": "L06",
+  "dest": "L14"
+ },
+ {
+  "id": "E0212",
+  "type": "GIVE",
+  "chapter": 17,
+  "text": "Jossa Wexwood pressed the jade compass into the hands of Elrald and would take nothing for it.",
+  "where": "L08",
+  "ref_deps": [
+   "E0005"
+  ],
+  "item": "I07",
+  "src": "P027",
+  "dest": "P026"
+ },
+ {
+  "id": "E0213",
+  "type": "OCCUPATION",
+  "chapter": 18,
+  "text": "Rodette was apprenticed anew and became a tanner.",
+  "where": "L12",
+  "ref_deps": [
+   "E0001"
+  ],
+  "person": "P007",
+  "old": null,
+  "new": "tanner"
+ },
+ {
+  "id": "E0214",
+  "type": "TELL",
+  "chapter": 18,
+  "text": "Eltho Brackett could keep it no longer and told Isdette Brackett that the deed to the Mirecombe pastures was forged.",
+  "where": "L13",
+  "ref_deps": [],
+  "secret": "S07",
+  "src": "P039",
+  "dest": "P040"
+ },
+ {
+  "id": "E0215",
+  "type": "DEATH",
+  "chapter": 18,
+  "text": "Elrald Wexwood died of a kick from a cart horse at Mireford.",
+  "where": "L08",
+  "ref_deps": [],
+  "person": "P026",
+  "cause": "a kick from a cart horse",
+  "place": "L08"
+ },
+ {
+  "id": "E0216",
+  "type": "GIVE",
+  "chapter": 18,
+  "text": "Among the things left by Elrald Wexwood, the jade compass was handed to Jossa Wexwood.",
+  "where": "L08",
+  "ref_deps": [],
+  "item": "I07",
+  "src": "P026",
+  "dest": "P027",
+  "inherit": true
+ },
+ {
+  "id": "E0217",
+  "type": "GIVE",
+  "chapter": 18,
+  "text": "Among the things left by Elrald Wexwood, the jade ledger was handed to Jossa Wexwood.",
+  "where": "L08",
+  "ref_deps": [],
+  "item": "I08",
+  "src": "P026",
+  "dest": "P027",
+  "inherit": true
+ },
+ {
+  "id": "E0218",
+  "type": "PROMISE",
+  "chapter": 18,
+  "text": "Jolan Wexwood swore to Pedan Ashmere to plant an orchard on the slope above Wilholt, and shook on it.",
+  "where": "L02",
+  "ref_deps": [],
+  "promise": "R11",
+  "a": "P028",
+  "b": "P023",
+  "act": "to plant an orchard on the slope above Wilholt"
+ },
+ {
+  "id": "E0219",
+  "type": "TRAVEL",
+  "chapter": 18,
+  "text": "Lunar Brackett rode out of Wilholt; by the next market day he was living in Larkholt.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P041",
+  "src": "L15",
+  "dest": "L05"
+ },
+ {
+  "id": "E0220",
+  "type": "TRAVEL",
+  "chapter": 18,
+  "text": "Vesra Ashmere followed him to Larkholt within the month.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P022",
+  "src": "L15",
+  "dest": "L05"
+ },
+ {
+  "id": "E0221",
+  "type": "GIVE",
+  "chapter": 19,
+  "text": "Pemira Velloway gave the bone seal to Quiet Jovus.",
+  "where": "L06",
+  "ref_deps": [
+   "E0021"
+  ],
+  "item": "I02",
+  "src": "P019",
+  "dest": "P005"
+ },
+ {
+  "id": "E0222",
+  "type": "GIVE",
+  "chapter": 19,
+  "text": "Malis Marroway won the jade compass from Jossa Wexwood at cards, fairly, and kept it.",
+  "where": "L08",
+  "ref_deps": [],
+  "item": "I07",
+  "src": "P027",
+  "dest": "P002"
+ },
+ {
+  "id": "E0223",
+  "type": "PROMISE",
+  "chapter": 19,
+  "text": "Lubin Stenoway swore to Jossa to pay the old debt owed to the Stenoway family, and shook on it.",
+  "where": "L08",
+  "ref_deps": [
+   "E0005"
+  ],
+  "promise": "R12",
+  "a": "P046",
+  "b": "P027",
+  "act": "to pay the old debt owed to the Stenoway family"
+ },
+ {
+  "id": "E0224",
+  "type": "GIVE",
+  "chapter": 19,
+  "text": "Fenelle Wexson pressed the copper comb into the hands of Garald and would take nothing for it.",
+  "where": "L14",
+  "ref_deps": [
+   "E0006"
+  ],
+  "item": "I05",
+  "src": "P037",
+  "dest": "P031"
+ },
+ {
+  "id": "E0225",
+  "type": "TRAVEL",
+  "chapter": 19,
+  "text": "Eltho Brackett left Torton and settled in Salford.",
+  "where": "L13",
+  "ref_deps": [],
+  "person": "P039",
+  "src": "L13",
+  "dest": "L12"
+ },
+ {
+  "id": "E0226",
+  "type": "TRAVEL",
+  "chapter": 19,
+  "text": "Isdette went along to live in Salford as well.",
+  "where": "L13",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P040",
+  "src": "L13",
+  "dest": "L12"
+ },
+ {
+  "id": "E0227",
+  "type": "TELL",
+  "chapter": 20,
+  "text": "Late one night Malis Marroway confided to Jossa Wexwood that the old abbey at Mirecombe hides a second cellar.",
+  "where": "L08",
+  "ref_deps": [],
+  "secret": "S05",
+  "src": "P002",
+  "dest": "P027"
+ },
+ {
+  "id": "E0228",
+  "type": "PROMISE",
+  "chapter": 20,
+  "text": "Jossa Wexwood swore to Lubin to repair the roof of the chapel at Ravenhaven, and shook on it.",
+  "where": "L08",
+  "ref_deps": [
+   "E0009"
+  ],
+  "promise": "R13",
+  "a": "P027",
+  "b": "P046",
+  "act": "to repair the roof of the chapel at Ravenhaven"
+ },
+ {
+  "id": "E0229",
+  "type": "PROMISE",
+  "chapter": 20,
+  "text": "Thilis Haskoway swore to Jolan Marroway to pay the old debt owed to the Ashmere family, and shook on it.",
+  "where": "L00",
+  "ref_deps": [],
+  "promise": "R14",
+  "a": "P009",
+  "b": "P004",
+  "act": "to pay the old debt owed to the Ashmere family"
+ },
+ {
+  "id": "E0230",
+  "type": "BIRTH",
+  "chapter": 20,
+  "text": "A son was born to Vonelle Fellwood and Kabin Dornick, and they called the child Zazek Dornick. The family lived in Mirehaven.",
+  "where": "L09",
+  "ref_deps": [],
+  "child": "P054",
+  "mother": "P034",
+  "father": "P013",
+  "place": "L09"
+ },
+ {
+  "id": "E0231",
+  "type": "PLAN",
+  "chapter": 20,
+  "text": "Kabin Dornick talked for weeks of going to Mirecombe, yet in the end stayed where he was.",
+  "where": "L09",
+  "ref_deps": [
+   "E0002"
+  ],
+  "person": "P013",
+  "dest": "L07"
+ },
+ {
+  "id": "E0232",
+  "type": "TELL",
+  "chapter": 20,
+  "text": "In a letter that Malis Marroway burned after reading, Lubin Stenoway revealed that the Fellwood mill ledger was rewritten after the flood.",
+  "where": "L08",
+  "ref_deps": [],
+  "secret": "S06",
+  "src": "P046",
+  "dest": "P002"
+ },
+ {
+  "id": "E0233",
+  "type": "MARRY",
+  "chapter": 20,
+  "text": "Before the spring was out, Aewyn Ashmere took Zaten Wexwood in marriage at Mireholt. The couple lived in Mireholt from then on.",
+  "where": "L10",
+  "ref_deps": [],
+  "a": "P049",
+  "b": "P030",
+  "place": "L10"
+ },
+ {
+  "id": "E0234",
+  "type": "BIRTH",
+  "chapter": 21,
+  "text": "A son was born to Zalis Marroway and Ribin Wexwood, and they called the child Nybin Wexwood. The family lived in Wilholt.",
+  "where": "L15",
+  "ref_deps": [],
+  "child": "P055",
+  "mother": "P003",
+  "father": "P029",
+  "place": "L15"
+ },
+ {
+  "id": "E0235",
+  "type": "TRAVEL",
+  "chapter": 21,
+  "text": "The second son of Elrald Wexwood found work in Mireford, moved there, and did not return to Wilholt.",
+  "where": "L15",
+  "ref_deps": [
+   "E0005"
+  ],
+  "person": "P029",
+  "src": "L15",
+  "dest": "L08"
+ },
+ {
+  "id": "E0236",
+  "type": "TRAVEL",
+  "chapter": 21,
+  "text": "Zalis Marroway went along to live in Mireford as well.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P003",
+  "src": "L15",
+  "dest": "L08"
+ },
+ {
+  "id": "E0237",
+  "type": "BIRTH",
+  "chapter": 21,
+  "text": "Fenelle Wexson gave birth to a son, named Dazek Fellwood; the father was Garald Fellwood. The family lived in Wilcombe.",
+  "where": "L14",
+  "ref_deps": [],
+  "child": "P056",
+  "mother": "P037",
+  "father": "P031",
+  "place": "L14"
+ },
+ {
+  "id": "E0238",
+  "type": "DEATH",
+  "chapter": 21,
+  "text": "That summer, a kick from a cart horse took Eltho Brackett; he was buried at Salford.",
+  "where": "L12",
+  "ref_deps": [],
+  "person": "P039",
+  "cause": "a kick from a cart horse",
+  "place": "L12"
+ },
+ {
+  "id": "E0239",
+  "type": "GIVE",
+  "chapter": 21,
+  "text": "Among the things left by Eltho Brackett, the brass spyglass was handed to Isdette Brackett.",
+  "where": "L12",
+  "ref_deps": [],
+  "item": "I04",
+  "src": "P039",
+  "dest": "P040",
+  "inherit": true
+ },
+ {
+  "id": "E0240",
+  "type": "TELL",
+  "chapter": 21,
+  "text": "Late one night Lubin Stenoway confided to Ribin Wexwood that the Fellwood mill ledger was rewritten after the flood.",
+  "where": "L08",
+  "ref_deps": [],
+  "secret": "S06",
+  "src": "P046",
+  "dest": "P029"
+ },
+ {
+  "id": "E0241",
+  "type": "OCCUPATION",
+  "chapter": 21,
+  "text": "Zalis Marroway gave up being a tanner and took work as a shepherd.",
+  "where": "L08",
+  "ref_deps": [
+   "E0000"
+  ],
+  "person": "P003",
+  "old": "tanner",
+  "new": "shepherd"
+ },
+ {
+  "id": "E0242",
+  "type": "BIRTH",
+  "chapter": 21,
+  "text": "Vesra Ashmere gave birth to a daughter, named Ilra Brackett; the father was Lunar Brackett. The family lived in Larkholt.",
+  "where": "L05",
+  "ref_deps": [],
+  "child": "P057",
+  "mother": "P022",
+  "father": "P041",
+  "place": "L05"
+ },
+ {
+  "id": "E0243",
+  "type": "TELL",
+  "chapter": 21,
+  "text": "Malis Marroway could keep it no longer and told Zalis Marroway that the old abbey at Mirecombe hides a second cellar.",
+  "where": "L08",
+  "ref_deps": [],
+  "secret": "S05",
+  "src": "P002",
+  "dest": "P003"
+ },
+ {
+  "id": "E0244",
+  "type": "GIVE",
+  "chapter": 22,
+  "text": "Jovus gave the bone seal to Kara Haskoway.",
+  "where": "L06",
+  "ref_deps": [
+   "E0001"
+  ],
+  "item": "I02",
+  "src": "P005",
+  "dest": "P006"
+ },
+ {
+  "id": "E0245",
+  "type": "DEATH",
+  "chapter": 22,
+  "text": "That autumn, a winter fever took Aewyn Ashmere; she was buried at Mireholt.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P049",
+  "cause": "a winter fever",
+  "place": "L10"
+ },
+ {
+  "id": "E0246",
+  "type": "MARRY",
+  "chapter": 22,
+  "text": "In the chapel at Salford, Isdette Brackett married the youngest son of Elrald Wexwood. The couple lived in Salford from then on.",
+  "where": "L12",
+  "ref_deps": [
+   "E0005"
+  ],
+  "a": "P040",
+  "b": "P030",
+  "place": "L12"
+ },
+ {
+  "id": "E0247",
+  "type": "PROMISE",
+  "chapter": 22,
+  "text": "Zaten Wexwood gave Maric Ashmere a solemn promise to plant an orchard on the slope above Torton.",
+  "where": "L12",
+  "ref_deps": [],
+  "promise": "R15",
+  "a": "P030",
+  "b": "P025",
+  "act": "to plant an orchard on the slope above Torton"
+ },
+ {
+  "id": "E0248",
+  "type": "TRAVEL",
+  "chapter": 22,
+  "text": "After the quarrel, Ferine Wexwood quit Ravenhaven for good and took lodgings in Elmgate.",
+  "where": "L11",
+  "ref_deps": [],
+  "person": "P050",
+  "src": "L11",
+  "dest": "L02"
+ },
+ {
+  "id": "E0249",
+  "type": "TRAVEL",
+  "chapter": 22,
+  "text": "After the quarrel, Taten quit Ravenhaven for good and took lodgings in Wilholt.",
+  "where": "L11",
+  "ref_deps": [
+   "E0000"
+  ],
+  "person": "P000",
+  "src": "L11",
+  "dest": "L15"
+ },
+ {
+  "id": "E0250",
+  "type": "TRAVEL",
+  "chapter": 22,
+  "text": "Jora went along to live in Wilholt as well.",
+  "where": "L11",
+  "ref_deps": [
+   "E0000"
+  ],
+  "person": "P001",
+  "src": "L11",
+  "dest": "L15"
+ },
+ {
+  "id": "E0251",
+  "type": "GIVE",
+  "chapter": 22,
+  "text": "The wife of Pedan Ashmere sent the jade map by carrier to Zamor Stenoway, who received it safely.",
+  "where": "L02",
+  "ref_deps": [
+   "E0171"
+  ],
+  "item": "I09",
+  "src": "P047",
+  "dest": "P048"
+ },
+ {
+  "id": "E0252",
+  "type": "TELL",
+  "chapter": 23,
+  "text": "In a letter that Aera Stenoway burned after reading, Illia revealed that the deed to the Mirecombe pastures was forged.",
+  "where": "L02",
+  "ref_deps": [
+   "E0002"
+  ],
+  "secret": "S07",
+  "src": "P011",
+  "dest": "P047"
+ },
+ {
+  "id": "E0253",
+  "type": "RESOLVE",
+  "chapter": 23,
+  "text": "True to his word to Orrald Stenoway, Maric Ashmere finished what he had promised (plant an orchard on the slope above Dunton).",
+  "where": "L12",
+  "ref_deps": [],
+  "promise": "R10",
+  "kept": true
+ },
+ {
+  "id": "E0254",
+  "type": "BIRTH",
+  "chapter": 23,
+  "text": "Rodette Haskoway gave birth to a son, named Nezek Ashmere; the father was Maric Ashmere. The family lived in Salford.",
+  "where": "L12",
+  "ref_deps": [],
+  "child": "P058",
+  "mother": "P007",
+  "father": "P025",
+  "place": "L12"
+ },
+ {
+  "id": "E0255",
+  "type": "DEATH",
+  "chapter": 23,
+  "text": "Kara Haskoway died of old age, quietly in sleep at Larkmere.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P006",
+  "cause": "old age, quietly in sleep",
+  "place": "L06"
+ },
+ {
+  "id": "E0256",
+  "type": "GIVE",
+  "chapter": 23,
+  "text": "The bone seal, which Kara Haskoway had owned, went to Jovus.",
+  "where": "L06",
+  "ref_deps": [
+   "E0001"
+  ],
+  "item": "I02",
+  "src": "P006",
+  "dest": "P005",
+  "inherit": true
+ },
+ {
+  "id": "E0257",
+  "type": "TELL",
+  "chapter": 23,
+  "text": "In a letter that Colis Velloway burned after reading, Isbin Brackett revealed that the bridge toll at Wilcombe is skimmed every month.",
+  "where": "L10",
+  "ref_deps": [],
+  "secret": "S00",
+  "src": "P043",
+  "dest": "P016"
+ },
+ {
+  "id": "E0258",
+  "type": "RESOLVE",
+  "chapter": 24,
+  "text": "Lubin broke faith with Jossa Wexwood, and the promised work (pay the old debt owed to the Stenoway family) was never begun.",
+  "where": "L08",
+  "ref_deps": [
+   "E0009"
+  ],
+  "promise": "R12",
+  "kept": false
+ },
+ {
+  "id": "E0259",
+  "type": "RESOLVE",
+  "chapter": 24,
+  "text": "Jossa broke faith with Lubin Stenoway, and the promised work (repair the roof of the chapel at Ravenhaven) was never begun.",
+  "where": "L08",
+  "ref_deps": [
+   "E0005"
+  ],
+  "promise": "R13",
+  "kept": false
+ },
+ {
+  "id": "E0260",
+  "type": "OCCUPATION",
+  "chapter": 24,
+  "text": "Red Lubin was apprenticed anew and became a scribe.",
+  "where": "L08",
+  "ref_deps": [
+   "E0009",
+   "E0057"
+  ],
+  "person": "P046",
+  "old": null,
+  "new": "scribe"
+ },
+ {
+  "id": "E0261",
+  "type": "TELL",
+  "chapter": 24,
+  "text": "Vonelle Fellwood could keep it no longer and told Kabin Dornick that the deed to the Mirecombe pastures was forged.",
+  "where": "L09",
+  "ref_deps": [],
+  "secret": "S07",
+  "src": "P034",
+  "dest": "P013"
+ },
+ {
+  "id": "E0262",
+  "type": "TRAVEL",
+  "chapter": 24,
+  "text": "After the quarrel, Vonelle Fellwood quit Mirehaven for good and took lodgings in Mireford.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P034",
+  "src": "L09",
+  "dest": "L08"
+ },
+ {
+  "id": "E0263",
+  "type": "TRAVEL",
+  "chapter": 24,
+  "text": "Kabin Dornick followed her to Mireford within the month.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P013",
+  "src": "L09",
+  "dest": "L08"
+ },
+ {
+  "id": "E0264",
+  "type": "GIVE",
+  "chapter": 24,
+  "text": "Pewyn Stenoway gave the silver ring to Orrald.",
+  "where": "L12",
+  "ref_deps": [
+   "E0009"
+  ],
+  "item": "I11",
+  "src": "P045",
+  "dest": "P044"
+ },
+ {
+  "id": "E0265",
+  "type": "GIVE",
+  "chapter": 24,
+  "text": "The only daughter of Illia Dornick pressed the brass flute into the hands of Jora Marroway and would take nothing for it.",
+  "where": "L15",
+  "ref_deps": [
+   "E0002"
+  ],
+  "item": "I03",
+  "src": "P014",
+  "dest": "P001"
+ },
+ {
+  "id": "E0266",
+  "type": "TRAVEL",
+  "chapter": 24,
+  "text": "After the quarrel, Voena Dornick quit Wilholt for good and took lodgings in Mirecombe.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P014",
+  "src": "L15",
+  "dest": "L07"
+ },
+ {
+  "id": "E0267",
+  "type": "TELL",
+  "chapter": 25,
+  "text": "Ribin could keep it no longer and told Vonelle that the Fellwood mill ledger was rewritten after the flood.",
+  "where": "L08",
+  "ref_deps": [
+   "E0005",
+   "E0006"
+  ],
+  "secret": "S06",
+  "src": "P029",
+  "dest": "P034"
+ },
+ {
+  "id": "E0268",
+  "type": "TELL",
+  "chapter": 25,
+  "text": "Ribin Wexwood could keep it no longer and told Kabin Dornick that the Fellwood mill ledger was rewritten after the flood.",
+  "where": "L08",
+  "ref_deps": [],
+  "secret": "S06",
+  "src": "P029",
+  "dest": "P013"
+ },
+ {
+  "id": "E0269",
+  "type": "BIRTH",
+  "chapter": 25,
+  "text": "A son was born to Pemira Velloway and Dabin Wexson, and they called the child Febin Wexson. The family lived in Larkmere.",
+  "where": "L06",
+  "ref_deps": [],
+  "child": "P059",
+  "mother": "P019",
+  "father": "P038",
+  "place": "L06"
+ },
+ {
+  "id": "E0270",
+  "type": "BIRTH",
+  "chapter": 25,
+  "text": "A daughter was born to Ormira Brackett and Dabin Haskoway, and they called the child Tawyn Haskoway. The family lived in Wilcombe.",
+  "where": "L14",
+  "ref_deps": [],
+  "child": "P060",
+  "mother": "P042",
+  "father": "P008",
+  "place": "L14"
+ },
+ {
+  "id": "E0271",
+  "type": "PROMISE",
+  "chapter": 25,
+  "text": "Ormira Brackett swore to Dabin Haskoway to repair the roof of the chapel at Torton, and shook on it.",
+  "where": "L14",
+  "ref_deps": [],
+  "promise": "R16",
+  "a": "P042",
+  "b": "P008",
+  "act": "to repair the roof of the chapel at Torton"
+ },
+ {
+  "id": "E0272",
+  "type": "PLAN",
+  "chapter": 25,
+  "text": "Ormira Brackett talked for weeks of going to Mirecombe, yet in the end stayed where she was.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P042",
+  "dest": "L07"
+ },
+ {
+  "id": "E0273",
+  "type": "TELL",
+  "chapter": 25,
+  "text": "In a letter that Kabin Dornick burned after reading, Malis Marroway revealed that the old abbey at Mirecombe hides a second cellar.",
+  "where": "L08",
+  "ref_deps": [],
+  "secret": "S05",
+  "src": "P002",
+  "dest": "P013"
+ },
+ {
+  "id": "E0274",
+  "type": "TRAVEL",
+  "chapter": 26,
+  "text": "Pewyn Stenoway rode out of Salford; by the next market day she was living in Mirehaven.",
+  "where": "L12",
+  "ref_deps": [],
+  "person": "P045",
+  "src": "L12",
+  "dest": "L09"
+ },
+ {
+  "id": "E0275",
+  "type": "TRAVEL",
+  "chapter": 26,
+  "text": "Orrald Stenoway followed her to Mirehaven within the month.",
+  "where": "L12",
+  "ref_deps": [],
+  "person": "P044",
+  "src": "L12",
+  "dest": "L09"
+ },
+ {
+  "id": "E0276",
+  "type": "RESOLVE",
+  "chapter": 26,
+  "text": "Ormira broke faith with Dabin Haskoway, and the promised work (repair the roof of the chapel at Torton) was never begun.",
+  "where": "L14",
+  "ref_deps": [
+   "E0008"
+  ],
+  "promise": "R16",
+  "kept": false
+ },
+ {
+  "id": "E0277",
+  "type": "GIVE",
+  "chapter": 26,
+  "text": "Pewyn won the silver ring from Orrald at cards, fairly, and kept it.",
+  "where": "L09",
+  "ref_deps": [
+   "E0009"
+  ],
+  "item": "I11",
+  "src": "P044",
+  "dest": "P045"
+ },
+ {
+  "id": "E0278",
+  "type": "PROMISE",
+  "chapter": 26,
+  "text": "Tall Vesra swore to Lunar Brackett to plant an orchard on the slope above Mireford, and shook on it.",
+  "where": "L05",
+  "ref_deps": [
+   "E0037"
+  ],
+  "promise": "R17",
+  "a": "P022",
+  "b": "P041",
+  "act": "to plant an orchard on the slope above Mireford"
+ },
+ {
+  "id": "E0279",
+  "type": "TRAVEL",
+  "chapter": 26,
+  "text": "Malis found work in Salford, moved there, and did not return to Mireford.",
+  "where": "L08",
+  "ref_deps": [
+   "E0000"
+  ],
+  "person": "P002",
+  "src": "L08",
+  "dest": "L12"
+ },
+ {
+  "id": "E0280",
+  "type": "TRAVEL",
+  "chapter": 26,
+  "text": "Lubin Stenoway went along to live in Salford as well.",
+  "where": "L08",
+  "ref_deps": [],
+  "person": "P046",
+  "src": "L08",
+  "dest": "L12"
+ },
+ {
+  "id": "E0281",
+  "type": "PROMISE",
+  "chapter": 26,
+  "text": "Vonelle Fellwood swore to the husband of Zalis Marroway to teach the children of Mirecombe their letters, and shook on it.",
+  "where": "L08",
+  "ref_deps": [
+   "E0012"
+  ],
+  "promise": "R18",
+  "a": "P034",
+  "b": "P029",
+  "act": "to teach the children of Mirecombe their letters"
+ },
+ {
+  "id": "E0282",
+  "type": "MARRY",
+  "chapter": 26,
+  "text": "In the chapel at Mirecombe, Voena Dornick married Orten. The couple lived in Mirecombe from then on.",
+  "where": "L07",
+  "ref_deps": [
+   "E0164"
+  ],
+  "a": "P014",
+  "b": "P051",
+  "place": "L07"
+ },
+ {
+  "id": "E0283",
+  "type": "RUMOR",
+  "chapter": 26,
+  "text": "Gossip from Isdan claimed Ribin Wexwood and Pemira Velloway had been wed in secret.",
+  "where": "L07",
+  "ref_deps": [
+   "E0007"
+  ],
+  "teller": "P035",
+  "claim": {
+   "kind": "married",
+   "target": "P029",
+   "other": "P019"
+  }
+ },
+ {
+  "id": "E0284",
+  "type": "RESOLVE",
+  "chapter": 27,
+  "text": "Zaten Wexwood broke faith with Maric Ashmere, and the promised work (plant an orchard on the slope above Torton) was never begun.",
+  "where": "L12",
+  "ref_deps": [],
+  "promise": "R15",
+  "kept": false
+ },
+ {
+  "id": "E0285",
+  "type": "DEATH",
+  "chapter": 27,
+  "text": "Old Illia died of a wound that festered at Elmgate.",
+  "where": "L02",
+  "ref_deps": [
+   "E0026"
+  ],
+  "person": "P011",
+  "cause": "a wound that festered",
+  "place": "L02"
+ },
+ {
+  "id": "E0286",
+  "type": "TRAVEL",
+  "chapter": 27,
+  "text": "Pedan found work in Ravenhaven, moved there, and did not return to Elmgate.",
+  "where": "L02",
+  "ref_deps": [
+   "E0004"
+  ],
+  "person": "P023",
+  "src": "L02",
+  "dest": "L11"
+ },
+ {
+  "id": "E0287",
+  "type": "TRAVEL",
+  "chapter": 27,
+  "text": "Aera Stenoway went along to live in Ravenhaven as well.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P047",
+  "src": "L02",
+  "dest": "L11"
+ },
+ {
+  "id": "E0288",
+  "type": "PROMISE",
+  "chapter": 27,
+  "text": "Rolde Fellwood swore to Zamor to repair the roof of the chapel at Mireford, and shook on it.",
+  "where": "L04",
+  "ref_deps": [
+   "E0009"
+  ],
+  "promise": "R19",
+  "a": "P033",
+  "b": "P048",
+  "act": "to repair the roof of the chapel at Mireford"
+ },
+ {
+  "id": "E0289",
+  "type": "MARRY",
+  "chapter": 27,
+  "text": "Before the winter was out, Jolan Wexwood took Ferine Wexwood in marriage at Elmgate. The couple lived in Elmgate from then on.",
+  "where": "L02",
+  "ref_deps": [],
+  "a": "P028",
+  "b": "P050",
+  "place": "L02"
+ },
+ {
+  "id": "E0290",
+  "type": "TRAVEL",
+  "chapter": 27,
+  "text": "Ordette Brackett found work in Mirehaven, moved there, and did not return to Mireholt.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P052",
+  "src": "L10",
+  "dest": "L09"
+ },
+ {
+  "id": "E0291",
+  "type": "TRAVEL",
+  "chapter": 27,
+  "text": "Kabin Dornick left Mireford and settled in Elmgate.",
+  "where": "L08",
+  "ref_deps": [],
+  "person": "P013",
+  "src": "L08",
+  "dest": "L02"
+ },
+ {
+  "id": "E0292",
+  "type": "TRAVEL",
+  "chapter": 27,
+  "text": "Vonelle Fellwood followed him to Elmgate within the month.",
+  "where": "L08",
+  "ref_deps": [],
+  "person": "P034",
+  "src": "L08",
+  "dest": "L02"
+ },
+ {
+  "id": "E0293",
+  "type": "GIVE",
+  "chapter": 27,
+  "text": "Malis Marroway gave the jade compass to Isdette.",
+  "where": "L12",
+  "ref_deps": [
+   "E0008"
+  ],
+  "item": "I07",
+  "src": "P002",
+  "dest": "P040"
+ },
+ {
+  "id": "E0294",
+  "type": "DEATH",
+  "chapter": 28,
+  "text": "That spring, a fall from the mill loft took Isdan Wexson; he was buried at Mirecombe.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P035",
+  "cause": "a fall from the mill loft",
+  "place": "L07"
+ },
+ {
+  "id": "E0295",
+  "type": "GIVE",
+  "chapter": 28,
+  "text": "Pewyn Stenoway pressed the silver ring into the hands of Orrald Stenoway and would take nothing for it.",
+  "where": "L09",
+  "ref_deps": [],
+  "item": "I11",
+  "src": "P045",
+  "dest": "P044"
+ },
+ {
+  "id": "E0296",
+  "type": "PROMISE",
+  "chapter": 28,
+  "text": "Orrald swore to Pewyn Stenoway to repair the roof of the chapel at Torton, and shook on it.",
+  "where": "L09",
+  "ref_deps": [
+   "E0009"
+  ],
+  "promise": "R20",
+  "a": "P044",
+  "b": "P045",
+  "act": "to repair the roof of the chapel at Torton"
+ },
+ {
+  "id": "E0297",
+  "type": "TRAVEL",
+  "chapter": 28,
+  "text": "Pewyn Stenoway packed a single trunk and moved from Mirehaven to Elmgate.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P045",
+  "src": "L09",
+  "dest": "L02"
+ },
+ {
+  "id": "E0298",
+  "type": "TRAVEL",
+  "chapter": 28,
+  "text": "Orrald Stenoway went along to live in Elmgate as well.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P044",
+  "src": "L09",
+  "dest": "L02"
+ },
+ {
+  "id": "E0299",
+  "type": "PROMISE",
+  "chapter": 28,
+  "text": "Ordette gave Molan Velloway a solemn promise to carry a sealed letter to Salford.",
+  "where": "L09",
+  "ref_deps": [
+   "E0178"
+  ],
+  "promise": "R21",
+  "a": "P052",
+  "b": "P015",
+  "act": "to carry a sealed letter to Salford"
+ },
+ {
+  "id": "E0300",
+  "type": "GIVE",
+  "chapter": 28,
+  "text": "Jossa Wexwood pressed the jade ledger into the hands of the wife of Ribin Wexwood and would take nothing for it.",
+  "where": "L08",
+  "ref_deps": [
+   "E0012"
+  ],
+  "item": "I08",
+  "src": "P027",
+  "dest": "P003"
+ },
+ {
+  "id": "E0301",
+  "type": "TRAVEL",
+  "chapter": 28,
+  "text": "Zalis packed a single trunk and moved from Mireford to Dunton.",
+  "where": "L08",
+  "ref_deps": [
+   "E0000"
+  ],
+  "person": "P003",
+  "src": "L08",
+  "dest": "L01"
+ },
+ {
+  "id": "E0302",
+  "type": "TRAVEL",
+  "chapter": 28,
+  "text": "Ribin went along to live in Dunton as well.",
+  "where": "L08",
+  "ref_deps": [
+   "E0005"
+  ],
+  "person": "P029",
+  "src": "L08",
+  "dest": "L01"
+ },
+ {
+  "id": "E0303",
+  "type": "TRAVEL",
+  "chapter": 28,
+  "text": "After the quarrel, Jossa Wexwood quit Mireford for good and took lodgings in Elmgate.",
+  "where": "L08",
+  "ref_deps": [],
+  "person": "P027",
+  "src": "L08",
+  "dest": "L02"
+ },
+ {
+  "id": "E0304",
+  "type": "PROMISE",
+  "chapter": 29,
+  "text": "Jovus gave Pemira a solemn promise to rebuild the fallen wall at Wilcombe.",
+  "where": "L06",
+  "ref_deps": [
+   "E0001",
+   "E0003"
+  ],
+  "promise": "R22",
+  "a": "P005",
+  "b": "P019",
+  "act": "to rebuild the fallen wall at Wilcombe"
+ },
+ {
+  "id": "E0305",
+  "type": "PROMISE",
+  "chapter": 29,
+  "text": "Ribin Wexwood gave Zalis Marroway a solemn promise to plant an orchard on the slope above Braegate.",
+  "where": "L01",
+  "ref_deps": [],
+  "promise": "R23",
+  "a": "P029",
+  "b": "P003",
+  "act": "to plant an orchard on the slope above Braegate"
+ },
+ {
+  "id": "E0306",
+  "type": "MARRY",
+  "chapter": 29,
+  "text": "In the chapel at Elmgate, Jossa married Jovus Haskoway. The couple lived in Elmgate from then on.",
+  "where": "L02",
+  "ref_deps": [
+   "E0005"
+  ],
+  "a": "P027",
+  "b": "P005",
+  "place": "L02"
+ },
+ {
+  "id": "E0307",
+  "type": "TELL",
+  "chapter": 29,
+  "text": "Lubin Stenoway could keep it no longer and told Zaten Wexwood that the Fellwood mill ledger was rewritten after the flood.",
+  "where": "L12",
+  "ref_deps": [],
+  "secret": "S06",
+  "src": "P046",
+  "dest": "P030"
+ },
+ {
+  "id": "E0308",
+  "type": "TELL",
+  "chapter": 29,
+  "text": "Lubin Stenoway could keep it no longer and told the eldest daughter of Jovus Haskoway that the Fellwood mill ledger was rewritten after the flood.",
+  "where": "L12",
+  "ref_deps": [
+   "E0001"
+  ],
+  "secret": "S06",
+  "src": "P046",
+  "dest": "P007"
+ },
+ {
+  "id": "E0309",
+  "type": "TELL",
+  "chapter": 29,
+  "text": "Isdette Brackett could keep it no longer and told Malis Marroway that the bridge toll at Wilcombe is skimmed every month.",
+  "where": "L12",
+  "ref_deps": [],
+  "secret": "S00",
+  "src": "P040",
+  "dest": "P002"
+ },
+ {
+  "id": "E0310",
+  "type": "RESOLVE",
+  "chapter": 29,
+  "text": "True to his word to Zalis Marroway, Ribin Wexwood finished what he had promised (plant an orchard on the slope above Braegate).",
+  "where": "L01",
+  "ref_deps": [],
+  "promise": "R23",
+  "kept": true
+ },
+ {
+  "id": "E0311",
+  "type": "RUMOR",
+  "chapter": 30,
+  "text": "Zamor whispered that Taten Marroway had secretly married Pemira Velloway, but nobody could say where or when.",
+  "where": "L04",
+  "ref_deps": [
+   "E0009"
+  ],
+  "teller": "P048",
+  "claim": {
+   "kind": "married",
+   "target": "P000",
+   "other": "P019"
+  }
+ },
+ {
+  "id": "E0312",
+  "type": "GIVE",
+  "chapter": 30,
+  "text": "Jora Marroway sent the brass flute by carrier to the youngest son of Elrald Wexwood, who received it safely.",
+  "where": "L15",
+  "ref_deps": [
+   "E0005"
+  ],
+  "item": "I03",
+  "src": "P001",
+  "dest": "P030"
+ },
+ {
+  "id": "E0313",
+  "type": "RUMOR",
+  "chapter": 30,
+  "text": "Jossa Wexwood whispered that Lunar Brackett had secretly married Aera Stenoway, but nobody could say where or when.",
+  "where": "L02",
+  "ref_deps": [],
+  "teller": "P027",
+  "claim": {
+   "kind": "married",
+   "target": "P041",
+   "other": "P047"
+  }
+ },
+ {
+  "id": "E0314",
+  "type": "TELL",
+  "chapter": 30,
+  "text": "Vesra could keep it no longer and told Lunar Brackett that the Fellwood mill ledger was rewritten after the flood.",
+  "where": "L05",
+  "ref_deps": [
+   "E0004"
+  ],
+  "secret": "S06",
+  "src": "P022",
+  "dest": "P041"
+ },
+ {
+  "id": "E0315",
+  "type": "TELL",
+  "chapter": 30,
+  "text": "Late one night the husband of Isdette Brackett confided to Isdette Brackett that the Fellwood mill ledger was rewritten after the flood.",
+  "where": "L12",
+  "ref_deps": [
+   "E0246"
+  ],
+  "secret": "S06",
+  "src": "P030",
+  "dest": "P040"
+ },
+ {
+  "id": "E0316",
+  "type": "TRAVEL",
+  "chapter": 30,
+  "text": "Lubin Stenoway rode out of Salford; by the next market day he was living in Dunton.",
+  "where": "L12",
+  "ref_deps": [],
+  "person": "P046",
+  "src": "L12",
+  "dest": "L01"
+ },
+ {
+  "id": "E0317",
+  "type": "TRAVEL",
+  "chapter": 30,
+  "text": "Malis Marroway followed him to Dunton within the month.",
+  "where": "L12",
+  "ref_deps": [],
+  "person": "P002",
+  "src": "L12",
+  "dest": "L01"
+ },
+ {
+  "id": "E0318",
+  "type": "TELL",
+  "chapter": 30,
+  "text": "Late one night Vonelle Fellwood confided to Jolan Wexwood that the Fellwood mill ledger was rewritten after the flood.",
+  "where": "L02",
+  "ref_deps": [],
+  "secret": "S06",
+  "src": "P034",
+  "dest": "P028"
+ },
+ {
+  "id": "E0319",
+  "type": "TRAVEL",
+  "chapter": 31,
+  "text": "After the quarrel, Kabin Dornick quit Elmgate for good and took lodgings in Mireford.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P013",
+  "src": "L02",
+  "dest": "L08"
+ },
+ {
+  "id": "E0320",
+  "type": "TRAVEL",
+  "chapter": 31,
+  "text": "Vonelle went along to live in Mireford as well.",
+  "where": "L02",
+  "ref_deps": [
+   "E0006"
+  ],
+  "person": "P034",
+  "src": "L02",
+  "dest": "L08"
+ },
+ {
+  "id": "E0321",
+  "type": "PROMISE",
+  "chapter": 31,
+  "text": "Pewyn Stenoway swore to Orrald Stenoway to rebuild the fallen wall at Dunton, and shook on it.",
+  "where": "L02",
+  "ref_deps": [],
+  "promise": "R24",
+  "a": "P045",
+  "b": "P044",
+  "act": "to rebuild the fallen wall at Dunton"
+ },
+ {
+  "id": "E0322",
+  "type": "GIVE",
+  "chapter": 31,
+  "text": "Garald Fellwood pressed the iron ledger into the hands of the wife of Garald Fellwood and would take nothing for it.",
+  "where": "L14",
+  "ref_deps": [
+   "E0199"
+  ],
+  "item": "I06",
+  "src": "P031",
+  "dest": "P037"
+ },
+ {
+  "id": "E0323",
+  "type": "TELL",
+  "chapter": 31,
+  "text": "Late one night the youngest son of Nyzek Dornick confided to Jora Marroway that the deed to the Mirecombe pastures was forged.",
+  "where": "L08",
+  "ref_deps": [
+   "E0002"
+  ],
+  "secret": "S07",
+  "src": "P013",
+  "dest": "P001"
+ },
+ {
+  "id": "E0324",
+  "type": "TELL",
+  "chapter": 31,
+  "text": "Isbin could keep it no longer and told the youngest daughter of Pemor Ashmere that the bridge toll at Wilcombe is skimmed every month.",
+  "where": "L10",
+  "ref_deps": [
+   "E0004",
+   "E0008"
+  ],
+  "secret": "S00",
+  "src": "P043",
+  "dest": "P024"
+ },
+ {
+  "id": "E0325",
+  "type": "DEATH",
+  "chapter": 31,
+  "text": "They laid Colis Velloway in the churchyard at Mireholt, dead of a fall from the mill loft.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P016",
+  "cause": "a fall from the mill loft",
+  "place": "L10"
+ },
+ {
+  "id": "E0326",
+  "type": "RESOLVE",
+  "chapter": 31,
+  "text": "Rolde Fellwood never did keep the promise made to Zamor Stenoway (repair the roof of the chapel at Mireford); the matter was abandoned.",
+  "where": "L04",
+  "ref_deps": [],
+  "promise": "R19",
+  "kept": false
+ },
+ {
+  "id": "E0327",
+  "type": "DEATH",
+  "chapter": 32,
+  "text": "They laid Quiet Jovus in the churchyard at Elmgate, dead of old age, quietly in sleep.",
+  "where": "L02",
+  "ref_deps": [
+   "E0021"
+  ],
+  "person": "P005",
+  "cause": "old age, quietly in sleep",
+  "place": "L02"
+ },
+ {
+  "id": "E0328",
+  "type": "GIVE",
+  "chapter": 32,
+  "text": "Among the things left by Jovus Haskoway, the bone seal was handed to Jossa Wexwood.",
+  "where": "L02",
+  "ref_deps": [],
+  "item": "I02",
+  "src": "P005",
+  "dest": "P027",
+  "inherit": true
+ },
+ {
+  "id": "E0329",
+  "type": "TRAVEL",
+  "chapter": 32,
+  "text": "Ferine Wexwood found work in Fenmere, moved there, and did not return to Elmgate.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P050",
+  "src": "L02",
+  "dest": "L03"
+ },
+ {
+  "id": "E0330",
+  "type": "TRAVEL",
+  "chapter": 32,
+  "text": "Jolan Wexwood went along to live in Fenmere as well.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P028",
+  "src": "L02",
+  "dest": "L03"
+ },
+ {
+  "id": "E0331",
+  "type": "GIVE",
+  "chapter": 32,
+  "text": "Red Ormira won the copper comb from Garald Fellwood at cards, fairly, and kept it.",
+  "where": "L14",
+  "ref_deps": [
+   "E0053"
+  ],
+  "item": "I05",
+  "src": "P031",
+  "dest": "P042"
+ },
+ {
+  "id": "E0332",
+  "type": "GIVE",
+  "chapter": 32,
+  "text": "The husband of Pewyn Stenoway sent the silver ring by carrier to Ferine, who received it safely.",
+  "where": "L02",
+  "ref_deps": [
+   "E0009",
+   "E0121"
+  ],
+  "item": "I11",
+  "src": "P044",
+  "dest": "P050"
+ },
+ {
+  "id": "E0333",
+  "type": "PROMISE",
+  "chapter": 32,
+  "text": "Jossa Wexwood gave Orrald Stenoway a solemn promise to teach the children of Larkhaven their letters.",
+  "where": "L02",
+  "ref_deps": [],
+  "promise": "R25",
+  "a": "P027",
+  "b": "P044",
+  "act": "to teach the children of Larkhaven their letters"
+ },
+ {
+  "id": "E0334",
+  "type": "PROMISE",
+  "chapter": 32,
+  "text": "Zazek gave Ordette Brackett a solemn promise to pay the old debt owed to the Wexwood family.",
+  "where": "L09",
+  "ref_deps": [
+   "E0230"
+  ],
+  "promise": "R26",
+  "a": "P054",
+  "b": "P052",
+  "act": "to pay the old debt owed to the Wexwood family"
+ },
+ {
+  "id": "E0335",
+  "type": "TRAVEL",
+  "chapter": 32,
+  "text": "After the quarrel, Ordette Brackett quit Mirehaven for good and took lodgings in Mireford.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P052",
+  "src": "L09",
+  "dest": "L08"
+ },
+ {
+  "id": "E0336",
+  "type": "TELL",
+  "chapter": 33,
+  "text": "In a letter that Wedette burned after reading, the youngest daughter of Ellia Ashmere revealed that the bridge toll at Wilcombe is skimmed every month.",
+  "where": "L10",
+  "ref_deps": [
+   "E0004",
+   "E0203"
+  ],
+  "secret": "S00",
+  "src": "P024",
+  "dest": "P053"
+ },
+ {
+  "id": "E0337",
+  "type": "OCCUPATION",
+  "chapter": 33,
+  "text": "Elra Ashmere was apprenticed anew and became a smith.",
+  "where": "L10",
+  "ref_deps": [
+   "E0004"
+  ],
+  "person": "P024",
+  "old": "weaver",
+  "new": "smith"
+ },
+ {
+  "id": "E0338",
+  "type": "DEATH",
+  "chapter": 33,
+  "text": "That summer, old age, quietly in sleep took Molan Velloway; he was buried at Mireholt.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P015",
+  "cause": "old age, quietly in sleep",
+  "place": "L10"
+ },
+ {
+  "id": "E0339",
+  "type": "TELL",
+  "chapter": 33,
+  "text": "In a letter that Ilra Brackett burned after reading, Lunar Brackett revealed that the Fellwood mill ledger was rewritten after the flood.",
+  "where": "L05",
+  "ref_deps": [],
+  "secret": "S06",
+  "src": "P041",
+  "dest": "P057"
+ },
+ {
+  "id": "E0340",
+  "type": "TRAVEL",
+  "chapter": 33,
+  "text": "Ilra left Larkholt and settled in Fenmere.",
+  "where": "L05",
+  "ref_deps": [
+   "E0242"
+  ],
+  "person": "P057",
+  "src": "L05",
+  "dest": "L03"
+ },
+ {
+  "id": "E0341",
+  "type": "TRAVEL",
+  "chapter": 33,
+  "text": "After the quarrel, Lunar Brackett quit Larkholt for good and took lodgings in Mireford.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P041",
+  "src": "L05",
+  "dest": "L08"
+ },
+ {
+  "id": "E0342",
+  "type": "TRAVEL",
+  "chapter": 33,
+  "text": "Vesra Ashmere followed him to Mireford within the month.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P022",
+  "src": "L05",
+  "dest": "L08"
+ },
+ {
+  "id": "E0343",
+  "type": "MARRY",
+  "chapter": 34,
+  "text": "Jossa Wexwood and Dazek Fellwood were wed at Elmgate, with half the parish looking on. The couple lived in Elmgate from then on.",
+  "where": "L02",
+  "ref_deps": [],
+  "a": "P027",
+  "b": "P056",
+  "place": "L02"
+ },
+ {
+  "id": "E0344",
+  "type": "PROMISE",
+  "chapter": 34,
+  "text": "Dazek Fellwood swore to Jossa Wexwood to carry a sealed letter to Mireholt, and shook on it.",
+  "where": "L02",
+  "ref_deps": [],
+  "promise": "R27",
+  "a": "P056",
+  "b": "P027",
+  "act": "to carry a sealed letter to Mireholt"
+ },
+ {
+  "id": "E0345",
+  "type": "TELL",
+  "chapter": 34,
+  "text": "In a letter that Ordette Brackett burned after reading, Vesra revealed that the Fellwood mill ledger was rewritten after the flood.",
+  "where": "L08",
+  "ref_deps": [
+   "E0004"
+  ],
+  "secret": "S06",
+  "src": "P022",
+  "dest": "P052"
+ },
+ {
+  "id": "E0346",
+  "type": "TRAVEL",
+  "chapter": 34,
+  "text": "Kabin Dornick found work in Mirecombe, moved there, and did not return to Mireford.",
+  "where": "L08",
+  "ref_deps": [],
+  "person": "P013",
+  "src": "L08",
+  "dest": "L07"
+ },
+ {
+  "id": "E0347",
+  "type": "TRAVEL",
+  "chapter": 34,
+  "text": "Vonelle went along to live in Mirecombe as well.",
+  "where": "L08",
+  "ref_deps": [
+   "E0006"
+  ],
+  "person": "P034",
+  "src": "L08",
+  "dest": "L07"
+ },
+ {
+  "id": "E0348",
+  "type": "PROMISE",
+  "chapter": 34,
+  "text": "Lunar Brackett gave Ordette a solemn promise to carry a sealed letter to Larkhaven.",
+  "where": "L08",
+  "ref_deps": [
+   "E0178"
+  ],
+  "promise": "R28",
+  "a": "P041",
+  "b": "P052",
+  "act": "to carry a sealed letter to Larkhaven"
+ },
+ {
+  "id": "E0349",
+  "type": "OCCUPATION",
+  "chapter": 34,
+  "text": "Vesra Ashmere gave up being a shepherd and took work as a brewer.",
+  "where": "L08",
+  "ref_deps": [
+   "E0037"
+  ],
+  "person": "P022",
+  "old": "shepherd",
+  "new": "brewer"
+ },
+ {
+  "id": "E0350",
+  "type": "TRAVEL",
+  "chapter": 34,
+  "text": "Ilra Brackett rode out of Fenmere; by the next market day she was living in Wilholt.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P057",
+  "src": "L03",
+  "dest": "L15"
+ },
+ {
+  "id": "E0351",
+  "type": "TRAVEL",
+  "chapter": 35,
+  "text": "Thilis Haskoway packed a single trunk and moved from Braegate to Torton.",
+  "where": "L00",
+  "ref_deps": [],
+  "person": "P009",
+  "src": "L00",
+  "dest": "L13"
+ },
+ {
+  "id": "E0352",
+  "type": "TRAVEL",
+  "chapter": 35,
+  "text": "Jolan Marroway followed her to Torton within the month.",
+  "where": "L00",
+  "ref_deps": [],
+  "person": "P004",
+  "src": "L00",
+  "dest": "L13"
+ },
+ {
+  "id": "E0353",
+  "type": "GIVE",
+  "chapter": 35,
+  "text": "Isdette Brackett sent the jade compass by carrier to Garald Fellwood, who received it safely.",
+  "where": "L12",
+  "ref_deps": [],
+  "item": "I07",
+  "src": "P040",
+  "dest": "P031"
+ },
+ {
+  "id": "E0354",
+  "type": "GIVE",
+  "chapter": 35,
+  "text": "Vonelle Fellwood won the amber flute from Ellia Ashmere at cards, fairly, and kept it.",
+  "where": "L07",
+  "ref_deps": [],
+  "item": "I00",
+  "src": "P021",
+  "dest": "P034"
+ },
+ {
+  "id": "E0355",
+  "type": "TELL",
+  "chapter": 35,
+  "text": "In a letter that Nezek Ashmere burned after reading, Isdette Brackett revealed that a chest of silver lies buried beneath the well at Wilcombe.",
+  "where": "L12",
+  "ref_deps": [],
+  "secret": "S02",
+  "src": "P040",
+  "dest": "P058"
+ },
+ {
+  "id": "E0356",
+  "type": "DEATH",
+  "chapter": 35,
+  "text": "They laid Jora Marroway in the churchyard at Wilholt, dead of a winter fever.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P001",
+  "cause": "a winter fever",
+  "place": "L15"
+ },
+ {
+  "id": "E0357",
+  "type": "PROMISE",
+  "chapter": 35,
+  "text": "Taten Marroway swore to Ilra Brackett to rebuild the fallen wall at Ravenhaven, and shook on it.",
+  "where": "L15",
+  "ref_deps": [],
+  "promise": "R29",
+  "a": "P000",
+  "b": "P057",
+  "act": "to rebuild the fallen wall at Ravenhaven"
+ },
+ {
+  "id": "E0358",
+  "type": "PLAN",
+  "chapter": 35,
+  "text": "Nybin Wexwood talked for weeks of going to Braegate, yet in the end stayed where he was.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P055",
+  "dest": "L00"
+ },
+ {
+  "id": "E0359",
+  "type": "TELL",
+  "chapter": 35,
+  "text": "Late one night Ilra Brackett confided to Taten Marroway that the Fellwood mill ledger was rewritten after the flood.",
+  "where": "L15",
+  "ref_deps": [],
+  "secret": "S06",
+  "src": "P057",
+  "dest": "P000"
+ },
+ {
+  "id": "E0360",
+  "type": "GIVE",
+  "chapter": 36,
+  "text": "Ferine Wexwood gave the silver ring to the husband of Ferine Wexwood.",
+  "where": "L03",
+  "ref_deps": [
+   "E0289"
+  ],
+  "item": "I11",
+  "src": "P050",
+  "dest": "P028"
+ },
+ {
+  "id": "E0361",
+  "type": "TRAVEL",
+  "chapter": 36,
+  "text": "Pemira Velloway left Larkmere and settled in Salford.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P019",
+  "src": "L06",
+  "dest": "L12"
+ },
+ {
+  "id": "E0362",
+  "type": "TRAVEL",
+  "chapter": 36,
+  "text": "Dabin Wexson followed her to Salford within the month.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P038",
+  "src": "L06",
+  "dest": "L12"
+ },
+ {
+  "id": "E0363",
+  "type": "PROMISE",
+  "chapter": 36,
+  "text": "Dabin Wexson swore to Zaten Wexwood to rebuild the fallen wall at Mireford, and shook on it.",
+  "where": "L12",
+  "ref_deps": [],
+  "promise": "R30",
+  "a": "P038",
+  "b": "P030",
+  "act": "to rebuild the fallen wall at Mireford"
+ },
+ {
+  "id": "E0364",
+  "type": "TELL",
+  "chapter": 36,
+  "text": "Late one night Vesra Ashmere confided to Ordette that the deed to the Mirecombe pastures was forged.",
+  "where": "L08",
+  "ref_deps": [
+   "E0178"
+  ],
+  "secret": "S07",
+  "src": "P022",
+  "dest": "P052"
+ },
+ {
+  "id": "E0365",
+  "type": "TRAVEL",
+  "chapter": 36,
+  "text": "After the quarrel, the wife of Dabin Haskoway quit Wilcombe for good and took lodgings in Mireford.",
+  "where": "L14",
+  "ref_deps": [
+   "E0157"
+  ],
+  "person": "P042",
+  "src": "L14",
+  "dest": "L08"
+ },
+ {
+  "id": "E0366",
+  "type": "TRAVEL",
+  "chapter": 36,
+  "text": "Dabin Haskoway followed her to Mireford within the month.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P008",
+  "src": "L14",
+  "dest": "L08"
+ },
+ {
+  "id": "E0367",
+  "type": "GIVE",
+  "chapter": 36,
+  "text": "Fenelle Wexson pressed the iron ledger into the hands of Garald Fellwood and would take nothing for it.",
+  "where": "L14",
+  "ref_deps": [],
+  "item": "I06",
+  "src": "P037",
+  "dest": "P031"
+ },
+ {
+  "id": "E0368",
+  "type": "PROMISE",
+  "chapter": 37,
+  "text": "Pedan gave the only daughter of Orrald Stenoway a solemn promise to plant an orchard on the slope above Fenmere.",
+  "where": "L11",
+  "ref_deps": [
+   "E0004",
+   "E0009"
+  ],
+  "promise": "R31",
+  "a": "P023",
+  "b": "P047",
+  "act": "to plant an orchard on the slope above Fenmere"
+ },
+ {
+  "id": "E0369",
+  "type": "RESOLVE",
+  "chapter": 37,
+  "text": "Thilis broke faith with Jolan Marroway, and the promised work (pay the old debt owed to the Ashmere family) was never begun.",
+  "where": "L13",
+  "ref_deps": [
+   "E0001"
+  ],
+  "promise": "R14",
+  "kept": false
+ },
+ {
+  "id": "E0370",
+  "type": "GIVE",
+  "chapter": 37,
+  "text": "Voena Dornick won the amber flute from the youngest daughter of Yedette Fellwood at cards, fairly, and kept it.",
+  "where": "L07",
+  "ref_deps": [
+   "E0006"
+  ],
+  "item": "I00",
+  "src": "P034",
+  "dest": "P014"
+ },
+ {
+  "id": "E0371",
+  "type": "TELL",
+  "chapter": 37,
+  "text": "In a letter that Vonelle Fellwood burned after reading, Kabin Dornick revealed that the old abbey at Mirecombe hides a second cellar.",
+  "where": "L07",
+  "ref_deps": [],
+  "secret": "S05",
+  "src": "P013",
+  "dest": "P034"
+ },
+ {
+  "id": "E0372",
+  "type": "PROMISE",
+  "chapter": 37,
+  "text": "Ellia Ashmere gave Orten a solemn promise to plant an orchard on the slope above Fenmere.",
+  "where": "L07",
+  "ref_deps": [
+   "E0164"
+  ],
+  "promise": "R32",
+  "a": "P021",
+  "b": "P051",
+  "act": "to plant an orchard on the slope above Fenmere"
+ },
+ {
+  "id": "E0373",
+  "type": "BIRTH",
+  "chapter": 37,
+  "text": "A daughter was born to Vesra Ashmere and Lunar Brackett, and they called the child Aevie Brackett. The family lived in Mireford.",
+  "where": "L08",
+  "ref_deps": [],
+  "child": "P061",
+  "mother": "P022",
+  "father": "P041",
+  "place": "L08"
+ },
+ {
+  "id": "E0374",
+  "type": "PROMISE",
+  "chapter": 37,
+  "text": "Ordette Brackett swore to Vesra Ashmere to rebuild the fallen wall at Mireholt, and shook on it.",
+  "where": "L08",
+  "ref_deps": [],
+  "promise": "R33",
+  "a": "P052",
+  "b": "P022",
+  "act": "to rebuild the fallen wall at Mireholt"
+ },
+ {
+  "id": "E0375",
+  "type": "PROMISE",
+  "chapter": 37,
+  "text": "Dabin Haskoway gave Ordette Brackett a solemn promise to rebuild the fallen wall at Mireholt.",
+  "where": "L08",
+  "ref_deps": [],
+  "promise": "R34",
+  "a": "P008",
+  "b": "P052",
+  "act": "to rebuild the fallen wall at Mireholt"
+ },
+ {
+  "id": "E0376",
+  "type": "GIVE",
+  "chapter": 38,
+  "text": "Garald Fellwood sent the iron ledger by carrier to Jolan Wexwood, who received it safely.",
+  "where": "L14",
+  "ref_deps": [],
+  "item": "I06",
+  "src": "P031",
+  "dest": "P028"
+ },
+ {
+  "id": "E0377",
+  "type": "PROMISE",
+  "chapter": 38,
+  "text": "Fenelle Wexson swore to Tawyn Haskoway to repair the roof of the chapel at Wilcombe, and shook on it.",
+  "where": "L14",
+  "ref_deps": [],
+  "promise": "R35",
+  "a": "P037",
+  "b": "P060",
+  "act": "to repair the roof of the chapel at Wilcombe"
+ },
+ {
+  "id": "E0378",
+  "type": "BIRTH",
+  "chapter": 38,
+  "text": "Thilis Haskoway gave birth to a daughter, named Veswyn Marroway; the father was Jolan Marroway. The family lived in Torton.",
+  "where": "L13",
+  "ref_deps": [],
+  "child": "P062",
+  "mother": "P009",
+  "father": "P004",
+  "place": "L13"
+ },
+ {
+  "id": "E0379",
+  "type": "MARRY",
+  "chapter": 38,
+  "text": "Taten Marroway and Tawyn were wed at Wilholt, with half the parish looking on. The couple lived in Wilholt from then on.",
+  "where": "L15",
+  "ref_deps": [
+   "E0270"
+  ],
+  "a": "P000",
+  "b": "P060",
+  "place": "L15"
+ },
+ {
+  "id": "E0380",
+  "type": "PLAN",
+  "chapter": 38,
+  "text": "Dazek Fellwood meant to go to Wilholt before the frost, but the roads flooded and the journey was put off.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P056",
+  "dest": "L15"
+ },
+ {
+  "id": "E0381",
+  "type": "OCCUPATION",
+  "chapter": 38,
+  "text": "Jossa was apprenticed anew and became a cooper.",
+  "where": "L02",
+  "ref_deps": [
+   "E0005"
+  ],
+  "person": "P027",
+  "old": "weaver",
+  "new": "cooper"
+ },
+ {
+  "id": "E0382",
+  "type": "GIVE",
+  "chapter": 38,
+  "text": "Ferine Wexwood won the iron ledger from the husband of Ferine Wexwood at cards, fairly, and kept it.",
+  "where": "L03",
+  "ref_deps": [
+   "E0289"
+  ],
+  "item": "I06",
+  "src": "P028",
+  "dest": "P050"
+ },
+ {
+  "id": "E0383",
+  "type": "RUMOR",
+  "chapter": 39,
+  "text": "Orten Dornick whispered that Kabin Dornick had secretly married Thilis Haskoway, but nobody could say where or when.",
+  "where": "L07",
+  "ref_deps": [],
+  "teller": "P051",
+  "claim": {
+   "kind": "married",
+   "target": "P013",
+   "other": "P009"
+  }
+ },
+ {
+  "id": "E0384",
+  "type": "TELL",
+  "chapter": 39,
+  "text": "Vesra Ashmere could keep it no longer and told Ormira Brackett that the deed to the Mirecombe pastures was forged.",
+  "where": "L08",
+  "ref_deps": [],
+  "secret": "S07",
+  "src": "P022",
+  "dest": "P042"
+ },
+ {
+  "id": "E0385",
+  "type": "MARRY",
+  "chapter": 39,
+  "text": "In the chapel at Mirehaven, Zazek Dornick married Ilra Brackett. The couple lived in Mirehaven from then on.",
+  "where": "L09",
+  "ref_deps": [],
+  "a": "P054",
+  "b": "P057",
+  "place": "L09"
+ },
+ {
+  "id": "E0386",
+  "type": "GIVE",
+  "chapter": 39,
+  "text": "Jolan Wexwood won the iron ledger from Ferine Wexwood at cards, fairly, and kept it.",
+  "where": "L03",
+  "ref_deps": [],
+  "item": "I06",
+  "src": "P050",
+  "dest": "P028"
+ },
+ {
+  "id": "E0387",
+  "type": "DEATH",
+  "chapter": 39,
+  "text": "They laid Orrald Stenoway in the churchyard at Elmgate, dead of old age, quietly in sleep.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P044",
+  "cause": "old age, quietly in sleep",
+  "place": "L02"
+ },
+ {
+  "id": "E0388",
+  "type": "MARRY",
+  "chapter": 39,
+  "text": "Before the winter was out, Febin Wexson took Wedette Brackett in marriage at Larkmere. The couple lived in Larkmere from then on.",
+  "where": "L06",
+  "ref_deps": [],
+  "a": "P059",
+  "b": "P053",
+  "place": "L06"
+ },
+ {
+  "id": "E0389",
+  "type": "TRAVEL",
+  "chapter": 39,
+  "text": "Febin Wexson packed a single trunk and moved from Larkmere to Ravenhaven.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P059",
+  "src": "L06",
+  "dest": "L11"
+ },
+ {
+  "id": "E0390",
+  "type": "TRAVEL",
+  "chapter": 39,
+  "text": "Wedette Brackett went along to live in Ravenhaven as well.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P053",
+  "src": "L06",
+  "dest": "L11"
+ },
+ {
+  "id": "E0391",
+  "type": "TRAVEL",
+  "chapter": 39,
+  "text": "Garald left Wilcombe and settled in Ravenhaven.",
+  "where": "L14",
+  "ref_deps": [
+   "E0006"
+  ],
+  "person": "P031",
+  "src": "L14",
+  "dest": "L11"
+ },
+ {
+  "id": "E0392",
+  "type": "TRAVEL",
+  "chapter": 39,
+  "text": "Fenelle Wexson went along to live in Ravenhaven as well.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P037",
+  "src": "L14",
+  "dest": "L11"
+ },
+ {
+  "id": "E0393",
+  "type": "BIRTH",
+  "chapter": 40,
+  "text": "A son was born to Ilra Brackett and Zazek Dornick, and they called the child Aemor Dornick. The family lived in Mirehaven.",
+  "where": "L09",
+  "ref_deps": [],
+  "child": "P063",
+  "mother": "P057",
+  "father": "P054",
+  "place": "L09"
+ },
+ {
+  "id": "E0394",
+  "type": "BIRTH",
+  "chapter": 40,
+  "text": "A son was born to Rolde Fellwood and Zamor Stenoway, and they called the child Felan Stenoway. The family lived in Larkhaven.",
+  "where": "L04",
+  "ref_deps": [],
+  "child": "P064",
+  "mother": "P033",
+  "father": "P048",
+  "place": "L04"
+ },
+ {
+  "id": "E0395",
+  "type": "BIRTH",
+  "chapter": 40,
+  "text": "Ormira gave birth to a son, named Vesdan Haskoway; the father was Dabin Haskoway. The family lived in Mireford.",
+  "where": "L08",
+  "ref_deps": [
+   "E0008"
+  ],
+  "child": "P065",
+  "mother": "P042",
+  "father": "P008",
+  "place": "L08"
+ },
+ {
+  "id": "E0396",
+  "type": "OCCUPATION",
+  "chapter": 40,
+  "text": "Zamor Stenoway gave up idleness and took work as a shepherd.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P048",
+  "old": null,
+  "new": "shepherd"
+ },
+ {
+  "id": "E0397",
+  "type": "TRAVEL",
+  "chapter": 40,
+  "text": "After the quarrel, Lubin quit Dunton for good and took lodgings in Fenmere.",
+  "where": "L01",
+  "ref_deps": [
+   "E0009"
+  ],
+  "person": "P046",
+  "src": "L01",
+  "dest": "L03"
+ },
+ {
+  "id": "E0398",
+  "type": "TRAVEL",
+  "chapter": 40,
+  "text": "Malis followed him to Fenmere within the month.",
+  "where": "L01",
+  "ref_deps": [
+   "E0000"
+  ],
+  "person": "P002",
+  "src": "L01",
+  "dest": "L03"
+ }
+]

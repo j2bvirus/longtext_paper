@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "Steps 54-56 are south, east, east, and the agent moves toward the stairs, leaving the corpse behind.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "The observation after step 13 (the start of step 14) says \"vertical wall adjacent east\", so the east move was blocked.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "wrong",
+  "reason": "The horn is an item \"(\" at (22,12), not a monster, so there was no swap with a peaceful unicorn.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "The agent stayed at (26,13) in steps 29-31 because the east moves were melee attacks on the rat.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "The corpse is at (34,12). After south then east the agent is at (34,13), and step 55 reports the corpse as \"adjacent north\".",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "wrong",
+  "reason": "The agent did not move after the step 27 kill and was already at (26,13). The rat was killed from where it stood, so the claim about moving into the empty tile is false.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "North was already explored, and east and south were blocked by walls, so west was the only direction left.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "The rat entity is replaced by a corpse item, which makes eating or picking it up possible.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "The failed move confirms the wall to the east, and heading west is consistent backtracking.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "The corpse goes from adjacent east to adjacent northwest at step 56 and \"very near westnorthwest\" at step 57, as the reference says.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "Step 13 says \"vertical wall adjacent east\", while the observation before step 12 said \"dark area near east\".",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "The agent either ignored the wall observation or bumped it deliberately, and the trajectory is consistent with that.",
+  "evidence": "whole trajectory"
+ }
+}

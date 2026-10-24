@@ -1,0 +1,4228 @@
+[
+ {
+  "id": "E0000",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "In the market town of Coldton lived Gaten Stenoway, married to Kadette Stenoway, with their children. In order of birth these were the eldest a daughter, Wevie Stenoway; then a daughter, Mossa Stenoway; then a daughter, Senelle Stenoway.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P000",
+  "mother": "P001",
+  "children": [
+   "P002",
+   "P003",
+   "P004"
+  ],
+  "place": "L02"
+ },
+ {
+  "id": "E0001",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "In the river crossing at Harrowstead lived Thinar Vellmere, married to Hawyn Vellmere, with their children. In order of birth these were the eldest a son, Isdrek Vellmere; then a daughter, Dalis Vellmere; then a daughter, Veslis Vellmere.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P005",
+  "mother": "P006",
+  "children": [
+   "P007",
+   "P008",
+   "P009"
+  ],
+  "place": "L07"
+ },
+ {
+  "id": "E0002",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Marrwood household lived in the river crossing at Brynford. Iltho Marrwood and his wife Nyssa Marrwood had 4 children, all living at home: the eldest a son, Gadrek Marrwood; then a daughter, Nymira Marrwood; then a daughter, Welis Marrwood; then a daughter, Nynelle Marrwood.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P010",
+  "mother": "P011",
+  "children": [
+   "P012",
+   "P013",
+   "P014",
+   "P015"
+  ],
+  "place": "L00"
+ },
+ {
+  "id": "E0003",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Fellenridge household lived in the hill farms of Dunholt. Jodan Fellenridge and his wife Luvie Fellenridge had 4 children, all living at home: the eldest a daughter, Elvie Fellenridge; then a daughter, Halis Fellenridge; then a daughter, Illde Fellenridge; then a daughter, Aera Fellenridge.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P016",
+  "mother": "P017",
+  "children": [
+   "P018",
+   "P019",
+   "P020",
+   "P021"
+  ],
+  "place": "L03"
+ },
+ {
+  "id": "E0004",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Dornworth household lived in the river crossing at Harrowstead. Uldan Dornworth and his wife Kalis Dornworth had 4 children, all living at home: the eldest a son, Mavus Dornworth; then a son, Mabin Dornworth; then a son, Malan Dornworth; then a son, Tavus Dornworth.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P022",
+  "mother": "P023",
+  "children": [
+   "P024",
+   "P025",
+   "P026",
+   "P027"
+  ],
+  "place": "L07"
+ },
+ {
+  "id": "E0005",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Hollaby household lived in the market town of Coldton. Femor Hollaby and his wife Ilwyn Hollaby had 3 children, all living at home: the eldest a daughter, Felde Hollaby; then a son, Ordrek Hollaby; then a daughter, Volis Hollaby.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P028",
+  "mother": "P029",
+  "children": [
+   "P030",
+   "P031",
+   "P032"
+  ],
+  "place": "L02"
+ },
+ {
+  "id": "E0006",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Fellworth household lived in the village of Wendby. Maten Fellworth and his wife Yera Fellworth had 2 children, all living at home: the eldest a son, Tavus Fellworth; then a daughter, Rora Fellworth.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P033",
+  "mother": "P034",
+  "children": [
+   "P035",
+   "P036"
+  ],
+  "place": "L13"
+ },
+ {
+  "id": "E0007",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "In Salton lived Riric Vellwood, married to Vowyn Vellwood, with their children. In order of birth these were the eldest a son, Moten Vellwood; then a daughter, Halis Vellwood.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P037",
+  "mother": "P038",
+  "children": [
+   "P039",
+   "P040"
+  ],
+  "place": "L10"
+ },
+ {
+  "id": "E0008",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Corraby household lived in the river crossing at Elmwick. Nezek Corraby and his wife Karine Corraby had 4 children, all living at home: the eldest a son, Peten Corraby; then a daughter, Cossa Corraby; then a daughter, Elwyn Corraby; then a son, Haric Corraby.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P041",
+  "mother": "P042",
+  "children": [
+   "P043",
+   "P044",
+   "P045",
+   "P046"
+  ],
+  "place": "L05"
+ },
+ {
+  "id": "E0009",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Ashley household lived in the village of Tormere. Colan Ashley and his wife Ildette Ashley had 2 children, all living at home: the eldest a son, Zamor Ashley; then a son, Thibin Ashley.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P047",
+  "mother": "P048",
+  "children": [
+   "P049",
+   "P050"
+  ],
+  "place": "L12"
+ },
+ {
+  "id": "E0010",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Halis Vellwood and Mavus Dornworth were husband and wife. The couple lived in Salton.",
+  "where": "L10",
+  "ref_deps": [],
+  "a": "P040",
+  "b": "P024",
+  "place": "L10"
+ },
+ {
+  "id": "E0011",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Aera Fellenridge had married Haric Corraby some years before. The couple lived in Dunholt.",
+  "where": "L03",
+  "ref_deps": [],
+  "a": "P021",
+  "b": "P046",
+  "place": "L03"
+ },
+ {
+  "id": "E0012",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Felde Hollaby had married Tavus Dornworth some years before. The couple lived in Coldton.",
+  "where": "L02",
+  "ref_deps": [],
+  "a": "P030",
+  "b": "P027",
+  "place": "L02"
+ },
+ {
+  "id": "E0013",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Nynelle Marrwood had married Malan Dornworth some years before. The couple lived in Brynford.",
+  "where": "L00",
+  "ref_deps": [],
+  "a": "P015",
+  "b": "P026",
+  "place": "L00"
+ },
+ {
+  "id": "E0014",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Illde Fellenridge and Peten Corraby were husband and wife. The couple lived in Dunholt.",
+  "where": "L03",
+  "ref_deps": [],
+  "a": "P020",
+  "b": "P043",
+  "place": "L03"
+ },
+ {
+  "id": "E0015",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Ordrek Hollaby and Veslis Vellmere were husband and wife. The couple lived in Coldton.",
+  "where": "L02",
+  "ref_deps": [],
+  "a": "P031",
+  "b": "P009",
+  "place": "L02"
+ },
+ {
+  "id": "E0016",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Gaten Stenoway was a chandler. Gaten Stenoway had been born in Brynwick. Folk called Gaten Stenoway \"Quiet Gaten\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P000",
+  "occupation": "chandler",
+  "birthplace": "L01",
+  "nick": "Quiet Gaten"
+ },
+ {
+  "id": "E0017",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Kadette Stenoway worked as a weaver. Folk called Kadette Stenoway \"Tall Kadette\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P001",
+  "occupation": "weaver",
+  "birthplace": null,
+  "nick": "Tall Kadette"
+ },
+ {
+  "id": "E0018",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Wevie Stenoway was a weaver.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P002",
+  "occupation": "weaver",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0019",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Mossa Stenoway was a weaver.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P003",
+  "occupation": "weaver",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0020",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Senelle Stenoway was born at Dunholt. Folk called Senelle Stenoway \"Old Senelle\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P004",
+  "occupation": null,
+  "birthplace": "L03",
+  "nick": "Old Senelle"
+ },
+ {
+  "id": "E0021",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Thinar Vellmere worked as a glazier. Thinar Vellmere was born at Dunholt.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P005",
+  "occupation": "glazier",
+  "birthplace": "L03",
+  "nick": null
+ },
+ {
+  "id": "E0022",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Hawyn Vellmere worked as a shepherd. Hawyn Vellmere was born at Wendby.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P006",
+  "occupation": "shepherd",
+  "birthplace": "L13",
+  "nick": null
+ },
+ {
+  "id": "E0023",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Isdrek Vellmere was a brewer. Isdrek Vellmere had been born in Tormere.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P007",
+  "occupation": "brewer",
+  "birthplace": "L12",
+  "nick": null
+ },
+ {
+  "id": "E0024",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Dalis Vellmere was a mason. Dalis Vellmere had been born in Harrowstead.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P008",
+  "occupation": "mason",
+  "birthplace": "L07",
+  "nick": null
+ },
+ {
+  "id": "E0025",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Folk called Veslis Vellmere \"Tall Veslis\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P009",
+  "occupation": null,
+  "birthplace": null,
+  "nick": "Tall Veslis"
+ },
+ {
+  "id": "E0026",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Iltho Marrwood was a smith. Iltho Marrwood had been born in Elmwick.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P010",
+  "occupation": "smith",
+  "birthplace": "L05",
+  "nick": null
+ },
+ {
+  "id": "E0027",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Nyssa Marrwood was a miller.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P011",
+  "occupation": "miller",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0028",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Gadrek Marrwood was a ferryman. Gadrek Marrwood was born at Mirehaven.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P012",
+  "occupation": "ferryman",
+  "birthplace": "L09",
+  "nick": null
+ },
+ {
+  "id": "E0029",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Nymira Marrwood worked as a brewer.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P013",
+  "occupation": "brewer",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0030",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Welis Marrwood worked as a scribe. Welis Marrwood was born at Gulby.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P014",
+  "occupation": "scribe",
+  "birthplace": "L06",
+  "nick": null
+ },
+ {
+  "id": "E0031",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Nynelle Marrwood worked as a fisher. Nynelle Marrwood was born at Wendby.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P015",
+  "occupation": "fisher",
+  "birthplace": "L13",
+  "nick": null
+ },
+ {
+  "id": "E0032",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Jodan Fellenridge was a ferryman. Jodan Fellenridge was born at Elmmere.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P016",
+  "occupation": "ferryman",
+  "birthplace": "L04",
+  "nick": null
+ },
+ {
+  "id": "E0033",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Luvie Fellenridge worked as a miller.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P017",
+  "occupation": "miller",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0034",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Elvie Fellenridge worked as a ferryman. Elvie Fellenridge was born at Wilcombe.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P018",
+  "occupation": "ferryman",
+  "birthplace": "L14",
+  "nick": null
+ },
+ {
+  "id": "E0035",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Halis Fellenridge was a tanner. Halis Fellenridge was born at Tormere. Folk called Halis Fellenridge \"Halis the Younger\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P019",
+  "occupation": "tanner",
+  "birthplace": "L12",
+  "nick": "Halis the Younger"
+ },
+ {
+  "id": "E0036",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Folk called Illde Fellenridge \"Illde the Younger\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P020",
+  "occupation": null,
+  "birthplace": null,
+  "nick": "Illde the Younger"
+ },
+ {
+  "id": "E0037",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Aera Fellenridge worked as a chandler.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P021",
+  "occupation": "chandler",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0038",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Uldan Dornworth was a cooper.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P022",
+  "occupation": "cooper",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0039",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Kalis Dornworth was a miller. Kalis Dornworth was born at Elmmere. Folk called Kalis Dornworth \"Red Kalis\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P023",
+  "occupation": "miller",
+  "birthplace": "L04",
+  "nick": "Red Kalis"
+ },
+ {
+  "id": "E0040",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Mavus Dornworth was a mason.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P024",
+  "occupation": "mason",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0041",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Mabin Dornworth worked as a fisher. Mabin Dornworth had been born in Wilhaven. Folk called Mabin Dornworth \"Lame Mabin\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P025",
+  "occupation": "fisher",
+  "birthplace": "L15",
+  "nick": "Lame Mabin"
+ },
+ {
+  "id": "E0042",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Malan Dornworth worked as a fisher. Malan Dornworth was born at Brynford.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P026",
+  "occupation": "fisher",
+  "birthplace": "L00",
+  "nick": null
+ },
+ {
+  "id": "E0043",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Tavus Dornworth worked as a cooper. Tavus Dornworth was born at Elmmere.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P027",
+  "occupation": "cooper",
+  "birthplace": "L04",
+  "nick": null
+ },
+ {
+  "id": "E0044",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Ilwyn Hollaby worked as a mason.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P029",
+  "occupation": "mason",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0045",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Ordrek Hollaby was born at Torcombe.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P031",
+  "occupation": null,
+  "birthplace": "L11",
+  "nick": null
+ },
+ {
+  "id": "E0046",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Volis Hollaby worked as a mason. Volis Hollaby had been born in Tormere.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P032",
+  "occupation": "mason",
+  "birthplace": "L12",
+  "nick": null
+ },
+ {
+  "id": "E0047",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Maten Fellworth had been born in Larkholt. Folk called Maten Fellworth \"Lame Maten\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P033",
+  "occupation": null,
+  "birthplace": "L08",
+  "nick": "Lame Maten"
+ },
+ {
+  "id": "E0048",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Yera Fellworth was born at Wilcombe.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P034",
+  "occupation": null,
+  "birthplace": "L14",
+  "nick": null
+ },
+ {
+  "id": "E0049",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Tavus Fellworth had been born in Salton.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P035",
+  "occupation": null,
+  "birthplace": "L10",
+  "nick": null
+ },
+ {
+  "id": "E0050",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Rora Fellworth was a miller. Rora Fellworth was born at Torcombe.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P036",
+  "occupation": "miller",
+  "birthplace": "L11",
+  "nick": null
+ },
+ {
+  "id": "E0051",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Riric Vellwood worked as a shepherd. Riric Vellwood was born at Coldton.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P037",
+  "occupation": "shepherd",
+  "birthplace": "L02",
+  "nick": null
+ },
+ {
+  "id": "E0052",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Moten Vellwood worked as a shepherd.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P039",
+  "occupation": "shepherd",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0053",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Halis Vellwood worked as a brewer. Halis Vellwood was born at Mirehaven.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P040",
+  "occupation": "brewer",
+  "birthplace": "L09",
+  "nick": null
+ },
+ {
+  "id": "E0054",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Nezek Corraby was a tanner.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P041",
+  "occupation": "tanner",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0055",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Karine Corraby had been born in Gulby.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P042",
+  "occupation": null,
+  "birthplace": "L06",
+  "nick": null
+ },
+ {
+  "id": "E0056",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Peten Corraby was a shepherd.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P043",
+  "occupation": "shepherd",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0057",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Cossa Corraby was a tanner. Cossa Corraby was born at Tormere.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P044",
+  "occupation": "tanner",
+  "birthplace": "L12",
+  "nick": null
+ },
+ {
+  "id": "E0058",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Elwyn Corraby worked as a shepherd. Elwyn Corraby had been born in Elmmere. Folk called Elwyn Corraby \"Lame Elwyn\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P045",
+  "occupation": "shepherd",
+  "birthplace": "L04",
+  "nick": "Lame Elwyn"
+ },
+ {
+  "id": "E0059",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Colan Ashley worked as a cooper. Colan Ashley was born at Brynford. Folk called Colan Ashley \"Colan the Younger\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P047",
+  "occupation": "cooper",
+  "birthplace": "L00",
+  "nick": "Colan the Younger"
+ },
+ {
+  "id": "E0060",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Ildette Ashley worked as a chandler. Ildette Ashley had been born in Brynwick.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P048",
+  "occupation": "chandler",
+  "birthplace": "L01",
+  "nick": null
+ },
+ {
+  "id": "E0061",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Zamor Ashley worked as a fisher. Zamor Ashley was born at Wilcombe.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P049",
+  "occupation": "fisher",
+  "birthplace": "L14",
+  "nick": null
+ },
+ {
+  "id": "E0062",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Thibin Ashley was a chandler. Folk called Thibin Ashley \"Old Thibin\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P050",
+  "occupation": "chandler",
+  "birthplace": null,
+  "nick": "Old Thibin"
+ },
+ {
+  "id": "E0063",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The amber compass belonged to Femor Hollaby.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I01",
+  "owner": "P028"
+ },
+ {
+  "id": "E0064",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Among the possessions of Hawyn Vellmere was the glass spyglass.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I07",
+  "owner": "P006"
+ },
+ {
+  "id": "E0065",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The amber comb belonged to Gaten Stenoway, head of the Stenoway household.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I00",
+  "owner": "P000"
+ },
+ {
+  "id": "E0066",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The jade lantern belonged to Nynelle Marrwood.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I09",
+  "owner": "P015"
+ },
+ {
+  "id": "E0067",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Among the possessions of Vowyn Vellwood was the oak spyglass.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I11",
+  "owner": "P038"
+ },
+ {
+  "id": "E0068",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Among the possessions of Halis Vellwood was the bone locket.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I03",
+  "owner": "P040"
+ },
+ {
+  "id": "E0069",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The ivory seal belonged to Illde Fellenridge.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I08",
+  "owner": "P020"
+ },
+ {
+  "id": "E0070",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Among the possessions of Ildette Ashley was the brass comb.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I05",
+  "owner": "P048"
+ },
+ {
+  "id": "E0071",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The brass bell belonged to Ildette Ashley.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I04",
+  "owner": "P048"
+ },
+ {
+  "id": "E0072",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Among the possessions of Thibin Ashley was the bone astrolabe.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I02",
+  "owner": "P050"
+ },
+ {
+  "id": "E0073",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Iltho Marrwood kept the copper spyglass in a cedar box.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I06",
+  "owner": "P010"
+ },
+ {
+  "id": "E0074",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The oak mirror belonged to Tavus Fellworth.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I10",
+  "owner": "P035"
+ },
+ {
+  "id": "E0075",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Ildette Ashley knew that the deed to the Larkholt pastures was forged.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S00",
+  "person": "P048"
+ },
+ {
+  "id": "E0076",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Hawyn Vellmere alone carried the knowledge that the old abbey at Torcombe hides a second cellar.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S01",
+  "person": "P006"
+ },
+ {
+  "id": "E0077",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Felde Hollaby knew that the harbor master of Brynwick takes bribes.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S02",
+  "person": "P030"
+ },
+ {
+  "id": "E0078",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Riric Vellwood knew that the Vellmere mill ledger was rewritten after the flood.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S03",
+  "person": "P037"
+ },
+ {
+  "id": "E0079",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Isdrek Vellmere knew that the fire at the Harrowstead granary was set on purpose.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S04",
+  "person": "P007"
+ },
+ {
+  "id": "E0080",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Isdrek Vellmere knew that the Ashley family once owed a blood debt to the Stenoway family.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S05",
+  "person": "P007"
+ },
+ {
+  "id": "E0081",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Nymira Marrwood knew that a chest of silver lies buried beneath the well at Wilcombe.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S06",
+  "person": "P013"
+ },
+ {
+  "id": "E0082",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Yera Fellworth alone carried the knowledge that the bridge toll at Larkholt is skimmed every month.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S07",
+  "person": "P034"
+ },
+ {
+  "id": "E0083",
+  "type": "RULE_VAULT",
+  "chapter": 1,
+  "text": "It was an old law of Coldton that the vault beneath its chapel would open only for a living person who held both the glass spyglass and the amber compass at once.",
+  "where": null,
+  "ref_deps": [],
+  "place": "L02",
+  "items": [
+   "I07",
+   "I01"
+  ]
+ },
+ {
+  "id": "E0084",
+  "type": "RULE_BRIDGE",
+  "chapter": 1,
+  "text": "The toll bridge at Wilhaven belonged to the Fellenridge family, and only those born a Fellenridge, or presently married to one, were allowed to cross it.",
+  "where": null,
+  "ref_deps": [],
+  "place": "L15",
+  "surname": "Fellenridge"
+ },
+ {
+  "id": "E0085",
+  "type": "RULE_HEIR",
+  "chapter": 1,
+  "text": "By custom, the amber comb always passed, on the death of whoever held it, to the eldest living child of that holder; no will could change this, and it passed without ceremony.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I00",
+  "surname": "Stenoway"
+ },
+ {
+  "id": "E0086",
+  "type": "MARRY",
+  "chapter": 2,
+  "text": "In the chapel at Harrowstead, Mabin married Senelle Stenoway. The couple lived in Harrowstead from then on.",
+  "where": "L07",
+  "ref_deps": [
+   "E0004"
+  ],
+  "a": "P025",
+  "b": "P004",
+  "place": "L07"
+ },
+ {
+  "id": "E0087",
+  "type": "PROMISE",
+  "chapter": 2,
+  "text": "Hawyn gave Mabin Dornworth a solemn promise to carry a sealed letter to Elmwick.",
+  "where": "L07",
+  "ref_deps": [
+   "E0001"
+  ],
+  "promise": "R00",
+  "a": "P006",
+  "b": "P025",
+  "act": "to carry a sealed letter to Elmwick"
+ },
+ {
+  "id": "E0088",
+  "type": "PROMISE",
+  "chapter": 2,
+  "text": "Dalis Vellmere gave Isdrek a solemn promise to pay the old debt owed to the Dornworth family.",
+  "where": "L07",
+  "ref_deps": [
+   "E0001"
+  ],
+  "promise": "R01",
+  "a": "P008",
+  "b": "P007",
+  "act": "to pay the old debt owed to the Dornworth family"
+ },
+ {
+  "id": "E0089",
+  "type": "OCCUPATION",
+  "chapter": 2,
+  "text": "Kalis Dornworth gave up being a miller and took work as a smith.",
+  "where": "L07",
+  "ref_deps": [
+   "E0004"
+  ],
+  "person": "P023",
+  "old": "miller",
+  "new": "smith"
+ },
+ {
+  "id": "E0090",
+  "type": "GIVE",
+  "chapter": 2,
+  "text": "A parcel from Thibin Ashley reached Nezek Corraby; inside was the bone astrolabe, now his to keep.",
+  "where": "L12",
+  "ref_deps": [],
+  "item": "I02",
+  "src": "P050",
+  "dest": "P041"
+ },
+ {
+  "id": "E0091",
+  "type": "GIVE",
+  "chapter": 2,
+  "text": "Thibin won the brass comb from Ildette Ashley at cards, fairly, and kept it.",
+  "where": "L12",
+  "ref_deps": [
+   "E0009"
+  ],
+  "item": "I05",
+  "src": "P048",
+  "dest": "P050"
+ },
+ {
+  "id": "E0092",
+  "type": "RESOLVE",
+  "chapter": 2,
+  "text": "True to her word to Isdrek Vellmere, Dalis Vellmere finished what she had promised (pay the old debt owed to the Dornworth family).",
+  "where": "L07",
+  "ref_deps": [],
+  "promise": "R01",
+  "kept": true
+ },
+ {
+  "id": "E0093",
+  "type": "PLAN",
+  "chapter": 2,
+  "text": "Hawyn Vellmere talked for weeks of going to Wendby, yet in the end stayed where she was.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P006",
+  "dest": "L13"
+ },
+ {
+  "id": "E0094",
+  "type": "GIVE",
+  "chapter": 3,
+  "text": "A parcel from Iltho reached the only son of Thinar Vellmere; inside was the copper spyglass, now his to keep.",
+  "where": "L00",
+  "ref_deps": [
+   "E0001",
+   "E0002"
+  ],
+  "item": "I06",
+  "src": "P010",
+  "dest": "P007"
+ },
+ {
+  "id": "E0095",
+  "type": "BIRTH",
+  "chapter": 3,
+  "text": "A daughter was born to Nynelle Marrwood and Malan Dornworth, and they called the child Luena Dornworth. The family lived in Brynford.",
+  "where": "L00",
+  "ref_deps": [],
+  "child": "P051",
+  "mother": "P015",
+  "father": "P026",
+  "place": "L00"
+ },
+ {
+  "id": "E0096",
+  "type": "RESOLVE",
+  "chapter": 3,
+  "text": "Hawyn Vellmere kept the promise made to Mabin Dornworth: the task (carry a sealed letter to Elmwick) was done by harvest.",
+  "where": "L07",
+  "ref_deps": [],
+  "promise": "R00",
+  "kept": true
+ },
+ {
+  "id": "E0097",
+  "type": "TRAVEL",
+  "chapter": 3,
+  "text": "After the quarrel, Hawyn quit Harrowstead for good and took lodgings in Elmmere.",
+  "where": "L07",
+  "ref_deps": [
+   "E0001"
+  ],
+  "person": "P006",
+  "src": "L07",
+  "dest": "L04"
+ },
+ {
+  "id": "E0098",
+  "type": "TRAVEL",
+  "chapter": 3,
+  "text": "Thinar Vellmere went along to live in Elmmere as well.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P005",
+  "src": "L07",
+  "dest": "L04"
+ },
+ {
+  "id": "E0099",
+  "type": "TRAVEL",
+  "chapter": 3,
+  "text": "Halis Vellwood left Salton and settled in Mirehaven.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P040",
+  "src": "L10",
+  "dest": "L09"
+ },
+ {
+  "id": "E0100",
+  "type": "TRAVEL",
+  "chapter": 3,
+  "text": "Mavus Dornworth followed her to Mirehaven within the month.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P024",
+  "src": "L10",
+  "dest": "L09"
+ },
+ {
+  "id": "E0101",
+  "type": "PLAN",
+  "chapter": 4,
+  "text": "Colan Ashley talked for weeks of going to Brynwick, yet in the end stayed where he was.",
+  "where": "L12",
+  "ref_deps": [],
+  "person": "P047",
+  "dest": "L01"
+ },
+ {
+  "id": "E0102",
+  "type": "GIVE",
+  "chapter": 4,
+  "text": "Old Thibin gave the brass comb to the eldest son of Colan Ashley.",
+  "where": "L12",
+  "ref_deps": [
+   "E0009",
+   "E0062"
+  ],
+  "item": "I05",
+  "src": "P050",
+  "dest": "P049"
+ },
+ {
+  "id": "E0103",
+  "type": "TELL",
+  "chapter": 4,
+  "text": "Yera could keep it no longer and told Tavus Fellworth that the bridge toll at Larkholt is skimmed every month.",
+  "where": "L13",
+  "ref_deps": [
+   "E0006"
+  ],
+  "secret": "S07",
+  "src": "P034",
+  "dest": "P035"
+ },
+ {
+  "id": "E0104",
+  "type": "BIRTH",
+  "chapter": 4,
+  "text": "A son was born to Senelle Stenoway and Mabin Dornworth, and they called the child Orric Dornworth. The family lived in Harrowstead.",
+  "where": "L07",
+  "ref_deps": [],
+  "child": "P052",
+  "mother": "P004",
+  "father": "P025",
+  "place": "L07"
+ },
+ {
+  "id": "E0105",
+  "type": "OCCUPATION",
+  "chapter": 4,
+  "text": "Lame Mabin was apprenticed anew and became a tanner.",
+  "where": "L07",
+  "ref_deps": [
+   "E0004",
+   "E0041"
+  ],
+  "person": "P025",
+  "old": "fisher",
+  "new": "tanner"
+ },
+ {
+  "id": "E0106",
+  "type": "RUMOR",
+  "chapter": 4,
+  "text": "Isdrek Vellmere told everyone at the inn that Gaten Stenoway had drowned crossing the estuary, though no body was ever seen.",
+  "where": "L07",
+  "ref_deps": [],
+  "teller": "P007",
+  "claim": {
+   "kind": "dead",
+   "target": "P000"
+  }
+ },
+ {
+  "id": "E0107",
+  "type": "BIRTH",
+  "chapter": 4,
+  "text": "A son was born to Senelle Stenoway and Mabin Dornworth, and they called the child Thirald Dornworth. The family lived in Harrowstead.",
+  "where": "L07",
+  "ref_deps": [],
+  "child": "P053",
+  "mother": "P004",
+  "father": "P025",
+  "place": "L07"
+ },
+ {
+  "id": "E0108",
+  "type": "MARRY",
+  "chapter": 5,
+  "text": "Rora and Gadrek Marrwood were wed at Wendby, with half the parish looking on. The couple lived in Wendby from then on.",
+  "where": "L13",
+  "ref_deps": [
+   "E0006"
+  ],
+  "a": "P036",
+  "b": "P012",
+  "place": "L13"
+ },
+ {
+  "id": "E0109",
+  "type": "PROMISE",
+  "chapter": 5,
+  "text": "Maten Fellworth swore to the wife of Maten Fellworth to plant an orchard on the slope above Coldton, and shook on it.",
+  "where": "L13",
+  "ref_deps": [
+   "E0006"
+  ],
+  "promise": "R02",
+  "a": "P033",
+  "b": "P034",
+  "act": "to plant an orchard on the slope above Coldton"
+ },
+ {
+  "id": "E0110",
+  "type": "OCCUPATION",
+  "chapter": 5,
+  "text": "Yera gave up idleness and took work as a miller.",
+  "where": "L13",
+  "ref_deps": [
+   "E0006"
+  ],
+  "person": "P034",
+  "old": null,
+  "new": "miller"
+ },
+ {
+  "id": "E0111",
+  "type": "GIVE",
+  "chapter": 5,
+  "text": "Ildette Ashley sent the brass bell by carrier to Tavus Fellworth, who received it safely.",
+  "where": "L12",
+  "ref_deps": [],
+  "item": "I04",
+  "src": "P048",
+  "dest": "P035"
+ },
+ {
+  "id": "E0112",
+  "type": "RUMOR",
+  "chapter": 5,
+  "text": "A rumor started by Karine Corraby had it that Veslis Vellmere was dead of plague; Karine Corraby had it from a peddler.",
+  "where": "L05",
+  "ref_deps": [],
+  "teller": "P042",
+  "claim": {
+   "kind": "dead",
+   "target": "P009"
+  }
+ },
+ {
+  "id": "E0113",
+  "type": "RESOLVE",
+  "chapter": 5,
+  "text": "Maten Fellworth broke faith with Yera Fellworth, and the promised work (plant an orchard on the slope above Coldton) was never begun.",
+  "where": "L13",
+  "ref_deps": [],
+  "promise": "R02",
+  "kept": false
+ },
+ {
+  "id": "E0114",
+  "type": "TELL",
+  "chapter": 6,
+  "text": "Felde Hollaby could keep it no longer and told Mossa Stenoway that the harbor master of Brynwick takes bribes.",
+  "where": "L02",
+  "ref_deps": [],
+  "secret": "S02",
+  "src": "P030",
+  "dest": "P003"
+ },
+ {
+  "id": "E0115",
+  "type": "TRAVEL",
+  "chapter": 6,
+  "text": "Wevie Stenoway rode out of Coldton; by the next market day she was living in Salton.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P002",
+  "src": "L02",
+  "dest": "L10"
+ },
+ {
+  "id": "E0116",
+  "type": "GIVE",
+  "chapter": 6,
+  "text": "Tavus Fellworth sent the brass bell by carrier to Jodan Fellenridge, who received it safely.",
+  "where": "L13",
+  "ref_deps": [],
+  "item": "I04",
+  "src": "P035",
+  "dest": "P016"
+ },
+ {
+  "id": "E0117",
+  "type": "TRAVEL",
+  "chapter": 6,
+  "text": "After the quarrel, Gadrek Marrwood quit Wendby for good and took lodgings in Mirehaven.",
+  "where": "L13",
+  "ref_deps": [],
+  "person": "P012",
+  "src": "L13",
+  "dest": "L09"
+ },
+ {
+  "id": "E0118",
+  "type": "TRAVEL",
+  "chapter": 6,
+  "text": "Rora went along to live in Mirehaven as well.",
+  "where": "L13",
+  "ref_deps": [
+   "E0006"
+  ],
+  "person": "P036",
+  "src": "L13",
+  "dest": "L09"
+ },
+ {
+  "id": "E0119",
+  "type": "TRAVEL",
+  "chapter": 6,
+  "text": "Nezek left Elmwick and settled in Wendby.",
+  "where": "L05",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P041",
+  "src": "L05",
+  "dest": "L13"
+ },
+ {
+  "id": "E0120",
+  "type": "TRAVEL",
+  "chapter": 6,
+  "text": "Karine Corraby went along to live in Wendby as well.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P042",
+  "src": "L05",
+  "dest": "L13"
+ },
+ {
+  "id": "E0121",
+  "type": "TRAVEL",
+  "chapter": 6,
+  "text": "Nymira Marrwood found work in Wilhaven, moved there, and did not return to Brynford.",
+  "where": "L00",
+  "ref_deps": [],
+  "person": "P013",
+  "src": "L00",
+  "dest": "L15"
+ },
+ {
+  "id": "E0122",
+  "type": "BIRTH",
+  "chapter": 7,
+  "text": "Halis Vellwood gave birth to a daughter, named Orwyn Dornworth; the father was Mavus Dornworth. The family lived in Mirehaven.",
+  "where": "L09",
+  "ref_deps": [],
+  "child": "P054",
+  "mother": "P040",
+  "father": "P024",
+  "place": "L09"
+ },
+ {
+  "id": "E0123",
+  "type": "DEATH",
+  "chapter": 7,
+  "text": "That winter, drowning in the flood took Iltho Marrwood; he was buried at Brynford.",
+  "where": "L00",
+  "ref_deps": [],
+  "person": "P010",
+  "cause": "drowning in the flood",
+  "place": "L00"
+ },
+ {
+  "id": "E0124",
+  "type": "TELL",
+  "chapter": 7,
+  "text": "In a letter that Thinar Vellmere burned after reading, Hawyn Vellmere revealed that the old abbey at Torcombe hides a second cellar.",
+  "where": "L04",
+  "ref_deps": [],
+  "secret": "S01",
+  "src": "P006",
+  "dest": "P005"
+ },
+ {
+  "id": "E0125",
+  "type": "TELL",
+  "chapter": 7,
+  "text": "In a letter that Vowyn Vellwood burned after reading, Riric Vellwood revealed that the Vellmere mill ledger was rewritten after the flood.",
+  "where": "L10",
+  "ref_deps": [],
+  "secret": "S03",
+  "src": "P037",
+  "dest": "P038"
+ },
+ {
+  "id": "E0126",
+  "type": "GIVE",
+  "chapter": 7,
+  "text": "Zamor Ashley sent the brass comb by carrier to Mavus Dornworth, who received it safely.",
+  "where": "L12",
+  "ref_deps": [],
+  "item": "I05",
+  "src": "P049",
+  "dest": "P024"
+ },
+ {
+  "id": "E0127",
+  "type": "TRAVEL",
+  "chapter": 8,
+  "text": "After the quarrel, the wife of Ordrek Hollaby quit Coldton for good and took lodgings in Elmwick.",
+  "where": "L02",
+  "ref_deps": [
+   "E0015"
+  ],
+  "person": "P009",
+  "src": "L02",
+  "dest": "L05"
+ },
+ {
+  "id": "E0128",
+  "type": "TRAVEL",
+  "chapter": 8,
+  "text": "Ordrek followed her to Elmwick within the month.",
+  "where": "L02",
+  "ref_deps": [
+   "E0005"
+  ],
+  "person": "P031",
+  "src": "L02",
+  "dest": "L05"
+ },
+ {
+  "id": "E0129",
+  "type": "OCCUPATION",
+  "chapter": 8,
+  "text": "Tavus Dornworth was apprenticed anew and became a glazier.",
+  "where": "L02",
+  "ref_deps": [
+   "E0004"
+  ],
+  "person": "P027",
+  "old": "cooper",
+  "new": "glazier"
+ },
+ {
+  "id": "E0130",
+  "type": "TRAVEL",
+  "chapter": 8,
+  "text": "Tall Kadette found work in Brynwick, moved there, and did not return to Coldton.",
+  "where": "L02",
+  "ref_deps": [
+   "E0017"
+  ],
+  "person": "P001",
+  "src": "L02",
+  "dest": "L01"
+ },
+ {
+  "id": "E0131",
+  "type": "TRAVEL",
+  "chapter": 8,
+  "text": "Quiet Gaten went along to live in Brynwick as well.",
+  "where": "L02",
+  "ref_deps": [
+   "E0016"
+  ],
+  "person": "P000",
+  "src": "L02",
+  "dest": "L01"
+ },
+ {
+  "id": "E0132",
+  "type": "TELL",
+  "chapter": 8,
+  "text": "In a letter that Karine Corraby burned after reading, Yera Fellworth revealed that the bridge toll at Larkholt is skimmed every month.",
+  "where": "L13",
+  "ref_deps": [],
+  "secret": "S07",
+  "src": "P034",
+  "dest": "P042"
+ },
+ {
+  "id": "E0133",
+  "type": "DEATH",
+  "chapter": 8,
+  "text": "Femor died of a wound that festered at Coldton.",
+  "where": "L02",
+  "ref_deps": [
+   "E0005"
+  ],
+  "person": "P028",
+  "cause": "a wound that festered",
+  "place": "L02"
+ },
+ {
+  "id": "E0134",
+  "type": "GIVE",
+  "chapter": 8,
+  "text": "The amber compass, which Femor Hollaby had owned, went to Ilwyn Hollaby.",
+  "where": "L02",
+  "ref_deps": [],
+  "item": "I01",
+  "src": "P028",
+  "dest": "P029",
+  "inherit": true
+ },
+ {
+  "id": "E0135",
+  "type": "MARRY",
+  "chapter": 8,
+  "text": "In the chapel at Dunholt, Elvie Fellenridge married Tavus Fellworth. The couple lived in Dunholt from then on.",
+  "where": "L03",
+  "ref_deps": [],
+  "a": "P018",
+  "b": "P035",
+  "place": "L03"
+ },
+ {
+  "id": "E0136",
+  "type": "GIVE",
+  "chapter": 9,
+  "text": "The wife of Malan Dornworth gave the jade lantern to Nyssa.",
+  "where": "L00",
+  "ref_deps": [
+   "E0002",
+   "E0013"
+  ],
+  "item": "I09",
+  "src": "P015",
+  "dest": "P011"
+ },
+ {
+  "id": "E0137",
+  "type": "TELL",
+  "chapter": 9,
+  "text": "Thinar Vellmere could keep it no longer and told Wevie Stenoway that the old abbey at Torcombe hides a second cellar.",
+  "where": "L04",
+  "ref_deps": [],
+  "secret": "S01",
+  "src": "P005",
+  "dest": "P002"
+ },
+ {
+  "id": "E0138",
+  "type": "GIVE",
+  "chapter": 9,
+  "text": "Nyssa Marrwood gave the jade lantern to Nynelle.",
+  "where": "L00",
+  "ref_deps": [
+   "E0002"
+  ],
+  "item": "I09",
+  "src": "P011",
+  "dest": "P015"
+ },
+ {
+  "id": "E0139",
+  "type": "BIRTH",
+  "chapter": 9,
+  "text": "Halis Vellwood gave birth to a son, named Jovus Dornworth; the father was Mavus Dornworth. The family lived in Mirehaven.",
+  "where": "L09",
+  "ref_deps": [],
+  "child": "P055",
+  "mother": "P040",
+  "father": "P024",
+  "place": "L09"
+ },
+ {
+  "id": "E0140",
+  "type": "DEATH",
+  "chapter": 9,
+  "text": "That summer, drowning in the flood took Uldan Dornworth; he was buried at Harrowstead.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P022",
+  "cause": "drowning in the flood",
+  "place": "L07"
+ },
+ {
+  "id": "E0141",
+  "type": "PROMISE",
+  "chapter": 10,
+  "text": "Lame Maten swore to Karine Corraby to repair the roof of the chapel at Mirehaven, and shook on it.",
+  "where": "L13",
+  "ref_deps": [
+   "E0047"
+  ],
+  "promise": "R03",
+  "a": "P033",
+  "b": "P042",
+  "act": "to repair the roof of the chapel at Mirehaven"
+ },
+ {
+  "id": "E0142",
+  "type": "GIVE",
+  "chapter": 10,
+  "text": "Jodan Fellenridge gave the brass bell to Aera.",
+  "where": "L03",
+  "ref_deps": [
+   "E0003"
+  ],
+  "item": "I04",
+  "src": "P016",
+  "dest": "P021"
+ },
+ {
+  "id": "E0143",
+  "type": "TRAVEL",
+  "chapter": 10,
+  "text": "Kadette packed a single trunk and moved from Brynwick to Brynford.",
+  "where": "L01",
+  "ref_deps": [
+   "E0000"
+  ],
+  "person": "P001",
+  "src": "L01",
+  "dest": "L00"
+ },
+ {
+  "id": "E0144",
+  "type": "TRAVEL",
+  "chapter": 10,
+  "text": "Gaten Stenoway followed her to Brynford within the month.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P000",
+  "src": "L01",
+  "dest": "L00"
+ },
+ {
+  "id": "E0145",
+  "type": "PROMISE",
+  "chapter": 10,
+  "text": "Thinar Vellmere gave the wife of Thinar Vellmere a solemn promise to plant an orchard on the slope above Dunholt.",
+  "where": "L04",
+  "ref_deps": [
+   "E0001"
+  ],
+  "promise": "R04",
+  "a": "P005",
+  "b": "P006",
+  "act": "to plant an orchard on the slope above Dunholt"
+ },
+ {
+  "id": "E0146",
+  "type": "OCCUPATION",
+  "chapter": 10,
+  "text": "Thinar Vellmere gave up being a glazier and took work as a herbalist.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P005",
+  "old": "glazier",
+  "new": "herbalist"
+ },
+ {
+  "id": "E0147",
+  "type": "TELL",
+  "chapter": 10,
+  "text": "Late one night Hawyn Vellmere confided to Veslis that the old abbey at Torcombe hides a second cellar.",
+  "where": "L04",
+  "ref_deps": [
+   "E0001"
+  ],
+  "secret": "S01",
+  "src": "P006",
+  "dest": "P009"
+ },
+ {
+  "id": "E0148",
+  "type": "MARRY",
+  "chapter": 11,
+  "text": "Before the winter was out, Kalis Dornworth took Isdrek Vellmere in marriage at Harrowstead. The couple lived in Harrowstead from then on.",
+  "where": "L07",
+  "ref_deps": [],
+  "a": "P023",
+  "b": "P007",
+  "place": "L07"
+ },
+ {
+  "id": "E0149",
+  "type": "TELL",
+  "chapter": 11,
+  "text": "Late one night Tall Veslis confided to Lame Elwyn that the old abbey at Torcombe hides a second cellar.",
+  "where": "L05",
+  "ref_deps": [
+   "E0025",
+   "E0058"
+  ],
+  "secret": "S01",
+  "src": "P009",
+  "dest": "P045"
+ },
+ {
+  "id": "E0150",
+  "type": "RUMOR",
+  "chapter": 11,
+  "text": "A rumor started by Elwyn had it that Haric Corraby was dead of plague; Elwyn had it from a peddler.",
+  "where": "L05",
+  "ref_deps": [
+   "E0008"
+  ],
+  "teller": "P045",
+  "claim": {
+   "kind": "dead",
+   "target": "P046"
+  }
+ },
+ {
+  "id": "E0151",
+  "type": "PROMISE",
+  "chapter": 11,
+  "text": "Ordrek Hollaby gave Cossa Corraby a solemn promise to plant an orchard on the slope above Wilcombe.",
+  "where": "L05",
+  "ref_deps": [],
+  "promise": "R05",
+  "a": "P031",
+  "b": "P044",
+  "act": "to plant an orchard on the slope above Wilcombe"
+ },
+ {
+  "id": "E0152",
+  "type": "PROMISE",
+  "chapter": 11,
+  "text": "Veslis gave Cossa Corraby a solemn promise to teach the children of Harrowstead their letters.",
+  "where": "L05",
+  "ref_deps": [
+   "E0001"
+  ],
+  "promise": "R06",
+  "a": "P009",
+  "b": "P044",
+  "act": "to teach the children of Harrowstead their letters"
+ },
+ {
+  "id": "E0153",
+  "type": "PLAN",
+  "chapter": 11,
+  "text": "Peten Corraby meant to go to Tormere before the frost, but the roads flooded and the journey was put off.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P043",
+  "dest": "L12"
+ },
+ {
+  "id": "E0154",
+  "type": "RUMOR",
+  "chapter": 11,
+  "text": "Felde Hollaby told everyone at the inn that Peten Corraby had drowned crossing the estuary, though no body was ever seen.",
+  "where": "L02",
+  "ref_deps": [],
+  "teller": "P030",
+  "claim": {
+   "kind": "dead",
+   "target": "P043"
+  }
+ },
+ {
+  "id": "E0155",
+  "type": "OCCUPATION",
+  "chapter": 12,
+  "text": "Veslis Vellmere was apprenticed anew and became a fisher.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P009",
+  "old": null,
+  "new": "fisher"
+ },
+ {
+  "id": "E0156",
+  "type": "GIVE",
+  "chapter": 12,
+  "text": "Illde Fellenridge gave the ivory seal to Luvie.",
+  "where": "L03",
+  "ref_deps": [
+   "E0003"
+  ],
+  "item": "I08",
+  "src": "P020",
+  "dest": "P017"
+ },
+ {
+  "id": "E0157",
+  "type": "MARRY",
+  "chapter": 12,
+  "text": "Before the spring was out, Wevie Stenoway took Moten in marriage at Salton. The couple lived in Salton from then on.",
+  "where": "L10",
+  "ref_deps": [
+   "E0007"
+  ],
+  "a": "P002",
+  "b": "P039",
+  "place": "L10"
+ },
+ {
+  "id": "E0158",
+  "type": "BIRTH",
+  "chapter": 12,
+  "text": "Illde gave birth to a daughter, named Islis Corraby; the father was Peten Corraby. The family lived in Dunholt.",
+  "where": "L03",
+  "ref_deps": [
+   "E0003"
+  ],
+  "child": "P056",
+  "mother": "P020",
+  "father": "P043",
+  "place": "L03"
+ },
+ {
+  "id": "E0159",
+  "type": "BIRTH",
+  "chapter": 12,
+  "text": "Veslis Vellmere gave birth to a son, named Zarald Hollaby; the father was Ordrek Hollaby. The family lived in Elmwick.",
+  "where": "L05",
+  "ref_deps": [],
+  "child": "P057",
+  "mother": "P009",
+  "father": "P031",
+  "place": "L05"
+ },
+ {
+  "id": "E0160",
+  "type": "MARRY",
+  "chapter": 12,
+  "text": "In the chapel at Brynford, the second daughter of Iltho Marrwood married Thibin Ashley. The couple lived in Brynford from then on.",
+  "where": "L00",
+  "ref_deps": [
+   "E0002"
+  ],
+  "a": "P014",
+  "b": "P050",
+  "place": "L00"
+ },
+ {
+  "id": "E0161",
+  "type": "PLAN",
+  "chapter": 12,
+  "text": "Thibin Ashley talked for weeks of going to Harrowstead, yet in the end stayed where he was.",
+  "where": "L00",
+  "ref_deps": [],
+  "person": "P050",
+  "dest": "L07"
+ },
+ {
+  "id": "E0162",
+  "type": "PROMISE",
+  "chapter": 13,
+  "text": "Colan the Younger gave Zamor Ashley a solemn promise to repair the roof of the chapel at Wilhaven.",
+  "where": "L12",
+  "ref_deps": [
+   "E0059"
+  ],
+  "promise": "R07",
+  "a": "P047",
+  "b": "P049",
+  "act": "to repair the roof of the chapel at Wilhaven"
+ },
+ {
+  "id": "E0163",
+  "type": "RESOLVE",
+  "chapter": 13,
+  "text": "Maten Fellworth kept the promise made to Karine Corraby: the task (repair the roof of the chapel at Mirehaven) was done by harvest.",
+  "where": "L13",
+  "ref_deps": [],
+  "promise": "R03",
+  "kept": true
+ },
+ {
+  "id": "E0164",
+  "type": "TELL",
+  "chapter": 13,
+  "text": "In a letter that Vowyn Vellwood burned after reading, Wevie Stenoway revealed that the old abbey at Torcombe hides a second cellar.",
+  "where": "L10",
+  "ref_deps": [],
+  "secret": "S01",
+  "src": "P002",
+  "dest": "P038"
+ },
+ {
+  "id": "E0165",
+  "type": "PLAN",
+  "chapter": 13,
+  "text": "Karine Corraby meant to go to Brynwick before the frost, but the roads flooded and the journey was put off.",
+  "where": "L13",
+  "ref_deps": [],
+  "person": "P042",
+  "dest": "L01"
+ },
+ {
+  "id": "E0166",
+  "type": "PROMISE",
+  "chapter": 13,
+  "text": "Nezek Corraby swore to Karine Corraby to carry a sealed letter to Gulby, and shook on it.",
+  "where": "L13",
+  "ref_deps": [],
+  "promise": "R08",
+  "a": "P041",
+  "b": "P042",
+  "act": "to carry a sealed letter to Gulby"
+ },
+ {
+  "id": "E0167",
+  "type": "GIVE",
+  "chapter": 13,
+  "text": "Luvie pressed the ivory seal into the hands of Illde Fellenridge and would take nothing for it.",
+  "where": "L03",
+  "ref_deps": [
+   "E0003"
+  ],
+  "item": "I08",
+  "src": "P017",
+  "dest": "P020"
+ },
+ {
+  "id": "E0168",
+  "type": "TRAVEL",
+  "chapter": 14,
+  "text": "Vowyn rode out of Salton; by the next market day she was living in Gulby.",
+  "where": "L10",
+  "ref_deps": [
+   "E0007"
+  ],
+  "person": "P038",
+  "src": "L10",
+  "dest": "L06"
+ },
+ {
+  "id": "E0169",
+  "type": "TRAVEL",
+  "chapter": 14,
+  "text": "Riric Vellwood followed her to Gulby within the month.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P037",
+  "src": "L10",
+  "dest": "L06"
+ },
+ {
+  "id": "E0170",
+  "type": "BIRTH",
+  "chapter": 14,
+  "text": "Felde gave birth to a daughter, named Zanelle Dornworth; the father was Tavus Dornworth. The family lived in Coldton.",
+  "where": "L02",
+  "ref_deps": [
+   "E0005"
+  ],
+  "child": "P058",
+  "mother": "P030",
+  "father": "P027",
+  "place": "L02"
+ },
+ {
+  "id": "E0171",
+  "type": "GIVE",
+  "chapter": 14,
+  "text": "Nynelle sent the jade lantern by carrier to Senelle Stenoway, who received it safely.",
+  "where": "L00",
+  "ref_deps": [
+   "E0002"
+  ],
+  "item": "I09",
+  "src": "P015",
+  "dest": "P004"
+ },
+ {
+  "id": "E0172",
+  "type": "TRAVEL",
+  "chapter": 14,
+  "text": "Kadette left Brynford and settled in Wendby.",
+  "where": "L00",
+  "ref_deps": [
+   "E0000"
+  ],
+  "person": "P001",
+  "src": "L00",
+  "dest": "L13"
+ },
+ {
+  "id": "E0173",
+  "type": "TRAVEL",
+  "chapter": 14,
+  "text": "Gaten went along to live in Wendby as well.",
+  "where": "L00",
+  "ref_deps": [
+   "E0000"
+  ],
+  "person": "P000",
+  "src": "L00",
+  "dest": "L13"
+ },
+ {
+  "id": "E0174",
+  "type": "PLAN",
+  "chapter": 14,
+  "text": "Thibin meant to go to Harrowstead before the frost, but the roads flooded and the journey was put off.",
+  "where": "L00",
+  "ref_deps": [
+   "E0009"
+  ],
+  "person": "P050",
+  "dest": "L07"
+ },
+ {
+  "id": "E0175",
+  "type": "PROMISE",
+  "chapter": 15,
+  "text": "Nyssa Marrwood swore to Welis to carry a sealed letter to Gulby, and shook on it.",
+  "where": "L00",
+  "ref_deps": [
+   "E0002"
+  ],
+  "promise": "R09",
+  "a": "P011",
+  "b": "P014",
+  "act": "to carry a sealed letter to Gulby"
+ },
+ {
+  "id": "E0176",
+  "type": "GIVE",
+  "chapter": 15,
+  "text": "Illde Fellenridge pressed the ivory seal into the hands of Haric and would take nothing for it.",
+  "where": "L03",
+  "ref_deps": [
+   "E0008"
+  ],
+  "item": "I08",
+  "src": "P020",
+  "dest": "P046"
+ },
+ {
+  "id": "E0177",
+  "type": "GIVE",
+  "chapter": 15,
+  "text": "Tavus Fellworth sent the oak mirror by carrier to Ildette, who received it safely.",
+  "where": "L03",
+  "ref_deps": [
+   "E0009"
+  ],
+  "item": "I10",
+  "src": "P035",
+  "dest": "P048"
+ },
+ {
+  "id": "E0178",
+  "type": "PROMISE",
+  "chapter": 15,
+  "text": "Nymira swore to Thibin to pay the old debt owed to the Ashley family, and shook on it.",
+  "where": "L15",
+  "ref_deps": [
+   "E0002",
+   "E0009"
+  ],
+  "promise": "R10",
+  "a": "P013",
+  "b": "P050",
+  "act": "to pay the old debt owed to the Ashley family"
+ },
+ {
+  "id": "E0179",
+  "type": "PLAN",
+  "chapter": 15,
+  "text": "Senelle meant to go to Wilhaven before the frost, but the roads flooded and the journey was put off.",
+  "where": "L07",
+  "ref_deps": [
+   "E0000"
+  ],
+  "person": "P004",
+  "dest": "L15"
+ },
+ {
+  "id": "E0180",
+  "type": "GIVE",
+  "chapter": 15,
+  "text": "A parcel from Ildette Ashley reached Wevie; inside was the oak mirror, now hers to keep.",
+  "where": "L12",
+  "ref_deps": [
+   "E0000"
+  ],
+  "item": "I10",
+  "src": "P048",
+  "dest": "P002"
+ },
+ {
+  "id": "E0181",
+  "type": "TRAVEL",
+  "chapter": 15,
+  "text": "After the quarrel, Zamor Ashley quit Tormere for good and took lodgings in Larkholt.",
+  "where": "L12",
+  "ref_deps": [],
+  "person": "P049",
+  "src": "L12",
+  "dest": "L08"
+ },
+ {
+  "id": "E0182",
+  "type": "OCCUPATION",
+  "chapter": 16,
+  "text": "Felde was apprenticed anew and became a tanner.",
+  "where": "L02",
+  "ref_deps": [
+   "E0005"
+  ],
+  "person": "P030",
+  "old": null,
+  "new": "tanner"
+ },
+ {
+  "id": "E0183",
+  "type": "TELL",
+  "chapter": 16,
+  "text": "In a letter that Haric burned after reading, Tavus Fellworth revealed that the bridge toll at Larkholt is skimmed every month.",
+  "where": "L03",
+  "ref_deps": [
+   "E0008"
+  ],
+  "secret": "S07",
+  "src": "P035",
+  "dest": "P046"
+ },
+ {
+  "id": "E0184",
+  "type": "GIVE",
+  "chapter": 16,
+  "text": "Vowyn Vellwood pressed the oak spyglass into the hands of Riric Vellwood and would take nothing for it.",
+  "where": "L06",
+  "ref_deps": [],
+  "item": "I11",
+  "src": "P038",
+  "dest": "P037"
+ },
+ {
+  "id": "E0185",
+  "type": "TRAVEL",
+  "chapter": 16,
+  "text": "Riric found work in Coldton, moved there, and did not return to Gulby.",
+  "where": "L06",
+  "ref_deps": [
+   "E0007"
+  ],
+  "person": "P037",
+  "src": "L06",
+  "dest": "L02"
+ },
+ {
+  "id": "E0186",
+  "type": "TRAVEL",
+  "chapter": 16,
+  "text": "Vowyn Vellwood followed him to Coldton within the month.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P038",
+  "src": "L06",
+  "dest": "L02"
+ },
+ {
+  "id": "E0187",
+  "type": "DEATH",
+  "chapter": 16,
+  "text": "That spring, old age, quietly in sleep took Colan; he was buried at Tormere.",
+  "where": "L12",
+  "ref_deps": [
+   "E0009"
+  ],
+  "person": "P047",
+  "cause": "old age, quietly in sleep",
+  "place": "L12"
+ },
+ {
+  "id": "E0188",
+  "type": "TELL",
+  "chapter": 17,
+  "text": "In a letter that the youngest daughter of Karine Corraby burned after reading, Ildette revealed that the deed to the Larkholt pastures was forged.",
+  "where": "L12",
+  "ref_deps": [
+   "E0008",
+   "E0009"
+  ],
+  "secret": "S00",
+  "src": "P048",
+  "dest": "P045"
+ },
+ {
+  "id": "E0189",
+  "type": "PROMISE",
+  "chapter": 17,
+  "text": "Ildette Ashley swore to Jodan Fellenridge to repair the roof of the chapel at Salton, and shook on it.",
+  "where": "L12",
+  "ref_deps": [],
+  "promise": "R11",
+  "a": "P048",
+  "b": "P016",
+  "act": "to repair the roof of the chapel at Salton"
+ },
+ {
+  "id": "E0190",
+  "type": "MARRY",
+  "chapter": 17,
+  "text": "Before the summer was out, Volis Hollaby took Zamor Ashley in marriage at Coldton. The couple lived in Coldton from then on.",
+  "where": "L02",
+  "ref_deps": [],
+  "a": "P032",
+  "b": "P049",
+  "place": "L02"
+ },
+ {
+  "id": "E0191",
+  "type": "PROMISE",
+  "chapter": 17,
+  "text": "Vowyn Vellwood gave Mossa Stenoway a solemn promise to carry a sealed letter to Coldton.",
+  "where": "L02",
+  "ref_deps": [],
+  "promise": "R12",
+  "a": "P038",
+  "b": "P003",
+  "act": "to carry a sealed letter to Coldton"
+ },
+ {
+  "id": "E0192",
+  "type": "GIVE",
+  "chapter": 17,
+  "text": "Riric Vellwood pressed the oak spyglass into the hands of Volis Hollaby and would take nothing for it.",
+  "where": "L02",
+  "ref_deps": [],
+  "item": "I11",
+  "src": "P037",
+  "dest": "P032"
+ },
+ {
+  "id": "E0193",
+  "type": "TELL",
+  "chapter": 17,
+  "text": "Late one night Hawyn Vellmere confided to Tavus Dornworth that the old abbey at Torcombe hides a second cellar.",
+  "where": "L04",
+  "ref_deps": [],
+  "secret": "S01",
+  "src": "P006",
+  "dest": "P027"
+ },
+ {
+  "id": "E0194",
+  "type": "GIVE",
+  "chapter": 17,
+  "text": "The only daughter of Vowyn Vellwood sent the bone locket by carrier to Ilwyn Hollaby, who received it safely.",
+  "where": "L09",
+  "ref_deps": [
+   "E0007"
+  ],
+  "item": "I03",
+  "src": "P040",
+  "dest": "P029"
+ },
+ {
+  "id": "E0195",
+  "type": "PROMISE",
+  "chapter": 17,
+  "text": "The husband of Rora Fellworth gave Rora Fellworth a solemn promise to rebuild the fallen wall at Harrowstead.",
+  "where": "L09",
+  "ref_deps": [
+   "E0108"
+  ],
+  "promise": "R13",
+  "a": "P012",
+  "b": "P036",
+  "act": "to rebuild the fallen wall at Harrowstead"
+ },
+ {
+  "id": "E0196",
+  "type": "BIRTH",
+  "chapter": 18,
+  "text": "Nynelle Marrwood gave birth to a son, named Yeten Dornworth; the father was Malan Dornworth. The family lived in Brynford.",
+  "where": "L00",
+  "ref_deps": [],
+  "child": "P059",
+  "mother": "P015",
+  "father": "P026",
+  "place": "L00"
+ },
+ {
+  "id": "E0197",
+  "type": "TRAVEL",
+  "chapter": 18,
+  "text": "After the quarrel, Halis Fellenridge quit Dunholt for good and took lodgings in Brynwick.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P019",
+  "src": "L03",
+  "dest": "L01"
+ },
+ {
+  "id": "E0198",
+  "type": "MARRY",
+  "chapter": 18,
+  "text": "The eldest daughter of Iltho Marrwood and Thirald Dornworth were wed at Wilhaven, with half the parish looking on. The couple lived in Wilhaven from then on.",
+  "where": "L15",
+  "ref_deps": [
+   "E0002"
+  ],
+  "a": "P013",
+  "b": "P053",
+  "place": "L15"
+ },
+ {
+  "id": "E0199",
+  "type": "RUMOR",
+  "chapter": 18,
+  "text": "A rumor started by Thirald Dornworth had it that Ilwyn Hollaby was dead of plague; Thirald Dornworth had it from a peddler.",
+  "where": "L15",
+  "ref_deps": [],
+  "teller": "P053",
+  "claim": {
+   "kind": "dead",
+   "target": "P029"
+  }
+ },
+ {
+  "id": "E0200",
+  "type": "RESOLVE",
+  "chapter": 18,
+  "text": "Ildette Ashley never did keep the promise made to Jodan Fellenridge (repair the roof of the chapel at Salton); the matter was abandoned.",
+  "where": "L12",
+  "ref_deps": [],
+  "promise": "R11",
+  "kept": false
+ },
+ {
+  "id": "E0201",
+  "type": "BIRTH",
+  "chapter": 18,
+  "text": "A daughter was born to Aera Fellenridge and Haric Corraby, and they called the child Tarine Corraby. The family lived in Dunholt.",
+  "where": "L03",
+  "ref_deps": [],
+  "child": "P060",
+  "mother": "P021",
+  "father": "P046",
+  "place": "L03"
+ },
+ {
+  "id": "E0202",
+  "type": "RESOLVE",
+  "chapter": 18,
+  "text": "Gadrek Marrwood broke faith with Rora Fellworth, and the promised work (rebuild the fallen wall at Harrowstead) was never begun.",
+  "where": "L09",
+  "ref_deps": [],
+  "promise": "R13",
+  "kept": false
+ },
+ {
+  "id": "E0203",
+  "type": "BIRTH",
+  "chapter": 19,
+  "text": "A son was born to Nymira Marrwood and Thirald Dornworth, and they called the child Brerald Dornworth. The family lived in Wilhaven.",
+  "where": "L15",
+  "ref_deps": [],
+  "child": "P061",
+  "mother": "P013",
+  "father": "P053",
+  "place": "L15"
+ },
+ {
+  "id": "E0204",
+  "type": "MARRY",
+  "chapter": 19,
+  "text": "In the chapel at Harrowstead, Orric married Halis Fellenridge. The couple lived in Harrowstead from then on.",
+  "where": "L07",
+  "ref_deps": [
+   "E0104"
+  ],
+  "a": "P052",
+  "b": "P019",
+  "place": "L07"
+ },
+ {
+  "id": "E0205",
+  "type": "TRAVEL",
+  "chapter": 19,
+  "text": "Isdrek Vellmere left Harrowstead and settled in Coldton.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P007",
+  "src": "L07",
+  "dest": "L02"
+ },
+ {
+  "id": "E0206",
+  "type": "TRAVEL",
+  "chapter": 19,
+  "text": "Kalis went along to live in Coldton as well.",
+  "where": "L07",
+  "ref_deps": [
+   "E0004"
+  ],
+  "person": "P023",
+  "src": "L07",
+  "dest": "L02"
+ },
+ {
+  "id": "E0207",
+  "type": "PLAN",
+  "chapter": 19,
+  "text": "Halis Fellenridge talked for weeks of going to Wilcombe, yet in the end stayed where she was.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P019",
+  "dest": "L14"
+ },
+ {
+  "id": "E0208",
+  "type": "PROMISE",
+  "chapter": 19,
+  "text": "Ildette Ashley gave Aera Fellenridge a solemn promise to plant an orchard on the slope above Elmmere.",
+  "where": "L12",
+  "ref_deps": [],
+  "promise": "R14",
+  "a": "P048",
+  "b": "P021",
+  "act": "to plant an orchard on the slope above Elmmere"
+ },
+ {
+  "id": "E0209",
+  "type": "TRAVEL",
+  "chapter": 19,
+  "text": "Ildette rode out of Tormere; by the next market day she was living in Salton.",
+  "where": "L12",
+  "ref_deps": [
+   "E0009"
+  ],
+  "person": "P048",
+  "src": "L12",
+  "dest": "L10"
+ },
+ {
+  "id": "E0210",
+  "type": "TELL",
+  "chapter": 20,
+  "text": "Late one night Ildette confided to Moten Vellwood that the deed to the Larkholt pastures was forged.",
+  "where": "L10",
+  "ref_deps": [
+   "E0009"
+  ],
+  "secret": "S00",
+  "src": "P048",
+  "dest": "P039"
+ },
+ {
+  "id": "E0211",
+  "type": "GIVE",
+  "chapter": 20,
+  "text": "Nezek pressed the bone astrolabe into the hands of Maten Fellworth and would take nothing for it.",
+  "where": "L13",
+  "ref_deps": [
+   "E0008"
+  ],
+  "item": "I02",
+  "src": "P041",
+  "dest": "P033"
+ },
+ {
+  "id": "E0212",
+  "type": "PROMISE",
+  "chapter": 20,
+  "text": "Karine Corraby gave Lame Maten a solemn promise to carry a sealed letter to Mirehaven.",
+  "where": "L13",
+  "ref_deps": [
+   "E0047"
+  ],
+  "promise": "R15",
+  "a": "P042",
+  "b": "P033",
+  "act": "to carry a sealed letter to Mirehaven"
+ },
+ {
+  "id": "E0213",
+  "type": "TELL",
+  "chapter": 20,
+  "text": "Late one night Elwyn Corraby confided to Ordrek Hollaby that the deed to the Larkholt pastures was forged.",
+  "where": "L05",
+  "ref_deps": [],
+  "secret": "S00",
+  "src": "P045",
+  "dest": "P031"
+ },
+ {
+  "id": "E0214",
+  "type": "DEATH",
+  "chapter": 20,
+  "text": "They laid Red Kalis in the churchyard at Coldton, dead of the coughing sickness.",
+  "where": "L02",
+  "ref_deps": [
+   "E0039"
+  ],
+  "person": "P023",
+  "cause": "the coughing sickness",
+  "place": "L02"
+ },
+ {
+  "id": "E0215",
+  "type": "BIRTH",
+  "chapter": 20,
+  "text": "A daughter was born to Welis Marrwood and Thibin Ashley, and they called the child Vorine Ashley. The family lived in Brynford.",
+  "where": "L00",
+  "ref_deps": [],
+  "child": "P062",
+  "mother": "P014",
+  "father": "P050",
+  "place": "L00"
+ },
+ {
+  "id": "E0216",
+  "type": "MARRY",
+  "chapter": 21,
+  "text": "Nyssa Marrwood and Isdrek Vellmere were wed at Brynford, with half the parish looking on. The couple lived in Brynford from then on.",
+  "where": "L00",
+  "ref_deps": [],
+  "a": "P011",
+  "b": "P007",
+  "place": "L00"
+ },
+ {
+  "id": "E0217",
+  "type": "TELL",
+  "chapter": 21,
+  "text": "In a letter that Volis Hollaby burned after reading, Mossa Stenoway revealed that the harbor master of Brynwick takes bribes.",
+  "where": "L02",
+  "ref_deps": [],
+  "secret": "S02",
+  "src": "P003",
+  "dest": "P032"
+ },
+ {
+  "id": "E0218",
+  "type": "RESOLVE",
+  "chapter": 21,
+  "text": "True to her word to Mossa Stenoway, Vowyn Vellwood finished what she had promised (carry a sealed letter to Coldton).",
+  "where": "L02",
+  "ref_deps": [],
+  "promise": "R12",
+  "kept": true
+ },
+ {
+  "id": "E0219",
+  "type": "GIVE",
+  "chapter": 21,
+  "text": "Ildette Ashley won the oak mirror from Wevie at cards, fairly, and kept it.",
+  "where": "L10",
+  "ref_deps": [
+   "E0000"
+  ],
+  "item": "I10",
+  "src": "P002",
+  "dest": "P048"
+ },
+ {
+  "id": "E0220",
+  "type": "BIRTH",
+  "chapter": 21,
+  "text": "A son was born to Elvie Fellenridge and Tavus Fellworth, and they called the child Dadan Fellworth. The family lived in Dunholt.",
+  "where": "L03",
+  "ref_deps": [],
+  "child": "P063",
+  "mother": "P018",
+  "father": "P035",
+  "place": "L03"
+ },
+ {
+  "id": "E0221",
+  "type": "TELL",
+  "chapter": 21,
+  "text": "Karine Corraby could keep it no longer and told Gaten Stenoway that the bridge toll at Larkholt is skimmed every month.",
+  "where": "L13",
+  "ref_deps": [],
+  "secret": "S07",
+  "src": "P042",
+  "dest": "P000"
+ },
+ {
+  "id": "E0222",
+  "type": "DEATH",
+  "chapter": 22,
+  "text": "That autumn, a kick from a cart horse took Mabin Dornworth; he was buried at Harrowstead.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P025",
+  "cause": "a kick from a cart horse",
+  "place": "L07"
+ },
+ {
+  "id": "E0223",
+  "type": "PROMISE",
+  "chapter": 22,
+  "text": "Halis Fellenridge swore to Senelle Stenoway to carry a sealed letter to Tormere, and shook on it.",
+  "where": "L07",
+  "ref_deps": [],
+  "promise": "R16",
+  "a": "P019",
+  "b": "P004",
+  "act": "to carry a sealed letter to Tormere"
+ },
+ {
+  "id": "E0224",
+  "type": "DEATH",
+  "chapter": 22,
+  "text": "That autumn, the coughing sickness took the husband of Karine Corraby; he was buried at Wendby.",
+  "where": "L13",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P041",
+  "cause": "the coughing sickness",
+  "place": "L13"
+ },
+ {
+  "id": "E0225",
+  "type": "GIVE",
+  "chapter": 22,
+  "text": "Ildette Ashley pressed the oak mirror into the hands of Wevie Stenoway and would take nothing for it.",
+  "where": "L10",
+  "ref_deps": [],
+  "item": "I10",
+  "src": "P048",
+  "dest": "P002"
+ },
+ {
+  "id": "E0226",
+  "type": "PLAN",
+  "chapter": 22,
+  "text": "Mossa Stenoway talked for weeks of going to Mirehaven, yet in the end stayed where she was.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P003",
+  "dest": "L09"
+ },
+ {
+  "id": "E0227",
+  "type": "GIVE",
+  "chapter": 22,
+  "text": "Hawyn Vellmere sent the glass spyglass by carrier to Ilwyn Hollaby, who received it safely.",
+  "where": "L04",
+  "ref_deps": [],
+  "item": "I07",
+  "src": "P006",
+  "dest": "P029"
+ },
+ {
+  "id": "E0228",
+  "type": "DEATH",
+  "chapter": 23,
+  "text": "That winter, a winter fever took Ilwyn Hollaby; she was buried at Coldton.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P029",
+  "cause": "a winter fever",
+  "place": "L02"
+ },
+ {
+  "id": "E0229",
+  "type": "GIVE",
+  "chapter": 23,
+  "text": "Among the things left by Ilwyn Hollaby, the amber compass was handed to Felde Hollaby.",
+  "where": "L02",
+  "ref_deps": [],
+  "item": "I01",
+  "src": "P029",
+  "dest": "P030",
+  "inherit": true
+ },
+ {
+  "id": "E0230",
+  "type": "GIVE",
+  "chapter": 23,
+  "text": "The glass spyglass, which Ilwyn Hollaby had owned, went to Felde Hollaby.",
+  "where": "L02",
+  "ref_deps": [],
+  "item": "I07",
+  "src": "P029",
+  "dest": "P030",
+  "inherit": true
+ },
+ {
+  "id": "E0231",
+  "type": "GIVE",
+  "chapter": 23,
+  "text": "Among the things left by Ilwyn Hollaby, the bone locket was handed to Felde Hollaby.",
+  "where": "L02",
+  "ref_deps": [],
+  "item": "I03",
+  "src": "P029",
+  "dest": "P030",
+  "inherit": true
+ },
+ {
+  "id": "E0232",
+  "type": "PROMISE",
+  "chapter": 23,
+  "text": "Riric Vellwood gave Tavus Dornworth a solemn promise to rebuild the fallen wall at Wilcombe.",
+  "where": "L02",
+  "ref_deps": [],
+  "promise": "R17",
+  "a": "P037",
+  "b": "P027",
+  "act": "to rebuild the fallen wall at Wilcombe"
+ },
+ {
+  "id": "E0233",
+  "type": "DEATH",
+  "chapter": 23,
+  "text": "They laid Maten Fellworth in the churchyard at Wendby, dead of a long wasting sickness.",
+  "where": "L13",
+  "ref_deps": [],
+  "person": "P033",
+  "cause": "a long wasting sickness",
+  "place": "L13"
+ },
+ {
+  "id": "E0234",
+  "type": "GIVE",
+  "chapter": 23,
+  "text": "The bone astrolabe, which Maten Fellworth had owned, went to Yera.",
+  "where": "L13",
+  "ref_deps": [
+   "E0006"
+  ],
+  "item": "I02",
+  "src": "P033",
+  "dest": "P034",
+  "inherit": true
+ },
+ {
+  "id": "E0235",
+  "type": "PROMISE",
+  "chapter": 23,
+  "text": "Karine Corraby gave Gaten Stenoway a solemn promise to plant an orchard on the slope above Harrowstead.",
+  "where": "L13",
+  "ref_deps": [],
+  "promise": "R18",
+  "a": "P042",
+  "b": "P000",
+  "act": "to plant an orchard on the slope above Harrowstead"
+ },
+ {
+  "id": "E0236",
+  "type": "GIVE",
+  "chapter": 23,
+  "text": "The husband of Nyssa Marrwood gave the copper spyglass to Luena.",
+  "where": "L00",
+  "ref_deps": [
+   "E0095",
+   "E0216"
+  ],
+  "item": "I06",
+  "src": "P007",
+  "dest": "P051"
+ },
+ {
+  "id": "E0237",
+  "type": "BIRTH",
+  "chapter": 23,
+  "text": "A son was born to Veslis Vellmere and Ordrek Hollaby, and they called the child Nyrald Hollaby. The family lived in Elmwick.",
+  "where": "L05",
+  "ref_deps": [],
+  "child": "P064",
+  "mother": "P009",
+  "father": "P031",
+  "place": "L05"
+ },
+ {
+  "id": "E0238",
+  "type": "BIRTH",
+  "chapter": 23,
+  "text": "A son was born to Halis Vellwood and Mavus Dornworth, and they called the child Brevus Dornworth. The family lived in Mirehaven.",
+  "where": "L09",
+  "ref_deps": [],
+  "child": "P065",
+  "mother": "P040",
+  "father": "P024",
+  "place": "L09"
+ },
+ {
+  "id": "E0239",
+  "type": "PLAN",
+  "chapter": 24,
+  "text": "Welis Marrwood meant to go to Tormere before the frost, but the roads flooded and the journey was put off.",
+  "where": "L00",
+  "ref_deps": [
+   "E0002"
+  ],
+  "person": "P014",
+  "dest": "L12"
+ },
+ {
+  "id": "E0240",
+  "type": "TRAVEL",
+  "chapter": 24,
+  "text": "Luena rode out of Brynford; by the next market day she was living in Coldton.",
+  "where": "L00",
+  "ref_deps": [
+   "E0095"
+  ],
+  "person": "P051",
+  "src": "L00",
+  "dest": "L02"
+ },
+ {
+  "id": "E0241",
+  "type": "TRAVEL",
+  "chapter": 24,
+  "text": "After the quarrel, Moten Vellwood quit Salton for good and took lodgings in Mirehaven.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P039",
+  "src": "L10",
+  "dest": "L09"
+ },
+ {
+  "id": "E0242",
+  "type": "TRAVEL",
+  "chapter": 24,
+  "text": "Wevie Stenoway followed him to Mirehaven within the month.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P002",
+  "src": "L10",
+  "dest": "L09"
+ },
+ {
+  "id": "E0243",
+  "type": "GIVE",
+  "chapter": 24,
+  "text": "Felde Hollaby won the oak spyglass from Volis at cards, fairly, and kept it.",
+  "where": "L02",
+  "ref_deps": [
+   "E0005"
+  ],
+  "item": "I11",
+  "src": "P032",
+  "dest": "P030"
+ },
+ {
+  "id": "E0244",
+  "type": "TELL",
+  "chapter": 24,
+  "text": "In a letter that Luena burned after reading, Felde Hollaby revealed that the harbor master of Brynwick takes bribes.",
+  "where": "L02",
+  "ref_deps": [
+   "E0095"
+  ],
+  "secret": "S02",
+  "src": "P030",
+  "dest": "P051"
+ },
+ {
+  "id": "E0245",
+  "type": "TELL",
+  "chapter": 25,
+  "text": "Late one night Elwyn Corraby confided to Ordrek Hollaby that the old abbey at Torcombe hides a second cellar.",
+  "where": "L05",
+  "ref_deps": [],
+  "secret": "S01",
+  "src": "P045",
+  "dest": "P031"
+ },
+ {
+  "id": "E0246",
+  "type": "MARRY",
+  "chapter": 25,
+  "text": "Zarald Hollaby and Karine Corraby were wed at Elmwick, with half the parish looking on. The couple lived in Elmwick from then on.",
+  "where": "L05",
+  "ref_deps": [],
+  "a": "P057",
+  "b": "P042",
+  "place": "L05"
+ },
+ {
+  "id": "E0247",
+  "type": "TRAVEL",
+  "chapter": 25,
+  "text": "After the quarrel, Elwyn Corraby quit Elmwick for good and took lodgings in Elmmere.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P045",
+  "src": "L05",
+  "dest": "L04"
+ },
+ {
+  "id": "E0248",
+  "type": "DEATH",
+  "chapter": 25,
+  "text": "They laid Mossa Stenoway in the churchyard at Coldton, dead of a winter fever.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P003",
+  "cause": "a winter fever",
+  "place": "L02"
+ },
+ {
+  "id": "E0249",
+  "type": "RUMOR",
+  "chapter": 25,
+  "text": "Orwyn Dornworth told everyone at the inn that Wevie Stenoway had drowned crossing the estuary, though no body was ever seen.",
+  "where": "L09",
+  "ref_deps": [],
+  "teller": "P054",
+  "claim": {
+   "kind": "dead",
+   "target": "P002"
+  }
+ },
+ {
+  "id": "E0250",
+  "type": "TRAVEL",
+  "chapter": 25,
+  "text": "After the quarrel, the wife of Zamor Ashley quit Coldton for good and took lodgings in Tormere.",
+  "where": "L02",
+  "ref_deps": [
+   "E0190"
+  ],
+  "person": "P032",
+  "src": "L02",
+  "dest": "L12"
+ },
+ {
+  "id": "E0251",
+  "type": "TRAVEL",
+  "chapter": 25,
+  "text": "Zamor Ashley followed her to Tormere within the month.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P049",
+  "src": "L02",
+  "dest": "L12"
+ },
+ {
+  "id": "E0252",
+  "type": "GIVE",
+  "chapter": 25,
+  "text": "Luena Dornworth sent the copper spyglass by carrier to Zarald Hollaby, who received it safely.",
+  "where": "L02",
+  "ref_deps": [],
+  "item": "I06",
+  "src": "P051",
+  "dest": "P057"
+ },
+ {
+  "id": "E0253",
+  "type": "PLAN",
+  "chapter": 26,
+  "text": "The eldest daughter of Nyssa Marrwood meant to go to Elmwick before the frost, but the roads flooded and the journey was put off.",
+  "where": "L15",
+  "ref_deps": [
+   "E0002"
+  ],
+  "person": "P013",
+  "dest": "L05"
+ },
+ {
+  "id": "E0254",
+  "type": "RUMOR",
+  "chapter": 26,
+  "text": "The wife of Thirald Dornworth whispered that Gadrek Marrwood had secretly married Welis Marrwood, but nobody could say where or when.",
+  "where": "L15",
+  "ref_deps": [
+   "E0198"
+  ],
+  "teller": "P013",
+  "claim": {
+   "kind": "married",
+   "target": "P012",
+   "other": "P014"
+  }
+ },
+ {
+  "id": "E0255",
+  "type": "RESOLVE",
+  "chapter": 26,
+  "text": "Nyssa Marrwood never did keep the promise made to Welis Marrwood (carry a sealed letter to Gulby); the matter was abandoned.",
+  "where": "L00",
+  "ref_deps": [],
+  "promise": "R09",
+  "kept": false
+ },
+ {
+  "id": "E0256",
+  "type": "TRAVEL",
+  "chapter": 26,
+  "text": "Thibin found work in Tormere, moved there, and did not return to Brynford.",
+  "where": "L00",
+  "ref_deps": [
+   "E0009"
+  ],
+  "person": "P050",
+  "src": "L00",
+  "dest": "L12"
+ },
+ {
+  "id": "E0257",
+  "type": "TRAVEL",
+  "chapter": 26,
+  "text": "Welis Marrwood went along to live in Tormere as well.",
+  "where": "L00",
+  "ref_deps": [],
+  "person": "P014",
+  "src": "L00",
+  "dest": "L12"
+ },
+ {
+  "id": "E0258",
+  "type": "TRAVEL",
+  "chapter": 26,
+  "text": "Nynelle Marrwood packed a single trunk and moved from Brynford to Elmwick.",
+  "where": "L00",
+  "ref_deps": [],
+  "person": "P015",
+  "src": "L00",
+  "dest": "L05"
+ },
+ {
+  "id": "E0259",
+  "type": "TRAVEL",
+  "chapter": 26,
+  "text": "Malan followed her to Elmwick within the month.",
+  "where": "L00",
+  "ref_deps": [
+   "E0004"
+  ],
+  "person": "P026",
+  "src": "L00",
+  "dest": "L05"
+ },
+ {
+  "id": "E0260",
+  "type": "TRAVEL",
+  "chapter": 27,
+  "text": "Moten packed a single trunk and moved from Mirehaven to Tormere.",
+  "where": "L09",
+  "ref_deps": [
+   "E0007"
+  ],
+  "person": "P039",
+  "src": "L09",
+  "dest": "L12"
+ },
+ {
+  "id": "E0261",
+  "type": "TRAVEL",
+  "chapter": 27,
+  "text": "Wevie Stenoway followed him to Tormere within the month.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P002",
+  "src": "L09",
+  "dest": "L12"
+ },
+ {
+  "id": "E0262",
+  "type": "RESOLVE",
+  "chapter": 27,
+  "text": "True to his word to Hawyn Vellmere, Thinar Vellmere finished what he had promised (plant an orchard on the slope above Dunholt).",
+  "where": "L04",
+  "ref_deps": [],
+  "promise": "R04",
+  "kept": true
+ },
+ {
+  "id": "E0263",
+  "type": "RESOLVE",
+  "chapter": 27,
+  "text": "Halis Fellenridge kept the promise made to Senelle Stenoway: the task (carry a sealed letter to Tormere) was done by harvest.",
+  "where": "L07",
+  "ref_deps": [],
+  "promise": "R16",
+  "kept": true
+ },
+ {
+  "id": "E0264",
+  "type": "GIVE",
+  "chapter": 27,
+  "text": "Yera sent the bone astrolabe by carrier to Zamor Ashley, who received it safely.",
+  "where": "L13",
+  "ref_deps": [
+   "E0006"
+  ],
+  "item": "I02",
+  "src": "P034",
+  "dest": "P049"
+ },
+ {
+  "id": "E0265",
+  "type": "RESOLVE",
+  "chapter": 28,
+  "text": "Veslis Vellmere never did keep the promise made to Cossa Corraby (teach the children of Harrowstead their letters); the matter was abandoned.",
+  "where": "L05",
+  "ref_deps": [],
+  "promise": "R06",
+  "kept": false
+ },
+ {
+  "id": "E0266",
+  "type": "GIVE",
+  "chapter": 28,
+  "text": "The eldest son of Uldan Dornworth pressed the brass comb into the hands of Halis Vellwood and would take nothing for it.",
+  "where": "L09",
+  "ref_deps": [
+   "E0004"
+  ],
+  "item": "I05",
+  "src": "P024",
+  "dest": "P040"
+ },
+ {
+  "id": "E0267",
+  "type": "MARRY",
+  "chapter": 28,
+  "text": "In the chapel at Harrowstead, Dalis married Jovus. The couple lived in Harrowstead from then on.",
+  "where": "L07",
+  "ref_deps": [
+   "E0001",
+   "E0139"
+  ],
+  "a": "P008",
+  "b": "P055",
+  "place": "L07"
+ },
+ {
+  "id": "E0268",
+  "type": "GIVE",
+  "chapter": 28,
+  "text": "A parcel from Wevie Stenoway reached Luena; inside was the oak mirror, now hers to keep.",
+  "where": "L12",
+  "ref_deps": [
+   "E0095"
+  ],
+  "item": "I10",
+  "src": "P002",
+  "dest": "P051"
+ },
+ {
+  "id": "E0269",
+  "type": "RESOLVE",
+  "chapter": 28,
+  "text": "Riric Vellwood broke faith with Tavus Dornworth, and the promised work (rebuild the fallen wall at Wilcombe) was never begun.",
+  "where": "L02",
+  "ref_deps": [],
+  "promise": "R17",
+  "kept": false
+ },
+ {
+  "id": "E0270",
+  "type": "DEATH",
+  "chapter": 29,
+  "text": "Thinar died of a fall from the mill loft at Elmmere.",
+  "where": "L04",
+  "ref_deps": [
+   "E0001"
+  ],
+  "person": "P005",
+  "cause": "a fall from the mill loft",
+  "place": "L04"
+ },
+ {
+  "id": "E0271",
+  "type": "TRAVEL",
+  "chapter": 29,
+  "text": "Hawyn Vellmere left Elmmere and settled in Elmwick.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P006",
+  "src": "L04",
+  "dest": "L05"
+ },
+ {
+  "id": "E0272",
+  "type": "GIVE",
+  "chapter": 29,
+  "text": "Zamor Ashley pressed the bone astrolabe into the hands of Thibin Ashley and would take nothing for it.",
+  "where": "L12",
+  "ref_deps": [],
+  "item": "I02",
+  "src": "P049",
+  "dest": "P050"
+ },
+ {
+  "id": "E0273",
+  "type": "GIVE",
+  "chapter": 29,
+  "text": "Zarald Hollaby gave the copper spyglass to Malan Dornworth.",
+  "where": "L05",
+  "ref_deps": [],
+  "item": "I06",
+  "src": "P057",
+  "dest": "P026"
+ },
+ {
+  "id": "E0274",
+  "type": "BIRTH",
+  "chapter": 30,
+  "text": "Nynelle gave birth to a daughter, named Nelis Dornworth; the father was Malan Dornworth. The family lived in Elmwick.",
+  "where": "L05",
+  "ref_deps": [
+   "E0002"
+  ],
+  "child": "P066",
+  "mother": "P015",
+  "father": "P026",
+  "place": "L05"
+ },
+ {
+  "id": "E0275",
+  "type": "GIVE",
+  "chapter": 30,
+  "text": "Volis won the bone astrolabe from Thibin Ashley at cards, fairly, and kept it.",
+  "where": "L12",
+  "ref_deps": [
+   "E0005"
+  ],
+  "item": "I02",
+  "src": "P050",
+  "dest": "P032"
+ },
+ {
+  "id": "E0276",
+  "type": "TELL",
+  "chapter": 30,
+  "text": "Late one night Ildette Ashley confided to Zamor Ashley that the deed to the Larkholt pastures was forged.",
+  "where": "L10",
+  "ref_deps": [],
+  "secret": "S00",
+  "src": "P048",
+  "dest": "P049"
+ },
+ {
+  "id": "E0277",
+  "type": "BIRTH",
+  "chapter": 30,
+  "text": "Illde Fellenridge gave birth to a son, named Peric Corraby; the father was Peten Corraby. The family lived in Dunholt.",
+  "where": "L03",
+  "ref_deps": [],
+  "child": "P067",
+  "mother": "P020",
+  "father": "P043",
+  "place": "L03"
+ },
+ {
+  "id": "E0278",
+  "type": "MARRY",
+  "chapter": 30,
+  "text": "Before the autumn was out, Lame Elwyn took Yeten Dornworth in marriage at Elmmere. The couple lived in Elmmere from then on.",
+  "where": "L04",
+  "ref_deps": [
+   "E0058"
+  ],
+  "a": "P045",
+  "b": "P059",
+  "place": "L04"
+ },
+ {
+  "id": "E0279",
+  "type": "BIRTH",
+  "chapter": 30,
+  "text": "A daughter was born to Rora Fellworth and Gadrek Marrwood, and they called the child Romira Marrwood. The family lived in Mirehaven.",
+  "where": "L09",
+  "ref_deps": [],
+  "child": "P068",
+  "mother": "P036",
+  "father": "P012",
+  "place": "L09"
+ },
+ {
+  "id": "E0280",
+  "type": "OCCUPATION",
+  "chapter": 30,
+  "text": "Mavus Dornworth was apprenticed anew and became a chandler.",
+  "where": "L09",
+  "ref_deps": [
+   "E0004"
+  ],
+  "person": "P024",
+  "old": "mason",
+  "new": "chandler"
+ },
+ {
+  "id": "E0281",
+  "type": "TRAVEL",
+  "chapter": 31,
+  "text": "Zanelle Dornworth rode out of Coldton; by the next market day she was living in Tormere.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P058",
+  "src": "L02",
+  "dest": "L12"
+ },
+ {
+  "id": "E0282",
+  "type": "PROMISE",
+  "chapter": 31,
+  "text": "Tavus Dornworth swore to Felde Hollaby to rebuild the fallen wall at Salton, and shook on it.",
+  "where": "L02",
+  "ref_deps": [],
+  "promise": "R19",
+  "a": "P027",
+  "b": "P030",
+  "act": "to rebuild the fallen wall at Salton"
+ },
+ {
+  "id": "E0283",
+  "type": "TRAVEL",
+  "chapter": 31,
+  "text": "The youngest son of Uldan Dornworth left Coldton and settled in Elmmere.",
+  "where": "L02",
+  "ref_deps": [
+   "E0004"
+  ],
+  "person": "P027",
+  "src": "L02",
+  "dest": "L04"
+ },
+ {
+  "id": "E0284",
+  "type": "TRAVEL",
+  "chapter": 31,
+  "text": "Felde went along to live in Elmmere as well.",
+  "where": "L02",
+  "ref_deps": [
+   "E0005"
+  ],
+  "person": "P030",
+  "src": "L02",
+  "dest": "L04"
+ },
+ {
+  "id": "E0285",
+  "type": "TELL",
+  "chapter": 31,
+  "text": "Riric Vellwood could keep it no longer and told Luena that the Vellmere mill ledger was rewritten after the flood.",
+  "where": "L02",
+  "ref_deps": [
+   "E0095"
+  ],
+  "secret": "S03",
+  "src": "P037",
+  "dest": "P051"
+ },
+ {
+  "id": "E0286",
+  "type": "DEATH",
+  "chapter": 31,
+  "text": "Yera died of drowning in the flood at Wendby.",
+  "where": "L13",
+  "ref_deps": [
+   "E0006"
+  ],
+  "person": "P034",
+  "cause": "drowning in the flood",
+  "place": "L13"
+ },
+ {
+  "id": "E0287",
+  "type": "MARRY",
+  "chapter": 31,
+  "text": "Zanelle Dornworth and Brerald were wed at Tormere, with half the parish looking on. The couple lived in Tormere from then on.",
+  "where": "L12",
+  "ref_deps": [
+   "E0203"
+  ],
+  "a": "P058",
+  "b": "P061",
+  "place": "L12"
+ },
+ {
+  "id": "E0288",
+  "type": "TELL",
+  "chapter": 31,
+  "text": "Late one night Ordrek confided to the wife of Zarald Hollaby that the old abbey at Torcombe hides a second cellar.",
+  "where": "L05",
+  "ref_deps": [
+   "E0005",
+   "E0246"
+  ],
+  "secret": "S01",
+  "src": "P031",
+  "dest": "P042"
+ },
+ {
+  "id": "E0289",
+  "type": "TELL",
+  "chapter": 31,
+  "text": "Late one night Riric Vellwood confided to Thibin Ashley that the Vellmere mill ledger was rewritten after the flood.",
+  "where": "L02",
+  "ref_deps": [],
+  "secret": "S03",
+  "src": "P037",
+  "dest": "P050"
+ },
+ {
+  "id": "E0290",
+  "type": "TRAVEL",
+  "chapter": 32,
+  "text": "After the quarrel, Luena quit Coldton for good and took lodgings in Brynford.",
+  "where": "L02",
+  "ref_deps": [
+   "E0095"
+  ],
+  "person": "P051",
+  "src": "L02",
+  "dest": "L00"
+ },
+ {
+  "id": "E0291",
+  "type": "TRAVEL",
+  "chapter": 32,
+  "text": "Tarine Corraby left Dunholt and settled in Harrowstead.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P060",
+  "src": "L03",
+  "dest": "L07"
+ },
+ {
+  "id": "E0292",
+  "type": "PROMISE",
+  "chapter": 32,
+  "text": "Elwyn gave Yeten Dornworth a solemn promise to rebuild the fallen wall at Mirehaven.",
+  "where": "L04",
+  "ref_deps": [
+   "E0008"
+  ],
+  "promise": "R20",
+  "a": "P045",
+  "b": "P059",
+  "act": "to rebuild the fallen wall at Mirehaven"
+ },
+ {
+  "id": "E0293",
+  "type": "RESOLVE",
+  "chapter": 32,
+  "text": "True to her word to Gaten Stenoway, Karine finished what she had promised (plant an orchard on the slope above Harrowstead).",
+  "where": "L05",
+  "ref_deps": [
+   "E0008"
+  ],
+  "promise": "R18",
+  "kept": true
+ },
+ {
+  "id": "E0294",
+  "type": "GIVE",
+  "chapter": 32,
+  "text": "Senelle Stenoway pressed the jade lantern into the hands of Dalis Vellmere and would take nothing for it.",
+  "where": "L07",
+  "ref_deps": [],
+  "item": "I09",
+  "src": "P004",
+  "dest": "P008"
+ },
+ {
+  "id": "E0295",
+  "type": "GIVE",
+  "chapter": 32,
+  "text": "A parcel from Aera Fellenridge reached Isdrek Vellmere; inside was the brass bell, now his to keep.",
+  "where": "L03",
+  "ref_deps": [],
+  "item": "I04",
+  "src": "P021",
+  "dest": "P007"
+ },
+ {
+  "id": "E0296",
+  "type": "TRAVEL",
+  "chapter": 32,
+  "text": "Illde Fellenridge packed a single trunk and moved from Dunholt to Elmwick.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P020",
+  "src": "L03",
+  "dest": "L05"
+ },
+ {
+  "id": "E0297",
+  "type": "TRAVEL",
+  "chapter": 32,
+  "text": "Peten went along to live in Elmwick as well.",
+  "where": "L03",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P043",
+  "src": "L03",
+  "dest": "L05"
+ },
+ {
+  "id": "E0298",
+  "type": "TRAVEL",
+  "chapter": 33,
+  "text": "Ildette found work in Brynwick, moved there, and did not return to Salton.",
+  "where": "L10",
+  "ref_deps": [
+   "E0009"
+  ],
+  "person": "P048",
+  "src": "L10",
+  "dest": "L01"
+ },
+ {
+  "id": "E0299",
+  "type": "RESOLVE",
+  "chapter": 33,
+  "text": "Ildette Ashley broke faith with Aera Fellenridge, and the promised work (plant an orchard on the slope above Elmmere) was never begun.",
+  "where": "L01",
+  "ref_deps": [],
+  "promise": "R14",
+  "kept": false
+ },
+ {
+  "id": "E0300",
+  "type": "MARRY",
+  "chapter": 33,
+  "text": "Hawyn Vellmere and Dadan Fellworth were wed at Elmwick, with half the parish looking on. The couple lived in Elmwick from then on.",
+  "where": "L05",
+  "ref_deps": [],
+  "a": "P006",
+  "b": "P063",
+  "place": "L05"
+ },
+ {
+  "id": "E0301",
+  "type": "TRAVEL",
+  "chapter": 33,
+  "text": "Vowyn Vellwood rode out of Coldton; by the next market day she was living in Elmmere.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P038",
+  "src": "L02",
+  "dest": "L04"
+ },
+ {
+  "id": "E0302",
+  "type": "TRAVEL",
+  "chapter": 33,
+  "text": "Riric Vellwood went along to live in Elmmere as well.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P037",
+  "src": "L02",
+  "dest": "L04"
+ },
+ {
+  "id": "E0303",
+  "type": "PROMISE",
+  "chapter": 33,
+  "text": "Halis Fellenridge gave Orric a solemn promise to repair the roof of the chapel at Salton.",
+  "where": "L07",
+  "ref_deps": [
+   "E0104"
+  ],
+  "promise": "R21",
+  "a": "P019",
+  "b": "P052",
+  "act": "to repair the roof of the chapel at Salton"
+ },
+ {
+  "id": "E0304",
+  "type": "TRAVEL",
+  "chapter": 34,
+  "text": "The husband of Karine Corraby left Elmwick and settled in Larkholt.",
+  "where": "L05",
+  "ref_deps": [
+   "E0246"
+  ],
+  "person": "P057",
+  "src": "L05",
+  "dest": "L08"
+ },
+ {
+  "id": "E0305",
+  "type": "TRAVEL",
+  "chapter": 34,
+  "text": "Karine went along to live in Larkholt as well.",
+  "where": "L05",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P042",
+  "src": "L05",
+  "dest": "L08"
+ },
+ {
+  "id": "E0306",
+  "type": "GIVE",
+  "chapter": 34,
+  "text": "Felde Hollaby gave the oak spyglass to Lame Elwyn.",
+  "where": "L04",
+  "ref_deps": [
+   "E0058"
+  ],
+  "item": "I11",
+  "src": "P030",
+  "dest": "P045"
+ },
+ {
+  "id": "E0307",
+  "type": "BIRTH",
+  "chapter": 34,
+  "text": "Halis Fellenridge gave birth to a son, named Maric Dornworth; the father was Orric Dornworth. The family lived in Harrowstead.",
+  "where": "L07",
+  "ref_deps": [],
+  "child": "P069",
+  "mother": "P019",
+  "father": "P052",
+  "place": "L07"
+ },
+ {
+  "id": "E0308",
+  "type": "PROMISE",
+  "chapter": 34,
+  "text": "Halis Fellenridge swore to Jovus Dornworth to carry a sealed letter to Larkholt, and shook on it.",
+  "where": "L07",
+  "ref_deps": [],
+  "promise": "R22",
+  "a": "P019",
+  "b": "P055",
+  "act": "to carry a sealed letter to Larkholt"
+ },
+ {
+  "id": "E0309",
+  "type": "OCCUPATION",
+  "chapter": 34,
+  "text": "The husband of Dalis Vellmere was apprenticed anew and became a cooper.",
+  "where": "L07",
+  "ref_deps": [
+   "E0267"
+  ],
+  "person": "P055",
+  "old": null,
+  "new": "cooper"
+ },
+ {
+  "id": "E0310",
+  "type": "PLAN",
+  "chapter": 34,
+  "text": "Old Senelle meant to go to Torcombe before the frost, but the roads flooded and the journey was put off.",
+  "where": "L07",
+  "ref_deps": [
+   "E0020"
+  ],
+  "person": "P004",
+  "dest": "L11"
+ },
+ {
+  "id": "E0311",
+  "type": "TELL",
+  "chapter": 35,
+  "text": "In a letter that Yeten Dornworth burned after reading, Tavus Dornworth revealed that the old abbey at Torcombe hides a second cellar.",
+  "where": "L04",
+  "ref_deps": [],
+  "secret": "S01",
+  "src": "P027",
+  "dest": "P059"
+ },
+ {
+  "id": "E0312",
+  "type": "RUMOR",
+  "chapter": 35,
+  "text": "A rumor started by the wife of Riric Vellwood had it that Elvie Fellenridge was dead of plague; the wife of Riric Vellwood had it from a peddler.",
+  "where": "L04",
+  "ref_deps": [
+   "E0007"
+  ],
+  "teller": "P038",
+  "claim": {
+   "kind": "dead",
+   "target": "P018"
+  }
+ },
+ {
+  "id": "E0313",
+  "type": "DEATH",
+  "chapter": 35,
+  "text": "Ildette Ashley died of a long wasting sickness at Brynwick.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P048",
+  "cause": "a long wasting sickness",
+  "place": "L01"
+ },
+ {
+  "id": "E0314",
+  "type": "TRAVEL",
+  "chapter": 35,
+  "text": "Islis Corraby left Dunholt and settled in Elmmere.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P056",
+  "src": "L03",
+  "dest": "L04"
+ },
+ {
+  "id": "E0315",
+  "type": "GIVE",
+  "chapter": 35,
+  "text": "Haric Corraby gave the ivory seal to Tavus Fellworth.",
+  "where": "L03",
+  "ref_deps": [],
+  "item": "I08",
+  "src": "P046",
+  "dest": "P035"
+ },
+ {
+  "id": "E0316",
+  "type": "TELL",
+  "chapter": 35,
+  "text": "Gaten Stenoway could keep it no longer and told Kadette Stenoway that the bridge toll at Larkholt is skimmed every month.",
+  "where": "L13",
+  "ref_deps": [],
+  "secret": "S07",
+  "src": "P000",
+  "dest": "P001"
+ },
+ {
+  "id": "E0317",
+  "type": "TRAVEL",
+  "chapter": 36,
+  "text": "Zanelle Dornworth rode out of Tormere; by the next market day she was living in Salton.",
+  "where": "L12",
+  "ref_deps": [],
+  "person": "P058",
+  "src": "L12",
+  "dest": "L10"
+ },
+ {
+  "id": "E0318",
+  "type": "TRAVEL",
+  "chapter": 36,
+  "text": "Brerald Dornworth went along to live in Salton as well.",
+  "where": "L12",
+  "ref_deps": [],
+  "person": "P061",
+  "src": "L12",
+  "dest": "L10"
+ },
+ {
+  "id": "E0319",
+  "type": "MARRY",
+  "chapter": 36,
+  "text": "In the chapel at Elmwick, Nyrald married Orwyn Dornworth. The couple lived in Elmwick from then on.",
+  "where": "L05",
+  "ref_deps": [
+   "E0237"
+  ],
+  "a": "P064",
+  "b": "P054",
+  "place": "L05"
+ },
+ {
+  "id": "E0320",
+  "type": "RESOLVE",
+  "chapter": 36,
+  "text": "The eldest daughter of Nyssa Marrwood broke faith with Thibin Ashley, and the promised work (pay the old debt owed to the Ashley family) was never begun.",
+  "where": "L15",
+  "ref_deps": [
+   "E0002"
+  ],
+  "promise": "R10",
+  "kept": false
+ },
+ {
+  "id": "E0321",
+  "type": "TELL",
+  "chapter": 36,
+  "text": "Late one night Ordrek Hollaby confided to Cossa Corraby that the deed to the Larkholt pastures was forged.",
+  "where": "L05",
+  "ref_deps": [],
+  "secret": "S00",
+  "src": "P031",
+  "dest": "P044"
+ },
+ {
+  "id": "E0322",
+  "type": "TELL",
+  "chapter": 36,
+  "text": "Ordrek Hollaby could keep it no longer and told Dadan that the deed to the Larkholt pastures was forged.",
+  "where": "L05",
+  "ref_deps": [
+   "E0220"
+  ],
+  "secret": "S00",
+  "src": "P031",
+  "dest": "P063"
+ },
+ {
+  "id": "E0323",
+  "type": "TELL",
+  "chapter": 37,
+  "text": "Late one night Isdrek Vellmere confided to Nyssa Marrwood that the fire at the Harrowstead granary was set on purpose.",
+  "where": "L00",
+  "ref_deps": [],
+  "secret": "S04",
+  "src": "P007",
+  "dest": "P011"
+ },
+ {
+  "id": "E0324",
+  "type": "PROMISE",
+  "chapter": 37,
+  "text": "The husband of Nyssa Marrwood swore to Luena Dornworth to rebuild the fallen wall at Coldton, and shook on it.",
+  "where": "L00",
+  "ref_deps": [
+   "E0216"
+  ],
+  "promise": "R23",
+  "a": "P007",
+  "b": "P051",
+  "act": "to rebuild the fallen wall at Coldton"
+ },
+ {
+  "id": "E0325",
+  "type": "BIRTH",
+  "chapter": 37,
+  "text": "A daughter was born to Elwyn Corraby and Yeten Dornworth, and they called the child Jora Dornworth. The family lived in Elmmere.",
+  "where": "L04",
+  "ref_deps": [],
+  "child": "P070",
+  "mother": "P045",
+  "father": "P059",
+  "place": "L04"
+ },
+ {
+  "id": "E0326",
+  "type": "RUMOR",
+  "chapter": 37,
+  "text": "A rumor started by Islis had it that Yeten Dornworth was dead of plague; Islis had it from a peddler.",
+  "where": "L04",
+  "ref_deps": [
+   "E0158"
+  ],
+  "teller": "P056",
+  "claim": {
+   "kind": "dead",
+   "target": "P059"
+  }
+ },
+ {
+  "id": "E0327",
+  "type": "PLAN",
+  "chapter": 37,
+  "text": "Tavus Dornworth talked for weeks of going to Wilcombe, yet in the end stayed where he was.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P027",
+  "dest": "L14"
+ },
+ {
+  "id": "E0328",
+  "type": "PLAN",
+  "chapter": 37,
+  "text": "Yeten talked for weeks of going to Coldton, yet in the end stayed where he was.",
+  "where": "L04",
+  "ref_deps": [
+   "E0196"
+  ],
+  "person": "P059",
+  "dest": "L02"
+ },
+ {
+  "id": "E0329",
+  "type": "BIRTH",
+  "chapter": 37,
+  "text": "A son was born to Rora Fellworth and Gadrek Marrwood, and they called the child Bretho Marrwood. The family lived in Mirehaven.",
+  "where": "L09",
+  "ref_deps": [],
+  "child": "P071",
+  "mother": "P036",
+  "father": "P012",
+  "place": "L09"
+ },
+ {
+  "id": "E0330",
+  "type": "PROMISE",
+  "chapter": 38,
+  "text": "Brerald Dornworth swore to Zanelle Dornworth to plant an orchard on the slope above Brynwick, and shook on it.",
+  "where": "L10",
+  "ref_deps": [],
+  "promise": "R24",
+  "a": "P061",
+  "b": "P058",
+  "act": "to plant an orchard on the slope above Brynwick"
+ },
+ {
+  "id": "E0331",
+  "type": "OCCUPATION",
+  "chapter": 38,
+  "text": "Zanelle Dornworth gave up idleness and took work as a tanner.",
+  "where": "L10",
+  "ref_deps": [
+   "E0170"
+  ],
+  "person": "P058",
+  "old": null,
+  "new": "tanner"
+ },
+ {
+  "id": "E0332",
+  "type": "TRAVEL",
+  "chapter": 38,
+  "text": "Zanelle Dornworth found work in Wilcombe, moved there, and did not return to Salton.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P058",
+  "src": "L10",
+  "dest": "L14"
+ },
+ {
+  "id": "E0333",
+  "type": "TRAVEL",
+  "chapter": 38,
+  "text": "Brerald went along to live in Wilcombe as well.",
+  "where": "L10",
+  "ref_deps": [
+   "E0203"
+  ],
+  "person": "P061",
+  "src": "L10",
+  "dest": "L14"
+ },
+ {
+  "id": "E0334",
+  "type": "GIVE",
+  "chapter": 38,
+  "text": "Felde Hollaby pressed the bone locket into the hands of Yeten and would take nothing for it.",
+  "where": "L04",
+  "ref_deps": [
+   "E0196"
+  ],
+  "item": "I03",
+  "src": "P030",
+  "dest": "P059"
+ },
+ {
+  "id": "E0335",
+  "type": "DEATH",
+  "chapter": 38,
+  "text": "They laid Senelle Stenoway in the churchyard at Harrowstead, dead of a wound that festered.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P004",
+  "cause": "a wound that festered",
+  "place": "L07"
+ },
+ {
+  "id": "E0336",
+  "type": "TRAVEL",
+  "chapter": 39,
+  "text": "Peten rode out of Elmwick; by the next market day he was living in Salton.",
+  "where": "L05",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P043",
+  "src": "L05",
+  "dest": "L10"
+ },
+ {
+  "id": "E0337",
+  "type": "TRAVEL",
+  "chapter": 39,
+  "text": "Illde Fellenridge went along to live in Salton as well.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P020",
+  "src": "L05",
+  "dest": "L10"
+ },
+ {
+  "id": "E0338",
+  "type": "OCCUPATION",
+  "chapter": 39,
+  "text": "Hawyn was apprenticed anew and became a brewer.",
+  "where": "L05",
+  "ref_deps": [
+   "E0001"
+  ],
+  "person": "P006",
+  "old": "shepherd",
+  "new": "brewer"
+ },
+ {
+  "id": "E0339",
+  "type": "MARRY",
+  "chapter": 39,
+  "text": "Before the winter was out, Vorine Ashley took Brevus in marriage at Brynford. The couple lived in Brynford from then on.",
+  "where": "L00",
+  "ref_deps": [
+   "E0238"
+  ],
+  "a": "P062",
+  "b": "P065",
+  "place": "L00"
+ },
+ {
+  "id": "E0340",
+  "type": "GIVE",
+  "chapter": 39,
+  "text": "Luena Dornworth gave the oak mirror to Vorine.",
+  "where": "L00",
+  "ref_deps": [
+   "E0215"
+  ],
+  "item": "I10",
+  "src": "P051",
+  "dest": "P062"
+ },
+ {
+  "id": "E0341",
+  "type": "TELL",
+  "chapter": 39,
+  "text": "In a letter that Veslis burned after reading, Kadette revealed that the bridge toll at Larkholt is skimmed every month.",
+  "where": "L13",
+  "ref_deps": [
+   "E0000",
+   "E0001"
+  ],
+  "secret": "S07",
+  "src": "P001",
+  "dest": "P009"
+ },
+ {
+  "id": "E0342",
+  "type": "TELL",
+  "chapter": 40,
+  "text": "In a letter that the wife of Nyrald Hollaby burned after reading, Cossa revealed that the deed to the Larkholt pastures was forged.",
+  "where": "L05",
+  "ref_deps": [
+   "E0008",
+   "E0319"
+  ],
+  "secret": "S00",
+  "src": "P044",
+  "dest": "P054"
+ },
+ {
+  "id": "E0343",
+  "type": "GIVE",
+  "chapter": 40,
+  "text": "The wife of Brevus Dornworth pressed the oak mirror into the hands of the husband of Nyssa Marrwood and would take nothing for it.",
+  "where": "L00",
+  "ref_deps": [
+   "E0216",
+   "E0339"
+  ],
+  "item": "I10",
+  "src": "P062",
+  "dest": "P007"
+ },
+ {
+  "id": "E0344",
+  "type": "PROMISE",
+  "chapter": 40,
+  "text": "Islis Corraby swore to Tavus Dornworth to pay the old debt owed to the Vellwood family, and shook on it.",
+  "where": "L04",
+  "ref_deps": [],
+  "promise": "R25",
+  "a": "P056",
+  "b": "P027",
+  "act": "to pay the old debt owed to the Vellwood family"
+ },
+ {
+  "id": "E0345",
+  "type": "TRAVEL",
+  "chapter": 40,
+  "text": "Elwyn Corraby packed a single trunk and moved from Elmmere to Wilcombe.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P045",
+  "src": "L04",
+  "dest": "L14"
+ },
+ {
+  "id": "E0346",
+  "type": "TRAVEL",
+  "chapter": 40,
+  "text": "Yeten followed her to Wilcombe within the month.",
+  "where": "L04",
+  "ref_deps": [
+   "E0196"
+  ],
+  "person": "P059",
+  "src": "L04",
+  "dest": "L14"
+ },
+ {
+  "id": "E0347",
+  "type": "TELL",
+  "chapter": 40,
+  "text": "In a letter that Luena Dornworth burned after reading, Nyssa Marrwood revealed that the fire at the Harrowstead granary was set on purpose.",
+  "where": "L00",
+  "ref_deps": [],
+  "secret": "S04",
+  "src": "P011",
+  "dest": "P051"
+ },
+ {
+  "id": "E0348",
+  "type": "DEATH",
+  "chapter": 40,
+  "text": "They laid Luvie Fellenridge in the churchyard at Dunholt, dead of old age, quietly in sleep.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P017",
+  "cause": "old age, quietly in sleep",
+  "place": "L03"
+ },
+ {
+  "id": "E0349",
+  "type": "SEEN_ALIVE",
+  "chapter": 41,
+  "text": "Elvie Fellenridge, whatever the gossips said, was seen hale and well at the summer fair in Dunholt.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P018",
+  "place": "L03"
+ }
+]

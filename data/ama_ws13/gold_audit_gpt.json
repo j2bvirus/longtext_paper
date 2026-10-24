@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "wrong",
+  "reason": "Step 35 examined /workspace/matplotlib__matplotlib__3.1/lib/matplotlib/ticker.py.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "Step 41 exposed the unconditional sorting of reversed limits.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "wrong",
+  "reason": "nonsingular runs before limit_range_for_scale, and Step 60 only ran a reproduction.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "wrong",
+  "reason": "Step 51 edited source code; it did not test or report ylim values.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "Detecting original vmin > vmax identifies intended inversion.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "wrong",
+  "reason": "Step 51 showed an edit; the next action was running debug_log_invert2.py.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "wrong",
+  "reason": "The last source modification was Step 71; Step 89 subsequently copied the file.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "nonsingular swapped reversed endpoints into ascending order.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "wrong",
+  "reason": "test_x_axis_too() tested only x-axis inversion; test_original_issue() tested y-axis inversion.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "Those steps exposed the sorting behavior that discarded inversion intent.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "wrong",
+  "reason": "The swap occurred when vmin > vmax, not when vmin <= 0.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "The fix remembered and restored inversion, and the listed successful checks are supported.",
+  "evidence": "whole trajectory"
+ }
+}

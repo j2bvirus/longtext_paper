@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "Step 8 ran exactly this year-count query on VEG_WHSLE_DF and returned the quoted counts.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "The chain matches the trajectory: step 12 succeeded, step 13 timed out, step 14 succeeded, and step 16 timed out.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "A speculative counterfactual, consistent with the successes in steps 12 and 25 and the single-year timeout in step 16.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "Step 12 produced the five wholesale metrics by year and category for 2020–2023 across the six categories.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "The preconditions on join keys, text dates, numeric columns and year filtering match the schemas in steps 4–5 and the step 8 check.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "The points on quantity-weighting, the missing wholesale quantity, loss-rate basis and grain consistency match the schemas and the attempted queries.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "The observations match steps 18–22, and the recommendations are reasonable and hedged.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "Step 9 was the first query to show transaction counts for 2020–2023.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "Step 25 is a defensible last point where the feasibility belief changed, since a large year-level item aggregation succeeded.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "It is flagged as an inference, and the cited evidence from steps 12 and 18–22 matches the trajectory.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "The table counts (4, 12, 13, 2), the 6 bash vs 19 SQL actions, and the 9 timeouts all match the trajectory.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "The causes, the repeated attempts (13, 15, 16, 23) and the minimal sequence are consistent with the trajectory.",
+  "evidence": "whole trajectory"
+ }
+}

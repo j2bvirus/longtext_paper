@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "Step 43 shows the tree 2 steps east, and Move East at step 44 leaves the agent facing the tree for the Do at step 45.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "Step 13 faces grass, Move West at step 14 faces the tree, and the Do at step 15 succeeds.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "The conclusion is right, since a Do at step 102 would not hit water. The step 102 observation it cites is the one after the move, so the reasoning is slightly off.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "wrong",
+  "reason": "From step 90 to step 94 the agent moved one north and three east (steps 91–94), not two north and three east.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "The Move East at step 44 reorients the agent to face the tree, which the Do at step 45 needs.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "The agent faced grass at step 13, and Move West reorients it to the tree.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "Wood was already collected at step 6, so the 0.0 reward is consistent.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "Wood is added to the inventory at step 15, which is the basis for crafting.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "Coal first appears at step 94 after the Move East, which fits an object entering the view window.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "The Move South steps approach the tree and the Move East at step 44 aligns the agent to face it.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "Step 12 shows the agent facing grass, and step 14 changes it to face the tree.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "Move East at step 44 is the prerequisite for the Do at step 45.",
+  "evidence": "whole trajectory"
+ }
+}

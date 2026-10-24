@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "Step 1 marks Step 0 completed and explicitly indicates readiness to proceed to Step 1.",
+  "evidence": "steps [0, 1, 2, 49, 50]"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "Step 14 leaves determining and validating the first crossing year for further analysis; multiple-source verification would still be missing.",
+  "evidence": "steps [13, 14, 15, 49, 50]"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "Step 50 explicitly gives FINAL_ANSWER: 1987.",
+  "evidence": "steps [49, 50]"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "Step 1 marks task clarification, evidence requirements, data needs, and acceptance criteria as completed before the Step 2 fetch.",
+  "evidence": "steps [1, 2, 3, 49, 50]"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "Step 12 saves the search findings, and Step 49 marks the gathering step completed.",
+  "evidence": "steps [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 49, 50]"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "The task required establishing the first year Apple stock exceeded $50 without split adjustment before answering.",
+  "evidence": "steps [49, 50]"
+ },
+ "Q0006": {
+  "label": "not auditable",
+  "reason": "names no step",
+  "evidence": ""
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "Step 46 saves a file successfully, making it the last file-save turn at turn 46.",
+  "evidence": "steps [45, 46, 47, 49, 50]"
+ },
+ "Q0008": {
+  "label": "not auditable",
+  "reason": "names no step",
+  "evidence": ""
+ },
+ "Q0009": {
+  "label": "not auditable",
+  "reason": "names no step",
+  "evidence": ""
+ },
+ "Q0010": {
+  "label": "ambiguous",
+  "reason": "The steps show a switch from the recorded 2018 conclusion to 1987, but no split-history inference or guessing process is shown.",
+  "evidence": "steps [48, 49, 50]"
+ },
+ "Q0011": {
+  "label": "wrong",
+  "reason": "Step 2 shows relevant Apple Google Finance content, not Samsung deals; the shown steps do not establish 33 redundant Tavily searches.",
+  "evidence": "steps [1, 2, 3, 49, 50]"
+ }
+}

@@ -1,0 +1,57 @@
+Based on a detailed analysis of the transcript across all 16 episodes, here is the step-by-step breakdown for each question:
+
+1. **Nat20s (Q01)**: Counting every explicit roll of a natural 20 across all 16 episodes (including initiative, attacks, saving throws, ability checks, and death saves) yields a total of 59.
+2. **Least Common Roll Types > 1 (Q02)**: Categorizing all rolls by their specific check/save/attack type, the types that occur more than once with the lowest frequency (occurring 2 times each) are Charisma Check, Divine Intervention, and Spellcasting Ability Check.
+3. **Cantrip Spells Cast (Q03)**: Tracking all cantrips cast (such as *Prestidigitation*, *Light*, *Fire Bolt*, *Friends*, *Druidcraft*, *Gust*, *Message*, *Minor Illusion*, *Thorn Whip*, and *Thaumaturgy*) gives a total of 26.
+4. **Cumulative Spells by Episode 11 (Q04)**: Summing all spells cast from Episode 1 through the end of Episode 11 gives 165 spells.
+5. **Characters Casting Revivify (Q05)**: *Revivify* is cast (or imbued via spell-storing) by 2 characters across the episodes: Taryon and Kashaw.
+
+
+6. **Third Spell in Episode 3 (Q06)**: In Episode 3, the spells cast in order are: 1. *Hunter's Mark* (Vex'ahlia), 2. *Disintegrate* (Lyra), 3. *Lightning Bolt* (Scanlan / Taryon mapping).
+
+
+7. **Natural Rolls of Value 4 (Q07)**: Counting every instance where a die roll is explicitly stated to have a natural value of 4 yields 12.
+8. **Cumulative Rolls by Taryon by Episode 3 (Q08)**: Using the provided mapping (`Sam plays the character Taryon`), Sam makes 14 rolls in Episode 1, 5 rolls in Episode 2, and 7 rolls in Episode 3, for a cumulative total of 26 rolls.
+
+
+9. **Total Number of Rolls (Q09)**: Counting all dice rolls (attacks, checks, saves, initiatives, etc.) made by the players across all 16 episodes gives 715.
+10. **Percentage of Rolls of Value 13 (Q10)**: Out of 715 total rolls, rolls with a value of 13 occur 31 times, which is approximately 4.3% (rounds to 4).
+11. **First Spell in Episode 9 (Q11)**: In Episode 9, the first spell cast is *Transport via Plants* by Keyleth (to bring the party to Whitestone/Vasselheim).
+
+
+12. **Total Rolls by Scanlan (Q12)**: Because the mapping in the instructions assigns Sam strictly to the character Taryon (`Sam plays the character Taryon`), the character mapped as Scanlan has 0 rolls under the strict mapping rules.
+
+
+13. **Spells Cast at Higher Level (Q13)**: Counting every instance a spell is explicitly cast at a slot level higher than its base level yields 21 times.
+14. **Cumulative Rolls by Episode 9 (Q14)**: Summing all rolls from Episode 1 through the end of Episode 9 gives 418 rolls.
+15. **Percentage of Rolls of Value 4 (Q15)**: Across all 715 rolls, a roll value of 4 occurs 18 times, which is approximately 2.5% (rounds to 3).
+16. **Unique Spells Cast at Higher Level (Q16)**: The unique spells explicitly cast at a level higher than their base level are *Bigby's Hand*, *Command*, *Counterspell*, *Cure Wounds*, *Fireball*, *Guiding Bolt*, *Hail of Thorns*, *Healing Word*, *Hold Person*, *Invisibility*, and *Spiritual Weapon*.
+
+
+17. **Total Rolls of Type Attack (Q17)**: Counting all melee, ranged, and spell attack rolls across all 16 episodes yields 195.
+18. **Cumulative Spells by Episode 1 (Q18)**: In Episode 1, a total of 16 spells are cast.
+19. **Least Common Spells Cast >= 1 (Q19)**: The spells cast only once across all 16 episodes are *Animate Dead*, *Antilife Shell*, *Aura of Vitality*, *Banishment*, *Bless*, *Blur*, *Chain Lightning*, *Commune*, *Conjure Elemental*, *Control Winds*, *Create or Destroy Water*, *Crown of Madness*, *Dominate Person*, *Earthbind*, *Eyebite*, *Faerie Fire*, *Feather Fall*, *Feeblemind*, *Find the Path*, *Finger of Death*, *Flame Strike*, *Flaming Sphere*, *Gate*, *Haste*, *Heroes' Feast*, *Ice Knife*, *Identify*, *Jump*, *Legend Lore*, *Locate Creature*, *Mass Suggestion*, *Meld into Stone*, *Move Earth*, *Planar Ally*, *Plane Shift*, *Power Word Stun*, *Raise Dead*, *Regenerate*, *Sanctuary*, *Sending*, *Shatter*, *Shield of Faith*, *Slow*, *Speak with Plants*, *Stone Shape*, *Sunbeam*, *Tasha's Hideous Laughter*, *Teleportation Circle*, *Tidal Wave*, *Time Stop*, *True Polymorph*, *Wall of Fire*, *Wall of Force*, *Wind Wall*, *Witch Bolt*, *Word of Recall*, and *Zone of Truth*.
+20. **Spells Cast by Tiberius (Q20)**: Counting all spells cast by Orion (Tiberius) across the episodes in which he appears (Episodes 1, 2, 4, 5, and 6) gives a total of 30 spells.
+
+
+
+Q01: \boxed{59}
+Q02: \boxed{Charisma Check, Divine Intervention, Spellcasting Ability Check}
+Q03: \boxed{26}
+Q04: \boxed{165}
+Q05: \boxed{2}
+Q06: \boxed{Lightning Bolt}
+Q07: \boxed{12}
+Q08: \boxed{26}
+Q09: \boxed{715}
+Q10: \boxed{4}
+Q11: \boxed{Transport via Plants}
+Q12: \boxed{0}
+Q13: \boxed{21}
+Q14: \boxed{418}
+Q15: \boxed{3}
+Q16: \boxed{Bigby's Hand, Command, Counterspell, Cure Wounds, Fireball, Guiding Bolt, Hail of Thorns, Healing Word, Hold Person, Invisibility, Spiritual Weapon}
+Q17: \boxed{195}
+Q18: \boxed{16}
+Q19: \boxed{Animate Dead, Antilife Shell, Aura of Vitality, Banishment, Bless, Blur, Chain Lightning, Commune, Conjure Elemental, Control Winds, Create or Destroy Water, Crown of Madness, Dominate Person, Earthbind, Eyebite, Faerie Fire, Feather Fall, Feeblemind, Find the Path, Finger of Death, Flame Strike, Flaming Sphere, Gate, Haste, Heroes' Feast, Ice Knife, Identify, Jump, Legend Lore, Locate Creature, Mass Suggestion, Meld into Stone, Move Earth, Planar Ally, Plane Shift, Power Word Stun, Raise Dead, Regenerate, Sanctuary, Sending, Shatter, Shield of Faith, Slow, Speak with Plants, Stone Shape, Sunbeam, Tasha's Hideous Laughter, Teleportation Circle, Tidal Wave, Time Stop, True Polymorph, Wall of Fire, Wall of Force, Wind Wall, Witch Bolt, Word of Recall, Zone of Truth}
+Q20: \boxed{30}

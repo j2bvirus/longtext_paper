@@ -1,0 +1,4508 @@
+[
+ {
+  "id": "E0000",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "In Stavecombe lived Madan Wexner, married to Gadette Wexner, with their children. In order of birth these were the eldest a daughter, Nera Wexner; then a daughter, Thiwyn Wexner; then a daughter, Elrine Wexner; then a daughter, Semira Wexner.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P000",
+  "mother": "P001",
+  "children": [
+   "P002",
+   "P003",
+   "P004",
+   "P005"
+  ],
+  "place": "L12"
+ },
+ {
+  "id": "E0001",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Wexoway household lived in the village of Larkton. Conar Wexoway and his wife Welis Wexoway had 4 children, all living at home: the eldest a daughter, Jolde Wexoway; then a daughter, Felis Wexoway; then a son, Aenar Wexoway; then a daughter, Lunelle Wexoway.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P006",
+  "mother": "P007",
+  "children": [
+   "P008",
+   "P009",
+   "P010",
+   "P011"
+  ],
+  "place": "L06"
+ },
+ {
+  "id": "E0002",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "In the market town of Ravenstead lived Ulvus Fellenridge, married to Conelle Fellenridge, with their children. In order of birth these were the eldest a son, Sedan Fellenridge; then a son, Yemor Fellenridge; then a daughter, Elena Fellenridge.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P012",
+  "mother": "P013",
+  "children": [
+   "P014",
+   "P015",
+   "P016"
+  ],
+  "place": "L11"
+ },
+ {
+  "id": "E0003",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Stenick household lived in Stavecombe. Eldrek Stenick and his wife Ludette Stenick had 3 children, all living at home: the eldest a son, Ildrek Stenick; then a daughter, Yedette Stenick; then a daughter, Tawyn Stenick.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P017",
+  "mother": "P018",
+  "children": [
+   "P019",
+   "P020",
+   "P021"
+  ],
+  "place": "L12"
+ },
+ {
+  "id": "E0004",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "In the river crossing at Kelhaven lived Aerald Orlett, married to Orssa Orlett, with their children. In order of birth these were the eldest a daughter, Codette Orlett; then a son, Vesrald Orlett; then a daughter, Semira Orlett.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P022",
+  "mother": "P023",
+  "children": [
+   "P024",
+   "P025",
+   "P026"
+  ],
+  "place": "L04"
+ },
+ {
+  "id": "E0005",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Grimson household lived in the market town of Coldhaven. Weric Grimson and his wife Orlde Grimson had 3 children, all living at home: the eldest a son, Aedrek Grimson; then a daughter, Werine Grimson; then a son, Jodrek Grimson.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P027",
+  "mother": "P028",
+  "children": [
+   "P029",
+   "P030",
+   "P031"
+  ],
+  "place": "L01"
+ },
+ {
+  "id": "E0006",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Dornmere household lived in the harbor town of Kelwick. Kadrek Dornmere and his wife Ellia Dornmere had 4 children, all living at home: the eldest a daughter, Nera Dornmere; then a son, Aedrek Dornmere; then a son, Maten Dornmere; then a daughter, Felis Dornmere.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P032",
+  "mother": "P033",
+  "children": [
+   "P034",
+   "P035",
+   "P036",
+   "P037"
+  ],
+  "place": "L05"
+ },
+ {
+  "id": "E0007",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Brackick household lived in the river crossing at Kelhaven. Seten Brackick and his wife Zara Brackick had 4 children, all living at home: the eldest a son, Aeric Brackick; then a daughter, Talis Brackick; then a son, Ordan Brackick; then a son, Ludan Brackick.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P038",
+  "mother": "P039",
+  "children": [
+   "P040",
+   "P041",
+   "P042",
+   "P043"
+  ],
+  "place": "L04"
+ },
+ {
+  "id": "E0008",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "In Quenholt lived Petho Dornwood, married to Dara Dornwood, with their children. In order of birth these were the eldest a daughter, Isnelle Dornwood; then a daughter, Jodette Dornwood; then a son, Iszek Dornwood.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P044",
+  "mother": "P045",
+  "children": [
+   "P046",
+   "P047",
+   "P048"
+  ],
+  "place": "L10"
+ },
+ {
+  "id": "E0009",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "In the market town of Torholt lived Fetho Brackaby, married to Aeena Brackaby, with their children. In order of birth these were the eldest a son, Wedrek Brackaby; then a daughter, Roena Brackaby.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P049",
+  "mother": "P050",
+  "children": [
+   "P051",
+   "P052"
+  ],
+  "place": "L13"
+ },
+ {
+  "id": "E0010",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Felis Dornmere had married Ludan Brackick some years before. The couple lived in Kelwick.",
+  "where": "L05",
+  "ref_deps": [],
+  "a": "P037",
+  "b": "P043",
+  "place": "L05"
+ },
+ {
+  "id": "E0011",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Elrine Wexner and Iszek Dornwood were husband and wife. The couple lived in Stavecombe.",
+  "where": "L12",
+  "ref_deps": [],
+  "a": "P004",
+  "b": "P048",
+  "place": "L12"
+ },
+ {
+  "id": "E0012",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Semira Orlett and Aedrek Grimson were husband and wife. The couple lived in Kelhaven.",
+  "where": "L04",
+  "ref_deps": [],
+  "a": "P026",
+  "b": "P029",
+  "place": "L04"
+ },
+ {
+  "id": "E0013",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Codette Orlett and Aeric Brackick were husband and wife. The couple lived in Kelhaven.",
+  "where": "L04",
+  "ref_deps": [],
+  "a": "P024",
+  "b": "P040",
+  "place": "L04"
+ },
+ {
+  "id": "E0014",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Sedan Fellenridge and Nera Wexner were husband and wife. The couple lived in Ravenstead.",
+  "where": "L11",
+  "ref_deps": [],
+  "a": "P014",
+  "b": "P002",
+  "place": "L11"
+ },
+ {
+  "id": "E0015",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Talis Brackick had married Yemor Fellenridge some years before. The couple lived in Kelhaven.",
+  "where": "L04",
+  "ref_deps": [],
+  "a": "P041",
+  "b": "P015",
+  "place": "L04"
+ },
+ {
+  "id": "E0016",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Madan Wexner worked as a chandler.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P000",
+  "occupation": "chandler",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0017",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Gadette Wexner was a miller. Gadette Wexner had been born in Quenholt.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P001",
+  "occupation": "miller",
+  "birthplace": "L10",
+  "nick": null
+ },
+ {
+  "id": "E0018",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Thiwyn Wexner had been born in Harrowton.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P003",
+  "occupation": null,
+  "birthplace": "L03",
+  "nick": null
+ },
+ {
+  "id": "E0019",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Semira Wexner worked as a tanner. Folk called Semira Wexner \"Quiet Semira\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P005",
+  "occupation": "tanner",
+  "birthplace": null,
+  "nick": "Quiet Semira"
+ },
+ {
+  "id": "E0020",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Welis Wexoway worked as a chandler. Folk called Welis Wexoway \"Tall Welis\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P007",
+  "occupation": "chandler",
+  "birthplace": null,
+  "nick": "Tall Welis"
+ },
+ {
+  "id": "E0021",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Jolde Wexoway worked as a chandler. Jolde Wexoway had been born in Wendmere.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P008",
+  "occupation": "chandler",
+  "birthplace": "L14",
+  "nick": null
+ },
+ {
+  "id": "E0022",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Felis Wexoway was a cooper.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P009",
+  "occupation": "cooper",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0023",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Lunelle Wexoway was a scribe. Lunelle Wexoway was born at Kelwick.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P011",
+  "occupation": "scribe",
+  "birthplace": "L05",
+  "nick": null
+ },
+ {
+  "id": "E0024",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Ulvus Fellenridge was a scribe. Ulvus Fellenridge had been born in Torholt.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P012",
+  "occupation": "scribe",
+  "birthplace": "L13",
+  "nick": null
+ },
+ {
+  "id": "E0025",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Conelle Fellenridge worked as a shepherd.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P013",
+  "occupation": "shepherd",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0026",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Sedan Fellenridge worked as a scribe. Sedan Fellenridge was born at Kelwick.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P014",
+  "occupation": "scribe",
+  "birthplace": "L05",
+  "nick": null
+ },
+ {
+  "id": "E0027",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Yemor Fellenridge worked as a miller.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P015",
+  "occupation": "miller",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0028",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Elena Fellenridge worked as a shepherd.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P016",
+  "occupation": "shepherd",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0029",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Folk called Ildrek Stenick \"Red Ildrek\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P019",
+  "occupation": null,
+  "birthplace": null,
+  "nick": "Red Ildrek"
+ },
+ {
+  "id": "E0030",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Yedette Stenick was a mason.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P020",
+  "occupation": "mason",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0031",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Tawyn Stenick worked as a ferryman. Tawyn Stenick was born at Harrowton.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P021",
+  "occupation": "ferryman",
+  "birthplace": "L03",
+  "nick": null
+ },
+ {
+  "id": "E0032",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Aerald Orlett was a shepherd. Aerald Orlett had been born in Harrowton.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P022",
+  "occupation": "shepherd",
+  "birthplace": "L03",
+  "nick": null
+ },
+ {
+  "id": "E0033",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Orssa Orlett worked as a smith. Orssa Orlett had been born in Coldstead.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P023",
+  "occupation": "smith",
+  "birthplace": "L02",
+  "nick": null
+ },
+ {
+  "id": "E0034",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Codette Orlett was a chandler.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P024",
+  "occupation": "chandler",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0035",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Vesrald Orlett worked as a cooper. Vesrald Orlett was born at Quenholt.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P025",
+  "occupation": "cooper",
+  "birthplace": "L10",
+  "nick": null
+ },
+ {
+  "id": "E0036",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Semira Orlett was a mason. Semira Orlett had been born in Coldstead. Folk called Semira Orlett \"Red Semira\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P026",
+  "occupation": "mason",
+  "birthplace": "L02",
+  "nick": "Red Semira"
+ },
+ {
+  "id": "E0037",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Weric Grimson was born at Brynmere.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P027",
+  "occupation": null,
+  "birthplace": "L00",
+  "nick": null
+ },
+ {
+  "id": "E0038",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Orlde Grimson was a herbalist.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P028",
+  "occupation": "herbalist",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0039",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Aedrek Grimson had been born in Larkwick. Folk called Aedrek Grimson \"Quiet Aedrek\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P029",
+  "occupation": null,
+  "birthplace": "L07",
+  "nick": "Quiet Aedrek"
+ },
+ {
+  "id": "E0040",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Werine Grimson was a tanner.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P030",
+  "occupation": "tanner",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0041",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Jodrek Grimson worked as a miller. Jodrek Grimson was born at Brynmere.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P031",
+  "occupation": "miller",
+  "birthplace": "L00",
+  "nick": null
+ },
+ {
+  "id": "E0042",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Ellia Dornmere was born at Larkton.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P033",
+  "occupation": null,
+  "birthplace": "L06",
+  "nick": null
+ },
+ {
+  "id": "E0043",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Nera Dornmere worked as a fisher. Nera Dornmere had been born in Kelwick.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P034",
+  "occupation": "fisher",
+  "birthplace": "L05",
+  "nick": null
+ },
+ {
+  "id": "E0044",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Aedrek Dornmere worked as a weaver.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P035",
+  "occupation": "weaver",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0045",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Maten Dornmere was a glazier. Maten Dornmere had been born in Larkwick.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P036",
+  "occupation": "glazier",
+  "birthplace": "L07",
+  "nick": null
+ },
+ {
+  "id": "E0046",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Felis Dornmere was a scribe. Felis Dornmere was born at Ravenstead.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P037",
+  "occupation": "scribe",
+  "birthplace": "L11",
+  "nick": null
+ },
+ {
+  "id": "E0047",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Seten Brackick worked as a shepherd. Seten Brackick had been born in Larkton.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P038",
+  "occupation": "shepherd",
+  "birthplace": "L06",
+  "nick": null
+ },
+ {
+  "id": "E0048",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Aeric Brackick worked as a herbalist. Aeric Brackick was born at Coldstead.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P040",
+  "occupation": "herbalist",
+  "birthplace": "L02",
+  "nick": null
+ },
+ {
+  "id": "E0049",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Talis Brackick was a chandler. Folk called Talis Brackick \"Tall Talis\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P041",
+  "occupation": "chandler",
+  "birthplace": null,
+  "nick": "Tall Talis"
+ },
+ {
+  "id": "E0050",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Ordan Brackick had been born in Ravenstead.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P042",
+  "occupation": null,
+  "birthplace": "L11",
+  "nick": null
+ },
+ {
+  "id": "E0051",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Ludan Brackick worked as a brewer. Folk called Ludan Brackick \"Red Ludan\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P043",
+  "occupation": "brewer",
+  "birthplace": null,
+  "nick": "Red Ludan"
+ },
+ {
+  "id": "E0052",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Petho Dornwood was a scribe.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P044",
+  "occupation": "scribe",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0053",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Dara Dornwood was a scribe.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P045",
+  "occupation": "scribe",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0054",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Isnelle Dornwood worked as a glazier.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P046",
+  "occupation": "glazier",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0055",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Jodette Dornwood was a herbalist. Jodette Dornwood had been born in Torholt.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P047",
+  "occupation": "herbalist",
+  "birthplace": "L13",
+  "nick": null
+ },
+ {
+  "id": "E0056",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Iszek Dornwood worked as a smith. Iszek Dornwood was born at Brynmere.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P048",
+  "occupation": "smith",
+  "birthplace": "L00",
+  "nick": null
+ },
+ {
+  "id": "E0057",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Fetho Brackaby was a ferryman. Fetho Brackaby was born at Harrowton. Folk called Fetho Brackaby \"Fetho the Younger\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P049",
+  "occupation": "ferryman",
+  "birthplace": "L03",
+  "nick": "Fetho the Younger"
+ },
+ {
+  "id": "E0058",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Aeena Brackaby was a tanner. Aeena Brackaby had been born in Oststead.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P050",
+  "occupation": "tanner",
+  "birthplace": "L08",
+  "nick": null
+ },
+ {
+  "id": "E0059",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Wedrek Brackaby was a tanner. Wedrek Brackaby was born at Coldstead.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P051",
+  "occupation": "tanner",
+  "birthplace": "L02",
+  "nick": null
+ },
+ {
+  "id": "E0060",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Roena Brackaby was a brewer.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P052",
+  "occupation": "brewer",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0061",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Among the possessions of Ordan Brackick was the brass seal.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I02",
+  "owner": "P042"
+ },
+ {
+  "id": "E0062",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Among the possessions of Conar Wexoway was the ivory lantern.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I06",
+  "owner": "P006"
+ },
+ {
+  "id": "E0063",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Among the possessions of Isnelle Dornwood was the silver dagger.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I11",
+  "owner": "P046"
+ },
+ {
+  "id": "E0064",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Among the possessions of Aedrek Dornmere was the garnet ledger.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I04",
+  "owner": "P035"
+ },
+ {
+  "id": "E0065",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The ivory locket belonged to Madan Wexner, head of the Wexner household.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I07",
+  "owner": "P000"
+ },
+ {
+  "id": "E0066",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Petho Dornwood kept the bone seal in a cedar box.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I01",
+  "owner": "P044"
+ },
+ {
+  "id": "E0067",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Ildrek Stenick kept the pewter flute in a cedar box.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I09",
+  "owner": "P019"
+ },
+ {
+  "id": "E0068",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Among the possessions of Yedette Stenick was the bone map.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I00",
+  "owner": "P020"
+ },
+ {
+  "id": "E0069",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Werine Grimson kept the copper map in a cedar box.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I03",
+  "owner": "P030"
+ },
+ {
+  "id": "E0070",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The silver compass belonged to Felis Dornmere.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I10",
+  "owner": "P037"
+ },
+ {
+  "id": "E0071",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The ivory seal belonged to Jodrek Grimson.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I08",
+  "owner": "P031"
+ },
+ {
+  "id": "E0072",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The iron locket belonged to Felis Wexoway.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I05",
+  "owner": "P009"
+ },
+ {
+  "id": "E0073",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Zara Brackick alone carried the knowledge that the Wexner family once owed a blood debt to the Fellenridge family.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S00",
+  "person": "P039"
+ },
+ {
+  "id": "E0074",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Semira Orlett knew that the old abbey at Coldhaven hides a second cellar.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S01",
+  "person": "P026"
+ },
+ {
+  "id": "E0075",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Nera Dornmere alone carried the knowledge that the Stenick mill ledger was rewritten after the flood.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S02",
+  "person": "P034"
+ },
+ {
+  "id": "E0076",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Felis Dornmere knew that the fire at the Kelwick granary was set on purpose.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S03",
+  "person": "P037"
+ },
+ {
+  "id": "E0077",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Conelle Fellenridge alone carried the knowledge that the harbor master of Coldhaven takes bribes.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S04",
+  "person": "P013"
+ },
+ {
+  "id": "E0078",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Seten Brackick knew that a chest of silver lies buried beneath the well at Harrowton.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S05",
+  "person": "P038"
+ },
+ {
+  "id": "E0079",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Ordan Brackick knew that the bridge toll at Coldhaven is skimmed every month.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S06",
+  "person": "P042"
+ },
+ {
+  "id": "E0080",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Jodette Dornwood knew that the deed to the Brynmere pastures was forged.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S07",
+  "person": "P047"
+ },
+ {
+  "id": "E0081",
+  "type": "RULE_VAULT",
+  "chapter": 1,
+  "text": "It was an old law of Oststead that the vault beneath its chapel would open only for a living person who held both the garnet ledger and the ivory seal at once.",
+  "where": null,
+  "ref_deps": [],
+  "place": "L08",
+  "items": [
+   "I04",
+   "I08"
+  ]
+ },
+ {
+  "id": "E0082",
+  "type": "RULE_BRIDGE",
+  "chapter": 1,
+  "text": "The toll bridge at Quencombe belonged to the Brackick family, and only those born a Brackick, or presently married to one, were allowed to cross it.",
+  "where": null,
+  "ref_deps": [],
+  "place": "L09",
+  "surname": "Brackick"
+ },
+ {
+  "id": "E0083",
+  "type": "RULE_HEIR",
+  "chapter": 1,
+  "text": "By custom, the ivory locket always passed, on the death of whoever held it, to the eldest living child of that holder; no will could change this, and it passed without ceremony.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I07",
+  "surname": "Wexner"
+ },
+ {
+  "id": "E0084",
+  "type": "OCCUPATION",
+  "chapter": 2,
+  "text": "Petho Dornwood gave up being a scribe and took work as a smith.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P044",
+  "old": "scribe",
+  "new": "smith"
+ },
+ {
+  "id": "E0085",
+  "type": "PROMISE",
+  "chapter": 2,
+  "text": "Jodette Dornwood gave Petho Dornwood a solemn promise to carry a sealed letter to Coldstead.",
+  "where": "L10",
+  "ref_deps": [],
+  "promise": "R00",
+  "a": "P047",
+  "b": "P044",
+  "act": "to carry a sealed letter to Coldstead"
+ },
+ {
+  "id": "E0086",
+  "type": "PROMISE",
+  "chapter": 2,
+  "text": "Petho Dornwood gave Isnelle a solemn promise to repair the roof of the chapel at Coldstead.",
+  "where": "L10",
+  "ref_deps": [
+   "E0008"
+  ],
+  "promise": "R01",
+  "a": "P044",
+  "b": "P046",
+  "act": "to repair the roof of the chapel at Coldstead"
+ },
+ {
+  "id": "E0087",
+  "type": "GIVE",
+  "chapter": 2,
+  "text": "A parcel from Ildrek reached Talis Brackick; inside was the pewter flute, now hers to keep.",
+  "where": "L12",
+  "ref_deps": [
+   "E0003"
+  ],
+  "item": "I09",
+  "src": "P019",
+  "dest": "P041"
+ },
+ {
+  "id": "E0088",
+  "type": "MARRY",
+  "chapter": 2,
+  "text": "Wedrek Brackaby and the only daughter of Ulvus Fellenridge were wed at Torholt, with half the parish looking on. The couple lived in Torholt from then on.",
+  "where": "L13",
+  "ref_deps": [
+   "E0002"
+  ],
+  "a": "P051",
+  "b": "P016",
+  "place": "L13"
+ },
+ {
+  "id": "E0089",
+  "type": "TELL",
+  "chapter": 2,
+  "text": "In a letter that Seten Brackick burned after reading, Semira Orlett revealed that the old abbey at Coldhaven hides a second cellar.",
+  "where": "L04",
+  "ref_deps": [],
+  "secret": "S01",
+  "src": "P026",
+  "dest": "P038"
+ },
+ {
+  "id": "E0090",
+  "type": "TELL",
+  "chapter": 2,
+  "text": "Late one night Nera Dornmere confided to Ludan Brackick that the Stenick mill ledger was rewritten after the flood.",
+  "where": "L05",
+  "ref_deps": [],
+  "secret": "S02",
+  "src": "P034",
+  "dest": "P043"
+ },
+ {
+  "id": "E0091",
+  "type": "TRAVEL",
+  "chapter": 3,
+  "text": "After the quarrel, Roena Brackaby quit Torholt for good and took lodgings in Larkton.",
+  "where": "L13",
+  "ref_deps": [],
+  "person": "P052",
+  "src": "L13",
+  "dest": "L06"
+ },
+ {
+  "id": "E0092",
+  "type": "OCCUPATION",
+  "chapter": 3,
+  "text": "Aeena Brackaby gave up being a tanner and took work as a fisher.",
+  "where": "L13",
+  "ref_deps": [],
+  "person": "P050",
+  "old": "tanner",
+  "new": "fisher"
+ },
+ {
+  "id": "E0093",
+  "type": "TRAVEL",
+  "chapter": 3,
+  "text": "Fetho rode out of Torholt; by the next market day he was living in Larkton.",
+  "where": "L13",
+  "ref_deps": [
+   "E0009"
+  ],
+  "person": "P049",
+  "src": "L13",
+  "dest": "L06"
+ },
+ {
+  "id": "E0094",
+  "type": "TRAVEL",
+  "chapter": 3,
+  "text": "Aeena Brackaby went along to live in Larkton as well.",
+  "where": "L13",
+  "ref_deps": [],
+  "person": "P050",
+  "src": "L13",
+  "dest": "L06"
+ },
+ {
+  "id": "E0095",
+  "type": "PLAN",
+  "chapter": 3,
+  "text": "Quiet Aedrek meant to go to Oststead before the frost, but the roads flooded and the journey was put off.",
+  "where": "L04",
+  "ref_deps": [
+   "E0039"
+  ],
+  "person": "P029",
+  "dest": "L08"
+ },
+ {
+  "id": "E0096",
+  "type": "TELL",
+  "chapter": 3,
+  "text": "Jodette Dornwood could keep it no longer and told Dara Dornwood that the deed to the Brynmere pastures was forged.",
+  "where": "L10",
+  "ref_deps": [],
+  "secret": "S07",
+  "src": "P047",
+  "dest": "P045"
+ },
+ {
+  "id": "E0097",
+  "type": "RUMOR",
+  "chapter": 3,
+  "text": "Petho Dornwood told everyone at the inn that Jodette Dornwood had drowned crossing the estuary, though no body was ever seen.",
+  "where": "L10",
+  "ref_deps": [],
+  "teller": "P044",
+  "claim": {
+   "kind": "dead",
+   "target": "P047"
+  }
+ },
+ {
+  "id": "E0098",
+  "type": "TRAVEL",
+  "chapter": 4,
+  "text": "Conar Wexoway packed a single trunk and moved from Larkton to Quencombe.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P006",
+  "src": "L06",
+  "dest": "L09"
+ },
+ {
+  "id": "E0099",
+  "type": "TRAVEL",
+  "chapter": 4,
+  "text": "Tall Welis followed him to Quencombe within the month.",
+  "where": "L06",
+  "ref_deps": [
+   "E0020"
+  ],
+  "person": "P007",
+  "src": "L06",
+  "dest": "L09"
+ },
+ {
+  "id": "E0100",
+  "type": "RUMOR",
+  "chapter": 4,
+  "text": "Gossip from Felis Wexoway claimed Weric Grimson and Conelle Fellenridge had been wed in secret.",
+  "where": "L06",
+  "ref_deps": [],
+  "teller": "P009",
+  "claim": {
+   "kind": "married",
+   "target": "P027",
+   "other": "P013"
+  }
+ },
+ {
+  "id": "E0101",
+  "type": "MARRY",
+  "chapter": 4,
+  "text": "Before the spring was out, the second daughter of Conar Wexoway took Maten in marriage at Larkton. The couple lived in Larkton from then on.",
+  "where": "L06",
+  "ref_deps": [
+   "E0001",
+   "E0006"
+  ],
+  "a": "P009",
+  "b": "P036",
+  "place": "L06"
+ },
+ {
+  "id": "E0102",
+  "type": "TELL",
+  "chapter": 4,
+  "text": "In a letter that Isnelle Dornwood burned after reading, Jodette Dornwood revealed that the deed to the Brynmere pastures was forged.",
+  "where": "L10",
+  "ref_deps": [],
+  "secret": "S07",
+  "src": "P047",
+  "dest": "P046"
+ },
+ {
+  "id": "E0103",
+  "type": "GIVE",
+  "chapter": 4,
+  "text": "Yedette gave the bone map to Elrine.",
+  "where": "L12",
+  "ref_deps": [
+   "E0000",
+   "E0003"
+  ],
+  "item": "I00",
+  "src": "P020",
+  "dest": "P004"
+ },
+ {
+  "id": "E0104",
+  "type": "GIVE",
+  "chapter": 4,
+  "text": "Codette Orlett won the pewter flute from Talis Brackick at cards, fairly, and kept it.",
+  "where": "L04",
+  "ref_deps": [],
+  "item": "I09",
+  "src": "P041",
+  "dest": "P024"
+ },
+ {
+  "id": "E0105",
+  "type": "GIVE",
+  "chapter": 4,
+  "text": "Ordan Brackick pressed the brass seal into the hands of Seten and would take nothing for it.",
+  "where": "L04",
+  "ref_deps": [
+   "E0007"
+  ],
+  "item": "I02",
+  "src": "P042",
+  "dest": "P038"
+ },
+ {
+  "id": "E0106",
+  "type": "DEATH",
+  "chapter": 5,
+  "text": "That summer, a winter fever took Madan Wexner; he was buried at Stavecombe.",
+  "where": "L12",
+  "ref_deps": [],
+  "person": "P000",
+  "cause": "a winter fever",
+  "place": "L12"
+ },
+ {
+  "id": "E0107",
+  "type": "MARRY",
+  "chapter": 5,
+  "text": "Before the summer was out, Lunelle took the eldest son of Kadrek Dornmere in marriage at Larkton. The couple lived in Larkton from then on.",
+  "where": "L06",
+  "ref_deps": [
+   "E0001",
+   "E0006"
+  ],
+  "a": "P011",
+  "b": "P035",
+  "place": "L06"
+ },
+ {
+  "id": "E0108",
+  "type": "MARRY",
+  "chapter": 5,
+  "text": "Before the summer was out, Ordan took Gadette in marriage at Kelhaven. The couple lived in Kelhaven from then on.",
+  "where": "L04",
+  "ref_deps": [
+   "E0000",
+   "E0007"
+  ],
+  "a": "P042",
+  "b": "P001",
+  "place": "L04"
+ },
+ {
+  "id": "E0109",
+  "type": "TRAVEL",
+  "chapter": 5,
+  "text": "After the quarrel, Aeric Brackick quit Kelhaven for good and took lodgings in Larkton.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P040",
+  "src": "L04",
+  "dest": "L06"
+ },
+ {
+  "id": "E0110",
+  "type": "TRAVEL",
+  "chapter": 5,
+  "text": "Codette Orlett followed him to Larkton within the month.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P024",
+  "src": "L04",
+  "dest": "L06"
+ },
+ {
+  "id": "E0111",
+  "type": "MARRY",
+  "chapter": 5,
+  "text": "In the chapel at Kelwick, Nera Dornmere married the youngest son of Orlde Grimson. The couple lived in Kelwick from then on.",
+  "where": "L05",
+  "ref_deps": [
+   "E0005"
+  ],
+  "a": "P034",
+  "b": "P031",
+  "place": "L05"
+ },
+ {
+  "id": "E0112",
+  "type": "TRAVEL",
+  "chapter": 6,
+  "text": "Aenar found work in Torholt, moved there, and did not return to Larkton.",
+  "where": "L06",
+  "ref_deps": [
+   "E0001"
+  ],
+  "person": "P010",
+  "src": "L06",
+  "dest": "L13"
+ },
+ {
+  "id": "E0113",
+  "type": "TRAVEL",
+  "chapter": 6,
+  "text": "The only daughter of Fetho Brackaby packed a single trunk and moved from Larkton to Harrowton.",
+  "where": "L06",
+  "ref_deps": [
+   "E0009"
+  ],
+  "person": "P052",
+  "src": "L06",
+  "dest": "L03"
+ },
+ {
+  "id": "E0114",
+  "type": "TRAVEL",
+  "chapter": 6,
+  "text": "Jolde found work in Stavecombe, moved there, and did not return to Larkton.",
+  "where": "L06",
+  "ref_deps": [
+   "E0001"
+  ],
+  "person": "P008",
+  "src": "L06",
+  "dest": "L12"
+ },
+ {
+  "id": "E0115",
+  "type": "RESOLVE",
+  "chapter": 6,
+  "text": "Petho never did keep the promise made to Isnelle Dornwood (repair the roof of the chapel at Coldstead); the matter was abandoned.",
+  "where": "L10",
+  "ref_deps": [
+   "E0008"
+  ],
+  "promise": "R01",
+  "kept": false
+ },
+ {
+  "id": "E0116",
+  "type": "MARRY",
+  "chapter": 6,
+  "text": "In the chapel at Stavecombe, Yedette married Aenar Wexoway. The couple lived in Stavecombe from then on.",
+  "where": "L12",
+  "ref_deps": [
+   "E0003"
+  ],
+  "a": "P020",
+  "b": "P010",
+  "place": "L12"
+ },
+ {
+  "id": "E0117",
+  "type": "PLAN",
+  "chapter": 6,
+  "text": "Aeena Brackaby meant to go to Stavecombe before the frost, but the roads flooded and the journey was put off.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P050",
+  "dest": "L12"
+ },
+ {
+  "id": "E0118",
+  "type": "PROMISE",
+  "chapter": 6,
+  "text": "Aeric swore to Fetho Brackaby to rebuild the fallen wall at Torholt, and shook on it.",
+  "where": "L06",
+  "ref_deps": [
+   "E0007"
+  ],
+  "promise": "R02",
+  "a": "P040",
+  "b": "P049",
+  "act": "to rebuild the fallen wall at Torholt"
+ },
+ {
+  "id": "E0119",
+  "type": "GIVE",
+  "chapter": 7,
+  "text": "Vesrald Orlett won the brass seal from Seten at cards, fairly, and kept it.",
+  "where": "L04",
+  "ref_deps": [
+   "E0007"
+  ],
+  "item": "I02",
+  "src": "P038",
+  "dest": "P025"
+ },
+ {
+  "id": "E0120",
+  "type": "TELL",
+  "chapter": 7,
+  "text": "Semira Orlett could keep it no longer and told Gadette that the old abbey at Coldhaven hides a second cellar.",
+  "where": "L04",
+  "ref_deps": [
+   "E0000"
+  ],
+  "secret": "S01",
+  "src": "P026",
+  "dest": "P001"
+ },
+ {
+  "id": "E0121",
+  "type": "GIVE",
+  "chapter": 7,
+  "text": "Dara Dornwood won the bone seal from Petho Dornwood at cards, fairly, and kept it.",
+  "where": "L10",
+  "ref_deps": [],
+  "item": "I01",
+  "src": "P044",
+  "dest": "P045"
+ },
+ {
+  "id": "E0122",
+  "type": "BIRTH",
+  "chapter": 7,
+  "text": "A son was born to Felis Dornmere and Ludan Brackick, and they called the child Yerald Brackick. The family lived in Kelwick.",
+  "where": "L05",
+  "ref_deps": [],
+  "child": "P053",
+  "mother": "P037",
+  "father": "P043",
+  "place": "L05"
+ },
+ {
+  "id": "E0123",
+  "type": "TRAVEL",
+  "chapter": 7,
+  "text": "Nera Dornmere found work in Quenholt, moved there, and did not return to Kelwick.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P034",
+  "src": "L05",
+  "dest": "L10"
+ },
+ {
+  "id": "E0124",
+  "type": "TRAVEL",
+  "chapter": 7,
+  "text": "Jodrek Grimson went along to live in Quenholt as well.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P031",
+  "src": "L05",
+  "dest": "L10"
+ },
+ {
+  "id": "E0125",
+  "type": "OCCUPATION",
+  "chapter": 7,
+  "text": "Ellia Dornmere gave up idleness and took work as a glazier.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P033",
+  "old": null,
+  "new": "glazier"
+ },
+ {
+  "id": "E0126",
+  "type": "TELL",
+  "chapter": 7,
+  "text": "Dara Dornwood could keep it no longer and told Nera Dornmere that the deed to the Brynmere pastures was forged.",
+  "where": "L10",
+  "ref_deps": [],
+  "secret": "S07",
+  "src": "P045",
+  "dest": "P034"
+ },
+ {
+  "id": "E0127",
+  "type": "TRAVEL",
+  "chapter": 7,
+  "text": "Ordan Brackick rode out of Kelhaven; by the next market day he was living in Kelwick.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P042",
+  "src": "L04",
+  "dest": "L05"
+ },
+ {
+  "id": "E0128",
+  "type": "TRAVEL",
+  "chapter": 7,
+  "text": "Gadette Wexner followed him to Kelwick within the month.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P001",
+  "src": "L04",
+  "dest": "L05"
+ },
+ {
+  "id": "E0129",
+  "type": "RESOLVE",
+  "chapter": 8,
+  "text": "Aeric never did keep the promise made to Fetho Brackaby (rebuild the fallen wall at Torholt); the matter was abandoned.",
+  "where": "L06",
+  "ref_deps": [
+   "E0007"
+  ],
+  "promise": "R02",
+  "kept": false
+ },
+ {
+  "id": "E0130",
+  "type": "GIVE",
+  "chapter": 8,
+  "text": "The husband of Lunelle Wexoway won the iron locket from Felis Wexoway at cards, fairly, and kept it.",
+  "where": "L06",
+  "ref_deps": [
+   "E0107"
+  ],
+  "item": "I05",
+  "src": "P009",
+  "dest": "P035"
+ },
+ {
+  "id": "E0131",
+  "type": "OCCUPATION",
+  "chapter": 8,
+  "text": "Aeena gave up being a fisher and took work as a cooper.",
+  "where": "L06",
+  "ref_deps": [
+   "E0009"
+  ],
+  "person": "P050",
+  "old": "fisher",
+  "new": "cooper"
+ },
+ {
+  "id": "E0132",
+  "type": "PLAN",
+  "chapter": 8,
+  "text": "Aedrek Dornmere meant to go to Yarlmere before the frost, but the roads flooded and the journey was put off.",
+  "where": "L06",
+  "ref_deps": [
+   "E0006"
+  ],
+  "person": "P035",
+  "dest": "L15"
+ },
+ {
+  "id": "E0133",
+  "type": "TELL",
+  "chapter": 8,
+  "text": "Nera Dornmere could keep it no longer and told Petho Dornwood that the deed to the Brynmere pastures was forged.",
+  "where": "L10",
+  "ref_deps": [],
+  "secret": "S07",
+  "src": "P034",
+  "dest": "P044"
+ },
+ {
+  "id": "E0134",
+  "type": "TELL",
+  "chapter": 8,
+  "text": "Zara Brackick could keep it no longer and told Aerald that the Wexner family once owed a blood debt to the Fellenridge family.",
+  "where": "L04",
+  "ref_deps": [
+   "E0004"
+  ],
+  "secret": "S00",
+  "src": "P039",
+  "dest": "P022"
+ },
+ {
+  "id": "E0135",
+  "type": "BIRTH",
+  "chapter": 9,
+  "text": "A daughter was born to Elrine Wexner and Iszek Dornwood, and they called the child Tavie Dornwood. The family lived in Stavecombe.",
+  "where": "L12",
+  "ref_deps": [],
+  "child": "P054",
+  "mother": "P004",
+  "father": "P048",
+  "place": "L12"
+ },
+ {
+  "id": "E0136",
+  "type": "RESOLVE",
+  "chapter": 9,
+  "text": "True to her word to Petho Dornwood, Jodette finished what she had promised (carry a sealed letter to Coldstead).",
+  "where": "L10",
+  "ref_deps": [
+   "E0008"
+  ],
+  "promise": "R00",
+  "kept": true
+ },
+ {
+  "id": "E0137",
+  "type": "TRAVEL",
+  "chapter": 9,
+  "text": "Felis Dornmere packed a single trunk and moved from Kelwick to Larkton.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P037",
+  "src": "L05",
+  "dest": "L06"
+ },
+ {
+  "id": "E0138",
+  "type": "TRAVEL",
+  "chapter": 9,
+  "text": "Ludan went along to live in Larkton as well.",
+  "where": "L05",
+  "ref_deps": [
+   "E0007"
+  ],
+  "person": "P043",
+  "src": "L05",
+  "dest": "L06"
+ },
+ {
+  "id": "E0139",
+  "type": "PLAN",
+  "chapter": 9,
+  "text": "Thiwyn meant to go to Yarlmere before the frost, but the roads flooded and the journey was put off.",
+  "where": "L12",
+  "ref_deps": [
+   "E0000"
+  ],
+  "person": "P003",
+  "dest": "L15"
+ },
+ {
+  "id": "E0140",
+  "type": "TRAVEL",
+  "chapter": 9,
+  "text": "Tawyn Stenick left Stavecombe and settled in Coldstead.",
+  "where": "L12",
+  "ref_deps": [],
+  "person": "P021",
+  "src": "L12",
+  "dest": "L02"
+ },
+ {
+  "id": "E0141",
+  "type": "PLAN",
+  "chapter": 9,
+  "text": "Aeena meant to go to Larkwick before the frost, but the roads flooded and the journey was put off.",
+  "where": "L06",
+  "ref_deps": [
+   "E0009"
+  ],
+  "person": "P050",
+  "dest": "L07"
+ },
+ {
+  "id": "E0142",
+  "type": "MARRY",
+  "chapter": 10,
+  "text": "In the chapel at Coldhaven, Werine Grimson married Vesrald Orlett. The couple lived in Coldhaven from then on.",
+  "where": "L01",
+  "ref_deps": [],
+  "a": "P030",
+  "b": "P025",
+  "place": "L01"
+ },
+ {
+  "id": "E0143",
+  "type": "TELL",
+  "chapter": 10,
+  "text": "In a letter that Jodrek burned after reading, Nera Dornmere revealed that the Stenick mill ledger was rewritten after the flood.",
+  "where": "L10",
+  "ref_deps": [
+   "E0005"
+  ],
+  "secret": "S02",
+  "src": "P034",
+  "dest": "P031"
+ },
+ {
+  "id": "E0144",
+  "type": "DEATH",
+  "chapter": 10,
+  "text": "That autumn, old age, quietly in sleep took Eldrek; he was buried at Stavecombe.",
+  "where": "L12",
+  "ref_deps": [
+   "E0003"
+  ],
+  "person": "P017",
+  "cause": "old age, quietly in sleep",
+  "place": "L12"
+ },
+ {
+  "id": "E0145",
+  "type": "TRAVEL",
+  "chapter": 10,
+  "text": "After the quarrel, Semira Wexner quit Stavecombe for good and took lodgings in Wendmere.",
+  "where": "L12",
+  "ref_deps": [],
+  "person": "P005",
+  "src": "L12",
+  "dest": "L14"
+ },
+ {
+  "id": "E0146",
+  "type": "TRAVEL",
+  "chapter": 10,
+  "text": "Fetho Brackaby rode out of Larkton; by the next market day he was living in Harrowton.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P049",
+  "src": "L06",
+  "dest": "L03"
+ },
+ {
+  "id": "E0147",
+  "type": "TRAVEL",
+  "chapter": 10,
+  "text": "Aeena Brackaby followed him to Harrowton within the month.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P050",
+  "src": "L06",
+  "dest": "L03"
+ },
+ {
+  "id": "E0148",
+  "type": "GIVE",
+  "chapter": 10,
+  "text": "Aedrek Dornmere pressed the iron locket into the hands of Ludan and would take nothing for it.",
+  "where": "L06",
+  "ref_deps": [
+   "E0007"
+  ],
+  "item": "I05",
+  "src": "P035",
+  "dest": "P043"
+ },
+ {
+  "id": "E0149",
+  "type": "TRAVEL",
+  "chapter": 11,
+  "text": "Tall Welis left Quencombe and settled in Wendmere.",
+  "where": "L09",
+  "ref_deps": [
+   "E0020"
+  ],
+  "person": "P007",
+  "src": "L09",
+  "dest": "L14"
+ },
+ {
+  "id": "E0150",
+  "type": "TRAVEL",
+  "chapter": 11,
+  "text": "Conar Wexoway went along to live in Wendmere as well.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P006",
+  "src": "L09",
+  "dest": "L14"
+ },
+ {
+  "id": "E0151",
+  "type": "TRAVEL",
+  "chapter": 11,
+  "text": "Jolde Wexoway left Stavecombe and settled in Coldhaven.",
+  "where": "L12",
+  "ref_deps": [],
+  "person": "P008",
+  "src": "L12",
+  "dest": "L01"
+ },
+ {
+  "id": "E0152",
+  "type": "TRAVEL",
+  "chapter": 11,
+  "text": "Elrine Wexner left Stavecombe and settled in Larkton.",
+  "where": "L12",
+  "ref_deps": [],
+  "person": "P004",
+  "src": "L12",
+  "dest": "L06"
+ },
+ {
+  "id": "E0153",
+  "type": "TRAVEL",
+  "chapter": 11,
+  "text": "Iszek Dornwood went along to live in Larkton as well.",
+  "where": "L12",
+  "ref_deps": [],
+  "person": "P048",
+  "src": "L12",
+  "dest": "L06"
+ },
+ {
+  "id": "E0154",
+  "type": "PLAN",
+  "chapter": 11,
+  "text": "Elena Fellenridge talked for weeks of going to Coldhaven, yet in the end stayed where she was.",
+  "where": "L13",
+  "ref_deps": [],
+  "person": "P016",
+  "dest": "L01"
+ },
+ {
+  "id": "E0155",
+  "type": "PROMISE",
+  "chapter": 11,
+  "text": "Weric Grimson gave Orlde Grimson a solemn promise to pay the old debt owed to the Orlett family.",
+  "where": "L01",
+  "ref_deps": [],
+  "promise": "R03",
+  "a": "P027",
+  "b": "P028",
+  "act": "to pay the old debt owed to the Orlett family"
+ },
+ {
+  "id": "E0156",
+  "type": "GIVE",
+  "chapter": 11,
+  "text": "A parcel from Conar reached Yemor Fellenridge; inside was the ivory lantern, now his to keep.",
+  "where": "L14",
+  "ref_deps": [
+   "E0001"
+  ],
+  "item": "I06",
+  "src": "P006",
+  "dest": "P015"
+ },
+ {
+  "id": "E0157",
+  "type": "GIVE",
+  "chapter": 11,
+  "text": "A parcel from Elrine Wexner reached Semira Wexner; inside was the bone map, now hers to keep.",
+  "where": "L06",
+  "ref_deps": [],
+  "item": "I00",
+  "src": "P004",
+  "dest": "P005"
+ },
+ {
+  "id": "E0158",
+  "type": "PLAN",
+  "chapter": 12,
+  "text": "Dara Dornwood talked for weeks of going to Yarlmere, yet in the end stayed where she was.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P045",
+  "dest": "L15"
+ },
+ {
+  "id": "E0159",
+  "type": "BIRTH",
+  "chapter": 12,
+  "text": "Nera Wexner gave birth to a son, named Codan Fellenridge; the father was Sedan Fellenridge. The family lived in Ravenstead.",
+  "where": "L11",
+  "ref_deps": [],
+  "child": "P055",
+  "mother": "P002",
+  "father": "P014",
+  "place": "L11"
+ },
+ {
+  "id": "E0160",
+  "type": "RUMOR",
+  "chapter": 12,
+  "text": "Dara Dornwood whispered that Ellia Dornmere had secretly married Yemor Fellenridge, but nobody could say where or when.",
+  "where": "L10",
+  "ref_deps": [],
+  "teller": "P045",
+  "claim": {
+   "kind": "married",
+   "target": "P033",
+   "other": "P015"
+  }
+ },
+ {
+  "id": "E0161",
+  "type": "DEATH",
+  "chapter": 12,
+  "text": "The wife of Ordan Brackick died of a wound that festered at Kelwick.",
+  "where": "L05",
+  "ref_deps": [
+   "E0108"
+  ],
+  "person": "P001",
+  "cause": "a wound that festered",
+  "place": "L05"
+ },
+ {
+  "id": "E0162",
+  "type": "MARRY",
+  "chapter": 12,
+  "text": "In the chapel at Kelwick, Ordan married Jolde Wexoway. The couple lived in Kelwick from then on.",
+  "where": "L05",
+  "ref_deps": [
+   "E0007"
+  ],
+  "a": "P042",
+  "b": "P008",
+  "place": "L05"
+ },
+ {
+  "id": "E0163",
+  "type": "RUMOR",
+  "chapter": 13,
+  "text": "Gossip from Codette Orlett claimed Ulvus Fellenridge and Lunelle Wexoway had been wed in secret.",
+  "where": "L06",
+  "ref_deps": [],
+  "teller": "P024",
+  "claim": {
+   "kind": "married",
+   "target": "P012",
+   "other": "P011"
+  }
+ },
+ {
+  "id": "E0164",
+  "type": "GIVE",
+  "chapter": 13,
+  "text": "Ludan Brackick gave the iron locket to Lunelle Wexoway.",
+  "where": "L06",
+  "ref_deps": [],
+  "item": "I05",
+  "src": "P043",
+  "dest": "P011"
+ },
+ {
+  "id": "E0165",
+  "type": "BIRTH",
+  "chapter": 13,
+  "text": "Codette gave birth to a daughter, named Cora Brackick; the father was Aeric Brackick. The family lived in Larkton.",
+  "where": "L06",
+  "ref_deps": [
+   "E0004"
+  ],
+  "child": "P056",
+  "mother": "P024",
+  "father": "P040",
+  "place": "L06"
+ },
+ {
+  "id": "E0166",
+  "type": "GIVE",
+  "chapter": 13,
+  "text": "The wife of Aeric Brackick gave the pewter flute to Felis Wexoway.",
+  "where": "L06",
+  "ref_deps": [
+   "E0013"
+  ],
+  "item": "I09",
+  "src": "P024",
+  "dest": "P009"
+ },
+ {
+  "id": "E0167",
+  "type": "BIRTH",
+  "chapter": 13,
+  "text": "A son was born to Codette Orlett and Aeric Brackick, and they called the child Hadrek Brackick. The family lived in Larkton.",
+  "where": "L06",
+  "ref_deps": [],
+  "child": "P057",
+  "mother": "P024",
+  "father": "P040",
+  "place": "L06"
+ },
+ {
+  "id": "E0168",
+  "type": "TRAVEL",
+  "chapter": 13,
+  "text": "Welis Wexoway found work in Yarlmere, moved there, and did not return to Wendmere.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P007",
+  "src": "L14",
+  "dest": "L15"
+ },
+ {
+  "id": "E0169",
+  "type": "TRAVEL",
+  "chapter": 13,
+  "text": "Conar Wexoway went along to live in Yarlmere as well.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P006",
+  "src": "L14",
+  "dest": "L15"
+ },
+ {
+  "id": "E0170",
+  "type": "PLAN",
+  "chapter": 14,
+  "text": "Ludette meant to go to Wendmere before the frost, but the roads flooded and the journey was put off.",
+  "where": "L12",
+  "ref_deps": [
+   "E0003"
+  ],
+  "person": "P018",
+  "dest": "L14"
+ },
+ {
+  "id": "E0171",
+  "type": "OCCUPATION",
+  "chapter": 14,
+  "text": "Seten gave up being a shepherd and took work as a mason.",
+  "where": "L04",
+  "ref_deps": [
+   "E0007"
+  ],
+  "person": "P038",
+  "old": "shepherd",
+  "new": "mason"
+ },
+ {
+  "id": "E0172",
+  "type": "RESOLVE",
+  "chapter": 14,
+  "text": "True to his word to Orlde Grimson, Weric Grimson finished what he had promised (pay the old debt owed to the Orlett family).",
+  "where": "L01",
+  "ref_deps": [],
+  "promise": "R03",
+  "kept": true
+ },
+ {
+  "id": "E0173",
+  "type": "TELL",
+  "chapter": 14,
+  "text": "Zara Brackick could keep it no longer and told Tall Talis that the Wexner family once owed a blood debt to the Fellenridge family.",
+  "where": "L04",
+  "ref_deps": [
+   "E0049"
+  ],
+  "secret": "S00",
+  "src": "P039",
+  "dest": "P041"
+ },
+ {
+  "id": "E0174",
+  "type": "OCCUPATION",
+  "chapter": 14,
+  "text": "Zara Brackick gave up idleness and took work as a ferryman.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P039",
+  "old": null,
+  "new": "ferryman"
+ },
+ {
+  "id": "E0175",
+  "type": "GIVE",
+  "chapter": 14,
+  "text": "Seten Brackick won the ivory lantern from Yemor at cards, fairly, and kept it.",
+  "where": "L04",
+  "ref_deps": [
+   "E0002"
+  ],
+  "item": "I06",
+  "src": "P015",
+  "dest": "P038"
+ },
+ {
+  "id": "E0176",
+  "type": "TRAVEL",
+  "chapter": 14,
+  "text": "Orssa rode out of Kelhaven; by the next market day she was living in Quencombe.",
+  "where": "L04",
+  "ref_deps": [
+   "E0004"
+  ],
+  "person": "P023",
+  "src": "L04",
+  "dest": "L09"
+ },
+ {
+  "id": "E0177",
+  "type": "TRAVEL",
+  "chapter": 14,
+  "text": "Aerald Orlett went along to live in Quencombe as well.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P022",
+  "src": "L04",
+  "dest": "L09"
+ },
+ {
+  "id": "E0178",
+  "type": "TELL",
+  "chapter": 14,
+  "text": "Semira Orlett could keep it no longer and told Yemor Fellenridge that the old abbey at Coldhaven hides a second cellar.",
+  "where": "L04",
+  "ref_deps": [],
+  "secret": "S01",
+  "src": "P026",
+  "dest": "P015"
+ },
+ {
+  "id": "E0179",
+  "type": "TRAVEL",
+  "chapter": 15,
+  "text": "After the quarrel, the youngest son of Kadrek Dornmere quit Larkton for good and took lodgings in Larkwick.",
+  "where": "L06",
+  "ref_deps": [
+   "E0006"
+  ],
+  "person": "P036",
+  "src": "L06",
+  "dest": "L07"
+ },
+ {
+  "id": "E0180",
+  "type": "TRAVEL",
+  "chapter": 15,
+  "text": "Felis Wexoway followed him to Larkwick within the month.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P009",
+  "src": "L06",
+  "dest": "L07"
+ },
+ {
+  "id": "E0181",
+  "type": "TELL",
+  "chapter": 15,
+  "text": "In a letter that Aedrek Dornmere burned after reading, Ludan Brackick revealed that the Stenick mill ledger was rewritten after the flood.",
+  "where": "L06",
+  "ref_deps": [],
+  "secret": "S02",
+  "src": "P043",
+  "dest": "P035"
+ },
+ {
+  "id": "E0182",
+  "type": "MARRY",
+  "chapter": 15,
+  "text": "Thiwyn Wexner and Ildrek Stenick were wed at Stavecombe, with half the parish looking on. The couple lived in Stavecombe from then on.",
+  "where": "L12",
+  "ref_deps": [],
+  "a": "P003",
+  "b": "P019",
+  "place": "L12"
+ },
+ {
+  "id": "E0183",
+  "type": "TELL",
+  "chapter": 15,
+  "text": "Late one night Talis confided to Yemor Fellenridge that the Wexner family once owed a blood debt to the Fellenridge family.",
+  "where": "L04",
+  "ref_deps": [
+   "E0007"
+  ],
+  "secret": "S00",
+  "src": "P041",
+  "dest": "P015"
+ },
+ {
+  "id": "E0184",
+  "type": "TRAVEL",
+  "chapter": 15,
+  "text": "Yemor Fellenridge rode out of Kelhaven; by the next market day he was living in Larkwick.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P015",
+  "src": "L04",
+  "dest": "L07"
+ },
+ {
+  "id": "E0185",
+  "type": "TRAVEL",
+  "chapter": 15,
+  "text": "Talis Brackick went along to live in Larkwick as well.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P041",
+  "src": "L04",
+  "dest": "L07"
+ },
+ {
+  "id": "E0186",
+  "type": "PROMISE",
+  "chapter": 16,
+  "text": "Ludan Brackick swore to the wife of Aeric Brackick to carry a sealed letter to Oststead, and shook on it.",
+  "where": "L06",
+  "ref_deps": [
+   "E0013"
+  ],
+  "promise": "R04",
+  "a": "P043",
+  "b": "P024",
+  "act": "to carry a sealed letter to Oststead"
+ },
+ {
+  "id": "E0187",
+  "type": "TRAVEL",
+  "chapter": 16,
+  "text": "Ordan Brackick packed a single trunk and moved from Kelwick to Torholt.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P042",
+  "src": "L05",
+  "dest": "L13"
+ },
+ {
+  "id": "E0188",
+  "type": "TRAVEL",
+  "chapter": 16,
+  "text": "Jolde Wexoway followed him to Torholt within the month.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P008",
+  "src": "L05",
+  "dest": "L13"
+ },
+ {
+  "id": "E0189",
+  "type": "PROMISE",
+  "chapter": 16,
+  "text": "Zara Brackick swore to Seten Brackick to carry a sealed letter to Yarlmere, and shook on it.",
+  "where": "L04",
+  "ref_deps": [],
+  "promise": "R05",
+  "a": "P039",
+  "b": "P038",
+  "act": "to carry a sealed letter to Yarlmere"
+ },
+ {
+  "id": "E0190",
+  "type": "PROMISE",
+  "chapter": 16,
+  "text": "Roena Brackaby gave Aeena Brackaby a solemn promise to teach the children of Oststead their letters.",
+  "where": "L03",
+  "ref_deps": [],
+  "promise": "R06",
+  "a": "P052",
+  "b": "P050",
+  "act": "to teach the children of Oststead their letters"
+ },
+ {
+  "id": "E0191",
+  "type": "TELL",
+  "chapter": 16,
+  "text": "Jodrek Grimson could keep it no longer and told Dara that the Stenick mill ledger was rewritten after the flood.",
+  "where": "L10",
+  "ref_deps": [
+   "E0008"
+  ],
+  "secret": "S02",
+  "src": "P031",
+  "dest": "P045"
+ },
+ {
+  "id": "E0192",
+  "type": "TELL",
+  "chapter": 16,
+  "text": "In a letter that Orssa Orlett burned after reading, Aerald Orlett revealed that the Wexner family once owed a blood debt to the Fellenridge family.",
+  "where": "L09",
+  "ref_deps": [],
+  "secret": "S00",
+  "src": "P022",
+  "dest": "P023"
+ },
+ {
+  "id": "E0193",
+  "type": "TELL",
+  "chapter": 16,
+  "text": "Conelle Fellenridge could keep it no longer and told Sedan Fellenridge that the harbor master of Coldhaven takes bribes.",
+  "where": "L11",
+  "ref_deps": [],
+  "secret": "S04",
+  "src": "P013",
+  "dest": "P014"
+ },
+ {
+  "id": "E0194",
+  "type": "GIVE",
+  "chapter": 17,
+  "text": "Dara Dornwood pressed the bone seal into the hands of Jodette Dornwood and would take nothing for it.",
+  "where": "L10",
+  "ref_deps": [],
+  "item": "I01",
+  "src": "P045",
+  "dest": "P047"
+ },
+ {
+  "id": "E0195",
+  "type": "BIRTH",
+  "chapter": 17,
+  "text": "Yedette Stenick gave birth to a daughter, named Nelia Wexoway; the father was Aenar Wexoway. The family lived in Stavecombe.",
+  "where": "L12",
+  "ref_deps": [],
+  "child": "P058",
+  "mother": "P020",
+  "father": "P010",
+  "place": "L12"
+ },
+ {
+  "id": "E0196",
+  "type": "TRAVEL",
+  "chapter": 17,
+  "text": "After the quarrel, Aenar quit Stavecombe for good and took lodgings in Larkwick.",
+  "where": "L12",
+  "ref_deps": [
+   "E0001"
+  ],
+  "person": "P010",
+  "src": "L12",
+  "dest": "L07"
+ },
+ {
+  "id": "E0197",
+  "type": "TRAVEL",
+  "chapter": 17,
+  "text": "Yedette Stenick went along to live in Larkwick as well.",
+  "where": "L12",
+  "ref_deps": [],
+  "person": "P020",
+  "src": "L12",
+  "dest": "L07"
+ },
+ {
+  "id": "E0198",
+  "type": "TELL",
+  "chapter": 17,
+  "text": "Late one night Seten Brackick confided to Zara Brackick that a chest of silver lies buried beneath the well at Harrowton.",
+  "where": "L04",
+  "ref_deps": [],
+  "secret": "S05",
+  "src": "P038",
+  "dest": "P039"
+ },
+ {
+  "id": "E0199",
+  "type": "RESOLVE",
+  "chapter": 17,
+  "text": "Roena kept the promise made to Aeena Brackaby: the task (teach the children of Oststead their letters) was done by harvest.",
+  "where": "L03",
+  "ref_deps": [
+   "E0009"
+  ],
+  "promise": "R06",
+  "kept": true
+ },
+ {
+  "id": "E0200",
+  "type": "TELL",
+  "chapter": 18,
+  "text": "Jodette Dornwood could keep it no longer and told the youngest son of Weric Grimson that the deed to the Brynmere pastures was forged.",
+  "where": "L10",
+  "ref_deps": [
+   "E0005"
+  ],
+  "secret": "S07",
+  "src": "P047",
+  "dest": "P031"
+ },
+ {
+  "id": "E0201",
+  "type": "BIRTH",
+  "chapter": 18,
+  "text": "Semira Orlett gave birth to a daughter, named Tarine Grimson; the father was Aedrek Grimson. The family lived in Kelhaven.",
+  "where": "L04",
+  "ref_deps": [],
+  "child": "P059",
+  "mother": "P026",
+  "father": "P029",
+  "place": "L04"
+ },
+ {
+  "id": "E0202",
+  "type": "GIVE",
+  "chapter": 18,
+  "text": "Seten Brackick pressed the ivory lantern into the hands of Zara Brackick and would take nothing for it.",
+  "where": "L04",
+  "ref_deps": [],
+  "item": "I06",
+  "src": "P038",
+  "dest": "P039"
+ },
+ {
+  "id": "E0203",
+  "type": "GIVE",
+  "chapter": 18,
+  "text": "A parcel from Isnelle Dornwood reached Yemor Fellenridge; inside was the silver dagger, now his to keep.",
+  "where": "L10",
+  "ref_deps": [],
+  "item": "I11",
+  "src": "P046",
+  "dest": "P015"
+ },
+ {
+  "id": "E0204",
+  "type": "TELL",
+  "chapter": 18,
+  "text": "In a letter that Ulvus Fellenridge burned after reading, Conelle Fellenridge revealed that the harbor master of Coldhaven takes bribes.",
+  "where": "L11",
+  "ref_deps": [],
+  "secret": "S04",
+  "src": "P013",
+  "dest": "P012"
+ },
+ {
+  "id": "E0205",
+  "type": "TRAVEL",
+  "chapter": 18,
+  "text": "Conelle Fellenridge rode out of Ravenstead; by the next market day she was living in Harrowton.",
+  "where": "L11",
+  "ref_deps": [],
+  "person": "P013",
+  "src": "L11",
+  "dest": "L03"
+ },
+ {
+  "id": "E0206",
+  "type": "TRAVEL",
+  "chapter": 18,
+  "text": "Ulvus followed her to Harrowton within the month.",
+  "where": "L11",
+  "ref_deps": [
+   "E0002"
+  ],
+  "person": "P012",
+  "src": "L11",
+  "dest": "L03"
+ },
+ {
+  "id": "E0207",
+  "type": "RUMOR",
+  "chapter": 18,
+  "text": "The second daughter of Madan Wexner told everyone at the inn that Aeric Brackick had drowned crossing the estuary, though no body was ever seen.",
+  "where": "L12",
+  "ref_deps": [
+   "E0000"
+  ],
+  "teller": "P003",
+  "claim": {
+   "kind": "dead",
+   "target": "P040"
+  }
+ },
+ {
+  "id": "E0208",
+  "type": "TRAVEL",
+  "chapter": 19,
+  "text": "After the quarrel, Kadrek Dornmere quit Kelwick for good and took lodgings in Quenholt.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P032",
+  "src": "L05",
+  "dest": "L10"
+ },
+ {
+  "id": "E0209",
+  "type": "TRAVEL",
+  "chapter": 19,
+  "text": "Ellia went along to live in Quenholt as well.",
+  "where": "L05",
+  "ref_deps": [
+   "E0006"
+  ],
+  "person": "P033",
+  "src": "L05",
+  "dest": "L10"
+ },
+ {
+  "id": "E0210",
+  "type": "PROMISE",
+  "chapter": 19,
+  "text": "Kadrek Dornmere swore to the eldest daughter of Dara Dornwood to repair the roof of the chapel at Quencombe, and shook on it.",
+  "where": "L10",
+  "ref_deps": [
+   "E0008"
+  ],
+  "promise": "R07",
+  "a": "P032",
+  "b": "P046",
+  "act": "to repair the roof of the chapel at Quencombe"
+ },
+ {
+  "id": "E0211",
+  "type": "BIRTH",
+  "chapter": 19,
+  "text": "Codette Orlett gave birth to a daughter, named Veswyn Brackick; the father was Aeric Brackick. The family lived in Larkton.",
+  "where": "L06",
+  "ref_deps": [],
+  "child": "P060",
+  "mother": "P024",
+  "father": "P040",
+  "place": "L06"
+ },
+ {
+  "id": "E0212",
+  "type": "TELL",
+  "chapter": 19,
+  "text": "In a letter that Yedette Stenick burned after reading, Aerald Orlett revealed that the Wexner family once owed a blood debt to the Fellenridge family.",
+  "where": "L09",
+  "ref_deps": [],
+  "secret": "S00",
+  "src": "P022",
+  "dest": "P020"
+ },
+ {
+  "id": "E0213",
+  "type": "TRAVEL",
+  "chapter": 19,
+  "text": "After the quarrel, Orssa Orlett quit Quencombe for good and took lodgings in Ravenstead.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P023",
+  "src": "L09",
+  "dest": "L11"
+ },
+ {
+  "id": "E0214",
+  "type": "TRAVEL",
+  "chapter": 19,
+  "text": "Aerald Orlett went along to live in Ravenstead as well.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P022",
+  "src": "L09",
+  "dest": "L11"
+ },
+ {
+  "id": "E0215",
+  "type": "OCCUPATION",
+  "chapter": 19,
+  "text": "Isnelle Dornwood gave up being a glazier and took work as a shepherd.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P046",
+  "old": "glazier",
+  "new": "shepherd"
+ },
+ {
+  "id": "E0216",
+  "type": "TELL",
+  "chapter": 20,
+  "text": "In a letter that Kadrek Dornmere burned after reading, Jodrek Grimson revealed that the Stenick mill ledger was rewritten after the flood.",
+  "where": "L10",
+  "ref_deps": [],
+  "secret": "S02",
+  "src": "P031",
+  "dest": "P032"
+ },
+ {
+  "id": "E0217",
+  "type": "TELL",
+  "chapter": 20,
+  "text": "Late one night Kadrek confided to Isnelle Dornwood that the Stenick mill ledger was rewritten after the flood.",
+  "where": "L10",
+  "ref_deps": [
+   "E0006"
+  ],
+  "secret": "S02",
+  "src": "P032",
+  "dest": "P046"
+ },
+ {
+  "id": "E0218",
+  "type": "TRAVEL",
+  "chapter": 20,
+  "text": "Nera Dornmere packed a single trunk and moved from Quenholt to Oststead.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P034",
+  "src": "L10",
+  "dest": "L08"
+ },
+ {
+  "id": "E0219",
+  "type": "TRAVEL",
+  "chapter": 20,
+  "text": "Jodrek Grimson went along to live in Oststead as well.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P031",
+  "src": "L10",
+  "dest": "L08"
+ },
+ {
+  "id": "E0220",
+  "type": "DEATH",
+  "chapter": 20,
+  "text": "They laid Orssa Orlett in the churchyard at Ravenstead, dead of the coughing sickness.",
+  "where": "L11",
+  "ref_deps": [],
+  "person": "P023",
+  "cause": "the coughing sickness",
+  "place": "L11"
+ },
+ {
+  "id": "E0221",
+  "type": "DEATH",
+  "chapter": 20,
+  "text": "They laid Ellia Dornmere in the churchyard at Quenholt, dead of a long wasting sickness.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P033",
+  "cause": "a long wasting sickness",
+  "place": "L10"
+ },
+ {
+  "id": "E0222",
+  "type": "TRAVEL",
+  "chapter": 21,
+  "text": "After the quarrel, Nera Wexner quit Ravenstead for good and took lodgings in Oststead.",
+  "where": "L11",
+  "ref_deps": [],
+  "person": "P002",
+  "src": "L11",
+  "dest": "L08"
+ },
+ {
+  "id": "E0223",
+  "type": "TRAVEL",
+  "chapter": 21,
+  "text": "Sedan Fellenridge went along to live in Oststead as well.",
+  "where": "L11",
+  "ref_deps": [],
+  "person": "P014",
+  "src": "L11",
+  "dest": "L08"
+ },
+ {
+  "id": "E0224",
+  "type": "PROMISE",
+  "chapter": 21,
+  "text": "Aerald Orlett swore to Aeena Brackaby to pay the old debt owed to the Dornwood family, and shook on it.",
+  "where": "L11",
+  "ref_deps": [],
+  "promise": "R08",
+  "a": "P022",
+  "b": "P050",
+  "act": "to pay the old debt owed to the Dornwood family"
+ },
+ {
+  "id": "E0225",
+  "type": "GIVE",
+  "chapter": 21,
+  "text": "Semira Wexner sent the bone map by carrier to Elrine Wexner, who received it safely.",
+  "where": "L14",
+  "ref_deps": [],
+  "item": "I00",
+  "src": "P005",
+  "dest": "P004"
+ },
+ {
+  "id": "E0226",
+  "type": "GIVE",
+  "chapter": 21,
+  "text": "The only son of Orssa Orlett won the copper map from Werine Grimson at cards, fairly, and kept it.",
+  "where": "L01",
+  "ref_deps": [
+   "E0004"
+  ],
+  "item": "I03",
+  "src": "P030",
+  "dest": "P025"
+ },
+ {
+  "id": "E0227",
+  "type": "GIVE",
+  "chapter": 21,
+  "text": "A parcel from Zara Brackick reached Weric Grimson; inside was the ivory lantern, now his to keep.",
+  "where": "L04",
+  "ref_deps": [],
+  "item": "I06",
+  "src": "P039",
+  "dest": "P027"
+ },
+ {
+  "id": "E0228",
+  "type": "TRAVEL",
+  "chapter": 21,
+  "text": "The wife of Ildrek Stenick found work in Harrowton, moved there, and did not return to Stavecombe.",
+  "where": "L12",
+  "ref_deps": [
+   "E0182"
+  ],
+  "person": "P003",
+  "src": "L12",
+  "dest": "L03"
+ },
+ {
+  "id": "E0229",
+  "type": "TRAVEL",
+  "chapter": 21,
+  "text": "Ildrek followed her to Harrowton within the month.",
+  "where": "L12",
+  "ref_deps": [
+   "E0003"
+  ],
+  "person": "P019",
+  "src": "L12",
+  "dest": "L03"
+ },
+ {
+  "id": "E0230",
+  "type": "DEATH",
+  "chapter": 21,
+  "text": "That summer, the coughing sickness took Lunelle Wexoway; she was buried at Larkton.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P011",
+  "cause": "the coughing sickness",
+  "place": "L06"
+ },
+ {
+  "id": "E0231",
+  "type": "GIVE",
+  "chapter": 21,
+  "text": "The iron locket, which Lunelle Wexoway had owned, went to the eldest son of Ellia Dornmere.",
+  "where": "L06",
+  "ref_deps": [
+   "E0006"
+  ],
+  "item": "I05",
+  "src": "P011",
+  "dest": "P035",
+  "inherit": true
+ },
+ {
+  "id": "E0232",
+  "type": "TRAVEL",
+  "chapter": 22,
+  "text": "Orlde Grimson rode out of Coldhaven; by the next market day she was living in Larkwick.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P028",
+  "src": "L01",
+  "dest": "L07"
+ },
+ {
+  "id": "E0233",
+  "type": "TRAVEL",
+  "chapter": 22,
+  "text": "Weric Grimson went along to live in Larkwick as well.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P027",
+  "src": "L01",
+  "dest": "L07"
+ },
+ {
+  "id": "E0234",
+  "type": "TELL",
+  "chapter": 22,
+  "text": "Late one night Yedette Stenick confided to Maten Dornmere that the Wexner family once owed a blood debt to the Fellenridge family.",
+  "where": "L07",
+  "ref_deps": [],
+  "secret": "S00",
+  "src": "P020",
+  "dest": "P036"
+ },
+ {
+  "id": "E0235",
+  "type": "RUMOR",
+  "chapter": 22,
+  "text": "Orlde told everyone at the inn that Tawyn Stenick had drowned crossing the estuary, though no body was ever seen.",
+  "where": "L07",
+  "ref_deps": [
+   "E0005"
+  ],
+  "teller": "P028",
+  "claim": {
+   "kind": "dead",
+   "target": "P021"
+  }
+ },
+ {
+  "id": "E0236",
+  "type": "PROMISE",
+  "chapter": 22,
+  "text": "Aeena swore to Conelle Fellenridge to rebuild the fallen wall at Torholt, and shook on it.",
+  "where": "L03",
+  "ref_deps": [
+   "E0009"
+  ],
+  "promise": "R09",
+  "a": "P050",
+  "b": "P013",
+  "act": "to rebuild the fallen wall at Torholt"
+ },
+ {
+  "id": "E0237",
+  "type": "GIVE",
+  "chapter": 22,
+  "text": "Aeric won the bone map from Elrine at cards, fairly, and kept it.",
+  "where": "L06",
+  "ref_deps": [
+   "E0000",
+   "E0007"
+  ],
+  "item": "I00",
+  "src": "P004",
+  "dest": "P040"
+ },
+ {
+  "id": "E0238",
+  "type": "TRAVEL",
+  "chapter": 22,
+  "text": "Ludette Stenick found work in Kelwick, moved there, and did not return to Stavecombe.",
+  "where": "L12",
+  "ref_deps": [],
+  "person": "P018",
+  "src": "L12",
+  "dest": "L05"
+ },
+ {
+  "id": "E0239",
+  "type": "RESOLVE",
+  "chapter": 22,
+  "text": "The youngest son of Zara Brackick broke faith with Codette Orlett, and the promised work (carry a sealed letter to Oststead) was never begun.",
+  "where": "L06",
+  "ref_deps": [
+   "E0007"
+  ],
+  "promise": "R04",
+  "kept": false
+ },
+ {
+  "id": "E0240",
+  "type": "GIVE",
+  "chapter": 22,
+  "text": "Felis Dornmere sent the silver compass by carrier to Conelle, who received it safely.",
+  "where": "L06",
+  "ref_deps": [
+   "E0002"
+  ],
+  "item": "I10",
+  "src": "P037",
+  "dest": "P013"
+ },
+ {
+  "id": "E0241",
+  "type": "GIVE",
+  "chapter": 22,
+  "text": "Aedrek Dornmere sent the garnet ledger by carrier to Jodrek Grimson, who received it safely.",
+  "where": "L06",
+  "ref_deps": [],
+  "item": "I04",
+  "src": "P035",
+  "dest": "P031"
+ },
+ {
+  "id": "E0242",
+  "type": "TRAVEL",
+  "chapter": 23,
+  "text": "Orlde Grimson found work in Torholt, moved there, and did not return to Larkwick.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P028",
+  "src": "L07",
+  "dest": "L13"
+ },
+ {
+  "id": "E0243",
+  "type": "TRAVEL",
+  "chapter": 23,
+  "text": "Weric Grimson went along to live in Torholt as well.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P027",
+  "src": "L07",
+  "dest": "L13"
+ },
+ {
+  "id": "E0244",
+  "type": "BIRTH",
+  "chapter": 23,
+  "text": "A son was born to Nera Wexner and Sedan Fellenridge, and they called the child Vovus Fellenridge. The family lived in Oststead.",
+  "where": "L08",
+  "ref_deps": [],
+  "child": "P061",
+  "mother": "P002",
+  "father": "P014",
+  "place": "L08"
+ },
+ {
+  "id": "E0245",
+  "type": "TRAVEL",
+  "chapter": 23,
+  "text": "Ulvus found work in Ravenstead, moved there, and did not return to Harrowton.",
+  "where": "L03",
+  "ref_deps": [
+   "E0002"
+  ],
+  "person": "P012",
+  "src": "L03",
+  "dest": "L11"
+ },
+ {
+  "id": "E0246",
+  "type": "TRAVEL",
+  "chapter": 23,
+  "text": "Conelle Fellenridge followed him to Ravenstead within the month.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P013",
+  "src": "L03",
+  "dest": "L11"
+ },
+ {
+  "id": "E0247",
+  "type": "TRAVEL",
+  "chapter": 23,
+  "text": "After the quarrel, Conelle quit Ravenstead for good and took lodgings in Larkwick.",
+  "where": "L11",
+  "ref_deps": [
+   "E0002"
+  ],
+  "person": "P013",
+  "src": "L11",
+  "dest": "L07"
+ },
+ {
+  "id": "E0248",
+  "type": "TRAVEL",
+  "chapter": 23,
+  "text": "Ulvus Fellenridge went along to live in Larkwick as well.",
+  "where": "L11",
+  "ref_deps": [],
+  "person": "P012",
+  "src": "L11",
+  "dest": "L07"
+ },
+ {
+  "id": "E0249",
+  "type": "TELL",
+  "chapter": 23,
+  "text": "Late one night Maten Dornmere confided to Aenar Wexoway that the Wexner family once owed a blood debt to the Fellenridge family.",
+  "where": "L07",
+  "ref_deps": [],
+  "secret": "S00",
+  "src": "P036",
+  "dest": "P010"
+ },
+ {
+  "id": "E0250",
+  "type": "BIRTH",
+  "chapter": 23,
+  "text": "A daughter was born to Nera Dornmere and Jodrek Grimson, and they called the child Rimira Grimson. The family lived in Oststead.",
+  "where": "L08",
+  "ref_deps": [],
+  "child": "P062",
+  "mother": "P034",
+  "father": "P031",
+  "place": "L08"
+ },
+ {
+  "id": "E0251",
+  "type": "PROMISE",
+  "chapter": 23,
+  "text": "Fetho Brackaby gave Thiwyn Wexner a solemn promise to pay the old debt owed to the Dornmere family.",
+  "where": "L03",
+  "ref_deps": [],
+  "promise": "R10",
+  "a": "P049",
+  "b": "P003",
+  "act": "to pay the old debt owed to the Dornmere family"
+ },
+ {
+  "id": "E0252",
+  "type": "RUMOR",
+  "chapter": 23,
+  "text": "Jodette told everyone at the inn that Felis Dornmere had drowned crossing the estuary, though no body was ever seen.",
+  "where": "L10",
+  "ref_deps": [
+   "E0008"
+  ],
+  "teller": "P047",
+  "claim": {
+   "kind": "dead",
+   "target": "P037"
+  }
+ },
+ {
+  "id": "E0253",
+  "type": "TRAVEL",
+  "chapter": 24,
+  "text": "Jolde Wexoway left Torholt and settled in Coldstead.",
+  "where": "L13",
+  "ref_deps": [],
+  "person": "P008",
+  "src": "L13",
+  "dest": "L02"
+ },
+ {
+  "id": "E0254",
+  "type": "TRAVEL",
+  "chapter": 24,
+  "text": "Ordan Brackick followed her to Coldstead within the month.",
+  "where": "L13",
+  "ref_deps": [],
+  "person": "P042",
+  "src": "L13",
+  "dest": "L02"
+ },
+ {
+  "id": "E0255",
+  "type": "RUMOR",
+  "chapter": 24,
+  "text": "The only son of Orssa Orlett whispered that Elrine Wexner had secretly married Weric Grimson, but nobody could say where or when.",
+  "where": "L01",
+  "ref_deps": [
+   "E0004"
+  ],
+  "teller": "P025",
+  "claim": {
+   "kind": "married",
+   "target": "P004",
+   "other": "P027"
+  }
+ },
+ {
+  "id": "E0256",
+  "type": "GIVE",
+  "chapter": 24,
+  "text": "Conelle sent the silver compass by carrier to Ildrek Stenick, who received it safely.",
+  "where": "L07",
+  "ref_deps": [
+   "E0002"
+  ],
+  "item": "I10",
+  "src": "P013",
+  "dest": "P019"
+ },
+ {
+  "id": "E0257",
+  "type": "RUMOR",
+  "chapter": 24,
+  "text": "A rumor started by Aenar had it that Weric Grimson was dead of plague; Aenar had it from a peddler.",
+  "where": "L07",
+  "ref_deps": [
+   "E0001"
+  ],
+  "teller": "P010",
+  "claim": {
+   "kind": "dead",
+   "target": "P027"
+  }
+ },
+ {
+  "id": "E0258",
+  "type": "GIVE",
+  "chapter": 24,
+  "text": "Vesrald sent the copper map by carrier to Felis Wexoway, who received it safely.",
+  "where": "L01",
+  "ref_deps": [
+   "E0004"
+  ],
+  "item": "I03",
+  "src": "P025",
+  "dest": "P009"
+ },
+ {
+  "id": "E0259",
+  "type": "MARRY",
+  "chapter": 24,
+  "text": "Before the spring was out, the youngest daughter of Petho Dornwood took Aerald in marriage at Quenholt. The couple lived in Quenholt from then on.",
+  "where": "L10",
+  "ref_deps": [
+   "E0004",
+   "E0008"
+  ],
+  "a": "P047",
+  "b": "P022",
+  "place": "L10"
+ },
+ {
+  "id": "E0260",
+  "type": "PROMISE",
+  "chapter": 24,
+  "text": "Jodette Dornwood gave Kadrek a solemn promise to teach the children of Stavecombe their letters.",
+  "where": "L10",
+  "ref_deps": [
+   "E0006"
+  ],
+  "promise": "R11",
+  "a": "P047",
+  "b": "P032",
+  "act": "to teach the children of Stavecombe their letters"
+ },
+ {
+  "id": "E0261",
+  "type": "PROMISE",
+  "chapter": 24,
+  "text": "Semira Orlett swore to Seten Brackick to carry a sealed letter to Yarlmere, and shook on it.",
+  "where": "L04",
+  "ref_deps": [],
+  "promise": "R12",
+  "a": "P026",
+  "b": "P038",
+  "act": "to carry a sealed letter to Yarlmere"
+ },
+ {
+  "id": "E0262",
+  "type": "TELL",
+  "chapter": 25,
+  "text": "Yemor could keep it no longer and told Felis Wexoway that the Wexner family once owed a blood debt to the Fellenridge family.",
+  "where": "L07",
+  "ref_deps": [
+   "E0002"
+  ],
+  "secret": "S00",
+  "src": "P015",
+  "dest": "P009"
+ },
+ {
+  "id": "E0263",
+  "type": "TRAVEL",
+  "chapter": 25,
+  "text": "After the quarrel, Fetho Brackaby quit Harrowton for good and took lodgings in Larkton.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P049",
+  "src": "L03",
+  "dest": "L06"
+ },
+ {
+  "id": "E0264",
+  "type": "TRAVEL",
+  "chapter": 25,
+  "text": "Aeena went along to live in Larkton as well.",
+  "where": "L03",
+  "ref_deps": [
+   "E0009"
+  ],
+  "person": "P050",
+  "src": "L03",
+  "dest": "L06"
+ },
+ {
+  "id": "E0265",
+  "type": "TELL",
+  "chapter": 25,
+  "text": "Late one night Seten Brackick confided to Quiet Aedrek that a chest of silver lies buried beneath the well at Harrowton.",
+  "where": "L04",
+  "ref_deps": [
+   "E0039"
+  ],
+  "secret": "S05",
+  "src": "P038",
+  "dest": "P029"
+ },
+ {
+  "id": "E0266",
+  "type": "BIRTH",
+  "chapter": 25,
+  "text": "A daughter was born to Felis Dornmere and Ludan Brackick, and they called the child Sewyn Brackick. The family lived in Larkton.",
+  "where": "L06",
+  "ref_deps": [],
+  "child": "P063",
+  "mother": "P037",
+  "father": "P043",
+  "place": "L06"
+ },
+ {
+  "id": "E0267",
+  "type": "TRAVEL",
+  "chapter": 25,
+  "text": "Elena Fellenridge rode out of Torholt; by the next market day she was living in Stavecombe.",
+  "where": "L13",
+  "ref_deps": [],
+  "person": "P016",
+  "src": "L13",
+  "dest": "L12"
+ },
+ {
+  "id": "E0268",
+  "type": "TRAVEL",
+  "chapter": 25,
+  "text": "Wedrek Brackaby followed her to Stavecombe within the month.",
+  "where": "L13",
+  "ref_deps": [],
+  "person": "P051",
+  "src": "L13",
+  "dest": "L12"
+ },
+ {
+  "id": "E0269",
+  "type": "GIVE",
+  "chapter": 25,
+  "text": "Aeric Brackick won the iron locket from Aedrek Dornmere at cards, fairly, and kept it.",
+  "where": "L06",
+  "ref_deps": [],
+  "item": "I05",
+  "src": "P035",
+  "dest": "P040"
+ },
+ {
+  "id": "E0270",
+  "type": "GIVE",
+  "chapter": 25,
+  "text": "Orlde Grimson won the ivory lantern from Weric Grimson at cards, fairly, and kept it.",
+  "where": "L13",
+  "ref_deps": [],
+  "item": "I06",
+  "src": "P027",
+  "dest": "P028"
+ },
+ {
+  "id": "E0271",
+  "type": "DEATH",
+  "chapter": 26,
+  "text": "Ludette Stenick died of the coughing sickness at Kelwick.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P018",
+  "cause": "the coughing sickness",
+  "place": "L05"
+ },
+ {
+  "id": "E0272",
+  "type": "TELL",
+  "chapter": 26,
+  "text": "Late one night Zara confided to Semira Orlett that a chest of silver lies buried beneath the well at Harrowton.",
+  "where": "L04",
+  "ref_deps": [
+   "E0007"
+  ],
+  "secret": "S05",
+  "src": "P039",
+  "dest": "P026"
+ },
+ {
+  "id": "E0273",
+  "type": "BIRTH",
+  "chapter": 26,
+  "text": "Elrine Wexner gave birth to a daughter, named Vesdette Dornwood; the father was Iszek Dornwood. The family lived in Larkton.",
+  "where": "L06",
+  "ref_deps": [],
+  "child": "P064",
+  "mother": "P004",
+  "father": "P048",
+  "place": "L06"
+ },
+ {
+  "id": "E0274",
+  "type": "GIVE",
+  "chapter": 26,
+  "text": "Yemor pressed the silver dagger into the hands of Tall Talis and would take nothing for it.",
+  "where": "L07",
+  "ref_deps": [
+   "E0002",
+   "E0049"
+  ],
+  "item": "I11",
+  "src": "P015",
+  "dest": "P041"
+ },
+ {
+  "id": "E0275",
+  "type": "TRAVEL",
+  "chapter": 26,
+  "text": "Aerald Orlett rode out of Quenholt; by the next market day he was living in Larkton.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P022",
+  "src": "L10",
+  "dest": "L06"
+ },
+ {
+  "id": "E0276",
+  "type": "TRAVEL",
+  "chapter": 26,
+  "text": "Jodette Dornwood went along to live in Larkton as well.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P047",
+  "src": "L10",
+  "dest": "L06"
+ },
+ {
+  "id": "E0277",
+  "type": "TELL",
+  "chapter": 27,
+  "text": "In a letter that Conelle Fellenridge burned after reading, Talis revealed that the Wexner family once owed a blood debt to the Fellenridge family.",
+  "where": "L07",
+  "ref_deps": [
+   "E0007"
+  ],
+  "secret": "S00",
+  "src": "P041",
+  "dest": "P013"
+ },
+ {
+  "id": "E0278",
+  "type": "PROMISE",
+  "chapter": 27,
+  "text": "The youngest son of Ellia Dornmere swore to Talis Brackick to pay the old debt owed to the Dornmere family, and shook on it.",
+  "where": "L07",
+  "ref_deps": [
+   "E0006"
+  ],
+  "promise": "R13",
+  "a": "P036",
+  "b": "P041",
+  "act": "to pay the old debt owed to the Dornmere family"
+ },
+ {
+  "id": "E0279",
+  "type": "TELL",
+  "chapter": 27,
+  "text": "Yemor Fellenridge could keep it no longer and told Aenar Wexoway that the old abbey at Coldhaven hides a second cellar.",
+  "where": "L07",
+  "ref_deps": [],
+  "secret": "S01",
+  "src": "P015",
+  "dest": "P010"
+ },
+ {
+  "id": "E0280",
+  "type": "BIRTH",
+  "chapter": 27,
+  "text": "A daughter was born to Semira Orlett and Aedrek Grimson, and they called the child Gassa Grimson. The family lived in Kelhaven.",
+  "where": "L04",
+  "ref_deps": [],
+  "child": "P065",
+  "mother": "P026",
+  "father": "P029",
+  "place": "L04"
+ },
+ {
+  "id": "E0281",
+  "type": "MARRY",
+  "chapter": 27,
+  "text": "In the chapel at Kelwick, Yerald Brackick married Isnelle Dornwood. The couple lived in Kelwick from then on.",
+  "where": "L05",
+  "ref_deps": [],
+  "a": "P053",
+  "b": "P046",
+  "place": "L05"
+ },
+ {
+  "id": "E0282",
+  "type": "TRAVEL",
+  "chapter": 27,
+  "text": "Isnelle packed a single trunk and moved from Kelwick to Harrowton.",
+  "where": "L05",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P046",
+  "src": "L05",
+  "dest": "L03"
+ },
+ {
+  "id": "E0283",
+  "type": "TRAVEL",
+  "chapter": 27,
+  "text": "Yerald Brackick followed her to Harrowton within the month.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P053",
+  "src": "L05",
+  "dest": "L03"
+ },
+ {
+  "id": "E0284",
+  "type": "BIRTH",
+  "chapter": 27,
+  "text": "A son was born to Felis Wexoway and Maten Dornmere, and they called the child Sevus Dornmere. The family lived in Larkwick.",
+  "where": "L07",
+  "ref_deps": [],
+  "child": "P066",
+  "mother": "P009",
+  "father": "P036",
+  "place": "L07"
+ },
+ {
+  "id": "E0285",
+  "type": "BIRTH",
+  "chapter": 28,
+  "text": "Codette gave birth to a son, named Elric Brackick; the father was Aeric Brackick. The family lived in Larkton.",
+  "where": "L06",
+  "ref_deps": [
+   "E0004"
+  ],
+  "child": "P067",
+  "mother": "P024",
+  "father": "P040",
+  "place": "L06"
+ },
+ {
+  "id": "E0286",
+  "type": "TELL",
+  "chapter": 28,
+  "text": "Talis Brackick could keep it no longer and told Ulvus Fellenridge that the Wexner family once owed a blood debt to the Fellenridge family.",
+  "where": "L07",
+  "ref_deps": [],
+  "secret": "S00",
+  "src": "P041",
+  "dest": "P012"
+ },
+ {
+  "id": "E0287",
+  "type": "TELL",
+  "chapter": 28,
+  "text": "In a letter that the wife of Sedan Fellenridge burned after reading, Yemor Fellenridge revealed that the Wexner family once owed a blood debt to the Fellenridge family.",
+  "where": "L07",
+  "ref_deps": [
+   "E0014"
+  ],
+  "secret": "S00",
+  "src": "P015",
+  "dest": "P002"
+ },
+ {
+  "id": "E0288",
+  "type": "TRAVEL",
+  "chapter": 28,
+  "text": "Aenar Wexoway packed a single trunk and moved from Larkwick to Larkton.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P010",
+  "src": "L07",
+  "dest": "L06"
+ },
+ {
+  "id": "E0289",
+  "type": "TRAVEL",
+  "chapter": 28,
+  "text": "Yedette Stenick followed him to Larkton within the month.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P020",
+  "src": "L07",
+  "dest": "L06"
+ },
+ {
+  "id": "E0290",
+  "type": "PLAN",
+  "chapter": 28,
+  "text": "Ulvus meant to go to Torholt before the frost, but the roads flooded and the journey was put off.",
+  "where": "L07",
+  "ref_deps": [
+   "E0002"
+  ],
+  "person": "P012",
+  "dest": "L13"
+ },
+ {
+  "id": "E0291",
+  "type": "TRAVEL",
+  "chapter": 29,
+  "text": "Talis Brackick left Larkwick and settled in Coldstead.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P041",
+  "src": "L07",
+  "dest": "L02"
+ },
+ {
+  "id": "E0292",
+  "type": "TRAVEL",
+  "chapter": 29,
+  "text": "Yemor went along to live in Coldstead as well.",
+  "where": "L07",
+  "ref_deps": [
+   "E0002"
+  ],
+  "person": "P015",
+  "src": "L07",
+  "dest": "L02"
+ },
+ {
+  "id": "E0293",
+  "type": "TRAVEL",
+  "chapter": 29,
+  "text": "Weric Grimson packed a single trunk and moved from Torholt to Oststead.",
+  "where": "L13",
+  "ref_deps": [],
+  "person": "P027",
+  "src": "L13",
+  "dest": "L08"
+ },
+ {
+  "id": "E0294",
+  "type": "TRAVEL",
+  "chapter": 29,
+  "text": "Orlde Grimson went along to live in Oststead as well.",
+  "where": "L13",
+  "ref_deps": [],
+  "person": "P028",
+  "src": "L13",
+  "dest": "L08"
+ },
+ {
+  "id": "E0295",
+  "type": "TRAVEL",
+  "chapter": 29,
+  "text": "Semira Orlett found work in Coldstead, moved there, and did not return to Kelhaven.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P026",
+  "src": "L04",
+  "dest": "L02"
+ },
+ {
+  "id": "E0296",
+  "type": "TRAVEL",
+  "chapter": 29,
+  "text": "Aedrek Grimson went along to live in Coldstead as well.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P029",
+  "src": "L04",
+  "dest": "L02"
+ },
+ {
+  "id": "E0297",
+  "type": "GIVE",
+  "chapter": 29,
+  "text": "A parcel from Felis Wexoway reached the youngest son of Zara Brackick; inside was the copper map, now his to keep.",
+  "where": "L07",
+  "ref_deps": [
+   "E0007"
+  ],
+  "item": "I03",
+  "src": "P009",
+  "dest": "P043"
+ },
+ {
+  "id": "E0298",
+  "type": "PLAN",
+  "chapter": 29,
+  "text": "Felis Wexoway meant to go to Oststead before the frost, but the roads flooded and the journey was put off.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P009",
+  "dest": "L08"
+ },
+ {
+  "id": "E0299",
+  "type": "TRAVEL",
+  "chapter": 29,
+  "text": "Maten Dornmere rode out of Larkwick; by the next market day he was living in Ravenstead.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P036",
+  "src": "L07",
+  "dest": "L11"
+ },
+ {
+  "id": "E0300",
+  "type": "TRAVEL",
+  "chapter": 29,
+  "text": "Felis Wexoway went along to live in Ravenstead as well.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P009",
+  "src": "L07",
+  "dest": "L11"
+ },
+ {
+  "id": "E0301",
+  "type": "TELL",
+  "chapter": 30,
+  "text": "Talis Brackick could keep it no longer and told Jolde Wexoway that the Wexner family once owed a blood debt to the Fellenridge family.",
+  "where": "L02",
+  "ref_deps": [],
+  "secret": "S00",
+  "src": "P041",
+  "dest": "P008"
+ },
+ {
+  "id": "E0302",
+  "type": "BIRTH",
+  "chapter": 30,
+  "text": "A son was born to Jolde Wexoway and Ordan Brackick, and they called the child Isbin Brackick. The family lived in Coldstead.",
+  "where": "L02",
+  "ref_deps": [],
+  "child": "P068",
+  "mother": "P008",
+  "father": "P042",
+  "place": "L02"
+ },
+ {
+  "id": "E0303",
+  "type": "MARRY",
+  "chapter": 30,
+  "text": "The youngest daughter of Ludette Stenick and Aedrek Dornmere were wed at Coldstead, with half the parish looking on. The couple lived in Coldstead from then on.",
+  "where": "L02",
+  "ref_deps": [
+   "E0003"
+  ],
+  "a": "P021",
+  "b": "P035",
+  "place": "L02"
+ },
+ {
+  "id": "E0304",
+  "type": "BIRTH",
+  "chapter": 30,
+  "text": "Elena gave birth to a son, named Aetho Brackaby; the father was Wedrek Brackaby. The family lived in Stavecombe.",
+  "where": "L12",
+  "ref_deps": [
+   "E0002"
+  ],
+  "child": "P069",
+  "mother": "P016",
+  "father": "P051",
+  "place": "L12"
+ },
+ {
+  "id": "E0305",
+  "type": "PROMISE",
+  "chapter": 30,
+  "text": "Wedrek Brackaby gave Tavie a solemn promise to repair the roof of the chapel at Larkton.",
+  "where": "L12",
+  "ref_deps": [
+   "E0135"
+  ],
+  "promise": "R14",
+  "a": "P051",
+  "b": "P054",
+  "act": "to repair the roof of the chapel at Larkton"
+ },
+ {
+  "id": "E0306",
+  "type": "TRAVEL",
+  "chapter": 30,
+  "text": "Yedette Stenick found work in Harrowton, moved there, and did not return to Larkton.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P020",
+  "src": "L06",
+  "dest": "L03"
+ },
+ {
+  "id": "E0307",
+  "type": "TRAVEL",
+  "chapter": 30,
+  "text": "Aenar Wexoway went along to live in Harrowton as well.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P010",
+  "src": "L06",
+  "dest": "L03"
+ },
+ {
+  "id": "E0308",
+  "type": "MARRY",
+  "chapter": 30,
+  "text": "In the chapel at Stavecombe, Tavie Dornwood married Kadrek Dornmere. The couple lived in Stavecombe from then on.",
+  "where": "L12",
+  "ref_deps": [],
+  "a": "P054",
+  "b": "P032",
+  "place": "L12"
+ },
+ {
+  "id": "E0309",
+  "type": "GIVE",
+  "chapter": 30,
+  "text": "A parcel from Jodette Dornwood reached Tarine; inside was the bone seal, now hers to keep.",
+  "where": "L06",
+  "ref_deps": [
+   "E0201"
+  ],
+  "item": "I01",
+  "src": "P047",
+  "dest": "P059"
+ },
+ {
+  "id": "E0310",
+  "type": "PROMISE",
+  "chapter": 31,
+  "text": "Yemor Fellenridge swore to Semira Orlett to plant an orchard on the slope above Torholt, and shook on it.",
+  "where": "L02",
+  "ref_deps": [],
+  "promise": "R15",
+  "a": "P015",
+  "b": "P026",
+  "act": "to plant an orchard on the slope above Torholt"
+ },
+ {
+  "id": "E0311",
+  "type": "PROMISE",
+  "chapter": 31,
+  "text": "The second son of Seten Brackick gave Jolde a solemn promise to pay the old debt owed to the Fellenridge family.",
+  "where": "L02",
+  "ref_deps": [
+   "E0001",
+   "E0007"
+  ],
+  "promise": "R16",
+  "a": "P042",
+  "b": "P008",
+  "act": "to pay the old debt owed to the Fellenridge family"
+ },
+ {
+  "id": "E0312",
+  "type": "TELL",
+  "chapter": 31,
+  "text": "Late one night Jodrek confided to Orlde Grimson that the Stenick mill ledger was rewritten after the flood.",
+  "where": "L08",
+  "ref_deps": [
+   "E0005"
+  ],
+  "secret": "S02",
+  "src": "P031",
+  "dest": "P028"
+ },
+ {
+  "id": "E0313",
+  "type": "TRAVEL",
+  "chapter": 31,
+  "text": "Nera Wexner packed a single trunk and moved from Oststead to Kelhaven.",
+  "where": "L08",
+  "ref_deps": [],
+  "person": "P002",
+  "src": "L08",
+  "dest": "L04"
+ },
+ {
+  "id": "E0314",
+  "type": "TRAVEL",
+  "chapter": 31,
+  "text": "Sedan followed her to Kelhaven within the month.",
+  "where": "L08",
+  "ref_deps": [
+   "E0002"
+  ],
+  "person": "P014",
+  "src": "L08",
+  "dest": "L04"
+ },
+ {
+  "id": "E0315",
+  "type": "GIVE",
+  "chapter": 31,
+  "text": "Sedan Fellenridge won the bone seal from Tarine Grimson at cards, fairly, and kept it.",
+  "where": "L04",
+  "ref_deps": [],
+  "item": "I01",
+  "src": "P059",
+  "dest": "P014"
+ },
+ {
+  "id": "E0316",
+  "type": "TELL",
+  "chapter": 31,
+  "text": "In a letter that Sedan Fellenridge burned after reading, Nera Wexner revealed that the Wexner family once owed a blood debt to the Fellenridge family.",
+  "where": "L04",
+  "ref_deps": [],
+  "secret": "S00",
+  "src": "P002",
+  "dest": "P014"
+ },
+ {
+  "id": "E0317",
+  "type": "RUMOR",
+  "chapter": 31,
+  "text": "A rumor started by Sedan Fellenridge had it that Nelia Wexoway was dead of plague; Sedan Fellenridge had it from a peddler.",
+  "where": "L04",
+  "ref_deps": [],
+  "teller": "P014",
+  "claim": {
+   "kind": "dead",
+   "target": "P058"
+  }
+ },
+ {
+  "id": "E0318",
+  "type": "MARRY",
+  "chapter": 32,
+  "text": "Before the spring was out, Nelia took Codan in marriage at Stavecombe. The couple lived in Stavecombe from then on.",
+  "where": "L12",
+  "ref_deps": [
+   "E0159",
+   "E0195"
+  ],
+  "a": "P058",
+  "b": "P055",
+  "place": "L12"
+ },
+ {
+  "id": "E0319",
+  "type": "PROMISE",
+  "chapter": 32,
+  "text": "Elena Fellenridge gave Wedrek Brackaby a solemn promise to pay the old debt owed to the Grimson family.",
+  "where": "L12",
+  "ref_deps": [],
+  "promise": "R17",
+  "a": "P016",
+  "b": "P051",
+  "act": "to pay the old debt owed to the Grimson family"
+ },
+ {
+  "id": "E0320",
+  "type": "GIVE",
+  "chapter": 32,
+  "text": "Weric won the ivory lantern from Orlde at cards, fairly, and kept it.",
+  "where": "L08",
+  "ref_deps": [
+   "E0005"
+  ],
+  "item": "I06",
+  "src": "P028",
+  "dest": "P027"
+ },
+ {
+  "id": "E0321",
+  "type": "TRAVEL",
+  "chapter": 32,
+  "text": "Veswyn Brackick packed a single trunk and moved from Larkton to Quencombe.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P060",
+  "src": "L06",
+  "dest": "L09"
+ },
+ {
+  "id": "E0322",
+  "type": "GIVE",
+  "chapter": 32,
+  "text": "Sedan sent the bone seal by carrier to the wife of Ildrek Stenick, who received it safely.",
+  "where": "L04",
+  "ref_deps": [
+   "E0002",
+   "E0182"
+  ],
+  "item": "I01",
+  "src": "P014",
+  "dest": "P003"
+ },
+ {
+  "id": "E0323",
+  "type": "DEATH",
+  "chapter": 33,
+  "text": "They laid Aeena in the churchyard at Larkton, dead of drowning in the flood.",
+  "where": "L06",
+  "ref_deps": [
+   "E0009"
+  ],
+  "person": "P050",
+  "cause": "drowning in the flood",
+  "place": "L06"
+ },
+ {
+  "id": "E0324",
+  "type": "TRAVEL",
+  "chapter": 33,
+  "text": "Fetho Brackaby found work in Wendmere, moved there, and did not return to Larkton.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P049",
+  "src": "L06",
+  "dest": "L14"
+ },
+ {
+  "id": "E0325",
+  "type": "DEATH",
+  "chapter": 33,
+  "text": "Elena Fellenridge died of a winter fever at Stavecombe.",
+  "where": "L12",
+  "ref_deps": [],
+  "person": "P016",
+  "cause": "a winter fever",
+  "place": "L12"
+ },
+ {
+  "id": "E0326",
+  "type": "TELL",
+  "chapter": 33,
+  "text": "Jodette Dornwood could keep it no longer and told the third daughter of Madan Wexner that the deed to the Brynmere pastures was forged.",
+  "where": "L06",
+  "ref_deps": [
+   "E0000"
+  ],
+  "secret": "S07",
+  "src": "P047",
+  "dest": "P004"
+ },
+ {
+  "id": "E0327",
+  "type": "GIVE",
+  "chapter": 33,
+  "text": "Felis Wexoway gave the pewter flute to Maten Dornmere.",
+  "where": "L11",
+  "ref_deps": [],
+  "item": "I09",
+  "src": "P009",
+  "dest": "P036"
+ },
+ {
+  "id": "E0328",
+  "type": "BIRTH",
+  "chapter": 34,
+  "text": "A son was born to Yedette Stenick and Aenar Wexoway, and they called the child Vesdan Wexoway. The family lived in Harrowton.",
+  "where": "L03",
+  "ref_deps": [],
+  "child": "P070",
+  "mother": "P020",
+  "father": "P010",
+  "place": "L03"
+ },
+ {
+  "id": "E0329",
+  "type": "BIRTH",
+  "chapter": 34,
+  "text": "A son was born to Tawyn Stenick and Aedrek Dornmere, and they called the child Rimor Dornmere. The family lived in Coldstead.",
+  "where": "L02",
+  "ref_deps": [],
+  "child": "P071",
+  "mother": "P021",
+  "father": "P035",
+  "place": "L02"
+ },
+ {
+  "id": "E0330",
+  "type": "TELL",
+  "chapter": 34,
+  "text": "In a letter that Yerald Brackick burned after reading, Aenar Wexoway revealed that the old abbey at Coldhaven hides a second cellar.",
+  "where": "L03",
+  "ref_deps": [],
+  "secret": "S01",
+  "src": "P010",
+  "dest": "P053"
+ },
+ {
+  "id": "E0331",
+  "type": "DEATH",
+  "chapter": 34,
+  "text": "That autumn, old age, quietly in sleep took Conelle; she was buried at Larkwick.",
+  "where": "L07",
+  "ref_deps": [
+   "E0002"
+  ],
+  "person": "P013",
+  "cause": "old age, quietly in sleep",
+  "place": "L07"
+ },
+ {
+  "id": "E0332",
+  "type": "GIVE",
+  "chapter": 34,
+  "text": "Maten pressed the pewter flute into the hands of Felis Wexoway and would take nothing for it.",
+  "where": "L11",
+  "ref_deps": [
+   "E0006"
+  ],
+  "item": "I09",
+  "src": "P036",
+  "dest": "P009"
+ },
+ {
+  "id": "E0333",
+  "type": "TRAVEL",
+  "chapter": 34,
+  "text": "Maten rode out of Ravenstead; by the next market day he was living in Coldstead.",
+  "where": "L11",
+  "ref_deps": [
+   "E0006"
+  ],
+  "person": "P036",
+  "src": "L11",
+  "dest": "L02"
+ },
+ {
+  "id": "E0334",
+  "type": "TRAVEL",
+  "chapter": 34,
+  "text": "Felis Wexoway went along to live in Coldstead as well.",
+  "where": "L11",
+  "ref_deps": [],
+  "person": "P009",
+  "src": "L11",
+  "dest": "L02"
+ },
+ {
+  "id": "E0335",
+  "type": "DEATH",
+  "chapter": 34,
+  "text": "That autumn, a kick from a cart horse took the husband of Jodette Dornwood; he was buried at Larkton.",
+  "where": "L06",
+  "ref_deps": [
+   "E0259"
+  ],
+  "person": "P022",
+  "cause": "a kick from a cart horse",
+  "place": "L06"
+ },
+ {
+  "id": "E0336",
+  "type": "GIVE",
+  "chapter": 35,
+  "text": "Talis Brackick gave the silver dagger to Maten Dornmere.",
+  "where": "L02",
+  "ref_deps": [],
+  "item": "I11",
+  "src": "P041",
+  "dest": "P036"
+ },
+ {
+  "id": "E0337",
+  "type": "BIRTH",
+  "chapter": 35,
+  "text": "A daughter was born to Thiwyn Wexner and Ildrek Stenick, and they called the child Vowyn Stenick. The family lived in Harrowton.",
+  "where": "L03",
+  "ref_deps": [],
+  "child": "P072",
+  "mother": "P003",
+  "father": "P019",
+  "place": "L03"
+ },
+ {
+  "id": "E0338",
+  "type": "TELL",
+  "chapter": 35,
+  "text": "Late one night the husband of Jolde Wexoway confided to Aedrek Dornmere that the bridge toll at Coldhaven is skimmed every month.",
+  "where": "L02",
+  "ref_deps": [
+   "E0162"
+  ],
+  "secret": "S06",
+  "src": "P042",
+  "dest": "P035"
+ },
+ {
+  "id": "E0339",
+  "type": "PROMISE",
+  "chapter": 35,
+  "text": "Felis Wexoway swore to Yemor Fellenridge to pay the old debt owed to the Dornmere family, and shook on it.",
+  "where": "L02",
+  "ref_deps": [],
+  "promise": "R18",
+  "a": "P009",
+  "b": "P015",
+  "act": "to pay the old debt owed to the Dornmere family"
+ },
+ {
+  "id": "E0340",
+  "type": "PROMISE",
+  "chapter": 35,
+  "text": "The wife of Maten Dornmere swore to the husband of Semira Orlett to rebuild the fallen wall at Wendmere, and shook on it.",
+  "where": "L02",
+  "ref_deps": [
+   "E0012",
+   "E0101"
+  ],
+  "promise": "R19",
+  "a": "P009",
+  "b": "P029",
+  "act": "to rebuild the fallen wall at Wendmere"
+ },
+ {
+  "id": "E0341",
+  "type": "OCCUPATION",
+  "chapter": 36,
+  "text": "Tawyn Stenick gave up being a ferryman and took work as a weaver.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P021",
+  "old": "ferryman",
+  "new": "weaver"
+ },
+ {
+  "id": "E0342",
+  "type": "TELL",
+  "chapter": 36,
+  "text": "In a letter that Talis Brackick burned after reading, Ordan revealed that the bridge toll at Coldhaven is skimmed every month.",
+  "where": "L02",
+  "ref_deps": [
+   "E0007"
+  ],
+  "secret": "S06",
+  "src": "P042",
+  "dest": "P041"
+ },
+ {
+  "id": "E0343",
+  "type": "MARRY",
+  "chapter": 36,
+  "text": "In the chapel at Wendmere, Fetho Brackaby married Cora Brackick. The couple lived in Wendmere from then on.",
+  "where": "L14",
+  "ref_deps": [],
+  "a": "P049",
+  "b": "P056",
+  "place": "L14"
+ },
+ {
+  "id": "E0344",
+  "type": "RUMOR",
+  "chapter": 36,
+  "text": "Quiet Semira whispered that Felis Dornmere had secretly married Aeric Brackick, but nobody could say where or when.",
+  "where": "L14",
+  "ref_deps": [
+   "E0019"
+  ],
+  "teller": "P005",
+  "claim": {
+   "kind": "married",
+   "target": "P037",
+   "other": "P040"
+  }
+ },
+ {
+  "id": "E0345",
+  "type": "PROMISE",
+  "chapter": 36,
+  "text": "Cora gave Quiet Semira a solemn promise to repair the roof of the chapel at Torholt.",
+  "where": "L14",
+  "ref_deps": [
+   "E0019",
+   "E0165"
+  ],
+  "promise": "R20",
+  "a": "P056",
+  "b": "P005",
+  "act": "to repair the roof of the chapel at Torholt"
+ },
+ {
+  "id": "E0346",
+  "type": "TRAVEL",
+  "chapter": 37,
+  "text": "The only son of Fetho Brackaby left Stavecombe and settled in Larkton.",
+  "where": "L12",
+  "ref_deps": [
+   "E0009"
+  ],
+  "person": "P051",
+  "src": "L12",
+  "dest": "L06"
+ },
+ {
+  "id": "E0347",
+  "type": "TRAVEL",
+  "chapter": 37,
+  "text": "Nelia Wexoway left Stavecombe and settled in Yarlmere.",
+  "where": "L12",
+  "ref_deps": [],
+  "person": "P058",
+  "src": "L12",
+  "dest": "L15"
+ },
+ {
+  "id": "E0348",
+  "type": "TRAVEL",
+  "chapter": 37,
+  "text": "Codan Fellenridge followed her to Yarlmere within the month.",
+  "where": "L12",
+  "ref_deps": [],
+  "person": "P055",
+  "src": "L12",
+  "dest": "L15"
+ },
+ {
+  "id": "E0349",
+  "type": "DEATH",
+  "chapter": 37,
+  "text": "They laid Seten Brackick in the churchyard at Kelhaven, dead of old age, quietly in sleep.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P038",
+  "cause": "old age, quietly in sleep",
+  "place": "L04"
+ },
+ {
+  "id": "E0350",
+  "type": "DEATH",
+  "chapter": 37,
+  "text": "They laid Ulvus in the churchyard at Larkwick, dead of a long wasting sickness.",
+  "where": "L07",
+  "ref_deps": [
+   "E0002"
+  ],
+  "person": "P012",
+  "cause": "a long wasting sickness",
+  "place": "L07"
+ },
+ {
+  "id": "E0351",
+  "type": "RESOLVE",
+  "chapter": 37,
+  "text": "Yemor never did keep the promise made to Semira Orlett (plant an orchard on the slope above Torholt); the matter was abandoned.",
+  "where": "L02",
+  "ref_deps": [
+   "E0002"
+  ],
+  "promise": "R15",
+  "kept": false
+ },
+ {
+  "id": "E0352",
+  "type": "PROMISE",
+  "chapter": 38,
+  "text": "Weric Grimson swore to Rimira Grimson to rebuild the fallen wall at Harrowton, and shook on it.",
+  "where": "L08",
+  "ref_deps": [],
+  "promise": "R21",
+  "a": "P027",
+  "b": "P062",
+  "act": "to rebuild the fallen wall at Harrowton"
+ },
+ {
+  "id": "E0353",
+  "type": "BIRTH",
+  "chapter": 38,
+  "text": "A daughter was born to Elrine Wexner and Iszek Dornwood, and they called the child Gara Dornwood. The family lived in Larkton.",
+  "where": "L06",
+  "ref_deps": [],
+  "child": "P073",
+  "mother": "P004",
+  "father": "P048",
+  "place": "L06"
+ },
+ {
+  "id": "E0354",
+  "type": "RUMOR",
+  "chapter": 38,
+  "text": "Codette Orlett told everyone at the inn that Dara Dornwood had drowned crossing the estuary, though no body was ever seen.",
+  "where": "L06",
+  "ref_deps": [],
+  "teller": "P024",
+  "claim": {
+   "kind": "dead",
+   "target": "P045"
+  }
+ },
+ {
+  "id": "E0355",
+  "type": "PROMISE",
+  "chapter": 38,
+  "text": "Cora Brackick swore to Fetho Brackaby to teach the children of Wendmere their letters, and shook on it.",
+  "where": "L14",
+  "ref_deps": [],
+  "promise": "R22",
+  "a": "P056",
+  "b": "P049",
+  "act": "to teach the children of Wendmere their letters"
+ },
+ {
+  "id": "E0356",
+  "type": "OCCUPATION",
+  "chapter": 38,
+  "text": "The wife of Ludan Brackick was apprenticed anew and became a mason.",
+  "where": "L06",
+  "ref_deps": [
+   "E0010"
+  ],
+  "person": "P037",
+  "old": "scribe",
+  "new": "mason"
+ },
+ {
+  "id": "E0357",
+  "type": "RESOLVE",
+  "chapter": 39,
+  "text": "Kadrek broke faith with Isnelle Dornwood, and the promised work (repair the roof of the chapel at Quencombe) was never begun.",
+  "where": "L12",
+  "ref_deps": [
+   "E0006"
+  ],
+  "promise": "R07",
+  "kept": false
+ },
+ {
+  "id": "E0358",
+  "type": "GIVE",
+  "chapter": 39,
+  "text": "A parcel from Vesrald Orlett reached Red Semira; inside was the brass seal, now hers to keep.",
+  "where": "L01",
+  "ref_deps": [
+   "E0036"
+  ],
+  "item": "I02",
+  "src": "P025",
+  "dest": "P026"
+ },
+ {
+  "id": "E0359",
+  "type": "BIRTH",
+  "chapter": 39,
+  "text": "Tavie Dornwood gave birth to a daughter, named Zarine Dornmere; the father was Kadrek Dornmere. The family lived in Stavecombe.",
+  "where": "L12",
+  "ref_deps": [],
+  "child": "P074",
+  "mother": "P054",
+  "father": "P032",
+  "place": "L12"
+ },
+ {
+  "id": "E0360",
+  "type": "RUMOR",
+  "chapter": 39,
+  "text": "Tavie Dornwood told everyone at the inn that Talis Brackick had drowned crossing the estuary, though no body was ever seen.",
+  "where": "L12",
+  "ref_deps": [],
+  "teller": "P054",
+  "claim": {
+   "kind": "dead",
+   "target": "P041"
+  }
+ },
+ {
+  "id": "E0361",
+  "type": "TRAVEL",
+  "chapter": 39,
+  "text": "Tavie Dornwood packed a single trunk and moved from Stavecombe to Ravenstead.",
+  "where": "L12",
+  "ref_deps": [],
+  "person": "P054",
+  "src": "L12",
+  "dest": "L11"
+ },
+ {
+  "id": "E0362",
+  "type": "TRAVEL",
+  "chapter": 39,
+  "text": "Kadrek Dornmere followed her to Ravenstead within the month.",
+  "where": "L12",
+  "ref_deps": [],
+  "person": "P032",
+  "src": "L12",
+  "dest": "L11"
+ },
+ {
+  "id": "E0363",
+  "type": "BIRTH",
+  "chapter": 39,
+  "text": "A daughter was born to Semira Orlett and Aedrek Grimson, and they called the child Manelle Grimson. The family lived in Coldstead.",
+  "where": "L02",
+  "ref_deps": [],
+  "child": "P075",
+  "mother": "P026",
+  "father": "P029",
+  "place": "L02"
+ },
+ {
+  "id": "E0364",
+  "type": "GIVE",
+  "chapter": 39,
+  "text": "Aeric Brackick sent the iron locket by carrier to Sevus Dornmere, who received it safely.",
+  "where": "L06",
+  "ref_deps": [],
+  "item": "I05",
+  "src": "P040",
+  "dest": "P066"
+ },
+ {
+  "id": "E0365",
+  "type": "TRAVEL",
+  "chapter": 39,
+  "text": "Vesdette Dornwood rode out of Larkton; by the next market day she was living in Coldstead.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P064",
+  "src": "L06",
+  "dest": "L02"
+ },
+ {
+  "id": "E0366",
+  "type": "TELL",
+  "chapter": 40,
+  "text": "In a letter that Vesdette Dornwood burned after reading, Ordan Brackick revealed that the bridge toll at Coldhaven is skimmed every month.",
+  "where": "L02",
+  "ref_deps": [],
+  "secret": "S06",
+  "src": "P042",
+  "dest": "P064"
+ },
+ {
+  "id": "E0367",
+  "type": "OCCUPATION",
+  "chapter": 40,
+  "text": "Vesdette gave up idleness and took work as a tanner.",
+  "where": "L02",
+  "ref_deps": [
+   "E0273"
+  ],
+  "person": "P064",
+  "old": null,
+  "new": "tanner"
+ },
+ {
+  "id": "E0368",
+  "type": "MARRY",
+  "chapter": 40,
+  "text": "In the chapel at Larkton, Elric Brackick married Jodette Dornwood. The couple lived in Larkton from then on.",
+  "where": "L06",
+  "ref_deps": [],
+  "a": "P067",
+  "b": "P047",
+  "place": "L06"
+ },
+ {
+  "id": "E0369",
+  "type": "GIVE",
+  "chapter": 40,
+  "text": "Talis Brackick won the brass seal from Semira Orlett at cards, fairly, and kept it.",
+  "where": "L02",
+  "ref_deps": [],
+  "item": "I02",
+  "src": "P026",
+  "dest": "P041"
+ },
+ {
+  "id": "E0370",
+  "type": "TELL",
+  "chapter": 40,
+  "text": "Jodette Dornwood could keep it no longer and told Elric Brackick that the deed to the Brynmere pastures was forged.",
+  "where": "L06",
+  "ref_deps": [],
+  "secret": "S07",
+  "src": "P047",
+  "dest": "P067"
+ },
+ {
+  "id": "E0371",
+  "type": "TELL",
+  "chapter": 40,
+  "text": "In a letter that the only daughter of Aeena Brackaby burned after reading, Yedette Stenick revealed that the Wexner family once owed a blood debt to the Fellenridge family.",
+  "where": "L03",
+  "ref_deps": [
+   "E0009"
+  ],
+  "secret": "S00",
+  "src": "P020",
+  "dest": "P052"
+ },
+ {
+  "id": "E0372",
+  "type": "TRAVEL",
+  "chapter": 40,
+  "text": "Nera Dornmere packed a single trunk and moved from Oststead to Brynmere.",
+  "where": "L08",
+  "ref_deps": [],
+  "person": "P034",
+  "src": "L08",
+  "dest": "L00"
+ },
+ {
+  "id": "E0373",
+  "type": "TRAVEL",
+  "chapter": 40,
+  "text": "Jodrek went along to live in Brynmere as well.",
+  "where": "L08",
+  "ref_deps": [
+   "E0005"
+  ],
+  "person": "P031",
+  "src": "L08",
+  "dest": "L00"
+ },
+ {
+  "id": "E0374",
+  "type": "SEEN_ALIVE",
+  "chapter": 41,
+  "text": "Dara Dornwood, whatever the gossips said, was seen hale and well at the summer fair in Quenholt.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P045",
+  "place": "L10"
+ }
+]

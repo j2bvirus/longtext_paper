@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "wrong",
+  "reason": "Step 10 first shows “INT. THE CASTLE - DAY”; Step 0 first provides the Whoniverse Script Collection link.",
+  "evidence": "steps [0, 1, 10, 11, 12, 35, 36]"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "Step 4 first shows the Production note and associates it with the stated Tumblr URL.",
+  "evidence": "steps [3, 4, 5, 35, 36]"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "Step 20 contains the tavily_search query “DW9 EP 11 Heaven Sent BLUE 240815 script PDF”.",
+  "evidence": "steps [11, 20, 35, 36]"
+ },
+ "Q0003": {
+  "label": "ambiguous",
+  "reason": "Step 17 shows a Scribd search, but no Turn 17 explanation or mirror heading text establishing the claimed difference.",
+  "evidence": "steps [16, 17, 18, 35, 36]"
+ },
+ "Q0004": {
+  "label": "wrong",
+  "reason": "The quoted query supports exact-match cross-verification, but Step 10 first showed “DAY 1” in the scene heading, before Step 11.",
+  "evidence": "steps [10, 11, 12, 16, 17, 18, 35, 36]"
+ },
+ "Q0005": {
+  "label": "ambiguous",
+  "reason": "Step 17 shows a search, not step_notes; the reference text appears in Step 31, so the intended earlier instruction cannot be verified.",
+  "evidence": "steps [2, 3, 4, 16, 17, 18, 30, 31, 32, 35, 36]"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "The required location string would be THE MAZE, matching the hypothetical first scene heading.",
+  "evidence": "steps [10, 11, 12, 35, 36]"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "Step 12 created the same summary file read in Step 14 to verify the “BLUE Draft” metadata.",
+  "evidence": "steps [11, 12, 13, 14, 15, 35, 36]"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "Step 0 first shows the filename as a search-result title; Step 10 first shows parsed PDF content in the observation.",
+  "evidence": "steps [0, 1, 9, 10, 11, 35, 36]"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "Step 9 provides the Series 9 listing observation quoted as Source 1 in Step 12.",
+  "evidence": "steps [8, 9, 10, 11, 12, 13, 35, 36]"
+ },
+ "Q0010": {
+  "label": "wrong",
+  "reason": "Step 0 already included the official BBC PDF and script listing; the claimed social-media-only rationale for redundant searches is unsupported.",
+  "evidence": "steps [0, 1, 2, 3, 10, 11, 35, 36]"
+ },
+ "Q0011": {
+  "label": "wrong",
+  "reason": "Step 17 records a Scribd search result, not a WordPress comparison or an observation about discrepancies.",
+  "evidence": "steps [0, 1, 9, 10, 11, 16, 17, 18, 35, 36]"
+ }
+}

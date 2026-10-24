@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "Step 2 ran the `ls -la` on the PATENTSVIEW schema folder, as stated.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "the causal chain through steps 12, 13, 15–17 and 19–20 matches the trajectory.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "quoting the alias and the reference consistently would avoid the compile error, and timeouts would still occur.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "the row counts and the steps that produced them (15, 16, 17) are correct.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "the preconditions match how the step 11/12 queries are built.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "the proposed strategy fits the timeouts and the later successful probes.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "a minimal-projection diagnostic is a reasonable next step given the step 25/26 timeouts.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "step 12 added explicit `AS title` and `AS abstract` aliases.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "step 20 was the last concrete CPC evidence, and the returned IDs are correct.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "the casing and quoting rule is correct, though the \"system instruction\" it cites is not visible in the trajectory.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "wrong",
+  "reason": "the CPC_CURRENT step list omits steps 12 and 16, so the count of 9 should be 11; the other figures are correct.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "the blockers and the minimal path match the trajectory.",
+  "evidence": "whole trajectory"
+ }
+}

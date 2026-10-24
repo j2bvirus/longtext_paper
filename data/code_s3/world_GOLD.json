@@ -1,0 +1,779 @@
+{
+ "seed": 3,
+ "persons": {
+  "D00": {
+   "id": "D00",
+   "first": "Kesh",
+   "surname": "Ibarra"
+  },
+  "D01": {
+   "id": "D01",
+   "first": "Rhea",
+   "surname": "Okafor"
+  },
+  "D02": {
+   "id": "D02",
+   "first": "Tobin",
+   "surname": "Brandt"
+  },
+  "D03": {
+   "id": "D03",
+   "first": "Pell",
+   "surname": "Delacroix"
+  },
+  "D04": {
+   "id": "D04",
+   "first": "Brann",
+   "surname": "Brandt"
+  },
+  "D05": {
+   "id": "D05",
+   "first": "Yara",
+   "surname": "Ferro"
+  },
+  "D06": {
+   "id": "D06",
+   "first": "Corin",
+   "surname": "Tsang"
+  },
+  "D07": {
+   "id": "D07",
+   "first": "Lune",
+   "surname": "Brandt"
+  },
+  "D08": {
+   "id": "D08",
+   "first": "Hadi",
+   "surname": "Halvorsen"
+  },
+  "D09": {
+   "id": "D09",
+   "first": "Vesna",
+   "surname": "Abernet"
+  },
+  "D10": {
+   "id": "D10",
+   "first": "Maren",
+   "surname": "Abernet"
+  },
+  "D11": {
+   "id": "D11",
+   "first": "Sefa",
+   "surname": "Delacroix"
+  }
+ },
+ "modules": [
+  "notify/store.py",
+  "ledger/worker.py",
+  "export/handlers.py",
+  "search/api.py",
+  "search/client.py",
+  "billing/jobs.py",
+  "upload/rules.py",
+  "auth/worker.py",
+  "audit/jobs.py",
+  "cache/worker.py",
+  "audit/client.py",
+  "export/worker.py",
+  "export/core.py",
+  "ledger/client.py"
+ ],
+ "fn": {
+  "F00": {
+   "orig": "apply_bundle",
+   "name": "apply_receipt",
+   "module": "export/core.py",
+   "params": [
+    [
+     "region",
+     null
+    ],
+    [
+     "user_id",
+     "3"
+    ],
+    [
+     "currency",
+     "60"
+    ]
+   ],
+   "deprecated": false,
+   "replacement": null
+  },
+  "F01": {
+   "orig": "apply_quota",
+   "name": "build_tariff",
+   "module": "export/handlers.py",
+   "params": [
+    [
+     "verbose",
+     null
+    ],
+    [
+     "max_age",
+     "10"
+    ],
+    [
+     "cursor",
+     "30"
+    ],
+    [
+     "locale",
+     "1"
+    ]
+   ],
+   "deprecated": true,
+   "replacement": "F12"
+  },
+  "F02": {
+   "orig": "build_invoice",
+   "name": "sync_digest",
+   "module": "ledger/client.py",
+   "params": [
+    [
+     "currency",
+     null
+    ],
+    [
+     "limit",
+     "60"
+    ],
+    [
+     "tenant",
+     "30"
+    ],
+    [
+     "retries",
+     "1"
+    ]
+   ],
+   "deprecated": false,
+   "replacement": null
+  },
+  "F03": {
+   "orig": "build_ledger",
+   "name": "build_ledger",
+   "module": "cache/worker.py",
+   "params": [
+    [
+     "timeout",
+     null
+    ],
+    [
+     "max_age",
+     "5"
+    ]
+   ],
+   "deprecated": false,
+   "replacement": null
+  },
+  "F04": {
+   "orig": "build_profile",
+   "name": "load_snapshot",
+   "module": "auth/worker.py",
+   "params": [
+    [
+     "retries",
+     null
+    ],
+    [
+     "cursor",
+     "250"
+    ]
+   ],
+   "deprecated": true,
+   "replacement": "F22"
+  },
+  "F05": {
+   "orig": "build_shard",
+   "name": "score_session",
+   "module": "upload/rules.py",
+   "params": [
+    [
+     "cursor",
+     null
+    ],
+    [
+     "retries",
+     "30"
+    ],
+    [
+     "dry_run",
+     "60"
+    ],
+    [
+     "region",
+     "50"
+    ]
+   ],
+   "deprecated": false,
+   "replacement": null
+  },
+  "F06": {
+   "orig": "compute_policy",
+   "name": "validate_digest",
+   "module": "cache/worker.py",
+   "params": [
+    [
+     "tenant",
+     null
+    ],
+    [
+     "strict",
+     "20"
+    ]
+   ],
+   "deprecated": true,
+   "replacement": "F23"
+  },
+  "F07": {
+   "orig": "compute_profile",
+   "name": "compute_profile",
+   "module": "ledger/worker.py",
+   "params": [
+    [
+     "tenant",
+     null
+    ],
+    [
+     "limit",
+     "60"
+    ],
+    [
+     "currency",
+     "30"
+    ],
+    [
+     "locale",
+     "60"
+    ]
+   ],
+   "deprecated": false,
+   "replacement": null
+  },
+  "F08": {
+   "orig": "emit_session",
+   "name": "emit_session",
+   "module": "upload/rules.py",
+   "params": [
+    [
+     "verbose",
+     null
+    ],
+    [
+     "cursor",
+     "100"
+    ],
+    [
+     "strict",
+     "5"
+    ],
+    [
+     "tenant",
+     "10"
+    ]
+   ],
+   "deprecated": true,
+   "replacement": "F22"
+  },
+  "F09": {
+   "orig": "emit_shard",
+   "name": "emit_shard",
+   "module": "cache/worker.py",
+   "params": [
+    [
+     "cursor",
+     null
+    ],
+    [
+     "timeout",
+     "3"
+    ],
+    [
+     "currency",
+     "100"
+    ]
+   ],
+   "deprecated": false,
+   "replacement": null
+  },
+  "F10": {
+   "orig": "emit_token",
+   "name": "emit_token",
+   "module": "export/handlers.py",
+   "params": [
+    [
+     "batch_size",
+     null
+    ],
+    [
+     "currency",
+     "30"
+    ],
+    [
+     "retries",
+     "2"
+    ],
+    [
+     "user_id",
+     "30"
+    ]
+   ],
+   "deprecated": true,
+   "replacement": "F06"
+  },
+  "F11": {
+   "orig": "fetch_invoice",
+   "name": "rotate_profile",
+   "module": "auth/worker.py",
+   "params": [
+    [
+     "limit",
+     null
+    ],
+    [
+     "verbose",
+     "3"
+    ],
+    [
+     "batch_size",
+     "60"
+    ]
+   ],
+   "deprecated": false,
+   "replacement": null
+  },
+  "F12": {
+   "orig": "flush_quota",
+   "name": "flush_quota",
+   "module": "auth/worker.py",
+   "params": [
+    [
+     "max_age",
+     null
+    ],
+    [
+     "region",
+     "60"
+    ],
+    [
+     "dry_run",
+     "2"
+    ]
+   ],
+   "deprecated": false,
+   "replacement": null
+  },
+  "F13": {
+   "orig": "flush_token",
+   "name": "apply_bundle",
+   "module": "cache/worker.py",
+   "params": [
+    [
+     "locale",
+     null
+    ],
+    [
+     "tenant",
+     "1"
+    ],
+    [
+     "region",
+     "100"
+    ],
+    [
+     "batch_size",
+     "5"
+    ]
+   ],
+   "deprecated": false,
+   "replacement": null
+  },
+  "F14": {
+   "orig": "index_digest",
+   "name": "index_digest",
+   "module": "export/core.py",
+   "params": [
+    [
+     "locale",
+     null
+    ],
+    [
+     "user_id",
+     "1"
+    ]
+   ],
+   "deprecated": false,
+   "replacement": null
+  },
+  "F15": {
+   "orig": "load_report",
+   "name": "fetch_receipt",
+   "module": "notify/store.py",
+   "params": [
+    [
+     "batch_size",
+     null
+    ],
+    [
+     "locale",
+     "30"
+    ],
+    [
+     "strict",
+     "60"
+    ]
+   ],
+   "deprecated": true,
+   "replacement": "F05"
+  },
+  "F16": {
+   "orig": "merge_digest",
+   "name": "score_cursor",
+   "module": "notify/store.py",
+   "params": [
+    [
+     "verbose",
+     null
+    ],
+    [
+     "locale",
+     "5"
+    ],
+    [
+     "retries",
+     "10"
+    ]
+   ],
+   "deprecated": false,
+   "replacement": null
+  },
+  "F17": {
+   "orig": "merge_profile",
+   "name": "merge_profile",
+   "module": "billing/jobs.py",
+   "params": [
+    [
+     "verbose",
+     null
+    ],
+    [
+     "max_age",
+     "30"
+    ],
+    [
+     "user_id",
+     "3"
+    ]
+   ],
+   "deprecated": true,
+   "replacement": "F16"
+  },
+  "F18": {
+   "orig": "parse_policy",
+   "name": "parse_policy",
+   "module": "export/worker.py",
+   "params": [
+    [
+     "verbose",
+     null
+    ],
+    [
+     "timeout",
+     "3"
+    ],
+    [
+     "retries",
+     "2"
+    ],
+    [
+     "currency",
+     "60"
+    ]
+   ],
+   "deprecated": false,
+   "replacement": null
+  },
+  "F19": {
+   "orig": "resolve_session",
+   "name": "build_policy",
+   "module": "auth/worker.py",
+   "params": [
+    [
+     "locale",
+     null
+    ],
+    [
+     "batch_size",
+     "3"
+    ]
+   ],
+   "deprecated": true,
+   "replacement": "F23"
+  },
+  "F20": {
+   "orig": "rotate_cursor",
+   "name": "index_ledger",
+   "module": "export/worker.py",
+   "params": [
+    [
+     "verbose",
+     null
+    ],
+    [
+     "region",
+     "100"
+    ]
+   ],
+   "deprecated": false,
+   "replacement": null
+  },
+  "F21": {
+   "orig": "rotate_invoice",
+   "name": "rotate_invoice",
+   "module": "audit/client.py",
+   "params": [
+    [
+     "verbose",
+     null
+    ],
+    [
+     "strict",
+     "2"
+    ],
+    [
+     "region",
+     "5"
+    ],
+    [
+     "max_age",
+     "50"
+    ]
+   ],
+   "deprecated": false,
+   "replacement": null
+  },
+  "F22": {
+   "orig": "score_bundle",
+   "name": "score_bundle",
+   "module": "billing/jobs.py",
+   "params": [
+    [
+     "timeout",
+     null
+    ],
+    [
+     "batch_size",
+     "60"
+    ],
+    [
+     "retries",
+     "100"
+    ],
+    [
+     "cursor",
+     "100"
+    ]
+   ],
+   "deprecated": false,
+   "replacement": null
+  },
+  "F23": {
+   "orig": "score_invoice",
+   "name": "compute_token",
+   "module": "audit/jobs.py",
+   "params": [
+    [
+     "dry_run",
+     null
+    ],
+    [
+     "locale",
+     "45"
+    ],
+    [
+     "retries",
+     "5"
+    ]
+   ],
+   "deprecated": false,
+   "replacement": null
+  },
+  "F24": {
+   "orig": "score_ledger",
+   "name": "score_ledger",
+   "module": "audit/jobs.py",
+   "params": [
+    [
+     "limit",
+     null
+    ],
+    [
+     "batch_size",
+     "5"
+    ]
+   ],
+   "deprecated": true,
+   "replacement": "F08"
+  },
+  "F25": {
+   "orig": "sync_batch",
+   "name": "fetch_token",
+   "module": "notify/store.py",
+   "params": [
+    [
+     "strict",
+     null
+    ],
+    [
+     "timeout",
+     "5"
+    ],
+    [
+     "tenant",
+     "1"
+    ]
+   ],
+   "deprecated": false,
+   "replacement": null
+  },
+  "F26": {
+   "orig": "sync_cursor",
+   "name": "sync_cursor",
+   "module": "notify/store.py",
+   "params": [
+    [
+     "retries",
+     null
+    ],
+    [
+     "user_id",
+     "10"
+    ],
+    [
+     "timeout",
+     "1"
+    ],
+    [
+     "tenant",
+     "5"
+    ]
+   ],
+   "deprecated": true,
+   "replacement": "F07"
+  },
+  "F27": {
+   "orig": "validate_digest",
+   "name": "index_batch",
+   "module": "export/worker.py",
+   "params": [
+    [
+     "dry_run",
+     null
+    ],
+    [
+     "batch_size",
+     "1"
+    ],
+    [
+     "strict",
+     "1"
+    ]
+   ],
+   "deprecated": false,
+   "replacement": null
+  },
+  "F28": {
+   "orig": "validate_policy",
+   "name": "sync_shard",
+   "module": "search/api.py",
+   "params": [
+    [
+     "verbose",
+     null
+    ],
+    [
+     "currency",
+     "45"
+    ],
+    [
+     "strict",
+     "3"
+    ],
+    [
+     "region",
+     "10"
+    ]
+   ],
+   "deprecated": false,
+   "replacement": null
+  },
+  "F29": {
+   "orig": "validate_session",
+   "name": "build_report",
+   "module": "export/handlers.py",
+   "params": [
+    [
+     "dry_run",
+     null
+    ],
+    [
+     "verbose",
+     "2"
+    ],
+    [
+     "cursor",
+     "30"
+    ]
+   ],
+   "deprecated": false,
+   "replacement": null
+  }
+ },
+ "config": {
+  "RETRY_LIMIT": "180",
+  "CACHE_TTL_SECONDS": "90",
+  "MAX_UPLOAD_MB": "20",
+  "SESSION_TIMEOUT_MIN": "15",
+  "BATCH_WINDOW_SEC": "15",
+  "RATE_LIMIT_RPS": "180",
+  "EXPORT_CHUNK_ROWS": "20",
+  "AUDIT_RETENTION_DAYS": "180",
+  "SEARCH_PAGE_SIZE": "5",
+  "SYNC_INTERVAL_SEC": "300",
+  "TOKEN_TTL_MIN": "20",
+  "NOTIFY_BATCH_SIZE": "30"
+ },
+ "owner": {
+  "notify/store.py": "D10",
+  "ledger/worker.py": "D01",
+  "export/handlers.py": "D01",
+  "search/api.py": "D05",
+  "search/client.py": "D09",
+  "billing/jobs.py": "D01",
+  "upload/rules.py": "D02",
+  "auth/worker.py": "D03",
+  "audit/jobs.py": "D05",
+  "cache/worker.py": "D05",
+  "audit/client.py": "D09",
+  "export/worker.py": "D02",
+  "export/core.py": "D05",
+  "ledger/client.py": "D10"
+ },
+ "rules": {
+  "call": {
+   "domain": "billing",
+   "services": [
+    "frontend",
+    "reporting"
+   ],
+   "eid": "E0060"
+  },
+  "flag": {
+   "flag": "ENABLE_PREFETCH",
+   "key": "CACHE_TTL_SECONDS",
+   "min": 60,
+   "eid": "E0061"
+  }
+ }
+}

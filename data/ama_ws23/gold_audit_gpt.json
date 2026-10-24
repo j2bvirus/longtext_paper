@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "Step 85 created exactly that file.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "wrong",
+  "reason": "The pattern was analyzed well before Step 74, including Steps 16–19 and 46–47.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "The final implementation produces shape (2, 3), although Steps 66 and 83 are misdescribed.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "Step 86 confirms rank preservation for the original matrix and seven similar patterns.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "The final fix requires exactly that shape and specific zero/non-zero positions, though it was implemented at Step 77.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ambiguous",
+  "reason": "“Most reasonable” does not determine one action; earlier row swaps had already produced incorrect results.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "wrong",
+  "reason": "Step 77 last modified the core algorithm; Step 83 only ran tests.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "Zero pivots combined with limited row processing caused valid columns to be discarded.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "wrong",
+  "reason": "Step 74 changed a heuristic; that exact matrix had been identified and debugged earlier.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "wrong",
+  "reason": "Step 38 was an unsuccessful test-file read; the internal function was inspected at Step 14 and analyzed at Step 17.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "This accurately describes the targeted pattern and row-swap implementation, without establishing mathematical correctness.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "wrong",
+  "reason": "Tests passed, but the expected values remained incorrect and Step 81 still showed rank loss for another matrix.",
+  "evidence": "whole trajectory"
+ }
+}

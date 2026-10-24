@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "wrong",
+  "reason": "Step 27 edited the reproduction script’s edge cases; it did not view tokens.py.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "wrong",
+  "reason": "The workspace fix was implemented at Step 32; Step 47 ran a debug script.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "wrong",
+  "reason": "The workspace fix already existed by Step 45, so the script would report False.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ambiguous",
+  "reason": "Step 50 only inspected Python paths; workspace tokens were rejected while testbed tokens were still accepted.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "wrong",
+  "reason": "Step 47 did not modify the method; the modification occurred at Step 32.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "wrong",
+  "reason": "Step 45 contains reasoning, not that observation; the next action investigated inconsistent test environments.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "wrong",
+  "reason": "Changes were applied to testbed at Step 55, not Step 49.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ambiguous",
+  "reason": "Step 59 demonstrates empty-email handling and email inclusion, but does not establish None conversion by itself.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "wrong",
+  "reason": "Step 28 edited the reproduction script’s main block; get_email_field_name() was examined at Step 17.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "wrong",
+  "reason": "Step 64 is later than Step 61; Step 61 itself ran 145 regression tests.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "The vulnerability and email-dependent hash fix are correct in substance, despite different code wording.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ambiguous",
+  "reason": "“Test execution attempts” lacks a defined scope; the claimed six successful runs also misidentify steps and overlook failures.",
+  "evidence": "whole trajectory"
+ }
+}

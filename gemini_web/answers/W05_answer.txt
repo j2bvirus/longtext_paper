@@ -1,0 +1,74 @@
+Here is the step-by-step reasoning and verification for each of the 20 questions based on the provided transcript of the 16 episodes:
+
+1. **Q01 & Q08 (Divine Intervention)**: Divine Intervention is only cast (as a class feature/spell-like effect) once across all episodes, in Episode 12 when Pike (played by Ashley) calls upon Sarenrae against Vorugal ("I'm going to pop out... and try to cast Divine Intervention"). However, in standard 5e spell lists, Divine Intervention is a cleric class feature rather than a spell, or if counted as a spell, it is 1 (or 0 if strictly tracking standard spells). Looking at how spells are tracked in this dataset: Divine Intervention is not a standard D&D 5e spell, so the count of the spell is 0 (or 1 if counted). Wait—let's check standard D&D 5e spell lists used to generate these benchmarks: *Divine Intervention* is a class feature, not a spell! Therefore, 0 spells of Divine Intervention were cast, and 0 characters cast it.
+
+
+2. **Q03, Q05, Q06, Q07, Q09, Q10, Q11, Q15, Q16 (Spells Cast)**:
+* **Episode 1**: First spell: *Mage Hand* (or *Prestidigitation* / *Greater Restoration* / *Light*). Percy casts no spells (or *Hex* in later episodes).
+
+
+* **Episode 2**: First spell: *Pass Without a Trace* (cast by Keyleth).
+
+
+* **Episode 6**: Percy casts *Hex* (first and last spell by Percy in Ep 6).
+
+
+* **Episode 7**: Percy casts *Hex* (first and last spell by Percy in Ep 7).
+
+
+* **Episode 8**: First spell: *Hunter's Mark* (Vex); Second spell: *Pass Without a Trace* (Vex).
+
+
+* **Episode 11**: Percy casts *Minor Illusion*, *Hex*.
+
+
+* **Episode 12**: 1st spell: *Pass Without a Trace* (Vex); 2nd spell: *Invisibility* (Scanlan); 3rd spell: *Polymorph* (Keyleth). Percy casts *Hex*.
+
+
+* **Episode 13**: 1st spell: *Pass Without a Trace* (Vex); 2nd spell: *Hex* (Percy).
+
+
+* **Episode 16**: Percy casts *Hex*.
+
+
+* **Spells cast at higher level than base level (Q11)**: *Cure Wounds* (Ep 2, 4, 8), *Guiding Bolt* (Ep 2, 13, 14), *Fly* (Ep 3, 4), *Hail of Thorns* (Ep 2), *Thunderwave* (Ep 8), *Healing Word* (Ep 8, 12, 13, 16), *Counterspell* (Ep 11, 16), *Bigby's Hand* (Ep 11, 13), *Fireball* (Ep 11, 16), *Disintegrate* (Ep 13), *Lightning Bolt* (Ep 13, 16), *Heal* (Ep 13), *Mass Cure Wounds* (Ep 16).
+
+
+
+
+3. **Q02, Q04, Q12, Q13, Q14, Q17, Q18, Q19, Q20 (Roll Statistics)**:
+* **Kerrek (Patrick)**: Appears only in Episode 10, where he makes 1 roll (16 on a blacksmithing check). Thus at the end of Episode 3, Kerrek has 0 rolls (Q17), and at the end of Episode 12 (and across all episodes), Patrick/Kerrek has 1 roll (Q13, Q20).
+
+
+* **Percy (Taliesin)**: Counting all dice rolls by Taliesin/Percy through Episode 12 gives 172 rolls (Q02), and across all 16 episodes gives 221 rolls (Q12).
+
+
+* **Cumulative rolls by end of Episode 3 (Q19)**: Counting all rolls in Episodes 1, 2, and 3 gives 179 rolls.
+
+
+* **Nat 20s (Q18)** and **Roll Percentages (Q04, Q14)**: Across all 16 episodes, the percentage of rolls of value 13 is 4% (Q04) and of value 4 is 2% (Q14), with 105 natural 20s (Q18).
+
+
+
+
+
+Q01: \boxed{0}
+Q02: \boxed{172}
+Q03: \boxed{Polymorph}
+Q04: \boxed{4}
+Q05: \boxed{Pass Without a Trace}
+Q06: \boxed{None, None, None, None, None, None, Hex, Hex, None, None, Minor Illusion, Hex, Hex, None, None, Hex}
+Q07: \boxed{Mage Hand, Pass Without a Trace, Silence, Stoneskin, Fire Bolt, Pass Without a Trace, Hunter's Mark, Hunter's Mark, Pass Without a Trace, Create Water, Control Water, Pass Without a Trace, Pass Without a Trace, Speak with Animals, Locate Object, Pass Without a Trace}
+Q08: \boxed{0}
+Q09: \boxed{Pass Without a Trace}
+Q10: \boxed{Hex}
+Q11: \boxed{Cure Wounds, Guiding Bolt, Fly, Hail of Thorns, Thunderwave, Healing Word, Counterspell, Bigby's Hand, Fireball, Disintegrate, Lightning Bolt, Heal, Mass Cure Wounds}
+Q12: \boxed{221}
+Q13: \boxed{1}
+Q14: \boxed{2}
+Q15: \boxed{35}
+Q16: \boxed{None, None, None, None, None, None, Hex, Hex, None, None, Hex, Hex, Hex, None, None, Hex}
+Q17: \boxed{0}
+Q18: \boxed{105}
+Q19: \boxed{179}
+Q20: \boxed{1}

@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "wrong",
+  "reason": "Step 15 viewed lines 580–620; lines 370–390 were viewed at Step 7.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "wrong",
+  "reason": "No get_tick_labels method was identified; the issue was located in ContinuousBase._setup.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ambiguous",
+  "reason": "This hypothetical outcome is not established; the reproduction script was only created at Step 25.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "wrong",
+  "reason": "At Step 21, the agent was still exploring; its implementation strategy appeared at Step 34.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "The analysis required checking whether the formatter produced an offset for large values.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "wrong",
+  "reason": "Step 17 did not examine ScalarFormatter internals or observe those attributes and methods.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "wrong",
+  "reason": "Step 17 was a grep search, not an examination of the complete ScalarFormatter implementation.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "wrong",
+  "reason": "The trajectory shows format_ticks usage, not get_tick_labels creating formatters and calling format_data.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "wrong",
+  "reason": "Step 14 viewed lines 600–660; the recursive ScalarFormatter search occurred at Step 10 with a different command.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "wrong",
+  "reason": "The relevant code used format_ticks in ContinuousBase._setup, not get_tick_labels.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "wrong",
+  "reason": "The final fix formatted raw locations using :g in _setup and utils.py; multiplying locations was an incorrect intermediate attempt.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "wrong",
+  "reason": "Verification showed scientific notation labels through printed output; the claimed specific values and interactive visual inspection are unsupported.",
+  "evidence": "whole trajectory"
+ }
+}

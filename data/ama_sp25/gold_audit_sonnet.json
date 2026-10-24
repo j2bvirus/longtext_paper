@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "Step 11 used FLATTEN over PARSE_JSON and filtered on wikidata = Q191, returning osm_id 79510; the reference's pf alias is a minor difference.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "The counterfactual is reasonable and matches the step 16 fix and the later timeouts.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "Step 14 used ST_DWITHIN(..., 0) against the osm_id 79510 geometry.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "wrong",
+  "reason": "The doubled quotes are only CSV escaping, not the stored text format, so that explanation is unsupported. Step 6 showed nothing about it, and the actual cause of the LIKE failure is not established.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "The listed preconditions are consistent with the trajectory.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "The reasoning is open-ended but plausible and consistent with the trajectory.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "Step 24 replaced the correlated subquery with an explicit join and GROUP BY, which succeeded.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "The suggested next actions are reasonable and consistent with the steps 24-26 outputs.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "wrong",
+  "reason": "The LIMIT changed from 50 to 500 at step 25. Step 26 reused 500, so step 26 was not the last change.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "The timeouts at steps 12, 16, 19 and 22 and the later bounded queries support the inference.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "wrong",
+  "reason": "PLANET_FEATURES was queried in all 21 SQL steps, not 20, and PLANET_FEATURES_POINTS appears in about 10 steps, not 6.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "The key decision points and detours match the trajectory.",
+  "evidence": "whole trajectory"
+ }
+}

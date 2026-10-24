@@ -1,0 +1,104 @@
+{
+ "d0": {
+  "chars": 44142,
+  "tokens_cl100k": 11395,
+  "sha256": "7cdd3d9b7f826f585009f66c42dfd46eb0614e3f148ddc60308a704773d21e3b"
+ },
+ "d1": {
+  "chars": 187541,
+  "tokens_cl100k": 44731,
+  "sha256": "ac70196773ea8d1678570688a64da3c489b47397001d224cad533549a7e9fda9"
+ },
+ "d4": {
+  "chars": 519683,
+  "tokens_cl100k": 119628,
+  "sha256": "abcc4b10430023ac396c1b744ff8b2ca7d13d57e5eb642b87c24b55202d14a42"
+ },
+ "d16": {
+  "chars": 2192959,
+  "tokens_cl100k": 502985,
+  "sha256": "9096183202c4e2552fc07d676eb288b6b19ec1fafefc2aecf2a5b0947ad9f59d"
+ },
+ "d64": {
+  "chars": 8483046,
+  "tokens_cl100k": 1951528,
+  "sha256": "b408b297adc87d94b6c26d311b5686d4378b6dbee2c451bb2cbc10db14aca624"
+ },
+ "n_events": 388,
+ "event_types": {
+  "INIT_FAMILY": 10,
+  "MARRY": 24,
+  "INIT_PERSON": 48,
+  "INIT_ITEM": 12,
+  "INIT_SECRET": 8,
+  "RULE_VAULT": 1,
+  "RULE_BRIDGE": 1,
+  "RULE_HEIR": 1,
+  "PLAN": 16,
+  "TELL": 36,
+  "GIVE": 51,
+  "TRAVEL": 79,
+  "OCCUPATION": 13,
+  "BIRTH": 13,
+  "PROMISE": 31,
+  "RUMOR": 10,
+  "DEATH": 17,
+  "RESOLVE": 17
+ },
+ "n_persons": 64,
+ "n_questions": 261,
+ "qtypes": {
+  "LOC_NOW": 24,
+  "LOC_AT_EVENT": 16,
+  "SPOUSE_NOW": 25,
+  "ALIVE": 25,
+  "OWNER_NOW": 12,
+  "OWNER_PREV": 10,
+  "GRANDPARENT": 13,
+  "KNOWS": 25,
+  "PROMISE": 25,
+  "RULE_VAULT": 1,
+  "RULE_BRIDGE": 11,
+  "EVER_VISITED": 25,
+  "BIRTHPLACE": 24,
+  "OCCUPATION_NOW": 25
+ },
+ "answer_dist": {
+  "ALIVE": {
+   "no": 12,
+   "yes": 13
+  },
+  "BIRTHPLACE": {
+   "unknown": 12
+  },
+  "EVER_VISITED": {
+   "yes": 12,
+   "no": 13
+  },
+  "GRANDPARENT": {},
+  "KNOWS": {
+   "yes": 12,
+   "no": 13
+  },
+  "LOC_AT_EVENT": {},
+  "LOC_NOW": {},
+  "OCCUPATION_NOW": {},
+  "OWNER_NOW": {},
+  "OWNER_PREV": {},
+  "PROMISE": {
+   "broken": 8,
+   "kept": 6,
+   "pending": 11
+  },
+  "RULE_BRIDGE": {
+   "yes": 7,
+   "no": 4
+  },
+  "RULE_VAULT": {
+   "yes": 1
+  },
+  "SPOUSE_NOW": {
+   "none": 2
+  }
+ }
+}

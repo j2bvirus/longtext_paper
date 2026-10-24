@@ -1,0 +1,42 @@
+{
+ "name": "saga_v5_s7_d16_mem-pbm25_ollama-gemma4-e4b-it-q4_K_M_b4000",
+ "n": 236,
+ "acc": 0.6610169491525424,
+ "by_qtype": {
+  "ALIVE": 0.76,
+  "BIRTHPLACE": 0.75,
+  "EVER_VISITED": 0.75,
+  "GRANDPARENT": 0.04,
+  "KNOWS": 0.8,
+  "LOC_AT_EVENT": 0.545,
+  "LOC_NOW": 0.786,
+  "OCCUPATION_NOW": 0.72,
+  "OWNER_NOW": 0.583,
+  "OWNER_PREV": 0.6,
+  "PROMISE": 0.857,
+  "RULE_BRIDGE": 0.375,
+  "RULE_VAULT": 1.0,
+  "SPOUSE_NOW": 0.842
+ },
+ "mean_ctx_tokens": 3979.85593220339,
+ "sum_in_tokens": 1031881,
+ "sum_out_tokens": 20106,
+ "sum_usd": 0.0,
+ "sum_wall_s": 352.55527567863464,
+ "build": {
+  "embed_tokens": 0,
+  "llm_in": 0,
+  "llm_out": 0,
+  "usd": 0.0,
+  "wall_s": 0.36890363693237305,
+  "lazy": {
+   "llm_in": 0,
+   "llm_out": 0,
+   "usd": 0.0,
+   "calls": 0
+  }
+ },
+ "record_tokens": 505698,
+ "n_chunks": 2133,
+ "mean_ev_recall": 0.8867911153119092
+}

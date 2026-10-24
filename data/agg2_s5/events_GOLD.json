@@ -1,0 +1,4383 @@
+[
+ {
+  "id": "E0000",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Dornwood household lived in the market town of Elmhaven. Wedan Dornwood and his wife Ronelle Dornwood had 3 children, all living at home: the eldest a son, Kavus Dornwood; then a daughter, Dara Dornwood; then a son, Vorald Dornwood.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P000",
+  "mother": "P001",
+  "children": [
+   "P002",
+   "P003",
+   "P004"
+  ],
+  "place": "L03"
+ },
+ {
+  "id": "E0001",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Grimaby household lived in the river crossing at Salwick. Illan Grimaby and his wife Pewyn Grimaby had 3 children, all living at home: the eldest a son, Pebin Grimaby; then a son, Dadan Grimaby; then a daughter, Thilia Grimaby.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P005",
+  "mother": "P006",
+  "children": [
+   "P007",
+   "P008",
+   "P009"
+  ],
+  "place": "L12"
+ },
+ {
+  "id": "E0002",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Marrner household lived in Gulby. Zanar Marrner and his wife Bressa Marrner had 2 children, all living at home: the eldest a son, Hanar Marrner; then a son, Elnar Marrner.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P010",
+  "mother": "P011",
+  "children": [
+   "P012",
+   "P013"
+  ],
+  "place": "L05"
+ },
+ {
+  "id": "E0003",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "In the village of Dunford lived Ilten Lindford, married to Zara Lindford, with their children. In order of birth these were the eldest a daughter, Elrine Lindford; then a son, Jodan Lindford.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P014",
+  "mother": "P015",
+  "children": [
+   "P016",
+   "P017"
+  ],
+  "place": "L02"
+ },
+ {
+  "id": "E0004",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Prydmere household lived in the village of Dunford. Robin Prydmere and his wife Gawyn Prydmere had 4 children, all living at home: the eldest a son, Pebin Prydmere; then a daughter, Orlde Prydmere; then a son, Kavus Prydmere; then a daughter, Serine Prydmere.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P018",
+  "mother": "P019",
+  "children": [
+   "P020",
+   "P021",
+   "P022",
+   "P023"
+  ],
+  "place": "L02"
+ },
+ {
+  "id": "E0005",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Ashner household lived in the hill farms of Gulstead. Jomor Ashner and his wife Orra Ashner had 4 children, all living at home: the eldest a daughter, Brelia Ashner; then a daughter, Darine Ashner; then a son, Nyvus Ashner; then a son, Rolan Ashner.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P024",
+  "mother": "P025",
+  "children": [
+   "P026",
+   "P027",
+   "P028",
+   "P029"
+  ],
+  "place": "L06"
+ },
+ {
+  "id": "E0006",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "In the harbor town of Coldmere lived Uldrek Thornaby, married to Neena Thornaby, with their children. In order of birth these were the eldest a daughter, Gadette Thornaby; then a son, Dadrek Thornaby; then a son, Peten Thornaby.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P030",
+  "mother": "P031",
+  "children": [
+   "P032",
+   "P033",
+   "P034"
+  ],
+  "place": "L01"
+ },
+ {
+  "id": "E0007",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "In Braegate lived Neten Tallowaby, married to Hara Tallowaby, with their children. In order of birth these were the eldest a son, Feten Tallowaby; then a son, Gavus Tallowaby; then a daughter, Nelia Tallowaby.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P035",
+  "mother": "P036",
+  "children": [
+   "P037",
+   "P038",
+   "P039"
+  ],
+  "place": "L00"
+ },
+ {
+  "id": "E0008",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Wexwood household lived in the village of Wendwick. Aemor Wexwood and his wife Malis Wexwood had 4 children, all living at home: the eldest a son, Vorald Wexwood; then a daughter, Nylis Wexwood; then a son, Kalan Wexwood; then a daughter, Ganelle Wexwood.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P040",
+  "mother": "P041",
+  "children": [
+   "P042",
+   "P043",
+   "P044",
+   "P045"
+  ],
+  "place": "L14"
+ },
+ {
+  "id": "E0009",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Stenick household lived in the harbor town of Wilby. Wenar Stenick and his wife Vesena Stenick had 3 children, all living at home: the eldest a son, Kalan Stenick; then a daughter, Tavie Stenick; then a son, Isbin Stenick.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P046",
+  "mother": "P047",
+  "children": [
+   "P048",
+   "P049",
+   "P050"
+  ],
+  "place": "L15"
+ },
+ {
+  "id": "E0010",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Ganelle Wexwood had married Gavus Tallowaby some years before. The couple lived in Wendwick.",
+  "where": "L14",
+  "ref_deps": [],
+  "a": "P045",
+  "b": "P038",
+  "place": "L14"
+ },
+ {
+  "id": "E0011",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Pebin Prydmere had married Thilia Grimaby some years before. The couple lived in Dunford.",
+  "where": "L02",
+  "ref_deps": [],
+  "a": "P020",
+  "b": "P009",
+  "place": "L02"
+ },
+ {
+  "id": "E0012",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Darine Ashner had married Isbin Stenick some years before. The couple lived in Gulstead.",
+  "where": "L06",
+  "ref_deps": [],
+  "a": "P027",
+  "b": "P050",
+  "place": "L06"
+ },
+ {
+  "id": "E0013",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Kalan Stenick and Orlde Prydmere were husband and wife. The couple lived in Wilby.",
+  "where": "L15",
+  "ref_deps": [],
+  "a": "P048",
+  "b": "P021",
+  "place": "L15"
+ },
+ {
+  "id": "E0014",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Vorald Dornwood and Tavie Stenick were husband and wife. The couple lived in Elmhaven.",
+  "where": "L03",
+  "ref_deps": [],
+  "a": "P004",
+  "b": "P049",
+  "place": "L03"
+ },
+ {
+  "id": "E0015",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Peten Thornaby had married Nelia Tallowaby some years before. The couple lived in Coldmere.",
+  "where": "L01",
+  "ref_deps": [],
+  "a": "P034",
+  "b": "P039",
+  "place": "L01"
+ },
+ {
+  "id": "E0016",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Wedan Dornwood worked as a smith. Wedan Dornwood had been born in Wendwick.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P000",
+  "occupation": "smith",
+  "birthplace": "L14",
+  "nick": null
+ },
+ {
+  "id": "E0017",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Ronelle Dornwood was a chandler.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P001",
+  "occupation": "chandler",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0018",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Vorald Dornwood was a cooper.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P004",
+  "occupation": "cooper",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0019",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Pewyn Grimaby was a cooper. Pewyn Grimaby was born at Wendcombe. Folk called Pewyn Grimaby \"Lame Pewyn\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P006",
+  "occupation": "cooper",
+  "birthplace": "L13",
+  "nick": "Lame Pewyn"
+ },
+ {
+  "id": "E0020",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Pebin Grimaby worked as a tanner.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P007",
+  "occupation": "tanner",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0021",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Dadan Grimaby was a glazier. Dadan Grimaby was born at Gulstead.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P008",
+  "occupation": "glazier",
+  "birthplace": "L06",
+  "nick": null
+ },
+ {
+  "id": "E0022",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Thilia Grimaby was a cooper.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P009",
+  "occupation": "cooper",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0023",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Zanar Marrner was a chandler.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P010",
+  "occupation": "chandler",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0024",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Bressa Marrner worked as a smith. Folk called Bressa Marrner \"Red Bressa\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P011",
+  "occupation": "smith",
+  "birthplace": null,
+  "nick": "Red Bressa"
+ },
+ {
+  "id": "E0025",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Hanar Marrner was a chandler. Hanar Marrner was born at Mireford.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P012",
+  "occupation": "chandler",
+  "birthplace": "L10",
+  "nick": null
+ },
+ {
+  "id": "E0026",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Ilten Lindford worked as a mason.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P014",
+  "occupation": "mason",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0027",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Zara Lindford worked as a fisher. Zara Lindford had been born in Salwick.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P015",
+  "occupation": "fisher",
+  "birthplace": "L12",
+  "nick": null
+ },
+ {
+  "id": "E0028",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Elrine Lindford was born at Dunford. Folk called Elrine Lindford \"Quiet Elrine\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P016",
+  "occupation": null,
+  "birthplace": "L02",
+  "nick": "Quiet Elrine"
+ },
+ {
+  "id": "E0029",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Jodan Lindford worked as a smith.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P017",
+  "occupation": "smith",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0030",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Robin Prydmere worked as a shepherd.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P018",
+  "occupation": "shepherd",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0031",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Gawyn Prydmere worked as a shepherd. Gawyn Prydmere was born at Wendwick.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P019",
+  "occupation": "shepherd",
+  "birthplace": "L14",
+  "nick": null
+ },
+ {
+  "id": "E0032",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Pebin Prydmere worked as a fisher.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P020",
+  "occupation": "fisher",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0033",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Orlde Prydmere was a ferryman. Orlde Prydmere had been born in Dunford.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P021",
+  "occupation": "ferryman",
+  "birthplace": "L02",
+  "nick": null
+ },
+ {
+  "id": "E0034",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Kavus Prydmere was born at Gulstead.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P022",
+  "occupation": null,
+  "birthplace": "L06",
+  "nick": null
+ },
+ {
+  "id": "E0035",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Serine Prydmere worked as a weaver. Serine Prydmere had been born in Kelgate.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P023",
+  "occupation": "weaver",
+  "birthplace": "L07",
+  "nick": null
+ },
+ {
+  "id": "E0036",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Jomor Ashner was a tanner. Folk called Jomor Ashner \"Tall Jomor\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P024",
+  "occupation": "tanner",
+  "birthplace": null,
+  "nick": "Tall Jomor"
+ },
+ {
+  "id": "E0037",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Orra Ashner was a weaver. Orra Ashner was born at Dunford.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P025",
+  "occupation": "weaver",
+  "birthplace": "L02",
+  "nick": null
+ },
+ {
+  "id": "E0038",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Brelia Ashner worked as a smith.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P026",
+  "occupation": "smith",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0039",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Darine Ashner worked as a tanner.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P027",
+  "occupation": "tanner",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0040",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Uldrek Thornaby had been born in Coldmere.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P030",
+  "occupation": null,
+  "birthplace": "L01",
+  "nick": null
+ },
+ {
+  "id": "E0041",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Neena Thornaby was a weaver.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P031",
+  "occupation": "weaver",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0042",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Dadrek Thornaby was a weaver.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P033",
+  "occupation": "weaver",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0043",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Hara Tallowaby was a miller.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P036",
+  "occupation": "miller",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0044",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Feten Tallowaby was a miller. Feten Tallowaby had been born in Wilby.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P037",
+  "occupation": "miller",
+  "birthplace": "L15",
+  "nick": null
+ },
+ {
+  "id": "E0045",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Gavus Tallowaby was a shepherd. Gavus Tallowaby was born at Larkton. Folk called Gavus Tallowaby \"Red Gavus\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P038",
+  "occupation": "shepherd",
+  "birthplace": "L09",
+  "nick": "Red Gavus"
+ },
+ {
+  "id": "E0046",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Nelia Tallowaby worked as a smith. Nelia Tallowaby had been born in Kelgate.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P039",
+  "occupation": "smith",
+  "birthplace": "L07",
+  "nick": null
+ },
+ {
+  "id": "E0047",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Aemor Wexwood was a smith.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P040",
+  "occupation": "smith",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0048",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Malis Wexwood was a ferryman. Malis Wexwood had been born in Salwick.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P041",
+  "occupation": "ferryman",
+  "birthplace": "L12",
+  "nick": null
+ },
+ {
+  "id": "E0049",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Vorald Wexwood was born at Gulstead.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P042",
+  "occupation": null,
+  "birthplace": "L06",
+  "nick": null
+ },
+ {
+  "id": "E0050",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Nylis Wexwood was a scribe. Folk called Nylis Wexwood \"Nylis the Younger\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P043",
+  "occupation": "scribe",
+  "birthplace": null,
+  "nick": "Nylis the Younger"
+ },
+ {
+  "id": "E0051",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Kalan Wexwood was a ferryman. Kalan Wexwood had been born in Kelmere.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P044",
+  "occupation": "ferryman",
+  "birthplace": "L08",
+  "nick": null
+ },
+ {
+  "id": "E0052",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Ganelle Wexwood was a cooper. Ganelle Wexwood had been born in Fenholt. Folk called Ganelle Wexwood \"Tall Ganelle\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P045",
+  "occupation": "cooper",
+  "birthplace": "L04",
+  "nick": "Tall Ganelle"
+ },
+ {
+  "id": "E0053",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Wenar Stenick worked as a tanner.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P046",
+  "occupation": "tanner",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0054",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Vesena Stenick was a brewer.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P047",
+  "occupation": "brewer",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0055",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Kalan Stenick worked as a cooper.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P048",
+  "occupation": "cooper",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0056",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Tavie Stenick worked as a smith. Folk called Tavie Stenick \"Tall Tavie\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P049",
+  "occupation": "smith",
+  "birthplace": null,
+  "nick": "Tall Tavie"
+ },
+ {
+  "id": "E0057",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Isbin Stenick was a miller. Isbin Stenick was born at Larkton.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P050",
+  "occupation": "miller",
+  "birthplace": "L09",
+  "nick": null
+ },
+ {
+  "id": "E0058",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Dadrek Thornaby kept the silver ledger in a cedar box.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I11",
+  "owner": "P033"
+ },
+ {
+  "id": "E0059",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The glass flute belonged to Vesena Stenick.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I05",
+  "owner": "P047"
+ },
+ {
+  "id": "E0060",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The silver dagger belonged to Bressa Marrner.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I10",
+  "owner": "P011"
+ },
+ {
+  "id": "E0061",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Among the possessions of Kavus Prydmere was the jade compass.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I08",
+  "owner": "P022"
+ },
+ {
+  "id": "E0062",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Among the possessions of Peten Thornaby was the amber comb.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I00",
+  "owner": "P034"
+ },
+ {
+  "id": "E0063",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Among the possessions of Pebin Grimaby was the amber ring.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I01",
+  "owner": "P007"
+ },
+ {
+  "id": "E0064",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The bone compass belonged to Ilten Lindford.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I03",
+  "owner": "P014"
+ },
+ {
+  "id": "E0065",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The bone chalice belonged to Hara Tallowaby.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I02",
+  "owner": "P036"
+ },
+ {
+  "id": "E0066",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The iron bell belonged to Wedan Dornwood, head of the Dornwood household.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I06",
+  "owner": "P000"
+ },
+ {
+  "id": "E0067",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The pewter flute belonged to Vorald Dornwood.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I09",
+  "owner": "P004"
+ },
+ {
+  "id": "E0068",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The brass comb belonged to Orlde Prydmere.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I04",
+  "owner": "P021"
+ },
+ {
+  "id": "E0069",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The jade comb belonged to Jodan Lindford.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I07",
+  "owner": "P017"
+ },
+ {
+  "id": "E0070",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Thilia Grimaby knew that the bridge toll at Kelmere is skimmed every month.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S00",
+  "person": "P009"
+ },
+ {
+  "id": "E0071",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Pewyn Grimaby knew that the Wexwood family once owed a blood debt to the Dornwood family.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S01",
+  "person": "P006"
+ },
+ {
+  "id": "E0072",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Dara Dornwood alone carried the knowledge that the fire at the Wendwick granary was set on purpose.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S02",
+  "person": "P003"
+ },
+ {
+  "id": "E0073",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Wedan Dornwood alone carried the knowledge that the harbor master of Fenholt takes bribes.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S03",
+  "person": "P000"
+ },
+ {
+  "id": "E0074",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Neena Thornaby alone carried the knowledge that the old abbey at Larkton hides a second cellar.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S04",
+  "person": "P031"
+ },
+ {
+  "id": "E0075",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Orlde Prydmere alone carried the knowledge that the Lindford mill ledger was rewritten after the flood.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S05",
+  "person": "P021"
+ },
+ {
+  "id": "E0076",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Peten Thornaby knew that a chest of silver lies buried beneath the well at Braegate.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S06",
+  "person": "P034"
+ },
+ {
+  "id": "E0077",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Isbin Stenick knew that the deed to the Quenby pastures was forged.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S07",
+  "person": "P050"
+ },
+ {
+  "id": "E0078",
+  "type": "RULE_VAULT",
+  "chapter": 1,
+  "text": "It was an old law of Mireford that the vault beneath its chapel would open only for a living person who held both the bone chalice and the amber ring at once.",
+  "where": null,
+  "ref_deps": [],
+  "place": "L10",
+  "items": [
+   "I02",
+   "I01"
+  ]
+ },
+ {
+  "id": "E0079",
+  "type": "RULE_BRIDGE",
+  "chapter": 1,
+  "text": "The toll bridge at Wendcombe belonged to the Prydmere family, and only those born a Prydmere, or presently married to one, were allowed to cross it.",
+  "where": null,
+  "ref_deps": [],
+  "place": "L13",
+  "surname": "Prydmere"
+ },
+ {
+  "id": "E0080",
+  "type": "RULE_HEIR",
+  "chapter": 1,
+  "text": "By custom, the iron bell always passed, on the death of whoever held it, to the eldest living child of that holder; no will could change this, and it passed without ceremony.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I06",
+  "surname": "Dornwood"
+ },
+ {
+  "id": "E0081",
+  "type": "BIRTH",
+  "chapter": 2,
+  "text": "Thilia Grimaby gave birth to a daughter, named Kavie Prydmere; the father was Pebin Prydmere. The family lived in Dunford.",
+  "where": "L02",
+  "ref_deps": [],
+  "child": "P051",
+  "mother": "P009",
+  "father": "P020",
+  "place": "L02"
+ },
+ {
+  "id": "E0082",
+  "type": "TELL",
+  "chapter": 2,
+  "text": "In a letter that Serine burned after reading, Thilia revealed that the bridge toll at Kelmere is skimmed every month.",
+  "where": "L02",
+  "ref_deps": [
+   "E0001",
+   "E0004"
+  ],
+  "secret": "S00",
+  "src": "P009",
+  "dest": "P023"
+ },
+ {
+  "id": "E0083",
+  "type": "TRAVEL",
+  "chapter": 2,
+  "text": "Ilten rode out of Dunford; by the next market day he was living in Fenholt.",
+  "where": "L02",
+  "ref_deps": [
+   "E0003"
+  ],
+  "person": "P014",
+  "src": "L02",
+  "dest": "L04"
+ },
+ {
+  "id": "E0084",
+  "type": "TRAVEL",
+  "chapter": 2,
+  "text": "Zara followed him to Fenholt within the month.",
+  "where": "L02",
+  "ref_deps": [
+   "E0003"
+  ],
+  "person": "P015",
+  "src": "L02",
+  "dest": "L04"
+ },
+ {
+  "id": "E0085",
+  "type": "TRAVEL",
+  "chapter": 2,
+  "text": "The youngest son of Orra Ashner packed a single trunk and moved from Gulstead to Wendwick.",
+  "where": "L06",
+  "ref_deps": [
+   "E0005"
+  ],
+  "person": "P029",
+  "src": "L06",
+  "dest": "L14"
+ },
+ {
+  "id": "E0086",
+  "type": "MARRY",
+  "chapter": 2,
+  "text": "Before the autumn was out, Nylis Wexwood took Kavus Prydmere in marriage at Wendwick. The couple lived in Wendwick from then on.",
+  "where": "L14",
+  "ref_deps": [],
+  "a": "P043",
+  "b": "P022",
+  "place": "L14"
+ },
+ {
+  "id": "E0087",
+  "type": "GIVE",
+  "chapter": 2,
+  "text": "Kavus Prydmere gave the jade compass to Nylis.",
+  "where": "L14",
+  "ref_deps": [
+   "E0008"
+  ],
+  "item": "I08",
+  "src": "P022",
+  "dest": "P043"
+ },
+ {
+  "id": "E0088",
+  "type": "MARRY",
+  "chapter": 3,
+  "text": "In the chapel at Gulby, the eldest son of Zanar Marrner married Dara. The couple lived in Gulby from then on.",
+  "where": "L05",
+  "ref_deps": [
+   "E0000",
+   "E0002"
+  ],
+  "a": "P012",
+  "b": "P003",
+  "place": "L05"
+ },
+ {
+  "id": "E0089",
+  "type": "GIVE",
+  "chapter": 3,
+  "text": "Wedan Dornwood won the pewter flute from Vorald Dornwood at cards, fairly, and kept it.",
+  "where": "L03",
+  "ref_deps": [],
+  "item": "I09",
+  "src": "P004",
+  "dest": "P000"
+ },
+ {
+  "id": "E0090",
+  "type": "OCCUPATION",
+  "chapter": 3,
+  "text": "Kavus Dornwood gave up idleness and took work as a smith.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P002",
+  "old": null,
+  "new": "smith"
+ },
+ {
+  "id": "E0091",
+  "type": "BIRTH",
+  "chapter": 3,
+  "text": "Nelia Tallowaby gave birth to a daughter, named Ulena Thornaby; the father was Peten Thornaby. The family lived in Coldmere.",
+  "where": "L01",
+  "ref_deps": [],
+  "child": "P052",
+  "mother": "P039",
+  "father": "P034",
+  "place": "L01"
+ },
+ {
+  "id": "E0092",
+  "type": "TRAVEL",
+  "chapter": 3,
+  "text": "Orra Ashner rode out of Gulstead; by the next market day she was living in Larkton.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P025",
+  "src": "L06",
+  "dest": "L09"
+ },
+ {
+  "id": "E0093",
+  "type": "TRAVEL",
+  "chapter": 3,
+  "text": "Jomor followed her to Larkton within the month.",
+  "where": "L06",
+  "ref_deps": [
+   "E0005"
+  ],
+  "person": "P024",
+  "src": "L06",
+  "dest": "L09"
+ },
+ {
+  "id": "E0094",
+  "type": "GIVE",
+  "chapter": 4,
+  "text": "Jodan Lindford sent the jade comb by carrier to Orra Ashner, who received it safely.",
+  "where": "L02",
+  "ref_deps": [],
+  "item": "I07",
+  "src": "P017",
+  "dest": "P025"
+ },
+ {
+  "id": "E0095",
+  "type": "OCCUPATION",
+  "chapter": 4,
+  "text": "Isbin Stenick was apprenticed anew and became a shepherd.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P050",
+  "old": "miller",
+  "new": "shepherd"
+ },
+ {
+  "id": "E0096",
+  "type": "TELL",
+  "chapter": 4,
+  "text": "Wedan could keep it no longer and told the wife of Wedan Dornwood that the harbor master of Fenholt takes bribes.",
+  "where": "L03",
+  "ref_deps": [
+   "E0000"
+  ],
+  "secret": "S03",
+  "src": "P000",
+  "dest": "P001"
+ },
+ {
+  "id": "E0097",
+  "type": "PROMISE",
+  "chapter": 4,
+  "text": "Ronelle Dornwood gave Kavus Dornwood a solemn promise to repair the roof of the chapel at Gulby.",
+  "where": "L03",
+  "ref_deps": [],
+  "promise": "R00",
+  "a": "P001",
+  "b": "P002",
+  "act": "to repair the roof of the chapel at Gulby"
+ },
+ {
+  "id": "E0098",
+  "type": "GIVE",
+  "chapter": 4,
+  "text": "Zara Lindford won the bone compass from Ilten at cards, fairly, and kept it.",
+  "where": "L04",
+  "ref_deps": [
+   "E0003"
+  ],
+  "item": "I03",
+  "src": "P014",
+  "dest": "P015"
+ },
+ {
+  "id": "E0099",
+  "type": "PLAN",
+  "chapter": 4,
+  "text": "The wife of Kavus Prydmere meant to go to Gulby before the frost, but the roads flooded and the journey was put off.",
+  "where": "L14",
+  "ref_deps": [
+   "E0086"
+  ],
+  "person": "P043",
+  "dest": "L05"
+ },
+ {
+  "id": "E0100",
+  "type": "TRAVEL",
+  "chapter": 5,
+  "text": "Thilia Grimaby packed a single trunk and moved from Dunford to Wilby.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P009",
+  "src": "L02",
+  "dest": "L15"
+ },
+ {
+  "id": "E0101",
+  "type": "TRAVEL",
+  "chapter": 5,
+  "text": "Pebin Prydmere went along to live in Wilby as well.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P020",
+  "src": "L02",
+  "dest": "L15"
+ },
+ {
+  "id": "E0102",
+  "type": "PLAN",
+  "chapter": 5,
+  "text": "Jodan talked for weeks of going to Kelmere, yet in the end stayed where he was.",
+  "where": "L02",
+  "ref_deps": [
+   "E0003"
+  ],
+  "person": "P017",
+  "dest": "L08"
+ },
+ {
+  "id": "E0103",
+  "type": "MARRY",
+  "chapter": 5,
+  "text": "Elnar and Gadette were wed at Gulby, with half the parish looking on. The couple lived in Gulby from then on.",
+  "where": "L05",
+  "ref_deps": [
+   "E0002",
+   "E0006"
+  ],
+  "a": "P013",
+  "b": "P032",
+  "place": "L05"
+ },
+ {
+  "id": "E0104",
+  "type": "GIVE",
+  "chapter": 5,
+  "text": "Nylis Wexwood gave the jade compass to Rolan Ashner.",
+  "where": "L14",
+  "ref_deps": [],
+  "item": "I08",
+  "src": "P043",
+  "dest": "P029"
+ },
+ {
+  "id": "E0105",
+  "type": "BIRTH",
+  "chapter": 5,
+  "text": "A son was born to Darine Ashner and Isbin Stenick, and they called the child Coten Stenick. The family lived in Gulstead.",
+  "where": "L06",
+  "ref_deps": [],
+  "child": "P053",
+  "mother": "P027",
+  "father": "P050",
+  "place": "L06"
+ },
+ {
+  "id": "E0106",
+  "type": "TRAVEL",
+  "chapter": 5,
+  "text": "After the quarrel, the eldest daughter of Orra Ashner quit Gulstead for good and took lodgings in Wendwick.",
+  "where": "L06",
+  "ref_deps": [
+   "E0005"
+  ],
+  "person": "P026",
+  "src": "L06",
+  "dest": "L14"
+ },
+ {
+  "id": "E0107",
+  "type": "GIVE",
+  "chapter": 6,
+  "text": "Vesena Stenick sent the glass flute by carrier to Feten Tallowaby, who received it safely.",
+  "where": "L15",
+  "ref_deps": [],
+  "item": "I05",
+  "src": "P047",
+  "dest": "P037"
+ },
+ {
+  "id": "E0108",
+  "type": "OCCUPATION",
+  "chapter": 6,
+  "text": "The husband of Orlde Prydmere was apprenticed anew and became a mason.",
+  "where": "L15",
+  "ref_deps": [
+   "E0013"
+  ],
+  "person": "P048",
+  "old": "cooper",
+  "new": "mason"
+ },
+ {
+  "id": "E0109",
+  "type": "PROMISE",
+  "chapter": 6,
+  "text": "The only daughter of Illan Grimaby gave Vesena Stenick a solemn promise to repair the roof of the chapel at Wendcombe.",
+  "where": "L15",
+  "ref_deps": [
+   "E0001"
+  ],
+  "promise": "R01",
+  "a": "P009",
+  "b": "P047",
+  "act": "to repair the roof of the chapel at Wendcombe"
+ },
+ {
+  "id": "E0110",
+  "type": "GIVE",
+  "chapter": 6,
+  "text": "A parcel from Red Bressa reached Tavie Stenick; inside was the silver dagger, now hers to keep.",
+  "where": "L05",
+  "ref_deps": [
+   "E0024"
+  ],
+  "item": "I10",
+  "src": "P011",
+  "dest": "P049"
+ },
+ {
+  "id": "E0111",
+  "type": "TRAVEL",
+  "chapter": 6,
+  "text": "Bressa Marrner rode out of Gulby; by the next market day she was living in Gulstead.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P011",
+  "src": "L05",
+  "dest": "L06"
+ },
+ {
+  "id": "E0112",
+  "type": "TRAVEL",
+  "chapter": 6,
+  "text": "Zanar followed her to Gulstead within the month.",
+  "where": "L05",
+  "ref_deps": [
+   "E0002"
+  ],
+  "person": "P010",
+  "src": "L05",
+  "dest": "L06"
+ },
+ {
+  "id": "E0113",
+  "type": "MARRY",
+  "chapter": 7,
+  "text": "In the chapel at Dunford, Jodan Lindford married Serine Prydmere. The couple lived in Dunford from then on.",
+  "where": "L02",
+  "ref_deps": [],
+  "a": "P017",
+  "b": "P023",
+  "place": "L02"
+ },
+ {
+  "id": "E0114",
+  "type": "MARRY",
+  "chapter": 7,
+  "text": "In the chapel at Braegate, Feten Tallowaby married Brelia Ashner. The couple lived in Braegate from then on.",
+  "where": "L00",
+  "ref_deps": [],
+  "a": "P037",
+  "b": "P026",
+  "place": "L00"
+ },
+ {
+  "id": "E0115",
+  "type": "DEATH",
+  "chapter": 7,
+  "text": "That winter, a long wasting sickness took Thilia; she was buried at Wilby.",
+  "where": "L15",
+  "ref_deps": [
+   "E0001"
+  ],
+  "person": "P009",
+  "cause": "a long wasting sickness",
+  "place": "L15"
+ },
+ {
+  "id": "E0116",
+  "type": "BIRTH",
+  "chapter": 7,
+  "text": "A son was born to Orlde Prydmere and Kalan Stenick, and they called the child Davus Stenick. The family lived in Wilby.",
+  "where": "L15",
+  "ref_deps": [],
+  "child": "P054",
+  "mother": "P021",
+  "father": "P048",
+  "place": "L15"
+ },
+ {
+  "id": "E0117",
+  "type": "BIRTH",
+  "chapter": 7,
+  "text": "A daughter was born to Serine Prydmere and Jodan Lindford, and they called the child Comira Lindford. The family lived in Dunford.",
+  "where": "L02",
+  "ref_deps": [],
+  "child": "P055",
+  "mother": "P023",
+  "father": "P017",
+  "place": "L02"
+ },
+ {
+  "id": "E0118",
+  "type": "TELL",
+  "chapter": 7,
+  "text": "In a letter that Tavie burned after reading, Wedan revealed that the harbor master of Fenholt takes bribes.",
+  "where": "L03",
+  "ref_deps": [
+   "E0000",
+   "E0009"
+  ],
+  "secret": "S03",
+  "src": "P000",
+  "dest": "P049"
+ },
+ {
+  "id": "E0119",
+  "type": "BIRTH",
+  "chapter": 8,
+  "text": "A daughter was born to Ganelle Wexwood and Gavus Tallowaby, and they called the child Gaena Tallowaby. The family lived in Wendwick.",
+  "where": "L14",
+  "ref_deps": [],
+  "child": "P056",
+  "mother": "P045",
+  "father": "P038",
+  "place": "L14"
+ },
+ {
+  "id": "E0120",
+  "type": "GIVE",
+  "chapter": 8,
+  "text": "A parcel from Wedan reached Zara Lindford; inside was the pewter flute, now hers to keep.",
+  "where": "L03",
+  "ref_deps": [
+   "E0000"
+  ],
+  "item": "I09",
+  "src": "P000",
+  "dest": "P015"
+ },
+ {
+  "id": "E0121",
+  "type": "TELL",
+  "chapter": 8,
+  "text": "In a letter that Zanar Marrner burned after reading, Isbin revealed that the deed to the Quenby pastures was forged.",
+  "where": "L06",
+  "ref_deps": [
+   "E0009"
+  ],
+  "secret": "S07",
+  "src": "P050",
+  "dest": "P010"
+ },
+ {
+  "id": "E0122",
+  "type": "TRAVEL",
+  "chapter": 8,
+  "text": "Isbin found work in Wilby, moved there, and did not return to Gulstead.",
+  "where": "L06",
+  "ref_deps": [
+   "E0009"
+  ],
+  "person": "P050",
+  "src": "L06",
+  "dest": "L15"
+ },
+ {
+  "id": "E0123",
+  "type": "TRAVEL",
+  "chapter": 8,
+  "text": "Darine Ashner followed him to Wilby within the month.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P027",
+  "src": "L06",
+  "dest": "L15"
+ },
+ {
+  "id": "E0124",
+  "type": "RUMOR",
+  "chapter": 8,
+  "text": "A rumor started by Aemor had it that Kavus Dornwood was dead of plague; Aemor had it from a peddler.",
+  "where": "L14",
+  "ref_deps": [
+   "E0008"
+  ],
+  "teller": "P040",
+  "claim": {
+   "kind": "dead",
+   "target": "P002"
+  }
+ },
+ {
+  "id": "E0125",
+  "type": "DEATH",
+  "chapter": 9,
+  "text": "Pebin Prydmere died of a winter fever at Wilby.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P020",
+  "cause": "a winter fever",
+  "place": "L15"
+ },
+ {
+  "id": "E0126",
+  "type": "PROMISE",
+  "chapter": 9,
+  "text": "Orra Ashner gave Jomor a solemn promise to plant an orchard on the slope above Elmhaven.",
+  "where": "L09",
+  "ref_deps": [
+   "E0005"
+  ],
+  "promise": "R02",
+  "a": "P025",
+  "b": "P024",
+  "act": "to plant an orchard on the slope above Elmhaven"
+ },
+ {
+  "id": "E0127",
+  "type": "TRAVEL",
+  "chapter": 9,
+  "text": "Orra Ashner rode out of Larkton; by the next market day she was living in Salwick.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P025",
+  "src": "L09",
+  "dest": "L12"
+ },
+ {
+  "id": "E0128",
+  "type": "TRAVEL",
+  "chapter": 9,
+  "text": "Jomor went along to live in Salwick as well.",
+  "where": "L09",
+  "ref_deps": [
+   "E0005"
+  ],
+  "person": "P024",
+  "src": "L09",
+  "dest": "L12"
+ },
+ {
+  "id": "E0129",
+  "type": "GIVE",
+  "chapter": 9,
+  "text": "Orlde Prydmere pressed the brass comb into the hands of Wenar and would take nothing for it.",
+  "where": "L15",
+  "ref_deps": [
+   "E0009"
+  ],
+  "item": "I04",
+  "src": "P021",
+  "dest": "P046"
+ },
+ {
+  "id": "E0130",
+  "type": "GIVE",
+  "chapter": 9,
+  "text": "Zara Lindford sent the bone compass by carrier to Wenar Stenick, who received it safely.",
+  "where": "L04",
+  "ref_deps": [],
+  "item": "I03",
+  "src": "P015",
+  "dest": "P046"
+ },
+ {
+  "id": "E0131",
+  "type": "BIRTH",
+  "chapter": 9,
+  "text": "Serine Prydmere gave birth to a daughter, named Riwyn Lindford; the father was Jodan Lindford. The family lived in Dunford.",
+  "where": "L02",
+  "ref_deps": [],
+  "child": "P057",
+  "mother": "P023",
+  "father": "P017",
+  "place": "L02"
+ },
+ {
+  "id": "E0132",
+  "type": "PLAN",
+  "chapter": 9,
+  "text": "Robin Prydmere talked for weeks of going to Mireford, yet in the end stayed where he was.",
+  "where": "L02",
+  "ref_deps": [
+   "E0004"
+  ],
+  "person": "P018",
+  "dest": "L10"
+ },
+ {
+  "id": "E0133",
+  "type": "PLAN",
+  "chapter": 10,
+  "text": "Kalan Wexwood talked for weeks of going to Fenholt, yet in the end stayed where he was.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P044",
+  "dest": "L04"
+ },
+ {
+  "id": "E0134",
+  "type": "TRAVEL",
+  "chapter": 10,
+  "text": "After the quarrel, Kalan Stenick quit Wilby for good and took lodgings in Mireford.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P048",
+  "src": "L15",
+  "dest": "L10"
+ },
+ {
+  "id": "E0135",
+  "type": "TRAVEL",
+  "chapter": 10,
+  "text": "Orlde went along to live in Mireford as well.",
+  "where": "L15",
+  "ref_deps": [
+   "E0004"
+  ],
+  "person": "P021",
+  "src": "L15",
+  "dest": "L10"
+ },
+ {
+  "id": "E0136",
+  "type": "MARRY",
+  "chapter": 10,
+  "text": "Before the autumn was out, the youngest son of Aemor Wexwood took Elrine Lindford in marriage at Wendwick. The couple lived in Wendwick from then on.",
+  "where": "L14",
+  "ref_deps": [
+   "E0008"
+  ],
+  "a": "P044",
+  "b": "P016",
+  "place": "L14"
+ },
+ {
+  "id": "E0137",
+  "type": "RESOLVE",
+  "chapter": 10,
+  "text": "Ronelle Dornwood kept the promise made to Kavus Dornwood: the task (repair the roof of the chapel at Gulby) was done by harvest.",
+  "where": "L03",
+  "ref_deps": [],
+  "promise": "R00",
+  "kept": true
+ },
+ {
+  "id": "E0138",
+  "type": "PROMISE",
+  "chapter": 10,
+  "text": "Ronelle Dornwood swore to Tall Tavie to rebuild the fallen wall at Salwick, and shook on it.",
+  "where": "L03",
+  "ref_deps": [
+   "E0056"
+  ],
+  "promise": "R03",
+  "a": "P001",
+  "b": "P049",
+  "act": "to rebuild the fallen wall at Salwick"
+ },
+ {
+  "id": "E0139",
+  "type": "TELL",
+  "chapter": 10,
+  "text": "In a letter that Kalan Stenick burned after reading, Orlde revealed that the Lindford mill ledger was rewritten after the flood.",
+  "where": "L10",
+  "ref_deps": [
+   "E0004"
+  ],
+  "secret": "S05",
+  "src": "P021",
+  "dest": "P048"
+ },
+ {
+  "id": "E0140",
+  "type": "PLAN",
+  "chapter": 10,
+  "text": "Kalan Stenick meant to go to Larkton before the frost, but the roads flooded and the journey was put off.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P048",
+  "dest": "L09"
+ },
+ {
+  "id": "E0141",
+  "type": "TELL",
+  "chapter": 10,
+  "text": "Late one night Neena Thornaby confided to Peten Thornaby that the old abbey at Larkton hides a second cellar.",
+  "where": "L01",
+  "ref_deps": [],
+  "secret": "S04",
+  "src": "P031",
+  "dest": "P034"
+ },
+ {
+  "id": "E0142",
+  "type": "TELL",
+  "chapter": 11,
+  "text": "Late one night Dara confided to the only daughter of Uldrek Thornaby that the fire at the Wendwick granary was set on purpose.",
+  "where": "L05",
+  "ref_deps": [
+   "E0000",
+   "E0006"
+  ],
+  "secret": "S02",
+  "src": "P003",
+  "dest": "P032"
+ },
+ {
+  "id": "E0143",
+  "type": "PLAN",
+  "chapter": 11,
+  "text": "Elnar Marrner talked for weeks of going to Wendwick, yet in the end stayed where he was.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P013",
+  "dest": "L14"
+ },
+ {
+  "id": "E0144",
+  "type": "GIVE",
+  "chapter": 11,
+  "text": "Feten Tallowaby gave the glass flute to Hara Tallowaby.",
+  "where": "L00",
+  "ref_deps": [],
+  "item": "I05",
+  "src": "P037",
+  "dest": "P036"
+ },
+ {
+  "id": "E0145",
+  "type": "TRAVEL",
+  "chapter": 11,
+  "text": "Dadan Grimaby rode out of Salwick; by the next market day he was living in Fenholt.",
+  "where": "L12",
+  "ref_deps": [],
+  "person": "P008",
+  "src": "L12",
+  "dest": "L04"
+ },
+ {
+  "id": "E0146",
+  "type": "TRAVEL",
+  "chapter": 11,
+  "text": "After the quarrel, Pewyn quit Salwick for good and took lodgings in Gulby.",
+  "where": "L12",
+  "ref_deps": [
+   "E0001"
+  ],
+  "person": "P006",
+  "src": "L12",
+  "dest": "L05"
+ },
+ {
+  "id": "E0147",
+  "type": "TRAVEL",
+  "chapter": 11,
+  "text": "Illan Grimaby followed her to Gulby within the month.",
+  "where": "L12",
+  "ref_deps": [],
+  "person": "P005",
+  "src": "L12",
+  "dest": "L05"
+ },
+ {
+  "id": "E0148",
+  "type": "PLAN",
+  "chapter": 11,
+  "text": "Orra talked for weeks of going to Elmhaven, yet in the end stayed where she was.",
+  "where": "L12",
+  "ref_deps": [
+   "E0005"
+  ],
+  "person": "P025",
+  "dest": "L03"
+ },
+ {
+  "id": "E0149",
+  "type": "TRAVEL",
+  "chapter": 11,
+  "text": "Jodan Lindford packed a single trunk and moved from Dunford to Salwick.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P017",
+  "src": "L02",
+  "dest": "L12"
+ },
+ {
+  "id": "E0150",
+  "type": "TRAVEL",
+  "chapter": 11,
+  "text": "Serine Prydmere went along to live in Salwick as well.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P023",
+  "src": "L02",
+  "dest": "L12"
+ },
+ {
+  "id": "E0151",
+  "type": "PROMISE",
+  "chapter": 12,
+  "text": "Isbin Stenick swore to Vesena to teach the children of Coldmere their letters, and shook on it.",
+  "where": "L15",
+  "ref_deps": [
+   "E0009"
+  ],
+  "promise": "R04",
+  "a": "P050",
+  "b": "P047",
+  "act": "to teach the children of Coldmere their letters"
+ },
+ {
+  "id": "E0152",
+  "type": "GIVE",
+  "chapter": 12,
+  "text": "Jodan won the jade comb from Orra at cards, fairly, and kept it.",
+  "where": "L12",
+  "ref_deps": [
+   "E0003",
+   "E0005"
+  ],
+  "item": "I07",
+  "src": "P025",
+  "dest": "P017"
+ },
+ {
+  "id": "E0153",
+  "type": "OCCUPATION",
+  "chapter": 12,
+  "text": "Orra Ashner was apprenticed anew and became a fisher.",
+  "where": "L12",
+  "ref_deps": [
+   "E0005"
+  ],
+  "person": "P025",
+  "old": "weaver",
+  "new": "fisher"
+ },
+ {
+  "id": "E0154",
+  "type": "TELL",
+  "chapter": 12,
+  "text": "Wedan Dornwood could keep it no longer and told Kavus Dornwood that the harbor master of Fenholt takes bribes.",
+  "where": "L03",
+  "ref_deps": [],
+  "secret": "S03",
+  "src": "P000",
+  "dest": "P002"
+ },
+ {
+  "id": "E0155",
+  "type": "TELL",
+  "chapter": 12,
+  "text": "In a letter that Vorald Dornwood burned after reading, Kavus Dornwood revealed that the harbor master of Fenholt takes bribes.",
+  "where": "L03",
+  "ref_deps": [],
+  "secret": "S03",
+  "src": "P002",
+  "dest": "P004"
+ },
+ {
+  "id": "E0156",
+  "type": "RESOLVE",
+  "chapter": 13,
+  "text": "Isbin Stenick broke faith with Vesena Stenick, and the promised work (teach the children of Coldmere their letters) was never begun.",
+  "where": "L15",
+  "ref_deps": [],
+  "promise": "R04",
+  "kept": false
+ },
+ {
+  "id": "E0157",
+  "type": "GIVE",
+  "chapter": 13,
+  "text": "Feten won the glass flute from Hara Tallowaby at cards, fairly, and kept it.",
+  "where": "L00",
+  "ref_deps": [
+   "E0007"
+  ],
+  "item": "I05",
+  "src": "P036",
+  "dest": "P037"
+ },
+ {
+  "id": "E0158",
+  "type": "TRAVEL",
+  "chapter": 13,
+  "text": "Feten Tallowaby left Braegate and settled in Wilby.",
+  "where": "L00",
+  "ref_deps": [],
+  "person": "P037",
+  "src": "L00",
+  "dest": "L15"
+ },
+ {
+  "id": "E0159",
+  "type": "TRAVEL",
+  "chapter": 13,
+  "text": "Brelia followed him to Wilby within the month.",
+  "where": "L00",
+  "ref_deps": [
+   "E0005"
+  ],
+  "person": "P026",
+  "src": "L00",
+  "dest": "L15"
+ },
+ {
+  "id": "E0160",
+  "type": "RUMOR",
+  "chapter": 13,
+  "text": "Gossip from Jomor Ashner claimed Brelia Ashner and Vorald Dornwood had been wed in secret.",
+  "where": "L12",
+  "ref_deps": [],
+  "teller": "P024",
+  "claim": {
+   "kind": "married",
+   "target": "P026",
+   "other": "P004"
+  }
+ },
+ {
+  "id": "E0161",
+  "type": "PROMISE",
+  "chapter": 13,
+  "text": "The wife of Neten Tallowaby gave Neten Tallowaby a solemn promise to teach the children of Kelgate their letters.",
+  "where": "L00",
+  "ref_deps": [
+   "E0007"
+  ],
+  "promise": "R05",
+  "a": "P036",
+  "b": "P035",
+  "act": "to teach the children of Kelgate their letters"
+ },
+ {
+  "id": "E0162",
+  "type": "DEATH",
+  "chapter": 14,
+  "text": "They laid Kavie Prydmere in the churchyard at Dunford, dead of a wound that festered.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P051",
+  "cause": "a wound that festered",
+  "place": "L02"
+ },
+ {
+  "id": "E0163",
+  "type": "PROMISE",
+  "chapter": 14,
+  "text": "Gawyn Prydmere swore to Robin Prydmere to rebuild the fallen wall at Salwick, and shook on it.",
+  "where": "L02",
+  "ref_deps": [],
+  "promise": "R06",
+  "a": "P019",
+  "b": "P018",
+  "act": "to rebuild the fallen wall at Salwick"
+ },
+ {
+  "id": "E0164",
+  "type": "GIVE",
+  "chapter": 14,
+  "text": "Dadrek Thornaby pressed the silver ledger into the hands of Nelia Tallowaby and would take nothing for it.",
+  "where": "L01",
+  "ref_deps": [],
+  "item": "I11",
+  "src": "P033",
+  "dest": "P039"
+ },
+ {
+  "id": "E0165",
+  "type": "BIRTH",
+  "chapter": 14,
+  "text": "A daughter was born to Elrine Lindford and Kalan Wexwood, and they called the child Vovie Wexwood. The family lived in Wendwick.",
+  "where": "L14",
+  "ref_deps": [],
+  "child": "P058",
+  "mother": "P016",
+  "father": "P044",
+  "place": "L14"
+ },
+ {
+  "id": "E0166",
+  "type": "TRAVEL",
+  "chapter": 14,
+  "text": "The only son of Zara Lindford found work in Kelmere, moved there, and did not return to Salwick.",
+  "where": "L12",
+  "ref_deps": [
+   "E0003"
+  ],
+  "person": "P017",
+  "src": "L12",
+  "dest": "L08"
+ },
+ {
+  "id": "E0167",
+  "type": "TRAVEL",
+  "chapter": 14,
+  "text": "Serine Prydmere followed him to Kelmere within the month.",
+  "where": "L12",
+  "ref_deps": [],
+  "person": "P023",
+  "src": "L12",
+  "dest": "L08"
+ },
+ {
+  "id": "E0168",
+  "type": "RESOLVE",
+  "chapter": 15,
+  "text": "Ronelle Dornwood kept the promise made to Tavie Stenick: the task (rebuild the fallen wall at Salwick) was done by harvest.",
+  "where": "L03",
+  "ref_deps": [],
+  "promise": "R03",
+  "kept": true
+ },
+ {
+  "id": "E0169",
+  "type": "DEATH",
+  "chapter": 15,
+  "text": "Robin Prydmere died of a long wasting sickness at Dunford.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P018",
+  "cause": "a long wasting sickness",
+  "place": "L02"
+ },
+ {
+  "id": "E0170",
+  "type": "RUMOR",
+  "chapter": 15,
+  "text": "Nylis Wexwood whispered that Elnar Marrner had secretly married Malis Wexwood, but nobody could say where or when.",
+  "where": "L14",
+  "ref_deps": [],
+  "teller": "P043",
+  "claim": {
+   "kind": "married",
+   "target": "P013",
+   "other": "P041"
+  }
+ },
+ {
+  "id": "E0171",
+  "type": "BIRTH",
+  "chapter": 15,
+  "text": "A daughter was born to Darine Ashner and Isbin Stenick, and they called the child Talia Stenick. The family lived in Wilby.",
+  "where": "L15",
+  "ref_deps": [],
+  "child": "P059",
+  "mother": "P027",
+  "father": "P050",
+  "place": "L15"
+ },
+ {
+  "id": "E0172",
+  "type": "MARRY",
+  "chapter": 15,
+  "text": "Ulena Thornaby and Pebin Grimaby were wed at Coldmere, with half the parish looking on. The couple lived in Coldmere from then on.",
+  "where": "L01",
+  "ref_deps": [],
+  "a": "P052",
+  "b": "P007",
+  "place": "L01"
+ },
+ {
+  "id": "E0173",
+  "type": "GIVE",
+  "chapter": 15,
+  "text": "Darine Ashner won the glass flute from the eldest son of Neten Tallowaby at cards, fairly, and kept it.",
+  "where": "L15",
+  "ref_deps": [
+   "E0007"
+  ],
+  "item": "I05",
+  "src": "P037",
+  "dest": "P027"
+ },
+ {
+  "id": "E0174",
+  "type": "DEATH",
+  "chapter": 16,
+  "text": "They laid Gawyn Prydmere in the churchyard at Dunford, dead of drowning in the flood.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P019",
+  "cause": "drowning in the flood",
+  "place": "L02"
+ },
+ {
+  "id": "E0175",
+  "type": "RUMOR",
+  "chapter": 16,
+  "text": "Ganelle Wexwood whispered that Kavus Prydmere had secretly married Hara Tallowaby, but nobody could say where or when.",
+  "where": "L14",
+  "ref_deps": [],
+  "teller": "P045",
+  "claim": {
+   "kind": "married",
+   "target": "P022",
+   "other": "P036"
+  }
+ },
+ {
+  "id": "E0176",
+  "type": "PROMISE",
+  "chapter": 16,
+  "text": "Aemor Wexwood gave Vorald Wexwood a solemn promise to pay the old debt owed to the Stenick family.",
+  "where": "L14",
+  "ref_deps": [],
+  "promise": "R07",
+  "a": "P040",
+  "b": "P042",
+  "act": "to pay the old debt owed to the Stenick family"
+ },
+ {
+  "id": "E0177",
+  "type": "TRAVEL",
+  "chapter": 16,
+  "text": "Kavus Prydmere left Wendwick and settled in Fenholt.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P022",
+  "src": "L14",
+  "dest": "L04"
+ },
+ {
+  "id": "E0178",
+  "type": "TRAVEL",
+  "chapter": 16,
+  "text": "Nylis Wexwood went along to live in Fenholt as well.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P043",
+  "src": "L14",
+  "dest": "L04"
+ },
+ {
+  "id": "E0179",
+  "type": "PROMISE",
+  "chapter": 16,
+  "text": "Malis Wexwood gave Vorald Wexwood a solemn promise to rebuild the fallen wall at Kelgate.",
+  "where": "L14",
+  "ref_deps": [],
+  "promise": "R08",
+  "a": "P041",
+  "b": "P042",
+  "act": "to rebuild the fallen wall at Kelgate"
+ },
+ {
+  "id": "E0180",
+  "type": "DEATH",
+  "chapter": 16,
+  "text": "Hara Tallowaby died of a wound that festered at Braegate.",
+  "where": "L00",
+  "ref_deps": [],
+  "person": "P036",
+  "cause": "a wound that festered",
+  "place": "L00"
+ },
+ {
+  "id": "E0181",
+  "type": "GIVE",
+  "chapter": 16,
+  "text": "Among the things left by Hara Tallowaby, the bone chalice was handed to Neten Tallowaby.",
+  "where": "L00",
+  "ref_deps": [],
+  "item": "I02",
+  "src": "P036",
+  "dest": "P035",
+  "inherit": true
+ },
+ {
+  "id": "E0182",
+  "type": "TELL",
+  "chapter": 16,
+  "text": "In a letter that Kalan Wexwood burned after reading, Vorald Dornwood revealed that the harbor master of Fenholt takes bribes.",
+  "where": "L03",
+  "ref_deps": [],
+  "secret": "S03",
+  "src": "P004",
+  "dest": "P044"
+ },
+ {
+  "id": "E0183",
+  "type": "PROMISE",
+  "chapter": 17,
+  "text": "Wenar swore to Feten Tallowaby to repair the roof of the chapel at Gulstead, and shook on it.",
+  "where": "L15",
+  "ref_deps": [
+   "E0009"
+  ],
+  "promise": "R09",
+  "a": "P046",
+  "b": "P037",
+  "act": "to repair the roof of the chapel at Gulstead"
+ },
+ {
+  "id": "E0184",
+  "type": "TELL",
+  "chapter": 17,
+  "text": "Late one night the only daughter of Uldrek Thornaby confided to the wife of Illan Grimaby that the fire at the Wendwick granary was set on purpose.",
+  "where": "L05",
+  "ref_deps": [
+   "E0001",
+   "E0006"
+  ],
+  "secret": "S02",
+  "src": "P032",
+  "dest": "P006"
+ },
+ {
+  "id": "E0185",
+  "type": "TRAVEL",
+  "chapter": 17,
+  "text": "Dara left Gulby and settled in Wendwick.",
+  "where": "L05",
+  "ref_deps": [
+   "E0000"
+  ],
+  "person": "P003",
+  "src": "L05",
+  "dest": "L14"
+ },
+ {
+  "id": "E0186",
+  "type": "TRAVEL",
+  "chapter": 17,
+  "text": "Hanar Marrner went along to live in Wendwick as well.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P012",
+  "src": "L05",
+  "dest": "L14"
+ },
+ {
+  "id": "E0187",
+  "type": "PROMISE",
+  "chapter": 17,
+  "text": "The only daughter of Uldrek Thornaby swore to Pewyn Grimaby to repair the roof of the chapel at Larkton, and shook on it.",
+  "where": "L05",
+  "ref_deps": [
+   "E0006"
+  ],
+  "promise": "R10",
+  "a": "P032",
+  "b": "P006",
+  "act": "to repair the roof of the chapel at Larkton"
+ },
+ {
+  "id": "E0188",
+  "type": "RESOLVE",
+  "chapter": 17,
+  "text": "Orra broke faith with Jomor Ashner, and the promised work (plant an orchard on the slope above Elmhaven) was never begun.",
+  "where": "L12",
+  "ref_deps": [
+   "E0005"
+  ],
+  "promise": "R02",
+  "kept": false
+ },
+ {
+  "id": "E0189",
+  "type": "BIRTH",
+  "chapter": 17,
+  "text": "A son was born to Nelia Tallowaby and Peten Thornaby, and they called the child Thidan Thornaby. The family lived in Coldmere.",
+  "where": "L01",
+  "ref_deps": [],
+  "child": "P060",
+  "mother": "P039",
+  "father": "P034",
+  "place": "L01"
+ },
+ {
+  "id": "E0190",
+  "type": "GIVE",
+  "chapter": 17,
+  "text": "Ulena Thornaby won the amber comb from Peten Thornaby at cards, fairly, and kept it.",
+  "where": "L01",
+  "ref_deps": [],
+  "item": "I00",
+  "src": "P034",
+  "dest": "P052"
+ },
+ {
+  "id": "E0191",
+  "type": "TRAVEL",
+  "chapter": 17,
+  "text": "Dadan Grimaby left Fenholt and settled in Kelmere.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P008",
+  "src": "L04",
+  "dest": "L08"
+ },
+ {
+  "id": "E0192",
+  "type": "PROMISE",
+  "chapter": 18,
+  "text": "The wife of Jomor Ashner gave Jomor Ashner a solemn promise to rebuild the fallen wall at Braegate.",
+  "where": "L12",
+  "ref_deps": [
+   "E0005"
+  ],
+  "promise": "R11",
+  "a": "P025",
+  "b": "P024",
+  "act": "to rebuild the fallen wall at Braegate"
+ },
+ {
+  "id": "E0193",
+  "type": "GIVE",
+  "chapter": 18,
+  "text": "Ulena sent the amber comb by carrier to Ronelle Dornwood, who received it safely.",
+  "where": "L01",
+  "ref_deps": [
+   "E0091"
+  ],
+  "item": "I00",
+  "src": "P052",
+  "dest": "P001"
+ },
+ {
+  "id": "E0194",
+  "type": "TRAVEL",
+  "chapter": 18,
+  "text": "The husband of Ganelle Wexwood rode out of Wendwick; by the next market day he was living in Larkton.",
+  "where": "L14",
+  "ref_deps": [
+   "E0010"
+  ],
+  "person": "P038",
+  "src": "L14",
+  "dest": "L09"
+ },
+ {
+  "id": "E0195",
+  "type": "TRAVEL",
+  "chapter": 18,
+  "text": "Ganelle Wexwood went along to live in Larkton as well.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P045",
+  "src": "L14",
+  "dest": "L09"
+ },
+ {
+  "id": "E0196",
+  "type": "TRAVEL",
+  "chapter": 18,
+  "text": "The husband of Zara Lindford left Fenholt and settled in Wendwick.",
+  "where": "L04",
+  "ref_deps": [
+   "E0003"
+  ],
+  "person": "P014",
+  "src": "L04",
+  "dest": "L14"
+ },
+ {
+  "id": "E0197",
+  "type": "TRAVEL",
+  "chapter": 18,
+  "text": "Zara Lindford went along to live in Wendwick as well.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P015",
+  "src": "L04",
+  "dest": "L14"
+ },
+ {
+  "id": "E0198",
+  "type": "TRAVEL",
+  "chapter": 18,
+  "text": "Nylis Wexwood found work in Quenby, moved there, and did not return to Fenholt.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P043",
+  "src": "L04",
+  "dest": "L11"
+ },
+ {
+  "id": "E0199",
+  "type": "TRAVEL",
+  "chapter": 18,
+  "text": "Kavus Prydmere went along to live in Quenby as well.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P022",
+  "src": "L04",
+  "dest": "L11"
+ },
+ {
+  "id": "E0200",
+  "type": "TELL",
+  "chapter": 18,
+  "text": "Peten Thornaby could keep it no longer and told Dadrek Thornaby that the old abbey at Larkton hides a second cellar.",
+  "where": "L01",
+  "ref_deps": [],
+  "secret": "S04",
+  "src": "P034",
+  "dest": "P033"
+ },
+ {
+  "id": "E0201",
+  "type": "TRAVEL",
+  "chapter": 19,
+  "text": "Kavus Dornwood found work in Salwick, moved there, and did not return to Elmhaven.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P002",
+  "src": "L03",
+  "dest": "L12"
+ },
+ {
+  "id": "E0202",
+  "type": "GIVE",
+  "chapter": 19,
+  "text": "Ronelle pressed the amber comb into the hands of Vorald Dornwood and would take nothing for it.",
+  "where": "L03",
+  "ref_deps": [
+   "E0000"
+  ],
+  "item": "I00",
+  "src": "P001",
+  "dest": "P004"
+ },
+ {
+  "id": "E0203",
+  "type": "DEATH",
+  "chapter": 19,
+  "text": "That winter, old age, quietly in sleep took Pewyn; she was buried at Gulby.",
+  "where": "L05",
+  "ref_deps": [
+   "E0001"
+  ],
+  "person": "P006",
+  "cause": "old age, quietly in sleep",
+  "place": "L05"
+ },
+ {
+  "id": "E0204",
+  "type": "DEATH",
+  "chapter": 19,
+  "text": "Ilten died of drowning in the flood at Wendwick.",
+  "where": "L14",
+  "ref_deps": [
+   "E0003"
+  ],
+  "person": "P014",
+  "cause": "drowning in the flood",
+  "place": "L14"
+ },
+ {
+  "id": "E0205",
+  "type": "RUMOR",
+  "chapter": 19,
+  "text": "Dadan told everyone at the inn that Orlde Prydmere had drowned crossing the estuary, though no body was ever seen.",
+  "where": "L08",
+  "ref_deps": [
+   "E0001"
+  ],
+  "teller": "P008",
+  "claim": {
+   "kind": "dead",
+   "target": "P021"
+  }
+ },
+ {
+  "id": "E0206",
+  "type": "BIRTH",
+  "chapter": 19,
+  "text": "Elrine Lindford gave birth to a daughter, named Rilis Wexwood; the father was Kalan Wexwood. The family lived in Wendwick.",
+  "where": "L14",
+  "ref_deps": [],
+  "child": "P061",
+  "mother": "P016",
+  "father": "P044",
+  "place": "L14"
+ },
+ {
+  "id": "E0207",
+  "type": "GIVE",
+  "chapter": 20,
+  "text": "Ulena Thornaby won the silver ledger from the only daughter of Neten Tallowaby at cards, fairly, and kept it.",
+  "where": "L01",
+  "ref_deps": [
+   "E0007"
+  ],
+  "item": "I11",
+  "src": "P039",
+  "dest": "P052"
+ },
+ {
+  "id": "E0208",
+  "type": "TRAVEL",
+  "chapter": 20,
+  "text": "Uldrek found work in Kelmere, moved there, and did not return to Coldmere.",
+  "where": "L01",
+  "ref_deps": [
+   "E0006"
+  ],
+  "person": "P030",
+  "src": "L01",
+  "dest": "L08"
+ },
+ {
+  "id": "E0209",
+  "type": "TRAVEL",
+  "chapter": 20,
+  "text": "Neena Thornaby went along to live in Kelmere as well.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P031",
+  "src": "L01",
+  "dest": "L08"
+ },
+ {
+  "id": "E0210",
+  "type": "BIRTH",
+  "chapter": 20,
+  "text": "Darine Ashner gave birth to a daughter, named Jorine Stenick; the father was Isbin Stenick. The family lived in Wilby.",
+  "where": "L15",
+  "ref_deps": [],
+  "child": "P062",
+  "mother": "P027",
+  "father": "P050",
+  "place": "L15"
+ },
+ {
+  "id": "E0211",
+  "type": "MARRY",
+  "chapter": 20,
+  "text": "Before the spring was out, Dadan Grimaby took Comira in marriage at Kelmere. The couple lived in Kelmere from then on.",
+  "where": "L08",
+  "ref_deps": [
+   "E0117"
+  ],
+  "a": "P008",
+  "b": "P055",
+  "place": "L08"
+ },
+ {
+  "id": "E0212",
+  "type": "GIVE",
+  "chapter": 20,
+  "text": "Rolan Ashner sent the jade compass by carrier to Neena Thornaby, who received it safely.",
+  "where": "L14",
+  "ref_deps": [],
+  "item": "I08",
+  "src": "P029",
+  "dest": "P031"
+ },
+ {
+  "id": "E0213",
+  "type": "GIVE",
+  "chapter": 21,
+  "text": "Darine pressed the glass flute into the hands of Vesena Stenick and would take nothing for it.",
+  "where": "L15",
+  "ref_deps": [
+   "E0005"
+  ],
+  "item": "I05",
+  "src": "P027",
+  "dest": "P047"
+ },
+ {
+  "id": "E0214",
+  "type": "PROMISE",
+  "chapter": 21,
+  "text": "Davus gave the youngest daughter of Jomor Ashner a solemn promise to teach the children of Salwick their letters.",
+  "where": "L15",
+  "ref_deps": [
+   "E0005",
+   "E0116"
+  ],
+  "promise": "R12",
+  "a": "P054",
+  "b": "P027",
+  "act": "to teach the children of Salwick their letters"
+ },
+ {
+  "id": "E0215",
+  "type": "BIRTH",
+  "chapter": 21,
+  "text": "Gadette Thornaby gave birth to a daughter, named Brerine Marrner; the father was Elnar Marrner. The family lived in Gulby.",
+  "where": "L05",
+  "ref_deps": [],
+  "child": "P063",
+  "mother": "P032",
+  "father": "P013",
+  "place": "L05"
+ },
+ {
+  "id": "E0216",
+  "type": "OCCUPATION",
+  "chapter": 21,
+  "text": "Tall Ganelle was apprenticed anew and became a chandler.",
+  "where": "L09",
+  "ref_deps": [
+   "E0052"
+  ],
+  "person": "P045",
+  "old": "cooper",
+  "new": "chandler"
+ },
+ {
+  "id": "E0217",
+  "type": "TRAVEL",
+  "chapter": 21,
+  "text": "Neten found work in Fenholt, moved there, and did not return to Braegate.",
+  "where": "L00",
+  "ref_deps": [
+   "E0007"
+  ],
+  "person": "P035",
+  "src": "L00",
+  "dest": "L04"
+ },
+ {
+  "id": "E0218",
+  "type": "TELL",
+  "chapter": 21,
+  "text": "Gadette Thornaby could keep it no longer and told Elnar that the fire at the Wendwick granary was set on purpose.",
+  "where": "L05",
+  "ref_deps": [
+   "E0002"
+  ],
+  "secret": "S02",
+  "src": "P032",
+  "dest": "P013"
+ },
+ {
+  "id": "E0219",
+  "type": "TRAVEL",
+  "chapter": 21,
+  "text": "Elnar Marrner packed a single trunk and moved from Gulby to Kelmere.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P013",
+  "src": "L05",
+  "dest": "L08"
+ },
+ {
+  "id": "E0220",
+  "type": "TRAVEL",
+  "chapter": 21,
+  "text": "Gadette Thornaby went along to live in Kelmere as well.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P032",
+  "src": "L05",
+  "dest": "L08"
+ },
+ {
+  "id": "E0221",
+  "type": "GIVE",
+  "chapter": 21,
+  "text": "A parcel from Zara Lindford reached Ganelle Wexwood; inside was the pewter flute, now hers to keep.",
+  "where": "L14",
+  "ref_deps": [],
+  "item": "I09",
+  "src": "P015",
+  "dest": "P045"
+ },
+ {
+  "id": "E0222",
+  "type": "TRAVEL",
+  "chapter": 22,
+  "text": "Nyvus packed a single trunk and moved from Gulstead to Larkton.",
+  "where": "L06",
+  "ref_deps": [
+   "E0005"
+  ],
+  "person": "P028",
+  "src": "L06",
+  "dest": "L09"
+ },
+ {
+  "id": "E0223",
+  "type": "TELL",
+  "chapter": 22,
+  "text": "In a letter that Pebin Grimaby burned after reading, Peten Thornaby revealed that the old abbey at Larkton hides a second cellar.",
+  "where": "L01",
+  "ref_deps": [],
+  "secret": "S04",
+  "src": "P034",
+  "dest": "P007"
+ },
+ {
+  "id": "E0224",
+  "type": "DEATH",
+  "chapter": 22,
+  "text": "They laid Bressa in the churchyard at Gulstead, dead of a fall from the mill loft.",
+  "where": "L06",
+  "ref_deps": [
+   "E0002"
+  ],
+  "person": "P011",
+  "cause": "a fall from the mill loft",
+  "place": "L06"
+ },
+ {
+  "id": "E0225",
+  "type": "TELL",
+  "chapter": 22,
+  "text": "In a letter that Feten burned after reading, Vorald Dornwood revealed that the harbor master of Fenholt takes bribes.",
+  "where": "L03",
+  "ref_deps": [
+   "E0007"
+  ],
+  "secret": "S03",
+  "src": "P004",
+  "dest": "P037"
+ },
+ {
+  "id": "E0226",
+  "type": "TELL",
+  "chapter": 22,
+  "text": "Late one night Neena confided to Comira Lindford that the old abbey at Larkton hides a second cellar.",
+  "where": "L08",
+  "ref_deps": [
+   "E0006"
+  ],
+  "secret": "S04",
+  "src": "P031",
+  "dest": "P055"
+ },
+ {
+  "id": "E0227",
+  "type": "TELL",
+  "chapter": 22,
+  "text": "The eldest son of Uldrek Thornaby could keep it no longer and told Ulena that the old abbey at Larkton hides a second cellar.",
+  "where": "L01",
+  "ref_deps": [
+   "E0006",
+   "E0091"
+  ],
+  "secret": "S04",
+  "src": "P033",
+  "dest": "P052"
+ },
+ {
+  "id": "E0228",
+  "type": "TRAVEL",
+  "chapter": 22,
+  "text": "Dadrek Thornaby rode out of Coldmere; by the next market day he was living in Salwick.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P033",
+  "src": "L01",
+  "dest": "L12"
+ },
+ {
+  "id": "E0229",
+  "type": "TRAVEL",
+  "chapter": 22,
+  "text": "Kavus Dornwood left Salwick and settled in Gulby.",
+  "where": "L12",
+  "ref_deps": [],
+  "person": "P002",
+  "src": "L12",
+  "dest": "L05"
+ },
+ {
+  "id": "E0230",
+  "type": "GIVE",
+  "chapter": 22,
+  "text": "A parcel from Neten Tallowaby reached Pebin Grimaby; inside was the bone chalice, now his to keep.",
+  "where": "L04",
+  "ref_deps": [],
+  "item": "I02",
+  "src": "P035",
+  "dest": "P007"
+ },
+ {
+  "id": "E0231",
+  "type": "PROMISE",
+  "chapter": 23,
+  "text": "Brelia Ashner gave Darine Ashner a solemn promise to rebuild the fallen wall at Dunford.",
+  "where": "L15",
+  "ref_deps": [],
+  "promise": "R13",
+  "a": "P026",
+  "b": "P027",
+  "act": "to rebuild the fallen wall at Dunford"
+ },
+ {
+  "id": "E0232",
+  "type": "GIVE",
+  "chapter": 23,
+  "text": "Dadan Grimaby won the jade comb from Jodan Lindford at cards, fairly, and kept it.",
+  "where": "L08",
+  "ref_deps": [],
+  "item": "I07",
+  "src": "P017",
+  "dest": "P008"
+ },
+ {
+  "id": "E0233",
+  "type": "GIVE",
+  "chapter": 23,
+  "text": "Wenar gave the brass comb to Davus Stenick.",
+  "where": "L15",
+  "ref_deps": [
+   "E0009"
+  ],
+  "item": "I04",
+  "src": "P046",
+  "dest": "P054"
+ },
+ {
+  "id": "E0234",
+  "type": "PROMISE",
+  "chapter": 23,
+  "text": "Wenar Stenick swore to Vesena Stenick to rebuild the fallen wall at Larkton, and shook on it.",
+  "where": "L15",
+  "ref_deps": [],
+  "promise": "R14",
+  "a": "P046",
+  "b": "P047",
+  "act": "to rebuild the fallen wall at Larkton"
+ },
+ {
+  "id": "E0235",
+  "type": "TRAVEL",
+  "chapter": 23,
+  "text": "Vesena Stenick packed a single trunk and moved from Wilby to Mireford.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P047",
+  "src": "L15",
+  "dest": "L10"
+ },
+ {
+  "id": "E0236",
+  "type": "TRAVEL",
+  "chapter": 23,
+  "text": "Wenar Stenick went along to live in Mireford as well.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P046",
+  "src": "L15",
+  "dest": "L10"
+ },
+ {
+  "id": "E0237",
+  "type": "PROMISE",
+  "chapter": 23,
+  "text": "Davus gave Brelia Ashner a solemn promise to repair the roof of the chapel at Mireford.",
+  "where": "L15",
+  "ref_deps": [
+   "E0116"
+  ],
+  "promise": "R15",
+  "a": "P054",
+  "b": "P026",
+  "act": "to repair the roof of the chapel at Mireford"
+ },
+ {
+  "id": "E0238",
+  "type": "TRAVEL",
+  "chapter": 23,
+  "text": "The eldest daughter of Jomor Ashner packed a single trunk and moved from Wilby to Elmhaven.",
+  "where": "L15",
+  "ref_deps": [
+   "E0005"
+  ],
+  "person": "P026",
+  "src": "L15",
+  "dest": "L03"
+ },
+ {
+  "id": "E0239",
+  "type": "TRAVEL",
+  "chapter": 23,
+  "text": "Feten followed her to Elmhaven within the month.",
+  "where": "L15",
+  "ref_deps": [
+   "E0007"
+  ],
+  "person": "P037",
+  "src": "L15",
+  "dest": "L03"
+ },
+ {
+  "id": "E0240",
+  "type": "TRAVEL",
+  "chapter": 23,
+  "text": "Aemor Wexwood left Wendwick and settled in Wendcombe.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P040",
+  "src": "L14",
+  "dest": "L13"
+ },
+ {
+  "id": "E0241",
+  "type": "TRAVEL",
+  "chapter": 23,
+  "text": "Malis went along to live in Wendcombe as well.",
+  "where": "L14",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P041",
+  "src": "L14",
+  "dest": "L13"
+ },
+ {
+  "id": "E0242",
+  "type": "RESOLVE",
+  "chapter": 24,
+  "text": "Wenar kept the promise made to Feten Tallowaby: the task (repair the roof of the chapel at Gulstead) was done by harvest.",
+  "where": "L10",
+  "ref_deps": [
+   "E0009"
+  ],
+  "promise": "R09",
+  "kept": true
+ },
+ {
+  "id": "E0243",
+  "type": "GIVE",
+  "chapter": 24,
+  "text": "Dadan Grimaby pressed the jade comb into the hands of the husband of Neena Thornaby and would take nothing for it.",
+  "where": "L08",
+  "ref_deps": [
+   "E0006"
+  ],
+  "item": "I07",
+  "src": "P008",
+  "dest": "P030"
+ },
+ {
+  "id": "E0244",
+  "type": "PLAN",
+  "chapter": 24,
+  "text": "Dara Dornwood meant to go to Mireford before the frost, but the roads flooded and the journey was put off.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P003",
+  "dest": "L10"
+ },
+ {
+  "id": "E0245",
+  "type": "PROMISE",
+  "chapter": 24,
+  "text": "Feten Tallowaby swore to Vorald Dornwood to plant an orchard on the slope above Salwick, and shook on it.",
+  "where": "L03",
+  "ref_deps": [],
+  "promise": "R16",
+  "a": "P037",
+  "b": "P004",
+  "act": "to plant an orchard on the slope above Salwick"
+ },
+ {
+  "id": "E0246",
+  "type": "PLAN",
+  "chapter": 24,
+  "text": "The eldest son of Pewyn Grimaby talked for weeks of going to Wendwick, yet in the end stayed where he was.",
+  "where": "L01",
+  "ref_deps": [
+   "E0001"
+  ],
+  "person": "P007",
+  "dest": "L14"
+ },
+ {
+  "id": "E0247",
+  "type": "TRAVEL",
+  "chapter": 24,
+  "text": "The husband of Nelia Tallowaby found work in Gulby, moved there, and did not return to Coldmere.",
+  "where": "L01",
+  "ref_deps": [
+   "E0015"
+  ],
+  "person": "P034",
+  "src": "L01",
+  "dest": "L05"
+ },
+ {
+  "id": "E0248",
+  "type": "TRAVEL",
+  "chapter": 24,
+  "text": "Nelia Tallowaby followed him to Gulby within the month.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P039",
+  "src": "L01",
+  "dest": "L05"
+ },
+ {
+  "id": "E0249",
+  "type": "TRAVEL",
+  "chapter": 24,
+  "text": "Ulena packed a single trunk and moved from Coldmere to Gulby.",
+  "where": "L01",
+  "ref_deps": [
+   "E0091"
+  ],
+  "person": "P052",
+  "src": "L01",
+  "dest": "L05"
+ },
+ {
+  "id": "E0250",
+  "type": "TRAVEL",
+  "chapter": 24,
+  "text": "Pebin Grimaby went along to live in Gulby as well.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P007",
+  "src": "L01",
+  "dest": "L05"
+ },
+ {
+  "id": "E0251",
+  "type": "TRAVEL",
+  "chapter": 25,
+  "text": "Dadan Grimaby left Kelmere and settled in Gulstead.",
+  "where": "L08",
+  "ref_deps": [],
+  "person": "P008",
+  "src": "L08",
+  "dest": "L06"
+ },
+ {
+  "id": "E0252",
+  "type": "TRAVEL",
+  "chapter": 25,
+  "text": "Comira Lindford followed him to Gulstead within the month.",
+  "where": "L08",
+  "ref_deps": [],
+  "person": "P055",
+  "src": "L08",
+  "dest": "L06"
+ },
+ {
+  "id": "E0253",
+  "type": "RUMOR",
+  "chapter": 25,
+  "text": "A rumor started by Jomor Ashner had it that Vesena Stenick was dead of plague; Jomor Ashner had it from a peddler.",
+  "where": "L12",
+  "ref_deps": [],
+  "teller": "P024",
+  "claim": {
+   "kind": "dead",
+   "target": "P047"
+  }
+ },
+ {
+  "id": "E0254",
+  "type": "RESOLVE",
+  "chapter": 25,
+  "text": "True to her word to Pewyn Grimaby, Gadette finished what she had promised (repair the roof of the chapel at Larkton).",
+  "where": "L08",
+  "ref_deps": [
+   "E0006"
+  ],
+  "promise": "R10",
+  "kept": true
+ },
+ {
+  "id": "E0255",
+  "type": "TELL",
+  "chapter": 25,
+  "text": "Orlde could keep it no longer and told Wenar Stenick that the Lindford mill ledger was rewritten after the flood.",
+  "where": "L10",
+  "ref_deps": [
+   "E0004"
+  ],
+  "secret": "S05",
+  "src": "P021",
+  "dest": "P046"
+ },
+ {
+  "id": "E0256",
+  "type": "GIVE",
+  "chapter": 25,
+  "text": "Uldrek Thornaby gave the jade comb to Elnar Marrner.",
+  "where": "L08",
+  "ref_deps": [],
+  "item": "I07",
+  "src": "P030",
+  "dest": "P013"
+ },
+ {
+  "id": "E0257",
+  "type": "RESOLVE",
+  "chapter": 26,
+  "text": "Davus Stenick broke faith with Darine Ashner, and the promised work (teach the children of Salwick their letters) was never begun.",
+  "where": "L15",
+  "ref_deps": [],
+  "promise": "R12",
+  "kept": false
+ },
+ {
+  "id": "E0258",
+  "type": "DEATH",
+  "chapter": 26,
+  "text": "They laid Jomor Ashner in the churchyard at Salwick, dead of the coughing sickness.",
+  "where": "L12",
+  "ref_deps": [],
+  "person": "P024",
+  "cause": "the coughing sickness",
+  "place": "L12"
+ },
+ {
+  "id": "E0259",
+  "type": "RUMOR",
+  "chapter": 26,
+  "text": "Serine Prydmere told everyone at the inn that Orra Ashner had drowned crossing the estuary, though no body was ever seen.",
+  "where": "L08",
+  "ref_deps": [],
+  "teller": "P023",
+  "claim": {
+   "kind": "dead",
+   "target": "P025"
+  }
+ },
+ {
+  "id": "E0260",
+  "type": "PLAN",
+  "chapter": 26,
+  "text": "Ronelle Dornwood meant to go to Salwick before the frost, but the roads flooded and the journey was put off.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P001",
+  "dest": "L12"
+ },
+ {
+  "id": "E0261",
+  "type": "TELL",
+  "chapter": 26,
+  "text": "In a letter that the only son of Zara Lindford burned after reading, Serine revealed that the bridge toll at Kelmere is skimmed every month.",
+  "where": "L08",
+  "ref_deps": [
+   "E0003",
+   "E0004"
+  ],
+  "secret": "S00",
+  "src": "P023",
+  "dest": "P017"
+ },
+ {
+  "id": "E0262",
+  "type": "GIVE",
+  "chapter": 26,
+  "text": "Vorald Dornwood gave the amber comb to Brelia.",
+  "where": "L03",
+  "ref_deps": [
+   "E0005"
+  ],
+  "item": "I00",
+  "src": "P004",
+  "dest": "P026"
+ },
+ {
+  "id": "E0263",
+  "type": "GIVE",
+  "chapter": 26,
+  "text": "Orlde Prydmere won the glass flute from Vesena Stenick at cards, fairly, and kept it.",
+  "where": "L10",
+  "ref_deps": [],
+  "item": "I05",
+  "src": "P047",
+  "dest": "P021"
+ },
+ {
+  "id": "E0264",
+  "type": "TELL",
+  "chapter": 27,
+  "text": "In a letter that Vorald Wexwood burned after reading, Dara Dornwood revealed that the fire at the Wendwick granary was set on purpose.",
+  "where": "L14",
+  "ref_deps": [],
+  "secret": "S02",
+  "src": "P003",
+  "dest": "P042"
+ },
+ {
+  "id": "E0265",
+  "type": "TRAVEL",
+  "chapter": 27,
+  "text": "Neten packed a single trunk and moved from Fenholt to Gulby.",
+  "where": "L04",
+  "ref_deps": [
+   "E0007"
+  ],
+  "person": "P035",
+  "src": "L04",
+  "dest": "L05"
+ },
+ {
+  "id": "E0266",
+  "type": "PROMISE",
+  "chapter": 27,
+  "text": "The youngest son of Aemor Wexwood swore to Zara to rebuild the fallen wall at Elmhaven, and shook on it.",
+  "where": "L14",
+  "ref_deps": [
+   "E0003",
+   "E0008"
+  ],
+  "promise": "R17",
+  "a": "P044",
+  "b": "P015",
+  "act": "to rebuild the fallen wall at Elmhaven"
+ },
+ {
+  "id": "E0267",
+  "type": "MARRY",
+  "chapter": 27,
+  "text": "In the chapel at Wendwick, Zara Lindford married Zanar. The couple lived in Wendwick from then on.",
+  "where": "L14",
+  "ref_deps": [
+   "E0002"
+  ],
+  "a": "P015",
+  "b": "P010",
+  "place": "L14"
+ },
+ {
+  "id": "E0268",
+  "type": "RESOLVE",
+  "chapter": 27,
+  "text": "True to his word to Vorald Wexwood, Aemor Wexwood finished what he had promised (pay the old debt owed to the Stenick family).",
+  "where": "L13",
+  "ref_deps": [],
+  "promise": "R07",
+  "kept": true
+ },
+ {
+  "id": "E0269",
+  "type": "TELL",
+  "chapter": 27,
+  "text": "In a letter that Brelia Ashner burned after reading, Vorald Dornwood revealed that the harbor master of Fenholt takes bribes.",
+  "where": "L03",
+  "ref_deps": [],
+  "secret": "S03",
+  "src": "P004",
+  "dest": "P026"
+ },
+ {
+  "id": "E0270",
+  "type": "TRAVEL",
+  "chapter": 27,
+  "text": "Vorald Dornwood packed a single trunk and moved from Elmhaven to Coldmere.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P004",
+  "src": "L03",
+  "dest": "L01"
+ },
+ {
+  "id": "E0271",
+  "type": "TRAVEL",
+  "chapter": 27,
+  "text": "Tavie went along to live in Coldmere as well.",
+  "where": "L03",
+  "ref_deps": [
+   "E0009"
+  ],
+  "person": "P049",
+  "src": "L03",
+  "dest": "L01"
+ },
+ {
+  "id": "E0272",
+  "type": "TELL",
+  "chapter": 27,
+  "text": "In a letter that Neena Thornaby burned after reading, Jodan revealed that the bridge toll at Kelmere is skimmed every month.",
+  "where": "L08",
+  "ref_deps": [
+   "E0003"
+  ],
+  "secret": "S00",
+  "src": "P017",
+  "dest": "P031"
+ },
+ {
+  "id": "E0273",
+  "type": "RUMOR",
+  "chapter": 28,
+  "text": "Hanar Marrner whispered that Dadan Grimaby had secretly married Vesena Stenick, but nobody could say where or when.",
+  "where": "L14",
+  "ref_deps": [],
+  "teller": "P012",
+  "claim": {
+   "kind": "married",
+   "target": "P008",
+   "other": "P047"
+  }
+ },
+ {
+  "id": "E0274",
+  "type": "DEATH",
+  "chapter": 28,
+  "text": "That spring, drowning in the flood took Malis Wexwood; she was buried at Wendcombe.",
+  "where": "L13",
+  "ref_deps": [],
+  "person": "P041",
+  "cause": "drowning in the flood",
+  "place": "L13"
+ },
+ {
+  "id": "E0275",
+  "type": "TELL",
+  "chapter": 28,
+  "text": "Serine could keep it no longer and told Gadette Thornaby that the bridge toll at Kelmere is skimmed every month.",
+  "where": "L08",
+  "ref_deps": [
+   "E0004"
+  ],
+  "secret": "S00",
+  "src": "P023",
+  "dest": "P032"
+ },
+ {
+  "id": "E0276",
+  "type": "GIVE",
+  "chapter": 28,
+  "text": "Vorald Dornwood won the silver dagger from Tall Tavie at cards, fairly, and kept it.",
+  "where": "L01",
+  "ref_deps": [
+   "E0056"
+  ],
+  "item": "I10",
+  "src": "P049",
+  "dest": "P004"
+ },
+ {
+  "id": "E0277",
+  "type": "PROMISE",
+  "chapter": 28,
+  "text": "Gavus Tallowaby gave Nyvus Ashner a solemn promise to plant an orchard on the slope above Gulstead.",
+  "where": "L09",
+  "ref_deps": [],
+  "promise": "R18",
+  "a": "P038",
+  "b": "P028",
+  "act": "to plant an orchard on the slope above Gulstead"
+ },
+ {
+  "id": "E0278",
+  "type": "GIVE",
+  "chapter": 28,
+  "text": "The only daughter of Neena Thornaby won the jade compass from Neena Thornaby at cards, fairly, and kept it.",
+  "where": "L08",
+  "ref_deps": [
+   "E0006"
+  ],
+  "item": "I08",
+  "src": "P031",
+  "dest": "P032"
+ },
+ {
+  "id": "E0279",
+  "type": "DEATH",
+  "chapter": 29,
+  "text": "Orra Ashner died of a winter fever at Salwick.",
+  "where": "L12",
+  "ref_deps": [],
+  "person": "P025",
+  "cause": "a winter fever",
+  "place": "L12"
+ },
+ {
+  "id": "E0280",
+  "type": "MARRY",
+  "chapter": 29,
+  "text": "In the chapel at Coldmere, Thidan Thornaby married Talia. The couple lived in Coldmere from then on.",
+  "where": "L01",
+  "ref_deps": [
+   "E0171"
+  ],
+  "a": "P060",
+  "b": "P059",
+  "place": "L01"
+ },
+ {
+  "id": "E0281",
+  "type": "RESOLVE",
+  "chapter": 29,
+  "text": "Kalan Wexwood broke faith with Zara Lindford, and the promised work (rebuild the fallen wall at Elmhaven) was never begun.",
+  "where": "L14",
+  "ref_deps": [],
+  "promise": "R17",
+  "kept": false
+ },
+ {
+  "id": "E0282",
+  "type": "MARRY",
+  "chapter": 29,
+  "text": "Before the summer was out, Vovie Wexwood took Kavus Dornwood in marriage at Wendwick. The couple lived in Wendwick from then on.",
+  "where": "L14",
+  "ref_deps": [],
+  "a": "P058",
+  "b": "P002",
+  "place": "L14"
+ },
+ {
+  "id": "E0283",
+  "type": "GIVE",
+  "chapter": 29,
+  "text": "Wenar gave the bone compass to Orlde Prydmere.",
+  "where": "L10",
+  "ref_deps": [
+   "E0009"
+  ],
+  "item": "I03",
+  "src": "P046",
+  "dest": "P021"
+ },
+ {
+  "id": "E0284",
+  "type": "BIRTH",
+  "chapter": 30,
+  "text": "Talia Stenick gave birth to a son, named Katen Thornaby; the father was Thidan Thornaby. The family lived in Coldmere.",
+  "where": "L01",
+  "ref_deps": [],
+  "child": "P064",
+  "mother": "P059",
+  "father": "P060",
+  "place": "L01"
+ },
+ {
+  "id": "E0285",
+  "type": "GIVE",
+  "chapter": 30,
+  "text": "A parcel from Orlde Prydmere reached Nyvus Ashner; inside was the glass flute, now his to keep.",
+  "where": "L10",
+  "ref_deps": [],
+  "item": "I05",
+  "src": "P021",
+  "dest": "P028"
+ },
+ {
+  "id": "E0286",
+  "type": "TELL",
+  "chapter": 30,
+  "text": "In a letter that Illan Grimaby burned after reading, Pebin Grimaby revealed that the old abbey at Larkton hides a second cellar.",
+  "where": "L05",
+  "ref_deps": [],
+  "secret": "S04",
+  "src": "P007",
+  "dest": "P005"
+ },
+ {
+  "id": "E0287",
+  "type": "DEATH",
+  "chapter": 30,
+  "text": "They laid Aemor in the churchyard at Wendcombe, dead of a winter fever.",
+  "where": "L13",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P040",
+  "cause": "a winter fever",
+  "place": "L13"
+ },
+ {
+  "id": "E0288",
+  "type": "TRAVEL",
+  "chapter": 30,
+  "text": "The eldest son of Ronelle Dornwood packed a single trunk and moved from Wendwick to Gulstead.",
+  "where": "L14",
+  "ref_deps": [
+   "E0000"
+  ],
+  "person": "P002",
+  "src": "L14",
+  "dest": "L06"
+ },
+ {
+  "id": "E0289",
+  "type": "TRAVEL",
+  "chapter": 30,
+  "text": "Vovie followed him to Gulstead within the month.",
+  "where": "L14",
+  "ref_deps": [
+   "E0165"
+  ],
+  "person": "P058",
+  "src": "L14",
+  "dest": "L06"
+ },
+ {
+  "id": "E0290",
+  "type": "BIRTH",
+  "chapter": 30,
+  "text": "Orlde Prydmere gave birth to a daughter, named Ulvie Stenick; the father was Kalan Stenick. The family lived in Mireford.",
+  "where": "L10",
+  "ref_deps": [],
+  "child": "P065",
+  "mother": "P021",
+  "father": "P048",
+  "place": "L10"
+ },
+ {
+  "id": "E0291",
+  "type": "OCCUPATION",
+  "chapter": 30,
+  "text": "The husband of Vesena Stenick gave up being a tanner and took work as a ferryman.",
+  "where": "L10",
+  "ref_deps": [
+   "E0009"
+  ],
+  "person": "P046",
+  "old": "tanner",
+  "new": "ferryman"
+ },
+ {
+  "id": "E0292",
+  "type": "MARRY",
+  "chapter": 31,
+  "text": "In the chapel at Wilby, Davus married Rilis. The couple lived in Wilby from then on.",
+  "where": "L15",
+  "ref_deps": [
+   "E0116",
+   "E0206"
+  ],
+  "a": "P054",
+  "b": "P061",
+  "place": "L15"
+ },
+ {
+  "id": "E0293",
+  "type": "MARRY",
+  "chapter": 31,
+  "text": "Coten and Riwyn were wed at Gulstead, with half the parish looking on. The couple lived in Gulstead from then on.",
+  "where": "L06",
+  "ref_deps": [
+   "E0105",
+   "E0131"
+  ],
+  "a": "P053",
+  "b": "P057",
+  "place": "L06"
+ },
+ {
+  "id": "E0294",
+  "type": "BIRTH",
+  "chapter": 31,
+  "text": "A daughter was born to Elrine Lindford and Kalan Wexwood, and they called the child Illis Wexwood. The family lived in Wendwick.",
+  "where": "L14",
+  "ref_deps": [],
+  "child": "P066",
+  "mother": "P016",
+  "father": "P044",
+  "place": "L14"
+ },
+ {
+  "id": "E0295",
+  "type": "PROMISE",
+  "chapter": 31,
+  "text": "Kavus Dornwood gave Coten Stenick a solemn promise to plant an orchard on the slope above Quenby.",
+  "where": "L06",
+  "ref_deps": [],
+  "promise": "R19",
+  "a": "P002",
+  "b": "P053",
+  "act": "to plant an orchard on the slope above Quenby"
+ },
+ {
+  "id": "E0296",
+  "type": "MARRY",
+  "chapter": 31,
+  "text": "Before the winter was out, Nyvus Ashner took Gaena in marriage at Larkton. The couple lived in Larkton from then on.",
+  "where": "L09",
+  "ref_deps": [
+   "E0119"
+  ],
+  "a": "P028",
+  "b": "P056",
+  "place": "L09"
+ },
+ {
+  "id": "E0297",
+  "type": "TRAVEL",
+  "chapter": 31,
+  "text": "Davus Stenick left Wilby and settled in Kelmere.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P054",
+  "src": "L15",
+  "dest": "L08"
+ },
+ {
+  "id": "E0298",
+  "type": "TRAVEL",
+  "chapter": 31,
+  "text": "Rilis went along to live in Kelmere as well.",
+  "where": "L15",
+  "ref_deps": [
+   "E0206"
+  ],
+  "person": "P061",
+  "src": "L15",
+  "dest": "L08"
+ },
+ {
+  "id": "E0299",
+  "type": "GIVE",
+  "chapter": 32,
+  "text": "Talia won the silver dagger from Vorald Dornwood at cards, fairly, and kept it.",
+  "where": "L01",
+  "ref_deps": [
+   "E0171"
+  ],
+  "item": "I10",
+  "src": "P004",
+  "dest": "P059"
+ },
+ {
+  "id": "E0300",
+  "type": "TRAVEL",
+  "chapter": 32,
+  "text": "Vorald Dornwood packed a single trunk and moved from Coldmere to Kelmere.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P004",
+  "src": "L01",
+  "dest": "L08"
+ },
+ {
+  "id": "E0301",
+  "type": "TRAVEL",
+  "chapter": 32,
+  "text": "Tavie Stenick followed him to Kelmere within the month.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P049",
+  "src": "L01",
+  "dest": "L08"
+ },
+ {
+  "id": "E0302",
+  "type": "RUMOR",
+  "chapter": 32,
+  "text": "The eldest son of Orra Ashner whispered that Comira Lindford had secretly married Isbin Stenick, but nobody could say where or when.",
+  "where": "L09",
+  "ref_deps": [
+   "E0005"
+  ],
+  "teller": "P028",
+  "claim": {
+   "kind": "married",
+   "target": "P055",
+   "other": "P050"
+  }
+ },
+ {
+  "id": "E0303",
+  "type": "PROMISE",
+  "chapter": 32,
+  "text": "Nyvus swore to Gavus to repair the roof of the chapel at Gulby, and shook on it.",
+  "where": "L09",
+  "ref_deps": [
+   "E0005",
+   "E0007"
+  ],
+  "promise": "R20",
+  "a": "P028",
+  "b": "P038",
+  "act": "to repair the roof of the chapel at Gulby"
+ },
+ {
+  "id": "E0304",
+  "type": "TRAVEL",
+  "chapter": 32,
+  "text": "Neten found work in Kelgate, moved there, and did not return to Gulby.",
+  "where": "L05",
+  "ref_deps": [
+   "E0007"
+  ],
+  "person": "P035",
+  "src": "L05",
+  "dest": "L07"
+ },
+ {
+  "id": "E0305",
+  "type": "OCCUPATION",
+  "chapter": 32,
+  "text": "Peten gave up idleness and took work as a shepherd.",
+  "where": "L05",
+  "ref_deps": [
+   "E0006"
+  ],
+  "person": "P034",
+  "old": null,
+  "new": "shepherd"
+ },
+ {
+  "id": "E0306",
+  "type": "TELL",
+  "chapter": 32,
+  "text": "Late one night Illan Grimaby confided to Nelia Tallowaby that the old abbey at Larkton hides a second cellar.",
+  "where": "L05",
+  "ref_deps": [],
+  "secret": "S04",
+  "src": "P005",
+  "dest": "P039"
+ },
+ {
+  "id": "E0307",
+  "type": "RUMOR",
+  "chapter": 33,
+  "text": "Orlde Prydmere whispered that Nylis Wexwood had secretly married Uldrek Thornaby, but nobody could say where or when.",
+  "where": "L10",
+  "ref_deps": [],
+  "teller": "P021",
+  "claim": {
+   "kind": "married",
+   "target": "P043",
+   "other": "P030"
+  }
+ },
+ {
+  "id": "E0308",
+  "type": "BIRTH",
+  "chapter": 33,
+  "text": "A daughter was born to Gaena Tallowaby and Nyvus Ashner, and they called the child Rolde Ashner. The family lived in Larkton.",
+  "where": "L09",
+  "ref_deps": [],
+  "child": "P067",
+  "mother": "P056",
+  "father": "P028",
+  "place": "L09"
+ },
+ {
+  "id": "E0309",
+  "type": "TRAVEL",
+  "chapter": 33,
+  "text": "Nyvus rode out of Larkton; by the next market day he was living in Salwick.",
+  "where": "L09",
+  "ref_deps": [
+   "E0005"
+  ],
+  "person": "P028",
+  "src": "L09",
+  "dest": "L12"
+ },
+ {
+  "id": "E0310",
+  "type": "TRAVEL",
+  "chapter": 33,
+  "text": "Gaena Tallowaby followed him to Salwick within the month.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P056",
+  "src": "L09",
+  "dest": "L12"
+ },
+ {
+  "id": "E0311",
+  "type": "PROMISE",
+  "chapter": 33,
+  "text": "Gaena Tallowaby swore to Nyvus to teach the children of Wendcombe their letters, and shook on it.",
+  "where": "L12",
+  "ref_deps": [
+   "E0005"
+  ],
+  "promise": "R21",
+  "a": "P056",
+  "b": "P028",
+  "act": "to teach the children of Wendcombe their letters"
+ },
+ {
+  "id": "E0312",
+  "type": "RUMOR",
+  "chapter": 33,
+  "text": "Gossip from the wife of Uldrek Thornaby claimed Vorald Wexwood and Riwyn Lindford had been wed in secret.",
+  "where": "L08",
+  "ref_deps": [
+   "E0006"
+  ],
+  "teller": "P031",
+  "claim": {
+   "kind": "married",
+   "target": "P042",
+   "other": "P057"
+  }
+ },
+ {
+  "id": "E0313",
+  "type": "GIVE",
+  "chapter": 33,
+  "text": "Dadrek Thornaby won the glass flute from Nyvus at cards, fairly, and kept it.",
+  "where": "L12",
+  "ref_deps": [
+   "E0005"
+  ],
+  "item": "I05",
+  "src": "P028",
+  "dest": "P033"
+ },
+ {
+  "id": "E0314",
+  "type": "TRAVEL",
+  "chapter": 34,
+  "text": "After the quarrel, Feten Tallowaby quit Elmhaven for good and took lodgings in Wendwick.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P037",
+  "src": "L03",
+  "dest": "L14"
+ },
+ {
+  "id": "E0315",
+  "type": "TRAVEL",
+  "chapter": 34,
+  "text": "Brelia Ashner went along to live in Wendwick as well.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P026",
+  "src": "L03",
+  "dest": "L14"
+ },
+ {
+  "id": "E0316",
+  "type": "GIVE",
+  "chapter": 34,
+  "text": "Davus Stenick sent the brass comb by carrier to the youngest daughter of Malis Wexwood, who received it safely.",
+  "where": "L08",
+  "ref_deps": [
+   "E0008"
+  ],
+  "item": "I04",
+  "src": "P054",
+  "dest": "P045"
+ },
+ {
+  "id": "E0317",
+  "type": "GIVE",
+  "chapter": 34,
+  "text": "A parcel from Dadrek Thornaby reached Rolan Ashner; inside was the glass flute, now his to keep.",
+  "where": "L12",
+  "ref_deps": [],
+  "item": "I05",
+  "src": "P033",
+  "dest": "P029"
+ },
+ {
+  "id": "E0318",
+  "type": "BIRTH",
+  "chapter": 34,
+  "text": "A son was born to Vovie Wexwood and Kavus Dornwood, and they called the child Ellan Dornwood. The family lived in Gulstead.",
+  "where": "L06",
+  "ref_deps": [],
+  "child": "P068",
+  "mother": "P058",
+  "father": "P002",
+  "place": "L06"
+ },
+ {
+  "id": "E0319",
+  "type": "RESOLVE",
+  "chapter": 34,
+  "text": "True to her word to Nyvus Ashner, Gaena Tallowaby finished what she had promised (teach the children of Wendcombe their letters).",
+  "where": "L12",
+  "ref_deps": [],
+  "promise": "R21",
+  "kept": true
+ },
+ {
+  "id": "E0320",
+  "type": "TELL",
+  "chapter": 34,
+  "text": "Isbin could keep it no longer and told Darine that the deed to the Quenby pastures was forged.",
+  "where": "L15",
+  "ref_deps": [
+   "E0005",
+   "E0009"
+  ],
+  "secret": "S07",
+  "src": "P050",
+  "dest": "P027"
+ },
+ {
+  "id": "E0321",
+  "type": "DEATH",
+  "chapter": 35,
+  "text": "That winter, a wound that festered took Neten Tallowaby; he was buried at Kelgate.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P035",
+  "cause": "a wound that festered",
+  "place": "L07"
+ },
+ {
+  "id": "E0322",
+  "type": "DEATH",
+  "chapter": 35,
+  "text": "Wedan Dornwood died of a fall from the mill loft at Elmhaven.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P000",
+  "cause": "a fall from the mill loft",
+  "place": "L03"
+ },
+ {
+  "id": "E0323",
+  "type": "TELL",
+  "chapter": 35,
+  "text": "In a letter that the eldest son of Bressa Marrner burned after reading, Brelia Ashner revealed that the harbor master of Fenholt takes bribes.",
+  "where": "L14",
+  "ref_deps": [
+   "E0002"
+  ],
+  "secret": "S03",
+  "src": "P026",
+  "dest": "P012"
+ },
+ {
+  "id": "E0324",
+  "type": "PLAN",
+  "chapter": 35,
+  "text": "Rolan Ashner meant to go to Wendcombe before the frost, but the roads flooded and the journey was put off.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P029",
+  "dest": "L13"
+ },
+ {
+  "id": "E0325",
+  "type": "OCCUPATION",
+  "chapter": 35,
+  "text": "Elrine Lindford gave up idleness and took work as a miller.",
+  "where": "L14",
+  "ref_deps": [
+   "E0003"
+  ],
+  "person": "P016",
+  "old": null,
+  "new": "miller"
+ },
+ {
+  "id": "E0326",
+  "type": "BIRTH",
+  "chapter": 35,
+  "text": "Rilis Wexwood gave birth to a daughter, named Rorine Stenick; the father was Davus Stenick. The family lived in Kelmere.",
+  "where": "L08",
+  "ref_deps": [],
+  "child": "P069",
+  "mother": "P061",
+  "father": "P054",
+  "place": "L08"
+ },
+ {
+  "id": "E0327",
+  "type": "TRAVEL",
+  "chapter": 35,
+  "text": "Wenar Stenick left Mireford and settled in Wendcombe.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P046",
+  "src": "L10",
+  "dest": "L13"
+ },
+ {
+  "id": "E0328",
+  "type": "TRAVEL",
+  "chapter": 35,
+  "text": "Vesena Stenick went along to live in Wendcombe as well.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P047",
+  "src": "L10",
+  "dest": "L13"
+ },
+ {
+  "id": "E0329",
+  "type": "TRAVEL",
+  "chapter": 35,
+  "text": "Talia Stenick left Coldmere and settled in Wendcombe.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P059",
+  "src": "L01",
+  "dest": "L13"
+ },
+ {
+  "id": "E0330",
+  "type": "TRAVEL",
+  "chapter": 35,
+  "text": "Thidan Thornaby followed her to Wendcombe within the month.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P060",
+  "src": "L01",
+  "dest": "L13"
+ },
+ {
+  "id": "E0331",
+  "type": "MARRY",
+  "chapter": 36,
+  "text": "In the chapel at Elmhaven, Ronelle married Illan. The couple lived in Elmhaven from then on.",
+  "where": "L03",
+  "ref_deps": [
+   "E0000",
+   "E0001"
+  ],
+  "a": "P001",
+  "b": "P005",
+  "place": "L03"
+ },
+ {
+  "id": "E0332",
+  "type": "PROMISE",
+  "chapter": 36,
+  "text": "Illan Grimaby swore to Ronelle Dornwood to rebuild the fallen wall at Larkton, and shook on it.",
+  "where": "L03",
+  "ref_deps": [],
+  "promise": "R22",
+  "a": "P005",
+  "b": "P001",
+  "act": "to rebuild the fallen wall at Larkton"
+ },
+ {
+  "id": "E0333",
+  "type": "TELL",
+  "chapter": 36,
+  "text": "In a letter that the husband of Zara Lindford burned after reading, Vorald Wexwood revealed that the fire at the Wendwick granary was set on purpose.",
+  "where": "L14",
+  "ref_deps": [
+   "E0267"
+  ],
+  "secret": "S02",
+  "src": "P042",
+  "dest": "P010"
+ },
+ {
+  "id": "E0334",
+  "type": "GIVE",
+  "chapter": 36,
+  "text": "A parcel from Ganelle Wexwood reached Dadrek Thornaby; inside was the pewter flute, now his to keep.",
+  "where": "L09",
+  "ref_deps": [],
+  "item": "I09",
+  "src": "P045",
+  "dest": "P033"
+ },
+ {
+  "id": "E0335",
+  "type": "OCCUPATION",
+  "chapter": 36,
+  "text": "Dadrek was apprenticed anew and became a ferryman.",
+  "where": "L12",
+  "ref_deps": [
+   "E0006"
+  ],
+  "person": "P033",
+  "old": "weaver",
+  "new": "ferryman"
+ },
+ {
+  "id": "E0336",
+  "type": "TELL",
+  "chapter": 37,
+  "text": "In a letter that Brerine Marrner burned after reading, Ulena Thornaby revealed that the old abbey at Larkton hides a second cellar.",
+  "where": "L05",
+  "ref_deps": [],
+  "secret": "S04",
+  "src": "P052",
+  "dest": "P063"
+ },
+ {
+  "id": "E0337",
+  "type": "MARRY",
+  "chapter": 37,
+  "text": "Before the summer was out, Rolan Ashner took Brerine in marriage at Wendwick. The couple lived in Wendwick from then on.",
+  "where": "L14",
+  "ref_deps": [
+   "E0215"
+  ],
+  "a": "P029",
+  "b": "P063",
+  "place": "L14"
+ },
+ {
+  "id": "E0338",
+  "type": "GIVE",
+  "chapter": 37,
+  "text": "Rolan Ashner gave the glass flute to Hanar Marrner.",
+  "where": "L14",
+  "ref_deps": [],
+  "item": "I05",
+  "src": "P029",
+  "dest": "P012"
+ },
+ {
+  "id": "E0339",
+  "type": "BIRTH",
+  "chapter": 37,
+  "text": "A daughter was born to Elrine Lindford and Kalan Wexwood, and they called the child Yeena Wexwood. The family lived in Wendwick.",
+  "where": "L14",
+  "ref_deps": [],
+  "child": "P070",
+  "mother": "P016",
+  "father": "P044",
+  "place": "L14"
+ },
+ {
+  "id": "E0340",
+  "type": "DEATH",
+  "chapter": 37,
+  "text": "That summer, drowning in the flood took Illan Grimaby; he was buried at Elmhaven.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P005",
+  "cause": "drowning in the flood",
+  "place": "L03"
+ },
+ {
+  "id": "E0341",
+  "type": "TELL",
+  "chapter": 37,
+  "text": "Zanar Marrner could keep it no longer and told Brerine Marrner that the fire at the Wendwick granary was set on purpose.",
+  "where": "L14",
+  "ref_deps": [],
+  "secret": "S02",
+  "src": "P010",
+  "dest": "P063"
+ },
+ {
+  "id": "E0342",
+  "type": "RESOLVE",
+  "chapter": 37,
+  "text": "Brelia Ashner kept the promise made to Darine Ashner: the task (rebuild the fallen wall at Dunford) was done by harvest.",
+  "where": "L14",
+  "ref_deps": [],
+  "promise": "R13",
+  "kept": true
+ },
+ {
+  "id": "E0343",
+  "type": "MARRY",
+  "chapter": 37,
+  "text": "Before the summer was out, Dadrek Thornaby took Ronelle Dornwood in marriage at Salwick. The couple lived in Salwick from then on.",
+  "where": "L12",
+  "ref_deps": [],
+  "a": "P033",
+  "b": "P001",
+  "place": "L12"
+ },
+ {
+  "id": "E0344",
+  "type": "BIRTH",
+  "chapter": 38,
+  "text": "A son was born to Talia Stenick and Thidan Thornaby, and they called the child Vesdan Thornaby. The family lived in Wendcombe.",
+  "where": "L13",
+  "ref_deps": [],
+  "child": "P071",
+  "mother": "P059",
+  "father": "P060",
+  "place": "L13"
+ },
+ {
+  "id": "E0345",
+  "type": "MARRY",
+  "chapter": 38,
+  "text": "In the chapel at Wilby, Jorine Stenick married Vorald Wexwood. The couple lived in Wilby from then on.",
+  "where": "L15",
+  "ref_deps": [],
+  "a": "P062",
+  "b": "P042",
+  "place": "L15"
+ },
+ {
+  "id": "E0346",
+  "type": "BIRTH",
+  "chapter": 38,
+  "text": "A daughter was born to Rilis Wexwood and Davus Stenick, and they called the child Riena Stenick. The family lived in Kelmere.",
+  "where": "L08",
+  "ref_deps": [],
+  "child": "P072",
+  "mother": "P061",
+  "father": "P054",
+  "place": "L08"
+ },
+ {
+  "id": "E0347",
+  "type": "TRAVEL",
+  "chapter": 38,
+  "text": "Gadette Thornaby packed a single trunk and moved from Kelmere to Elmhaven.",
+  "where": "L08",
+  "ref_deps": [],
+  "person": "P032",
+  "src": "L08",
+  "dest": "L03"
+ },
+ {
+  "id": "E0348",
+  "type": "TRAVEL",
+  "chapter": 38,
+  "text": "Elnar Marrner went along to live in Elmhaven as well.",
+  "where": "L08",
+  "ref_deps": [],
+  "person": "P013",
+  "src": "L08",
+  "dest": "L03"
+ },
+ {
+  "id": "E0349",
+  "type": "TELL",
+  "chapter": 38,
+  "text": "Peten Thornaby could keep it no longer and told Zara that the old abbey at Larkton hides a second cellar.",
+  "where": "L05",
+  "ref_deps": [
+   "E0003"
+  ],
+  "secret": "S04",
+  "src": "P034",
+  "dest": "P015"
+ },
+ {
+  "id": "E0350",
+  "type": "GIVE",
+  "chapter": 39,
+  "text": "Gavus won the brass comb from Ganelle at cards, fairly, and kept it.",
+  "where": "L09",
+  "ref_deps": [
+   "E0007",
+   "E0008"
+  ],
+  "item": "I04",
+  "src": "P045",
+  "dest": "P038"
+ },
+ {
+  "id": "E0351",
+  "type": "DEATH",
+  "chapter": 39,
+  "text": "Nyvus Ashner died of drowning in the flood at Salwick.",
+  "where": "L12",
+  "ref_deps": [],
+  "person": "P028",
+  "cause": "drowning in the flood",
+  "place": "L12"
+ },
+ {
+  "id": "E0352",
+  "type": "TELL",
+  "chapter": 39,
+  "text": "In a letter that Vorald Wexwood burned after reading, Darine Ashner revealed that the deed to the Quenby pastures was forged.",
+  "where": "L15",
+  "ref_deps": [],
+  "secret": "S07",
+  "src": "P027",
+  "dest": "P042"
+ },
+ {
+  "id": "E0353",
+  "type": "RESOLVE",
+  "chapter": 39,
+  "text": "Red Gavus never did keep the promise made to Nyvus Ashner (plant an orchard on the slope above Gulstead); the matter was abandoned.",
+  "where": "L09",
+  "ref_deps": [
+   "E0045"
+  ],
+  "promise": "R18",
+  "kept": false
+ },
+ {
+  "id": "E0354",
+  "type": "PROMISE",
+  "chapter": 39,
+  "text": "Ganelle Wexwood gave Gavus Tallowaby a solemn promise to carry a sealed letter to Wilby.",
+  "where": "L09",
+  "ref_deps": [],
+  "promise": "R23",
+  "a": "P045",
+  "b": "P038",
+  "act": "to carry a sealed letter to Wilby"
+ },
+ {
+  "id": "E0355",
+  "type": "PLAN",
+  "chapter": 40,
+  "text": "Talia meant to go to Elmhaven before the frost, but the roads flooded and the journey was put off.",
+  "where": "L13",
+  "ref_deps": [
+   "E0171"
+  ],
+  "person": "P059",
+  "dest": "L03"
+ },
+ {
+  "id": "E0356",
+  "type": "RESOLVE",
+  "chapter": 40,
+  "text": "True to her word to Gavus Tallowaby, Ganelle finished what she had promised (carry a sealed letter to Wilby).",
+  "where": "L09",
+  "ref_deps": [
+   "E0008"
+  ],
+  "promise": "R23",
+  "kept": true
+ },
+ {
+  "id": "E0357",
+  "type": "TELL",
+  "chapter": 40,
+  "text": "The husband of Elrine Lindford could keep it no longer and told Zara Lindford that the harbor master of Fenholt takes bribes.",
+  "where": "L14",
+  "ref_deps": [
+   "E0136"
+  ],
+  "secret": "S03",
+  "src": "P044",
+  "dest": "P015"
+ },
+ {
+  "id": "E0358",
+  "type": "GIVE",
+  "chapter": 40,
+  "text": "Kalan Stenick won the bone compass from Orlde Prydmere at cards, fairly, and kept it.",
+  "where": "L10",
+  "ref_deps": [],
+  "item": "I03",
+  "src": "P021",
+  "dest": "P048"
+ },
+ {
+  "id": "E0359",
+  "type": "TELL",
+  "chapter": 40,
+  "text": "Zara Lindford could keep it no longer and told Zanar Marrner that the harbor master of Fenholt takes bribes.",
+  "where": "L14",
+  "ref_deps": [],
+  "secret": "S03",
+  "src": "P015",
+  "dest": "P010"
+ },
+ {
+  "id": "E0360",
+  "type": "TRAVEL",
+  "chapter": 40,
+  "text": "The husband of Brerine Marrner rode out of Wendwick; by the next market day he was living in Quenby.",
+  "where": "L14",
+  "ref_deps": [
+   "E0337"
+  ],
+  "person": "P029",
+  "src": "L14",
+  "dest": "L11"
+ },
+ {
+  "id": "E0361",
+  "type": "TRAVEL",
+  "chapter": 40,
+  "text": "Brerine Marrner went along to live in Quenby as well.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P063",
+  "src": "L14",
+  "dest": "L11"
+ },
+ {
+  "id": "E0362",
+  "type": "RESOLVE",
+  "chapter": 40,
+  "text": "Davus Stenick never did keep the promise made to Brelia Ashner (repair the roof of the chapel at Mireford); the matter was abandoned.",
+  "where": "L08",
+  "ref_deps": [],
+  "promise": "R15",
+  "kept": false
+ }
+]

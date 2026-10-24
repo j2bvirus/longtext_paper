@@ -1,0 +1,42 @@
+{
+ "name": "saga_v5_s7_d16_mem-pbm25_claudethink8000-claude-haiku-4-5-20251001_b4000",
+ "n": 236,
+ "acc": 0.8516949152542372,
+ "by_qtype": {
+  "ALIVE": 0.92,
+  "BIRTHPLACE": 0.917,
+  "EVER_VISITED": 1.0,
+  "GRANDPARENT": 0.32,
+  "KNOWS": 0.95,
+  "LOC_AT_EVENT": 0.818,
+  "LOC_NOW": 0.929,
+  "OCCUPATION_NOW": 1.0,
+  "OWNER_NOW": 0.667,
+  "OWNER_PREV": 0.8,
+  "PROMISE": 0.857,
+  "RULE_BRIDGE": 0.875,
+  "RULE_VAULT": 1.0,
+  "SPOUSE_NOW": 1.0
+ },
+ "mean_ctx_tokens": 3979.85593220339,
+ "sum_in_tokens": 1312725,
+ "sum_out_tokens": 163001,
+ "sum_usd": 2.12773,
+ "sum_wall_s": 2127.5928432941437,
+ "build": {
+  "embed_tokens": 0,
+  "llm_in": 0,
+  "llm_out": 0,
+  "usd": 0.0,
+  "wall_s": 0.3733556270599365,
+  "lazy": {
+   "llm_in": 0,
+   "llm_out": 0,
+   "usd": 0.0,
+   "calls": 0
+  }
+ },
+ "record_tokens": 505698,
+ "n_chunks": 2133,
+ "mean_ev_recall": 0.8867911153119092
+}

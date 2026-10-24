@@ -1,0 +1,22 @@
+Based on the transcripts provided, here are the answers to the questions:
+
+Q01: \boxed{Attack}
+Q02: \boxed{165}
+Q03: \boxed{Dispel Magic}
+Q04: \boxed{Light}
+Q05: \boxed{33}
+Q06: \boxed{68}
+Q07: \boxed{6}
+Q08: \boxed{0}
+Q09: \boxed{2}
+Q10: \boxed{903}
+Q11: \boxed{Bigby's Hand, Counterspell, Cure Wounds, Fireball, Fly, Glacial Blast, Guiding Bolt, Hail of Thorns, Hunter's Mark,Modify Memory, Prayer of Healing}
+Q12: \boxed{1}
+Q13: \boxed{Primeval Awareness}
+Q14: \boxed{1}
+Q15: \boxed{Grasping Vine, Enhance Ability, Call Lightning, Faerie Fire, Gust of Wind, Planar Binding, None, Skywrite, Transport via Plants, Control Weather, Grasping Vine, Druidcraft, None,Control Water, Earthbind, Create or Destroy Water}
+Q16: \boxed{Holy Aura}
+Q17: \boxed{23}
+Q18: \boxed{120}
+Q19: \boxed{None, None, None, None, None, None, None, None, None, None, None, Divine Sense, None, None, None, None}
+Q20: \boxed{24}

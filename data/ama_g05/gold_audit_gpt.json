@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "Step 16 shows 820 extracted mainspace links, and Step 15’s regex search found no direct link to the target.",
+  "evidence": "steps [15, 16, 17, 29, 30]"
+ },
+ "Q0001": {
+  "label": "ambiguous",
+  "reason": "The trajectory does not show whether a July 4 snapshot changed relevant links; using it would not necessarily make the final count incorrect.",
+  "evidence": "steps [1, 2, 3, 29, 30]"
+ },
+ "Q0002": {
+  "label": "wrong",
+  "reason": "Step 19 shows links from The Lord of the Rings to High fantasy; Step 29 confirms High fantasy links to A Song of Ice and Fire and verifies the 2-click path.",
+  "evidence": "steps [19, 29, 30]"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "The script requires an English Wikipedia /wiki/ target and excludes titles containing a colon, matching the reference answer.",
+  "evidence": "steps [12, 13, 14, 29, 30]"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "Step 9 calls file_saver with content, file_path, and mode set to \"w\".",
+  "evidence": "steps [8, 9, 10, 29, 30]"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "Step 18 records saving a normalized JSON list of 820 unique mainspace links and checking that the target was not directly linked.",
+  "evidence": "steps [1, 18, 29, 30]"
+ },
+ "Q0006": {
+  "label": "ambiguous",
+  "reason": "Step 13 writes the file, but omitted Step 14 could have modified it before Step 15.",
+  "evidence": "steps [13, 15, 29, 30]"
+ },
+ "Q0007": {
+  "label": "ambiguous",
+  "reason": "Step 19 shows outbound links, but no episode success flag; later verification does not establish its state at turn 19.",
+  "evidence": "steps [19, 29, 30]"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "Step 18 explicitly marks step_index 1 as completed for extracting and normalizing outbound links.",
+  "evidence": "steps [1, 18, 29, 30]"
+ },
+ "Q0009": {
+  "label": "not auditable",
+  "reason": "names no step",
+  "evidence": ""
+ },
+ "Q0010": {
+  "label": "ambiguous",
+  "reason": "Only Step 1 shows a timeout; turns 5 and 6 are absent, so their causes and the full reaction cannot be verified.",
+  "evidence": "steps [0, 1, 2, 29, 30]"
+ },
+ "Q0011": {
+  "label": "ambiguous",
+  "reason": "Step 19 shows a saved list of 820 links, but the shown steps do not establish Python filtering, regex checks, or BFS.",
+  "evidence": "steps [10, 19, 29, 30]"
+ }
+}

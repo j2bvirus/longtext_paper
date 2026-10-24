@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "Step 21 ran that exact query and its results include \"purchase\".",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "Steps 7, 8, 18, 19 and 20 built the belief from sample_rows, and step 21 overturned it.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "A speculative counterfactual, but the cascade it describes is plausible.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "Step 24 shows item_name \"Google Sherpa Zip Hoodie Navy\" and quantity 1.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "The preconditions listed are supported by steps 21, 23, 24, 26 and 15.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "The sample_rows limitation explains the empty grep at step 16.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "Matching on item_name inside flattened ITEMS is sound, and the pitfalls are reasonable.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "Step 24 is the first place quantity is confirmed in real purchase data.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "The sample_rows being incomplete is supported by steps 18-21.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "wrong",
+  "reason": "The DDL shows ITEMS as VARIANT, and the pretty-printed output looks like a native array, not a text string.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "wrong",
+  "reason": "EVENTS_20201201.json was accessed at steps 4, 5, 6, 7 and 9 (5 times, not 4), and EVENTS_20201203.json was also hit by the globs at steps 10-12.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "The turning points are right, though which steps count as redundant is partly subjective.",
+  "evidence": "whole trajectory"
+ }
+}

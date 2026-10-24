@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "Step 187's left merged the 2s into a 4 under the 4 at (1,2), and Step 188's up then merged 4+4 into 8.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ambiguous",
+  "reason": "The mechanism is right (left merged [32,4,4,0] into an 8), but that left was the Step 34 action, and the logged Step 33 action is down.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "At Step 10 the 8s are stacked vertically in column 3, and a right move produces no merge.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ambiguous",
+  "reason": "The row [16,4,4,2] is correct, but it was produced by the Step 213 up (the 2s in column 2 merging), not Step 212 as the question and reference say.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "The zero-reward left at Step 186 was followed by a spawned 2 at (2,3), giving [2,4,2,2].",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "The Step 213 up merged the two 2s in column 2 into a 4, giving [16,4,4,2], and Step 214's left then merged them into an 8.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "Left and right both score 16 from the Step 33 board. Left leaves the two 8s stacked in column 1, and the Step 36 down merges them into a 16.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "Step 186 shifted a tile and the spawned 2 at (2,3) created the adjacent 2s that Step 187 merged.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ambiguous",
+  "reason": "The reward comes from the down at Step 36 on the Step 35 board, which merges the two 8s. The question's premise that a left at Step 35 does nothing is false, because that left merged 2+2.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ambiguous",
+  "reason": "The reference assigns the roles to Steps 185 and 186, but the bottom-row shift happened at Step 186 and the 2+2 merge at Step 187, so the question's step numbering is off by one.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "The 8s at (2,1) and (3,1) were aligned at Step 35, and the Step 36 down merged them, leaving no vertical pairs for Step 37.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "The two 8s in the second column merged into a 16.",
+  "evidence": "whole trajectory"
+ }
+}

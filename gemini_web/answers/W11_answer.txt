@@ -1,0 +1,168 @@
+Based on a careful line-by-line review of the 15 episodes in the attached transcript, here is the breakdown of the statistics and the final answers:
+
+### Reasoning & Tallies
+
+* Rolls by Vax'ildan (Liam) per Episode:
+
+
+* **Ep 1:** 15 (Intimidation, Insight, Perception, Acrobatics, Intelligence, Acrobatics, Perception, Acrobatics, Wisdom, Stealth, Initiative, Attack, Stealth, Acrobatics, Attack, Attack, Attack, Attack) — *Total = 18*
+
+
+* **Ep 2:** 14 (Initiative, Stealth, Perception, Initiative, Attack, Attack, Attack, Attack, Luck/Attack, Athletics, Attack, Wisdom, Acrobatics, Attack, Luck/Attack, Attack, Stealth) — *Total = 17*
+
+
+* **Ep 3:** 13 (Insight, Stealth, Insight, Perception, Perception, Trap check, Dex save, Acrobatics, Dex save, Acrobatics, Dex save, Acrobatics, Perception, Stealth, Initiative, Attack, Attack, Perception,Dex) — *Total = 19*
+
+
+* **Ep 4:** 0 (Absent)
+
+
+* **Ep 5:** 17 (Initiative, Attack, Attack, Perception, Lockpick, Perception, Stealth, Lockpick, Perception, Initiative, Charisma save, Wisdom save, Attack, Attack, Attack, Attack, Attack, Wisdom save, Stealth, Attack, Attack) — *Total = 21*
+
+
+* **Ep 6:** 15 (Perception, Stealth, Perception, Wisdom save, Stealth, Constitution save, Dex save, Perception, Initiative, Dex save, Attack, Attack, Attack, Attack, Attack, Attack, Constitution save, Constitution save, Acrobatics) — *Total = 19*
+
+
+* **Ep 7:** 5 (Persuasion, Insight, Stealth, Initiative, Attack, Stealth, Perception) — *Total = 7*
+
+
+* **Ep 8:** 6 (Constitution save, Perception, Stealth, Perception, Investigation, Initiative) — *Total = 6*
+
+
+* *(Cumulative at end of Ep 8: $18 + 17 + 19 + 0 + 21 + 19 + 7 + 6 = 107$)*
+* **Ep 9:** 19
+
+
+* **Ep 10:** 13
+
+
+* **Ep 11:** 18
+
+
+* **Ep 12:** 17
+
+
+* **Ep 13:** 18
+
+
+* **Ep 14:** 0
+
+
+* **Ep 15:** 6
+
+
+* *(Total Vax'ildan rolls across all 15 episodes = 198)*
+
+
+* Rolls by Thorbir (Wil):
+
+
+* Thorbir only appears in Episode 5.
+
+
+* **End of Ep 2:** 0
+* **Ep 5 (and All Episodes):** 25 rolls (Initiative, Athletics, Damage, Attack, Attack, Attack, Perception, Stealth, Perception, Perception, Initiative, Attack, Damage, Superiority, Wisdom save, Perception, Attack, Attack, Attack, Damage, Attack, Superiority, Attack, Attack, Attack, Damage, Attack, Attack, Damage, Second Wind, Perception, Insight, Perception, Initiative).
+
+
+
+
+* **Spells Cast per Episode:**
+* **Ep 1 (24 spells):** Prestidigitation, Pass Without a Trace, Fly, Fireball, Glacial Blast, Featherfall, Wind Wall, Featherfall, Featherfall, Healing Word, Mass Cure Wounds, Wall of Stone, Glacial Blast, Wall of Stone, Light,Grand Columns, Light, Commune With Nature, Beast Sense, Stoneskin, Hunter's Mark, Scorching Ray, Invisibility, Lightning Arrow, Thorn Whip, Insect Plague, Telekinesis, Glacial Blast, Dominate Creature, Hunter's Mark, Thunder Wave, Cure Wounds, Telekinesis, Glacial Blast, Hunter's Mark, Thorn Whip, Light, Cure Wounds, Mass Cure Wounds, Featherfall, Fly, Beast Sense. *(Last: Beast Sense)*
+
+
+* **Ep 2 (20 spells):** Pass Without a Trace, Hallucinatory Terrain, Greater Restoration, Greater Restoration, Hunter's Mark, Cure Wounds, Pass Without a Trace, Stone Shape, Light, Stone Shape, Polymorph, Telekinesis, True Strike, Stoneskin, Hunter's Mark, Hail of Thorns, Blindness, Blur, Wall of Stone, Blindness, Guiding Bolt, Telekinesis, Lightning Bolt, Grasping Vine, Vicious Mockery, Guiding Bolt, Hail of Thorns, Watery Sphere, Grasping Vine, Telekinesis, Grasping Vine, Prestidigitation, Cure Wounds. *(3rd spell: Greater Restoration; Last: Cure Wounds)*
+
+
+* **Ep 3 (19 spells):** Lightning Bolt, Alter Self, Wall of Stone, Prestidigitation, Light, Gust of Wind, Light, Gust of Wind, Light, Enhance Ability, Telekinesis, Control Flame, Pass Without a Trace, Stoneskin, Stoneskin, Invisibility, Spike Growth, Conjure Barrage, Hunter's Mark, Spiritual Weapon, Poison Spray, Obelisk of Stone, Protection From Poison, Greater Invisibility, Spike Growth, Stinking Cloud, Fly, Wall of Stone, Obelisk of Stone, Gust of Wind. *(Last: Gust of Wind)*
+
+
+* **Ep 4 (16 spells):** Hunter's Mark, Disintegrate, Lightning Bolt, Mass Suggestion, Light, Legend Lore, Fire Bolt, Stoneskin, Fire Bolt, Hunter's Mark, Lightning Arrow, Hex, Witch Bolt, Eyebite, Disintegrate, Witch Bolt, Bigby's Hand, Hold Monster, Bigby's Hand, Witch Bolt, Hold Monster, Hail of Thorns, Witch Bolt, Healing Word, Lightning Bolt, Fireball, Lightning Arrow, Hellish Rebuke, Seeming. *(1st: Hunter's Mark; Last: Seeming)*
+
+
+* **Ep 5 (23 spells):** Sacred Flame, Fireball, Scorching Ray, Blight, Sacred Flame, True Strike, Misty Step, Blight, Obelisk of Stone, Firebolt, Prestidigitation, Speak With Dead, True Strike, Hold Person, Obelisk of Stone, Scorching Ray, Bless, Turn Undead, Heroes' Feast, Locate Creature, Fly, Prestidigitation, Cure Wounds, Greater Invisibility, Faerie Fire, Counterspell, Charm Person, Sacred Flame, Fireball, Mass Cure Wounds, Faerie Fire, Slow, Bless, Mass Cure Wounds, Silence, Spiritual Weapon, Obelisk of Stone, Counterspell. *(3rd: Scorching Ray; Last: Counterspell)*
+
+
+* **Ep 6 (16 spells):** Divine Intervention, Commune With Nature, Light, Anti-Life Shell, Heroes' Feast, Divine Intervention, Light, Commune With Nature, Protection from Energy, Stoneskin, Pass Without a Trace, Blight, Guiding Bolt, Glacial Blast, Cure Wounds, Hunter's Mark, Hail of Thorns, Glacial Blast, Control Flame, Gust of Wind, Mass Cure Wounds. *(Last: Mass Cure Wounds)*
+
+
+* **Ep 7 (14 spells):** Greater Restoration,Enhance Ability, Cure Wounds, Fly, Planar Binding, Seeming, Speak With Animals, Stoneskin, Hunter's Mark, Slow, Hunter's Mark, Dominate Beast, Fly, Polymorph, Polymorph, Dispel Magic, Barkskin, Cure Wounds, Dispel Magic, Cure Wounds, Fly. *(Last: Fly)*
+
+
+* **Ep 8 (6 spells):** Cure Wounds, Speak With Animals, Modify Memory, Pass Without a Trace, Transport Via Plants, Skywrite, Protection from Energy. *(2nd: Speak With Animals; Last: Protection from Energy)*
+
+
+* **Ep 9 (5 spells):** Cure Wounds, Lesser Restoration, Cure Wounds, Enhance Ability, Pass Without a Trace, Hold Person, Hold Person, Grasping Vine, Druidcraft, Blindness, Spiritual Weapon. *(Last: Spiritual Weapon)*
+
+
+* **Ep 10 (9 spells):** Hex, Hunter's Mark, Lightning Arrow, Healing Word, Bigby's Hand, Lightning Bolt, Call Lightning, Cure Wounds, Song of Rest, Speak with Animals, Chime of Opening, Daylight. *(Last: Daylight)*
+
+
+* **Ep 11 (10 spells):** Scrying, Heroes' Feast, Scrying, Control Weather, Water Breathing, Scrying, Bless, Control Water, Scrying. *(Last: Scrying)*
+
+
+* **Ep 12 (9 spells):** Revivify, Greater Restoration, Heal, Greater Restoration, Plane Shift, Greater Restoration, Pass Without a Trace, Speak With Dead, Lay on Hands. *(Last: Lay on Hands)*
+
+
+* **Ep 13 (18 spells):** Pass Without a Trace, Hex, Tsunami, Disintegrate, Hunter's Mark, Aura of Vitality, Beacon of Hope, Healing Word, Bigby's Hand, Blight, Contagion, Healing Word, Hold Monster, Blight, Thunderwave, Lightning Bolt, Hunter's Mark, Divine Smite, Heal, Healing Word, Lightning Bolt, Bigby's Hand, Chain Lightning, Chain Lightning, Grasping Vine, Lightning Bolt, Divine Smite, Guiding Bolt, Healing Word, Bigby's Hand, Speak With Dead, Meteor Swarm. *(Last: Meteor Swarm)*
+
+
+* **Ep 14 (15 spells):** Greater Restoration, Heroes' Feast, Transport Via Plants, Pass Without a Trace, Stone Shape, Primeval Awareness, Druidcraft, Death Ward, Light, Moonbeam, Fireball, Invisibility, Dispel Magic, Grasping Vine, Gust, Bless, Primeval Awareness. *(Last: Primeval Awareness)*
+
+
+* **Ep 15 (9 spells):** Cure Wounds, Restoration, Scrying, Transport Via Plants, Speak With Plants, Control Water, Speak With Dead, Commune with Nature, Wind Walk, Heroes' Feast, Pass Without a Trace, Conjure Elemental, Freedom of Movement, Daylight. *(Last: Daylight)*
+
+
+
+
+* First Spell Cast by Tiberius (Orion) per Episode:
+
+
+* **Ep 1:** Prestidigitation
+
+
+* **Ep 2:** Light
+
+
+* **Ep 3:** Alter Self
+
+
+* **Ep 4:** None (Absent)
+
+
+* **Ep 5:** Fireball
+
+
+* **Ep 6:** Light
+
+
+* **Ep 7:** Fly
+
+
+* **Ep 8–15:** None (Absent)
+
+
+
+
+
+---
+
+Q01: \boxed{107}
+Q02: \boxed{1752}
+Q03: \boxed{0}
+Q04: \boxed{19}
+Q05: \boxed{25}
+Q06: \boxed{Speak With Animals}
+Q07: \boxed{29}
+Q08: \boxed{288}
+Q09: \boxed{Beast Sense, Cure Wounds, Gust of Wind, Seeming, Counterspell, Mass Cure Wounds, Fly, Protection from Energy, Spiritual Weapon, Daylight, Scrying, Lay on Hands, Meteor Swarm, Primeval Awareness, Daylight}
+Q10: \boxed{198}
+Q11: \boxed{59}
+Q12: \boxed{Hunter's Mark}
+Q13: \boxed{68}
+Q14: \boxed{1}
+Q15: \boxed{Scorching Ray}
+Q16: \boxed{Prestidigitation, Light, Alter Self, None, Fireball, Light, Fly, None, None, None, None, None, None, None, None}
+Q17: \boxed{Greater Restoration}
+Q18: \boxed{25}
+Q19: \boxed{9}
+Q20: \boxed{4}

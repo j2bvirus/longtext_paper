@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "The quoted query matches the Step 9 action.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "Steps 6, 8, 9 and 11 each show only December 2021, as described.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "The error and fix sequence across Steps 12-16 matches the trajectory.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "The counterfactual is speculative but consistent with the timeouts at Steps 7, 16, 22 and 25.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "Step 24 returned 4314 with the stated filters.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "The listed preconditions match the schema and the observations at Steps 3 and 19.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "The requirements are reasonable, and INPUTS coverage was indeed never checked.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "The two options and the choice of the VARIANT approach fit the timeouts and the Step 26 result.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "Step 11 added the min/max timestamps, and its values match.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "The yearly counts at Step 10 and the repeated December-only results support the inference.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "Every count matches: 16 TRANSACTIONS refs, 11 OUTPUTS refs, 4 bash and 21 SQL calls, 4 compile errors and 4 timeouts.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "The obstacles, root causes and pivot to the VARIANT column match the trajectory.",
+  "evidence": "whole trajectory"
+ }
+}

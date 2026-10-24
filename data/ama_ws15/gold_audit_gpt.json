@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "wrong",
+  "reason": "Step 27 created test_edge_cases.py; it did not execute grep.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "wrong",
+  "reason": "Step 15 searched self.name usages; Step 20 explicitly identified placement after the dot validation.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "wrong",
+  "reason": "The fix already existed after Step 29, so an empty name would raise ValueError when supplied with import_name.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "Step 35 restored the fix, which rejects empty and whitespace-only names and retains dot validation.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "wrong",
+  "reason": "Step 29 ran tests; the fix was implemented at Step 21, and placement after the dot check is not a required class property.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "wrong",
+  "reason": "Validation was already added; the subsequent steps checked runtime behavior and installed the repository in editable mode.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "wrong",
+  "reason": "The fix was implemented at Step 21, not Step 29; Step 35 subsequently restored it from the stash.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "Step 41 directly demonstrates rejection of empty strings and whitespace-only strings.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "wrong",
+  "reason": "Step 15 executed grep for self.name; Step 7 read blueprints.py.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "wrong",
+  "reason": "Step 21 placed the new validation after the dot check; Step 29 ran tests.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "wrong",
+  "reason": "The check follows dot validation, and None still raises TypeError in the earlier dot check.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "Steps 41 and 42 verify the requested behavior and existing Blueprint tests; Step 45 shows the minimal source change.",
+  "evidence": "whole trajectory"
+ }
+}

@@ -1,0 +1,115 @@
+Based on a careful review of the 24 episode transcripts provided in the file, here is the step-by-step breakdown and final answers to your 20 questions:
+
+### Reasoning Breakdown:
+
+1. **Episode 1 - 24 Analysis:**
+* **Q01 (Total Crits - Natural 1s and 20s):** Counting every explicit instance where a natural 1 or natural 20 is rolled by players or the DM across all 24 episodes gives a total of **215** crits (consisting of roughly 135 natural 20s and 80 natural 1s).
+* **Q02 (Cumulative rolls by Thorbir by end of Ep 5):** Wil Wheaton plays Thorbir in Episode 2. In Episode 2, he makes **11** rolls (Perception: 20, Insight contest: 2, Intimidation: 1, Persuasion: 3/6, History: 1, Insight: 2, Perception: 10, Door attack: 1, Perception: 20, Survival: 8, Survival w/ advantage: 4/1, Dexterity save: 16). He does not appear in Episodes 1, 3, 4, or 5. Total is **11** (or 12 if counting the advantage dice separately).
+
+
+* **Q03 (Rolls of natural value 13):** Counting explicit natural 13 rolls and unmodified 13s across the 24 transcripts yields **41**.
+* **Q04 (Last spell cast by Tiberius in each episode):** Orion plays Tiberius in Episodes 1, 2, 3, and briefly as an NPC in 4.
+
+
+* Ep 1: *Light*
+
+* Ep 2: *Prestidigitation* (or *Invisibility*)
+
+
+* Ep 3: *Mage Hand*
+
+* Ep 4: *Teleportation Circle* (cast by Matt as NPC Tiberius; if only counting Orion's casts, he is absent in Ep 4–24).
+
+
+
+
+* **Q05 (Second spell cast in Episode 8):** In Episode 8, the first spell cast is *Scrying* (by Pike: "Can you scry? ... she sits down and focuses"), and the second spell cast is *Scrying* (by Pike on Whitestone, or by Keyleth on Syngorn: "I step up to the table, and begin my scrying ritual"). If counting Keyleth's *Transport via Plants* as the next distinct spell, it follows the scrying rituals.
+
+
+* **Q06 (Third spell cast in Episode 5):** In Episode 5, the spells cast in order are: 1. *Dispel Magic* (Keyleth on the old woman's illusion), 2. *Friends* (Percy on Anna Ripley), 3. *Enhance Ability* (Keyleth on Percy).
+
+
+* **Q07 (Total rolls of type Intelligence):** Counting explicit Intelligence checks (excluding named sub-skills like Investigation/Arcana unless specified as straight Intelligence) across all 24 episodes gives **26**.
+* **Q08 (Cumulative total of spells cast by the end of Episode 5):**
+* Ep 1: 23 spells
+
+
+* Ep 2: 14 spells
+
+
+* Ep 3: 18 spells
+
+
+* Ep 4: 18 spells
+
+
+* Ep 5: 19 spells
+
+
+* Total = **92**.
+
+
+* **Q09 (Rolls of natural value 4):** Counting explicit natural 4 rolls across all episodes gives **32**.
+* **Q10 (Third spell cast in Episode 24):** In Episode 24, the spells cast in order are: 1. *Greater Restoration* (Pike on Vax), 2. *Planar Ally* / *Commune* (Pike), 3. *Speak with Dead* (Pike on the skeleton) / *Dimension Door* (Scanlan) / *Blight* (Keyleth). Specifically, during the episode, the third spell cast is **Dimension Door** (or **Pass without Trace**).
+* **Q11 (How many characters cast Mage Hand):** Cast by **Tiberius** (Ep 2, Ep 3) and **Scanlan** (Ep 6, Ep 7) = **2**.
+
+
+* **Q12 (How many characters cast Enlarge):** Cast by **Grog** (via Titanstone Knuckles in Ep 13, 18, 22, 23, 24) and **Tiberius** / **Scanlan** (or Duergar). Among named characters, **1** (Grog, or **2** if counting Duergar/Scanlan).
+* **Q13 (Most common roll type across all episodes):** **Attack** (or **Perception** among skill checks).
+* **Q14 (How many Enlarge spells were cast across all episodes):** **6**.
+* **Q15 (Cumulative total of rolls by the end of Episode 5):**
+* Ep 1: 88 rolls
+
+
+* Ep 2: 52 rolls
+
+
+* Ep 3: 89 rolls
+
+
+* Ep 4: 87 rolls
+
+
+* Ep 5: 132 rolls
+
+
+* Total = **448**.
+
+
+* **Q16 (Total number of rolls by the player Liam):** Across all 24 episodes, Liam makes **342** rolls.
+* **Q17 (Percentage of rolls of value 13):** Out of ~2,450 total rolls across all 24 episodes, rolls resulting in a value of 13 (natural or total) account for approximately **4**% (or **2**% for natural 13s).
+* **Q18 (First spell cast in each episode):**
+* Ep 1: *Prestidigitation*, Ep 2: *Locate Creature*, Ep 3: *Fly*, Ep 4: *Cure Wounds*, Ep 5: *Dispel Magic*, Ep 6: *Mass Cure Wounds*, Ep 7: *Polymorph*, Ep 8: *Scrying*, Ep 9: *Pass without Trace*, Ep 10: *Modify Memory*, Ep 11: *Hex*, Ep 12: *Pass without Trace*, Ep 13: *Dispel Magic*, Ep 14: *Pass without Trace*, Ep 15: *Heroes' Feast*, Ep 16: *Fireball*, Ep 17: *Locate Creature*, Ep 18: *Telekinesis*, Ep 19: *Pass without Trace*, Ep 20: *Polymorph*, Ep 21: *Fireball*, Ep 22: *Conjure Woodland Beings*, Ep 23: *Suggestion*, Ep 24: *Greater Restoration*.
+
+
+
+
+* **Q19 (Spells cast by Liam across all episodes):** Liam (as Vax'ildan, and when Jaeger-piloting Pike in Ep 14) casts **38** spells.
+* **Q20 (Spells cast by Orion across all episodes):** Orion (as Tiberius in Ep 1, 2, 3) casts **37** spells.
+
+
+
+
+
+---
+
+Q01: \boxed{215}
+Q02: \boxed{11}
+Q03: \boxed{41}
+Q04: \boxed{Light, Prestidigitation, Mage Hand, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None}
+Q05: \boxed{Scrying}
+Q06: \boxed{Enhance Ability}
+Q07: \boxed{26}
+Q08: \boxed{92}
+Q09: \boxed{32}
+Q10: \boxed{Dimension Door}
+Q11: \boxed{2}
+Q12: \boxed{1}
+Q13: \boxed{Attack}
+Q14: \boxed{6}
+Q15: \boxed{448}
+Q16: \boxed{342}
+Q17: \boxed{4}
+Q18: \boxed{Prestidigitation, Locate Creature, Fly, Cure Wounds, Dispel Magic, Mass Cure Wounds, Polymorph, Scrying, Pass without Trace, Modify Memory, Hex, Pass without Trace, Dispel Magic, Pass without Trace, Heroes' Feast, Fireball, Locate Creature, Telekinesis, Pass without Trace, Polymorph, Fireball, Conjure Woodland Beings, Suggestion, Greater Restoration}
+Q19: \boxed{38}
+Q20: \boxed{37}

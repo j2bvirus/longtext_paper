@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "wrong",
+  "reason": "Step 28 modified subprocess arguments in the reproduction script, not BaseCommand.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "wrong",
+  "reason": "Step 34 added the parser argument that appears in step 63.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ambiguous",
+  "reason": "These steps modify independent reproduction-script calls; omitting step 28 would leave a capture_output TypeError before the step 30 test runs.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "wrong",
+  "reason": "At step 30, skip_checks remained a stealth option and was unavailable through the CLI.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ambiguous",
+  "reason": "Step 28 did not add a parser argument; the question assumes an action absent from that step.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ambiguous",
+  "reason": "Step 16 lists test files, and step 14 shows DjangoHelpFormatter; several implementation steps are reasonable.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "wrong",
+  "reason": "Step 34 was the latest BaseCommand modification before step 35.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "The trajectory shows parser-defined visible options and hidden stealth options.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "wrong",
+  "reason": "Step 25 created a reproduction script; step 33 modified show_last.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "The parser default is False; specifying --skip-checks changes the value to True.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "wrong",
+  "reason": "The first two changes occurred at steps 33 and 34, not 47 and 48; step 49 removed skip_checks from base_stealth_options.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "The shared BaseCommand parser exposes the option, with help and parsing evidence plus functional verification in step 56.",
+  "evidence": "whole trajectory"
+ }
+}

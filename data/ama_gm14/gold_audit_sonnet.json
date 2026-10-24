@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "Step 24 shows 'It's solid stone.' for a west move at (40,16), and the position did not change.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "Step 12 shows the same message for west at (36,14), so the tile at (35,14) is impassable.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "wrong",
+  "reason": "'dark area adjacent south' is the same phrasing used for open dark floor tiles all around, so it does not show a wall; the agent never tried south from (44,18).",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "Step 41 returned 'solid stone' for west at (44,15), so repeating it at step 42 had to fail.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "The west move at step 23 took the agent from (41,16) to (40,16), which set up the bump at step 24.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "The wall feedback from step 12 explains why the agent reversed east at step 13 instead of repeating west.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "The tile at (39,16) is solid stone, and the bump left the position unchanged.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "Tile (35,14) is blocked, and the agent backtracked east at step 13.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "The tile at (43,15) is blocked, and the agent moved south at step 43; \"directly caused\" is slightly strong, since it later bumped west again, but it is reasonable.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "Steps 20-23 moved the agent, while the west move at step 24 hit solid stone.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "The tile west of (36,14) was solid stone, while the earlier west moves went into open floor.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "Step 23 placed the agent next to the wall, and step 24 bumped into it.",
+  "evidence": "whole trajectory"
+ }
+}

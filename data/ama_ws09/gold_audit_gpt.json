@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "wrong",
+  "reason": "Step 87 only viewed code; the first source modification was at Step 66.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "wrong",
+  "reason": "Step 78 listed filter calls; multiple prefetch implementations were identified at Steps 25–29.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "wrong",
+  "reason": "Step 106 viewed code, and the reproduced filtering exception was TypeError, not AssertionError.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "The workspace method had save/clear/reapply logic, although it reapplied limits before extra() and tests used an unmodified copy.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ambiguous",
+  "reason": "The trajectory establishes no essential precondition requiring verification of those three classes’ structures.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ambiguous",
+  "reason": "This is a reasonable testing plan, but the question permits several reasonable next steps and misstates Step 78.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "wrong",
+  "reason": "Step 87 only viewed an existing implementation; it did not first implement slice handling.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "The trajectory shows slicing sets internal limits and is_sliced prevents subsequent filtering.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "wrong",
+  "reason": "Step 91 only viewed the ManyToMany prefetch code; it made no modification.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "wrong",
+  "reason": "Both parameters were explicitly identified at Step 63 and preserved in the implementation at Step 66.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "wrong",
+  "reason": "The error search found query.py, no line 1007 was identified, and successful ForeignKey testing was not shown.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "wrong",
+  "reason": "ReverseOneToOneDescriptor was also modified, so the changes covered one-to-one relationships as well.",
+  "evidence": "whole trajectory"
+ }
+}

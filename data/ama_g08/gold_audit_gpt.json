@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "Step 4’s page header explicitly reports “Total of 97 entries.”",
+  "evidence": "steps [4, 43, 44]"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "Step 3 shows the annual 2001 listing, with article IDs spanning 0101 through 0112.",
+  "evidence": "steps [3, 43, 44]"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "Step 7 requested the raw subdirectory, but its observation confirms the file was saved at the workspace root, causing Step 8’s error.",
+  "evidence": "steps [6, 7, 8, 9, 43, 44]"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "Step 9 checks multiple candidate paths in a loop and selects the first existing HTML file, addressing Step 8’s missing-file failure.",
+  "evidence": "steps [8, 9, 10, 43, 44]"
+ },
+ "Q0004": {
+  "label": "ambiguous",
+  "reason": "Step 0 shows mode 'w' was used, but does not specify the allowed values for the parameter.",
+  "evidence": "steps [0, 1, 43, 44]"
+ },
+ "Q0005": {
+  "label": "not auditable",
+  "reason": "names no step",
+  "evidence": ""
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "Step 13 successfully marked step index 1 as completed immediately before Turn 14.",
+  "evidence": "steps [13, 14, 15, 43, 44]"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "Step 13 records the JSONL file size as 1280 bytes.",
+  "evidence": "steps [12, 13, 14, 43, 44]"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "The first JSONL line read in Step 17 has arxiv_id \"2001.00032\".",
+  "evidence": "steps [16, 17, 18, 43, 44]"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "Step 3 explicitly sets website_url to https://arxiv.org/list/hep-lat/2001?show=2000.",
+  "evidence": "steps [3, 43, 44]"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "Step 43 identifies truncated saved HTML as the cause of Step 9 extracting only 10 of the 97 IDs.",
+  "evidence": "steps [8, 9, 10, 43, 44]"
+ },
+ "Q0011": {
+  "label": "ambiguous",
+  "reason": "Step 3 shows the URL and 794-entry response, but does not establish that the agent interpreted “2001” as the year 2001.",
+  "evidence": "steps [3, 43, 44]"
+ }
+}

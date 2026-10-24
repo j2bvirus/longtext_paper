@@ -1,0 +1,114 @@
+To answer the questions accurately based on the provided transcript, here is the step-by-step breakdown of the events and statistics recorded across the 18 episodes:
+
+* **Kashaw (played by Will):** Appears in Episode 5 (where he casts *Locate Creature* twice, and prepares *Freedom of Movement*) and briefly in Episode 9 (no spells cast).
+
+
+* **Tiberius (played by Orion):** Appears in Episodes 1 through 7.
+
+
+* **Ep 1:** First spell is *Prestidigitation*; last spell is *Firebolt*.
+
+
+* **Ep 2:** First spell is *Prestidigitation*; last spell is *Ice Knife* (cast at 2nd level).
+
+
+* **Ep 3:** First spell is *Light*; last spell is *Telekinesis*.
+
+
+* **Ep 4:** First spell is *Silence*; last spell is *Circle of Teleportation* (Teleportation Circle).
+
+
+* **Ep 5:** First spell is *Alter Self*; last spell is *Obelisk of Iron* (Erupting Earth / pillars).
+
+
+* **Ep 6:** First spell is *Fly*; last spell is *Telekinesis*.
+
+
+* **Ep 7:** First spell is *Stoneskin*; last spell is *Fly*.
+
+
+
+
+* **Last Spells Cast in Each Episode:**
+* **Ep 1:** *Cure Wounds* (by Pike)
+
+
+* **Ep 2:** *Cure Wounds* (by Pike)
+
+
+* **Ep 3:** *Watery Sphere* (by Tiberius)
+
+
+* **Ep 4:** *Greater Restoration* (by Pike)
+
+
+* **Ep 5:** *Hellish Rebuke* (by Zahra)
+
+
+* **Ep 6:** *Prestidigitation* (by Tiberius)
+
+
+* **Ep 7:** *Animate Dead* (by Lillith)
+
+
+* **Ep 8:** *Fly* (by Tiberius)
+
+
+* **Ep 9:** *Pass Without a Trace* (by Vex'ahlia)
+
+
+* **Ep 10:** *Polymorph* (by Scanlan)
+
+
+* **Ep 11:** *Protection from Energy* / *Protection from Fire* (by Keyleth)
+
+
+* **Ep 12:** *Find the Path* (by Keyleth)
+
+
+* **Ep 13:** *Thunderwave* / *Dimension Door* (by Scanlan)
+
+
+* **Ep 14:** *Cure Wounds* (by Keyleth)
+
+
+* **Ep 15:** *Speak with Animals* (by Vex'ahlia)
+
+
+* **Ep 16:** *Fireball* (by Scanlan)
+
+
+* **Ep 17:** *Transport via Plants* (by Keyleth)
+
+
+* **Ep 18:** *Daylight* (by Keyleth)
+
+
+
+
+* **Upcast Spells (cast at a level higher than base level):** *Hail of Thorns*, *Cure Wounds*, *Ice Knife*, *Fly*, *Guiding Bolt*, *Healing Word*, *Counterspell*, *Fireball*, *Bigby's Hand*, *Hold Person*, *Spiritual Weapon*.
+
+
+
+Here are the final answers:
+
+Q01: \boxed{None, None, None, None, Freedom of Movement, None, None, None, None, None, None, None, None, None, None, None, None, None}
+Q02: \boxed{3}
+Q03: \boxed{Cure Wounds, Cure Wounds, Watery Sphere, Greater Restoration, Hellish Rebuke, Prestidigitation, Animate Dead, Fly, Pass Without a Trace, Polymorph, Protection from Energy, Find the Path, Dimension Door, Cure Wounds, Speak with Animals, Fireball, Transport via Plants, Daylight}
+Q04: \boxed{5}
+Q05: \boxed{254}
+Q06: \boxed{3}
+Q07: \boxed{Cure Wounds}
+Q08: \boxed{82}
+Q09: \boxed{46}
+Q10: \boxed{Bigby's Hand, Counterspell, Cure Wounds, Fireball, Fly, Guiding Bolt, Hail of Thorns, Healing Word, Hold Person, Ice Knife, Spiritual Weapon}
+Q11: \boxed{22}
+Q12: \boxed{1}
+Q13: \boxed{24}
+Q14: \boxed{320}
+Q15: \boxed{Prestidigitation, Prestidigitation, Light, Silence, Alter Self, Fly, Stoneskin, None, None, None, None, None, None, None, None, None, None, None}
+Q16: \boxed{Silence}
+Q17: \boxed{Attack}
+Q18: \boxed{75}
+Q19: \boxed{Firebolt, Ice Knife, Telekinesis, Teleportation Circle, Pillars of the Earth, Telekinesis, Fly, None, None, None, None, None, None, None, None, None, None, None}
+Q20: \boxed{138}

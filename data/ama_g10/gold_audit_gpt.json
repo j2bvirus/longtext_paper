@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "Step 11 explicitly searches for gene-chemical co-occurrences before a specific candidate compound has been confirmed.",
+  "evidence": "steps [10, 11, 12, 49, 50]"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "Step 13 records Complexity as 12 for CID 8058.",
+  "evidence": "steps [12, 13, 14, 49, 50]"
+ },
+ "Q0002": {
+  "label": "ambiguous",
+  "reason": "The shown steps omit the Turn 0 plan and do not establish what a successful filtered API search would return in PropertyTable.",
+  "evidence": "steps [0, 1, 12, 13, 14, 49, 50]"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "Step 19’s tool feedback explicitly states the maximum query length is 400 characters.",
+  "evidence": "steps [19, 49, 50]"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "Step 12 explicitly says JavaScript must be enabled to use the PubChem website.",
+  "evidence": "steps [11, 12, 13, 49, 50]"
+ },
+ "Q0005": {
+  "label": "ambiguous",
+  "reason": "Step 0 shows search results, with no glossary lookup or documented gap concerning the definition of Complexity.",
+  "evidence": "steps [0, 1, 49, 50]"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "Step 10 marks step_status as completed and identifies “Food Additives and Ingredients” as the primary classification node.",
+  "evidence": "steps [9, 10, 11, 49, 50]"
+ },
+ "Q0007": {
+  "label": "ambiguous",
+  "reason": "Step 15 retrieves structured JSON, but omitted steps prevent confirming it was the last retrieval before repetitive search loops.",
+  "evidence": "steps [14, 15, 16, 49, 50]"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "Step 14 reports MolecularWeight \"84.16\" for CID 8078, matching the reference answer.",
+  "evidence": "steps [13, 14, 15, 49, 50]"
+ },
+ "Q0009": {
+  "label": "ambiguous",
+  "reason": "Step 10 mentions tool availability constraints but does not name file_saver; that tool is explicitly named only in Step 49.",
+  "evidence": "steps [9, 10, 11, 49, 50]"
+ },
+ "Q0010": {
+  "label": "wrong",
+  "reason": "Step 49 explicitly retains the task objective and identifies the missing verification; it does not show the agent losing the objective after Step 19.",
+  "evidence": "steps [19, 49, 50]"
+ },
+ "Q0011": {
+  "label": "ambiguous",
+  "reason": "The unrelated novel search follows the malformed-query failure, but causation and total abandonment are unsupported; Step 49 returns to the chemical task before the final “unknown.”",
+  "evidence": "steps [19, 20, 49, 50]"
+ }
+}

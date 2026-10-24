@@ -1,0 +1,83 @@
+Here are the answers to your 20 questions based on the provided transcript:   
+TXT
+
+Step-by-Step Reasoning Summary:
+
+Episodes Count: There are 16 episodes delimited by [START OF EPISODE] and [END OF EPISODE].   
+TXT
+
+Player Mapping Note: In the instructions, Sam is mapped to the character Taryon (so any spells cast by Sam are attributed to Taryon rather than Scanlan).   
+TXT
+
+Spells Cast per Episode:
+
+Ep 1 (24): Invisibility, Prestidigitation, Prestidigitation, Blur, Hunter's Mark, Fire Bolt, Fire Bolt, Light, Protection from Poison, Vicious Mockery, Pass Without a Trace, Watery Sphere, Call Lightning, Vicious Mockery, Alter Self, Thaumaturgy, Light, Prestidigitation, Fireball, Lightning Bolt, Hunter's Mark, Conjure Barrage, Blur, Counterspell, Chain Lightning, Fireball, Ice Knife, Mass Cure Wounds, Shield, Suggestion, Hail of Thorns, Divine Smite, Divine Smite, Wind Wall, Cure Wounds, Enhance Ability, Create Water, Stone Shape, Wall of Stone, Wall of Stone, Cure Wounds (Total = 41).   
+TXT
+
+Ep 2 (19): Wall of Stone, Prestidigitation, Lightning Bolt, Alter Self, Light, Gust of Wind, Light, Gust of Wind, Telekinesis, Control Flames, Pass Without a Trace, Stoneskin, Stoneskin, Invisibility, Conjure Barrage, Hunter's Mark, Spiritual Weapon, Poison Spray, Cure Wounds, Protection from Poison, Greater Invisibility, Spike Growth, Stinking Cloud, Fly, Wall of Stone, Gust of Wind, Cure Wounds (Total = 27; Cumulative = 68).   
+TXT
+
+Ep 3 (24): Mage Hand, Invisibility, Fly, Fly, Pass Without a Trace, Seeming, Stoneskin, Wall of Stone, Greater Invisibility, Chain Lightning, Hunter's Mark, Hail of Thorns, Lightning Bolt, Telekinesis, Telekinesis, Bigby's Hand, Hold Person, Flame Strike, Call Lightning, Fireball, Fireball, Control Flames, Cure Wounds, Cure Wounds, Pass Without a Trace, Fly, Telekinesis, Pass Without a Trace, Move Earth, Pass Without a Trace, Druidcraft, Invisibility, Pass Without a Trace, Mage Hand, Stoneskin, Antilife Shell (Total = 36; Cumulative = 104).   
+TXT
+
+Ep 4 (8): Faerie Fire, Healing Word, Cure Wounds, Druidcraft, Planar Binding, Teleportation Circle, Pass Without a Trace, Grasping Vine (Total = 8; Cumulative = 112).   
+TXT
+
+Ep 5 (21): Eyebite,Hunter's Mark, Wind Walk, Thunderwave, Conjure Barrage, Flame Strike, Dispel Magic, Flame Strike, Blight, Healing Word, Dimension Door, Fireball, Lightning Bolt, Healing Word, Hunter's Mark, Heal, Bigby's Hand, Bigby's Hand, Detect Evil and Good, Friends, Polymorph, Cure Wounds, Cure Wounds, Cure Wounds, Dimension Door, Anti-Life Shell, Hunter's Mark, Bigby's Hand, Mass Cure Wounds, Dimension Door, Transport via Plants (Total = 31; Cumulative = 143).   
+TXT
+
+Ep 6 (10): Scrying, Scrying, Scrying, Scrying, Transport via Plants, Pass Without a Trace, Hold Person, Counterspell, Hunter's Mark, Conjure Barrage, Dominate Person, Polymorph, Heat Metal, Hunter's Mark, Thunderwave, Healing Word, Fire Storm, Hunter's Mark, Magic Missile, Healing Word, Gust, Cure Wounds, Minor Illusion, Transport via Plants (Total = 24; Cumulative = 167).   
+TXT
+
+Ep 7 (10): Cure Wounds, Scrying, Greater Restoration, Speak with Animals, Speak with Animals, Heroes' Feast, Transport via Plants, Pass Without a Trace, Skywrite, Gust, Protection from Energy (Total = 11; Cumulative = 178).   
+TXT
+
+Ep 8 (15): Bigby's Hand, Lightning Bolt, Invisibility, Lay on Hands, Bigby's Hand, Polymorph, Mass Cure Wounds, Conjure Animals, Pass Without a Trace, Scrying, Stone Shape, Hunter's Mark, Insect Plague, Faerie Fire, Stinking Cloud, Command, Guiding Bolt, Spiritual Weapon, Faerie Fire, Bigby's Hand, Bigby's Hand, Lightning Bolt, Heal, Cure Wounds (Total = 24; Cumulative = 202).   
+TXT
+
+Ep 9 (6): Gust, Friends, Polymorph, Stone Shape, Speak with Animals, Speak with Animals (Total = 6; Cumulative = 208).   
+TXT
+
+Ep 10 (13): Grasping Vine, Control Water, Bigby's Hand, Dimension Door, Guiding Bolt, Magic Missile, Blight, Enlarge/Reduce, Hex, Flame Strike, Healing Word, Eyebite, Blight, Druidcraft, Pass Without a Trace, Commune with Nature, Invisibility (Total = 17; Cumulative = 225).   
+TXT
+
+Ep 11 (11): Protection from Energy, Locate Object, Locate Object, Minor Illusion, Greater Restoration, Lesser Restoration, Seeming, Druidcraft, Plant Growth, Scrying, Scrying, Feeblemind (Total = 12; Cumulative = 237).   
+TXT
+
+Ep 12 (16): Fly, Blur, Gust of Wind, Alter Self, Alter Self, Thorn Whip, Hunter's Mark, Control Water, Sanctuary, Haste, Divine Sense, Control Water, Lay on Hands, Cure Wounds, Identify, Identify, Daylight, Create Water (Total = 18; Cumulative = 255).   
+TXT
+
+Ep 13 (3): Water Breathing, Control Water, Speak with Plants (Total = 3; Cumulative = 258).   
+TXT
+
+Ep 14 (4): Druidcraft, Speak with Plants, Shield of Faith, True Polymorph, Enlarge/Reduce, Flaming Sphere (Total = 6; Cumulative = 264).   
+TXT
+
+Ep 15 (9): Locate Object, Wristpocket, Dominate Monster, Plane Shift, Seeming, Seeming, Speak with Dead, Scrying, True Polymorph (Total = 9; Cumulative = 273).   
+TXT
+
+Ep 16 (16): Pass Without a Trace, Gust, Gust, Unseen Servant, Pass Without a Trace, Hunter's Mark, Lay on Hands, Grasping Vine, Wall of Force, Lightning Bolt, Dispel Magic, Ice Knife, Beacon of Hope, Spiritual Weapon, Burning Hands, Power Word Stun, Bigby's Hand, Fireball, Zone of Truth, Speak with Dead (Total = 20; Cumulative = 293).   
+TXT
+
+Q01: \boxed{Pass Without a Trace}
+Q02: \boxed{110}
+Q03: \boxed{1}
+Q04: \boxed{Cure Wounds, Cure Wounds, Antilife Shell, Grasping Vine, Transport via Plants, Transport via Plants, Protection from Energy, Cure Wounds, Speak with Animals, Invisibility, Feeblemind, Create Water, Speak with Plants, Flaming Sphere, True Polymorph, Speak with Dead}
+Q05: \boxed{None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None}
+Q06: \boxed{7}
+Q07: \boxed{237}
+Q08: \boxed{Lightning Bolt}
+Q09: \boxed{Attack}
+Q10: \boxed{2}
+Q11: \boxed{17}
+Q12: \boxed{29}
+Q13: \boxed{119}
+Q14: \boxed{Mass Cure Wounds, Hail of Thorns, Fly, Glacial Blast, Cure Wounds, Thunderwave, Magic Missile, Blight, Guiding Bolt, Healing Word, Invisibility, Flaming Sphere, Dispel Magic, Bigby's Hand}
+Q15: \boxed{7}
+Q16: \boxed{None, None, None, None, None, None, None, None, None, Enlarge/Reduce, None, None, None, Enlarge/Reduce, None, None}
+Q17: \boxed{Fly}
+Q18: \boxed{Mage Hand}
+Q19: \boxed{33}
+Q20: \boxed{104}   
+TXT
++ 4

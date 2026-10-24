@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "The SQL and the two selected columns match Step 13.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "Steps 23–26 build the conclusion as described.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "A plausible counterfactual, consistent with the Step 13 output.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "The examples D723511 and D720555 and the leading-'D' design-patent pattern match Step 17.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "The timeout and success summary is correct, and the proposed next actions are reasonable.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "The mismatch is described correctly and the suggested next steps follow from the evidence.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "The preconditions are consistent with the observed timeouts and the Step 24–26 results.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ambiguous",
+  "reason": "\"Last step where the hypothesis evolved\" is subjective; Step 23 or Step 26 could both be argued.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "The cited signals at Steps 11, 12, 13, 17 and 23 are all accurate.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ambiguous",
+  "reason": "The agent's query already combined subsection and group with OR, and Step 20 does not support the claimed pitfall.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "The table usage counts and the outcomes (8 timeouts, 8 successes, 2 empty results) all check out.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "The blockers and the minimal sequence are consistent with the trajectory.",
+  "evidence": "whole trajectory"
+ }
+}

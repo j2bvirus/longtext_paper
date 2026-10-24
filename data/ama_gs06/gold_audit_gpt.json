@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ambiguous",
+  "reason": "Step 15 does not show the award number; Step 42 reports it, but omitted steps prevent identifying when it was first found.",
+  "evidence": "steps [14, 15, 16, 42, 43]"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "Step 22 uses the exact query “2023 ApJL 949 L31 acknowledgments NASA Arendt”.",
+  "evidence": "steps [21, 22, 23, 42, 43]"
+ },
+ "Q0002": {
+  "label": "ambiguous",
+  "reason": "The shown steps do not establish whether a wrong abstract would lead to incorrect acknowledgments or be caught during later cross-verification.",
+  "evidence": "steps [10, 11, 12, 42, 43]"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "Step 0 uses the exact query “Universe Today Carolyn Collins Petersen June 6, 2023”.",
+  "evidence": "steps [0, 1, 42, 43]"
+ },
+ "Q0004": {
+  "label": "ambiguous",
+  "reason": "The search uses a paper title, but the shown steps do not establish that the agent had identified the correct title and citation.",
+  "evidence": "steps [17, 18, 19, 42, 43]"
+ },
+ "Q0005": {
+  "label": "ambiguous",
+  "reason": "The trajectory does not establish a unique verification step that should follow the discovery.",
+  "evidence": "steps [27, 28, 29, 42, 43]"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "Step 42 confirms that NASA award 80GSFC21M0002 supported R. G. Arendt’s work before the final answer in Step 43.",
+  "evidence": "steps [42, 43]"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "Step 24 successfully saved both the paper title and arXiv identifier 2306.01071, the latest shown workspace update documenting both before Step 32.",
+  "evidence": "steps [23, 24, 25, 31, 32, 33, 42, 43]"
+ },
+ "Q0008": {
+  "label": "ambiguous",
+  "reason": "Turn 19 combines Arendt with NASA award keywords, but omitted earlier steps could contain an earlier matching search.",
+  "evidence": "steps [18, 19, 20, 39, 40, 41, 42, 43]"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "Step 11 lists all four authors exactly as given in the reference answer.",
+  "evidence": "steps [10, 11, 12, 42, 43]"
+ },
+ "Q0010": {
+  "label": "ambiguous",
+  "reason": "Shown steps confirm IOPscience captchas and success through ar5iv, but do not show GovTribe, SciTechDaily, or direct PDF parsing.",
+  "evidence": "steps [11, 12, 13, 34, 35, 36, 42, 43]"
+ },
+ "Q0011": {
+  "label": "ambiguous",
+  "reason": "The shown steps omit the acknowledgment and cross-verification observations needed to confirm the reference answer.",
+  "evidence": "steps [1, 2, 3, 42, 43]"
+ }
+}

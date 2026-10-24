@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "Step 35 logged a detailed diagnosis and proposed solution before source changes.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "Step 52 added a separate InverseTrigonometricFunction branch, enabling atan2 handling.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "Step 61 shows asinh returning the argument’s unsimplified dimension.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "The initial fix omitted inverse trigonometric functions; step 45 confirms atan2 still propagated argument dimensions.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "wrong",
+  "reason": "Step 37 only viewed code, and the stated checks were not established as essential preconditions.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "Investigating inverse function inheritance directly follows the hierarchy mismatch.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "Step 64 added inverse hyperbolic handling, the final source logic change.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "wrong",
+  "reason": "Step 56 tested rejection after adding support; it did not reveal preexisting partial support.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "wrong",
+  "reason": "Steps 28–30 checked selected classes, not all hierarchies; inverse classes were discovered later.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "wrong",
+  "reason": "Step 37 implemented no fix, and the failing atan2 edge test first exposed the gap before MRO inspection explained it.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "Argument dimensions were propagated unchanged; special function handling validated them and returned Dimension(1).",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "The trajectory identifies that file and method and verifies changes through reproduction scripts and related tests.",
+  "evidence": "whole trajectory"
+ }
+}

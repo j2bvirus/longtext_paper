@@ -1,0 +1,370 @@
+{"qid": "H0003", "types": ["death"], "filter": ["Tallowoway"], "in": 1436, "out": 15, "usd": 0.001511, "cached": false}
+{"qid": "H0002", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1487, "out": 55, "usd": 0.0017620000000000001, "cached": false}
+{"qid": "H0001", "types": ["birth"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1479, "out": 55, "usd": 0.0017540000000000001, "cached": false}
+{"qid": "H0000", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1479, "out": 55, "usd": 0.0017540000000000001, "cached": false}
+{"qid": "H0004", "types": ["death"], "filter": ["Holloway"], "in": 1435, "out": 14, "usd": 0.001505, "cached": false}
+{"qid": "H0005", "types": ["death"], "filter": ["Wexner"], "in": 1437, "out": 15, "usd": 0.0015119999999999999, "cached": false}
+{"qid": "H0006", "types": ["death"], "filter": ["Hollford"], "in": 1435, "out": 14, "usd": 0.001505, "cached": false}
+{"qid": "H0007", "types": ["birth"], "filter": ["Brackenridge"], "in": 1435, "out": 15, "usd": 0.00151, "cached": false}
+{"qid": "H0008", "types": ["birth"], "filter": ["Brackick"], "in": 1433, "out": 14, "usd": 0.001503, "cached": false}
+{"qid": "H0009", "types": ["birth"], "filter": ["Ashworth"], "in": 1433, "out": 14, "usd": 0.001503, "cached": false}
+{"qid": "H0010", "types": ["birth"], "filter": ["Wexner"], "in": 1437, "out": 15, "usd": 0.0015119999999999999, "cached": false}
+{"qid": "H0011", "types": ["birth"], "filter": ["Hollford"], "in": 1439, "out": 14, "usd": 0.001509, "cached": false}
+{"qid": "H0012", "types": ["birth"], "filter": ["Tallowoway"], "in": 1434, "out": 15, "usd": 0.001509, "cached": false}
+{"qid": "H0013", "types": ["marriage"], "filter": ["Wexner"], "in": 1443, "out": 15, "usd": 0.001518, "cached": false}
+{"qid": "H0014", "types": ["marriage"], "filter": ["Hollford"], "in": 1441, "out": 14, "usd": 0.001511, "cached": false}
+{"qid": "H0015", "types": ["marriage"], "filter": ["Tallowoway"], "in": 1442, "out": 15, "usd": 0.001517, "cached": false}
+{"qid": "H0016", "types": ["marriage"], "filter": ["Thornmere"], "in": 1442, "out": 15, "usd": 0.001517, "cached": false}
+{"qid": "H0017", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1474, "out": 55, "usd": 0.0017490000000000001, "cached": false}
+{"qid": "H0018", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1472, "out": 55, "usd": 0.001747, "cached": false}
+{"qid": "H0019", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1473, "out": 55, "usd": 0.001748, "cached": false}
+{"qid": "H0020", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1472, "out": 55, "usd": 0.001747, "cached": false}
+{"qid": "H0021", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1483, "out": 55, "usd": 0.001758, "cached": false}
+{"qid": "H0022", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1485, "out": 55, "usd": 0.00176, "cached": false}
+{"qid": "H0023", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1484, "out": 55, "usd": 0.0017590000000000001, "cached": false}
+{"qid": "H0024", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1482, "out": 55, "usd": 0.001757, "cached": false}
+{"qid": "H0025", "types": ["death", "burial"], "filter": ["Yarlwick"], "in": 1427, "out": 17, "usd": 0.001512, "cached": false}
+{"qid": "H0027", "types": ["death", "burial"], "filter": ["Torford", "river crossing"], "in": 1427, "out": 19, "usd": 0.0015220000000000001, "cached": false}
+{"qid": "H0026", "types": ["death", "burial"], "filter": ["Duncombe"], "in": 1425, "out": 17, "usd": 0.00151, "cached": false}
+{"qid": "H0028", "types": ["death", "burial"], "filter": ["Wendcombe"], "in": 1422, "out": 17, "usd": 0.001507, "cached": false}
+{"qid": "H0029", "types": ["death", "burial"], "filter": ["Ostgate"], "in": 1426, "out": 16, "usd": 0.001506, "cached": false}
+{"qid": "H0030", "types": ["death", "burial"], "filter": ["Coldstead"], "in": 1427, "out": 16, "usd": 0.001507, "cached": false}
+{"qid": "H0032", "types": ["birth"], "filter": ["Coldstead"], "in": 1425, "out": 14, "usd": 0.001495, "cached": false}
+{"qid": "H0031", "types": ["birth"], "filter": ["Larkton"], "in": 1426, "out": 15, "usd": 0.001501, "cached": false}
+{"qid": "H0033", "types": ["birth"], "filter": ["Braeholt"], "in": 1424, "out": 18, "usd": 0.001514, "cached": false}
+{"qid": "H0034", "types": ["birth"], "filter": ["Kelford"], "in": 1422, "out": 17, "usd": 0.001507, "cached": false}
+{"qid": "H0035", "types": ["birth"], "filter": ["Brynford"], "in": 1427, "out": 15, "usd": 0.001502, "cached": false}
+{"qid": "H0036", "types": ["birth"], "filter": ["Yarlgate"], "in": 1421, "out": 18, "usd": 0.001511, "cached": false}
+{"qid": "H0003", "types": ["death"], "filter": ["Tallowoway"], "in": 1441, "out": 15, "usd": 0.001516, "cached": false}
+{"qid": "H0001", "types": ["birth"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1483, "out": 55, "usd": 0.001758, "cached": false}
+{"qid": "H0002", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1491, "out": 55, "usd": 0.001766, "cached": false}
+{"qid": "H0000", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1480, "out": 55, "usd": 0.001755, "cached": false}
+{"qid": "H0004", "types": ["death"], "filter": ["Holloway"], "in": 1440, "out": 14, "usd": 0.00151, "cached": false}
+{"qid": "H0005", "types": ["death"], "filter": ["Wexner"], "in": 1436, "out": 15, "usd": 0.001511, "cached": false}
+{"qid": "H0006", "types": ["death"], "filter": ["Hollford"], "in": 1441, "out": 14, "usd": 0.001511, "cached": false}
+{"qid": "H0007", "types": ["birth"], "filter": ["Brackenridge"], "in": 1441, "out": 15, "usd": 0.001516, "cached": false}
+{"qid": "H0008", "types": ["birth"], "filter": ["Brackick"], "in": 1439, "out": 14, "usd": 0.001509, "cached": false}
+{"qid": "H0010", "types": ["birth"], "filter": ["Wexner"], "in": 1443, "out": 15, "usd": 0.001518, "cached": false}
+{"qid": "H0009", "types": ["birth"], "filter": ["Ashworth"], "in": 1439, "out": 14, "usd": 0.001509, "cached": false}
+{"qid": "H0011", "types": ["birth"], "filter": ["Hollford"], "in": 1439, "out": 14, "usd": 0.001509, "cached": false}
+{"qid": "H0012", "types": ["birth"], "filter": ["Tallowoway"], "in": 1440, "out": 15, "usd": 0.001515, "cached": false}
+{"qid": "H0013", "types": ["marriage"], "filter": ["Wexner"], "in": 1447, "out": 15, "usd": 0.001522, "cached": false}
+{"qid": "H0014", "types": ["marriage"], "filter": ["Hollford"], "in": 1444, "out": 14, "usd": 0.001514, "cached": false}
+{"qid": "H0015", "types": ["marriage"], "filter": ["Tallowoway"], "in": 1445, "out": 15, "usd": 0.00152, "cached": false}
+{"qid": "H0016", "types": ["marriage"], "filter": ["Thornmere"], "in": 1447, "out": 15, "usd": 0.001522, "cached": false}
+{"qid": "H0018", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1479, "out": 55, "usd": 0.0017540000000000001, "cached": false}
+{"qid": "H0017", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1477, "out": 55, "usd": 0.001752, "cached": false}
+{"qid": "H0019", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1478, "out": 55, "usd": 0.001753, "cached": false}
+{"qid": "H0020", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1480, "out": 55, "usd": 0.001755, "cached": false}
+{"qid": "H0021", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1487, "out": 55, "usd": 0.0017620000000000001, "cached": false}
+{"qid": "H0022", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1489, "out": 55, "usd": 0.0017640000000000002, "cached": false}
+{"qid": "H0023", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1484, "out": 55, "usd": 0.0017590000000000001, "cached": false}
+{"qid": "H0024", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1488, "out": 55, "usd": 0.001763, "cached": false}
+{"qid": "H0027", "types": ["death", "burial"], "filter": ["Torford", "river crossing"], "in": 1429, "out": 19, "usd": 0.001524, "cached": false}
+{"qid": "H0025", "types": ["death", "burial"], "filter": ["Yarlwick"], "in": 1430, "out": 17, "usd": 0.001515, "cached": false}
+{"qid": "H0026", "types": ["death", "burial"], "filter": ["Duncombe"], "in": 1433, "out": 17, "usd": 0.001518, "cached": false}
+{"qid": "H0028", "types": ["death", "burial", "killing"], "filter": ["Wendcombe"], "in": 1424, "out": 19, "usd": 0.001519, "cached": false}
+{"qid": "H0029", "types": ["death", "burial"], "filter": ["Ostgate"], "in": 1426, "out": 16, "usd": 0.001506, "cached": false}
+{"qid": "H0030", "types": ["death", "burial"], "filter": ["Coldstead"], "in": 1429, "out": 16, "usd": 0.001509, "cached": false}
+{"qid": "H0033", "types": ["birth"], "filter": ["Braeholt"], "in": 1429, "out": 18, "usd": 0.001519, "cached": false}
+{"qid": "H0032", "types": ["birth"], "filter": ["Coldstead"], "in": 1431, "out": 14, "usd": 0.001501, "cached": false}
+{"qid": "H0031", "types": ["birth"], "filter": ["Larkton"], "in": 1428, "out": 18, "usd": 0.001518, "cached": false}
+{"qid": "H0034", "types": ["birth"], "filter": ["Kelford"], "in": 1426, "out": 17, "usd": 0.001511, "cached": false}
+{"qid": "H0035", "types": ["birth"], "filter": ["Brynford"], "in": 1429, "out": 15, "usd": 0.001504, "cached": false}
+{"qid": "H0036", "types": ["birth"], "filter": ["Yarlgate"], "in": 1426, "out": 18, "usd": 0.001516, "cached": false}
+{"qid": "H0000", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1480, "out": 55, "usd": 0.001755, "cached": true}
+{"qid": "H0002", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1491, "out": 55, "usd": 0.001766, "cached": true}
+{"qid": "H0001", "types": ["birth"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1483, "out": 55, "usd": 0.001758, "cached": true}
+{"qid": "H0003", "types": ["death"], "filter": ["Tallowoway"], "in": 1441, "out": 15, "usd": 0.001516, "cached": true}
+{"qid": "H0004", "types": ["death"], "filter": ["Holloway"], "in": 1440, "out": 14, "usd": 0.00151, "cached": true}
+{"qid": "H0005", "types": ["death"], "filter": ["Wexner"], "in": 1436, "out": 15, "usd": 0.001511, "cached": true}
+{"qid": "H0006", "types": ["death"], "filter": ["Hollford"], "in": 1441, "out": 14, "usd": 0.001511, "cached": true}
+{"qid": "H0007", "types": ["birth"], "filter": ["Brackenridge"], "in": 1441, "out": 15, "usd": 0.001516, "cached": true}
+{"qid": "H0008", "types": ["birth"], "filter": ["Brackick"], "in": 1439, "out": 14, "usd": 0.001509, "cached": true}
+{"qid": "H0009", "types": ["birth"], "filter": ["Ashworth"], "in": 1439, "out": 14, "usd": 0.001509, "cached": true}
+{"qid": "H0010", "types": ["birth"], "filter": ["Wexner"], "in": 1443, "out": 15, "usd": 0.001518, "cached": true}
+{"qid": "H0011", "types": ["birth"], "filter": ["Hollford"], "in": 1439, "out": 14, "usd": 0.001509, "cached": true}
+{"qid": "H0012", "types": ["birth"], "filter": ["Tallowoway"], "in": 1440, "out": 15, "usd": 0.001515, "cached": true}
+{"qid": "H0013", "types": ["marriage"], "filter": ["Wexner"], "in": 1447, "out": 15, "usd": 0.001522, "cached": true}
+{"qid": "H0014", "types": ["marriage"], "filter": ["Hollford"], "in": 1444, "out": 14, "usd": 0.001514, "cached": true}
+{"qid": "H0015", "types": ["marriage"], "filter": ["Tallowoway"], "in": 1445, "out": 15, "usd": 0.00152, "cached": true}
+{"qid": "H0016", "types": ["marriage"], "filter": ["Thornmere"], "in": 1447, "out": 15, "usd": 0.001522, "cached": true}
+{"qid": "H0017", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1477, "out": 55, "usd": 0.001752, "cached": true}
+{"qid": "H0018", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1479, "out": 55, "usd": 0.0017540000000000001, "cached": true}
+{"qid": "H0019", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1478, "out": 55, "usd": 0.001753, "cached": true}
+{"qid": "H0020", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1480, "out": 55, "usd": 0.001755, "cached": true}
+{"qid": "H0021", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1487, "out": 55, "usd": 0.0017620000000000001, "cached": true}
+{"qid": "H0022", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1489, "out": 55, "usd": 0.0017640000000000002, "cached": true}
+{"qid": "H0023", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1484, "out": 55, "usd": 0.0017590000000000001, "cached": true}
+{"qid": "H0024", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1488, "out": 55, "usd": 0.001763, "cached": true}
+{"qid": "H0025", "types": ["death", "burial"], "filter": ["Yarlwick"], "in": 1430, "out": 17, "usd": 0.001515, "cached": true}
+{"qid": "H0026", "types": ["death", "burial"], "filter": ["Duncombe"], "in": 1433, "out": 17, "usd": 0.001518, "cached": true}
+{"qid": "H0027", "types": ["death", "burial"], "filter": ["Torford", "river crossing"], "in": 1429, "out": 19, "usd": 0.001524, "cached": true}
+{"qid": "H0028", "types": ["death", "burial", "killing"], "filter": ["Wendcombe"], "in": 1424, "out": 19, "usd": 0.001519, "cached": true}
+{"qid": "H0029", "types": ["death", "burial"], "filter": ["Ostgate"], "in": 1426, "out": 16, "usd": 0.001506, "cached": true}
+{"qid": "H0030", "types": ["death", "burial"], "filter": ["Coldstead"], "in": 1429, "out": 16, "usd": 0.001509, "cached": true}
+{"qid": "H0031", "types": ["birth"], "filter": ["Larkton"], "in": 1428, "out": 18, "usd": 0.001518, "cached": true}
+{"qid": "H0032", "types": ["birth"], "filter": ["Coldstead"], "in": 1431, "out": 14, "usd": 0.001501, "cached": true}
+{"qid": "H0033", "types": ["birth"], "filter": ["Braeholt"], "in": 1429, "out": 18, "usd": 0.001519, "cached": true}
+{"qid": "H0034", "types": ["birth"], "filter": ["Kelford"], "in": 1426, "out": 17, "usd": 0.001511, "cached": true}
+{"qid": "H0035", "types": ["birth"], "filter": ["Brynford"], "in": 1429, "out": 15, "usd": 0.001504, "cached": true}
+{"qid": "H0036", "types": ["birth"], "filter": ["Yarlgate"], "in": 1426, "out": 18, "usd": 0.001516, "cached": true}
+{"qid": "H0001", "types": ["birth"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1483, "out": 55, "usd": 0.001758, "cached": true}
+{"qid": "H0000", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1480, "out": 55, "usd": 0.001755, "cached": true}
+{"qid": "H0002", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1491, "out": 55, "usd": 0.001766, "cached": true}
+{"qid": "H0003", "types": ["death"], "filter": ["Tallowoway"], "in": 1441, "out": 15, "usd": 0.001516, "cached": true}
+{"qid": "H0004", "types": ["death"], "filter": ["Holloway"], "in": 1440, "out": 14, "usd": 0.00151, "cached": true}
+{"qid": "H0005", "types": ["death"], "filter": ["Wexner"], "in": 1436, "out": 15, "usd": 0.001511, "cached": true}
+{"qid": "H0006", "types": ["death"], "filter": ["Hollford"], "in": 1441, "out": 14, "usd": 0.001511, "cached": true}
+{"qid": "H0007", "types": ["birth"], "filter": ["Brackenridge"], "in": 1441, "out": 15, "usd": 0.001516, "cached": true}
+{"qid": "H0008", "types": ["birth"], "filter": ["Brackick"], "in": 1439, "out": 14, "usd": 0.001509, "cached": true}
+{"qid": "H0009", "types": ["birth"], "filter": ["Ashworth"], "in": 1439, "out": 14, "usd": 0.001509, "cached": true}
+{"qid": "H0010", "types": ["birth"], "filter": ["Wexner"], "in": 1443, "out": 15, "usd": 0.001518, "cached": true}
+{"qid": "H0011", "types": ["birth"], "filter": ["Hollford"], "in": 1439, "out": 14, "usd": 0.001509, "cached": true}
+{"qid": "H0012", "types": ["birth"], "filter": ["Tallowoway"], "in": 1440, "out": 15, "usd": 0.001515, "cached": true}
+{"qid": "H0013", "types": ["marriage"], "filter": ["Wexner"], "in": 1447, "out": 15, "usd": 0.001522, "cached": true}
+{"qid": "H0014", "types": ["marriage"], "filter": ["Hollford"], "in": 1444, "out": 14, "usd": 0.001514, "cached": true}
+{"qid": "H0015", "types": ["marriage"], "filter": ["Tallowoway"], "in": 1445, "out": 15, "usd": 0.00152, "cached": true}
+{"qid": "H0016", "types": ["marriage"], "filter": ["Thornmere"], "in": 1447, "out": 15, "usd": 0.001522, "cached": true}
+{"qid": "H0017", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1477, "out": 55, "usd": 0.001752, "cached": true}
+{"qid": "H0018", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1479, "out": 55, "usd": 0.0017540000000000001, "cached": true}
+{"qid": "H0019", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1478, "out": 55, "usd": 0.001753, "cached": true}
+{"qid": "H0020", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1480, "out": 55, "usd": 0.001755, "cached": true}
+{"qid": "H0021", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1487, "out": 55, "usd": 0.0017620000000000001, "cached": true}
+{"qid": "H0022", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1489, "out": 55, "usd": 0.0017640000000000002, "cached": true}
+{"qid": "H0023", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1484, "out": 55, "usd": 0.0017590000000000001, "cached": true}
+{"qid": "H0024", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1488, "out": 55, "usd": 0.001763, "cached": true}
+{"qid": "H0025", "types": ["death", "burial"], "filter": ["Yarlwick"], "in": 1430, "out": 17, "usd": 0.001515, "cached": true}
+{"qid": "H0026", "types": ["death", "burial"], "filter": ["Duncombe"], "in": 1433, "out": 17, "usd": 0.001518, "cached": true}
+{"qid": "H0027", "types": ["death", "burial"], "filter": ["Torford", "river crossing"], "in": 1429, "out": 19, "usd": 0.001524, "cached": true}
+{"qid": "H0028", "types": ["death", "burial", "killing"], "filter": ["Wendcombe"], "in": 1424, "out": 19, "usd": 0.001519, "cached": true}
+{"qid": "H0029", "types": ["death", "burial"], "filter": ["Ostgate"], "in": 1426, "out": 16, "usd": 0.001506, "cached": true}
+{"qid": "H0030", "types": ["death", "burial"], "filter": ["Coldstead"], "in": 1429, "out": 16, "usd": 0.001509, "cached": true}
+{"qid": "H0031", "types": ["birth"], "filter": ["Larkton"], "in": 1428, "out": 18, "usd": 0.001518, "cached": true}
+{"qid": "H0032", "types": ["birth"], "filter": ["Coldstead"], "in": 1431, "out": 14, "usd": 0.001501, "cached": true}
+{"qid": "H0033", "types": ["birth"], "filter": ["Braeholt"], "in": 1429, "out": 18, "usd": 0.001519, "cached": true}
+{"qid": "H0034", "types": ["birth"], "filter": ["Kelford"], "in": 1426, "out": 17, "usd": 0.001511, "cached": true}
+{"qid": "H0035", "types": ["birth"], "filter": ["Brynford"], "in": 1429, "out": 15, "usd": 0.001504, "cached": true}
+{"qid": "H0036", "types": ["birth"], "filter": ["Yarlgate"], "in": 1426, "out": 18, "usd": 0.001516, "cached": true}
+{"qid": "H0000", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1479, "out": 55, "usd": 0.0017540000000000001, "cached": true}
+{"qid": "H0002", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1487, "out": 55, "usd": 0.0017620000000000001, "cached": true}
+{"qid": "H0003", "types": ["death"], "filter": ["Tallowoway"], "in": 1436, "out": 15, "usd": 0.001511, "cached": true}
+{"qid": "H0001", "types": ["birth"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1479, "out": 55, "usd": 0.0017540000000000001, "cached": true}
+{"qid": "H0004", "types": ["death"], "filter": ["Holloway"], "in": 1435, "out": 14, "usd": 0.001505, "cached": true}
+{"qid": "H0005", "types": ["death"], "filter": ["Wexner"], "in": 1437, "out": 15, "usd": 0.0015119999999999999, "cached": true}
+{"qid": "H0006", "types": ["death"], "filter": ["Hollford"], "in": 1435, "out": 14, "usd": 0.001505, "cached": true}
+{"qid": "H0007", "types": ["birth"], "filter": ["Brackenridge"], "in": 1435, "out": 15, "usd": 0.00151, "cached": true}
+{"qid": "H0008", "types": ["birth"], "filter": ["Brackick"], "in": 1433, "out": 14, "usd": 0.001503, "cached": true}
+{"qid": "H0009", "types": ["birth"], "filter": ["Ashworth"], "in": 1433, "out": 14, "usd": 0.001503, "cached": true}
+{"qid": "H0010", "types": ["birth"], "filter": ["Wexner"], "in": 1437, "out": 15, "usd": 0.0015119999999999999, "cached": true}
+{"qid": "H0011", "types": ["birth"], "filter": ["Hollford"], "in": 1439, "out": 14, "usd": 0.001509, "cached": true}
+{"qid": "H0012", "types": ["birth"], "filter": ["Tallowoway"], "in": 1434, "out": 15, "usd": 0.001509, "cached": true}
+{"qid": "H0013", "types": ["marriage"], "filter": ["Wexner"], "in": 1443, "out": 15, "usd": 0.001518, "cached": true}
+{"qid": "H0014", "types": ["marriage"], "filter": ["Hollford"], "in": 1441, "out": 14, "usd": 0.001511, "cached": true}
+{"qid": "H0015", "types": ["marriage"], "filter": ["Tallowoway"], "in": 1442, "out": 15, "usd": 0.001517, "cached": true}
+{"qid": "H0016", "types": ["marriage"], "filter": ["Thornmere"], "in": 1442, "out": 15, "usd": 0.001517, "cached": true}
+{"qid": "H0017", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1474, "out": 55, "usd": 0.0017490000000000001, "cached": true}
+{"qid": "H0018", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1472, "out": 55, "usd": 0.001747, "cached": true}
+{"qid": "H0019", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1473, "out": 55, "usd": 0.001748, "cached": true}
+{"qid": "H0020", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1472, "out": 55, "usd": 0.001747, "cached": true}
+{"qid": "H0021", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1483, "out": 55, "usd": 0.001758, "cached": true}
+{"qid": "H0022", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1485, "out": 55, "usd": 0.00176, "cached": true}
+{"qid": "H0023", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1484, "out": 55, "usd": 0.0017590000000000001, "cached": true}
+{"qid": "H0024", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1482, "out": 55, "usd": 0.001757, "cached": true}
+{"qid": "H0025", "types": ["death", "burial"], "filter": ["Yarlwick"], "in": 1427, "out": 17, "usd": 0.001512, "cached": true}
+{"qid": "H0026", "types": ["death", "burial"], "filter": ["Duncombe"], "in": 1425, "out": 17, "usd": 0.00151, "cached": true}
+{"qid": "H0027", "types": ["death", "burial"], "filter": ["Torford", "river crossing"], "in": 1427, "out": 19, "usd": 0.0015220000000000001, "cached": true}
+{"qid": "H0028", "types": ["death", "burial"], "filter": ["Wendcombe"], "in": 1422, "out": 17, "usd": 0.001507, "cached": true}
+{"qid": "H0029", "types": ["death", "burial"], "filter": ["Ostgate"], "in": 1426, "out": 16, "usd": 0.001506, "cached": true}
+{"qid": "H0030", "types": ["death", "burial"], "filter": ["Coldstead"], "in": 1427, "out": 16, "usd": 0.001507, "cached": true}
+{"qid": "H0031", "types": ["birth"], "filter": ["Larkton"], "in": 1426, "out": 15, "usd": 0.001501, "cached": true}
+{"qid": "H0032", "types": ["birth"], "filter": ["Coldstead"], "in": 1425, "out": 14, "usd": 0.001495, "cached": true}
+{"qid": "H0033", "types": ["birth"], "filter": ["Braeholt"], "in": 1424, "out": 18, "usd": 0.001514, "cached": true}
+{"qid": "H0034", "types": ["birth"], "filter": ["Kelford"], "in": 1422, "out": 17, "usd": 0.001507, "cached": true}
+{"qid": "H0035", "types": ["birth"], "filter": ["Brynford"], "in": 1427, "out": 15, "usd": 0.001502, "cached": true}
+{"qid": "H0036", "types": ["birth"], "filter": ["Yarlgate"], "in": 1421, "out": 18, "usd": 0.001511, "cached": true}
+{"qid": "H0002", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1491, "out": 55, "usd": 0.001766, "cached": true}
+{"qid": "H0000", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1480, "out": 55, "usd": 0.001755, "cached": true}
+{"qid": "H0001", "types": ["birth"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1483, "out": 55, "usd": 0.001758, "cached": true}
+{"qid": "H0003", "types": ["death"], "filter": ["Tallowoway"], "in": 1441, "out": 15, "usd": 0.001516, "cached": true}
+{"qid": "H0004", "types": ["death"], "filter": ["Holloway"], "in": 1440, "out": 14, "usd": 0.00151, "cached": true}
+{"qid": "H0005", "types": ["death"], "filter": ["Wexner"], "in": 1436, "out": 15, "usd": 0.001511, "cached": true}
+{"qid": "H0006", "types": ["death"], "filter": ["Hollford"], "in": 1441, "out": 14, "usd": 0.001511, "cached": true}
+{"qid": "H0007", "types": ["birth"], "filter": ["Brackenridge"], "in": 1441, "out": 15, "usd": 0.001516, "cached": true}
+{"qid": "H0008", "types": ["birth"], "filter": ["Brackick"], "in": 1439, "out": 14, "usd": 0.001509, "cached": true}
+{"qid": "H0009", "types": ["birth"], "filter": ["Ashworth"], "in": 1439, "out": 14, "usd": 0.001509, "cached": true}
+{"qid": "H0010", "types": ["birth"], "filter": ["Wexner"], "in": 1443, "out": 15, "usd": 0.001518, "cached": true}
+{"qid": "H0011", "types": ["birth"], "filter": ["Hollford"], "in": 1439, "out": 14, "usd": 0.001509, "cached": true}
+{"qid": "H0012", "types": ["birth"], "filter": ["Tallowoway"], "in": 1440, "out": 15, "usd": 0.001515, "cached": true}
+{"qid": "H0013", "types": ["marriage"], "filter": ["Wexner"], "in": 1447, "out": 15, "usd": 0.001522, "cached": true}
+{"qid": "H0014", "types": ["marriage"], "filter": ["Hollford"], "in": 1444, "out": 14, "usd": 0.001514, "cached": true}
+{"qid": "H0015", "types": ["marriage"], "filter": ["Tallowoway"], "in": 1445, "out": 15, "usd": 0.00152, "cached": true}
+{"qid": "H0016", "types": ["marriage"], "filter": ["Thornmere"], "in": 1447, "out": 15, "usd": 0.001522, "cached": true}
+{"qid": "H0017", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1477, "out": 55, "usd": 0.001752, "cached": true}
+{"qid": "H0018", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1479, "out": 55, "usd": 0.0017540000000000001, "cached": true}
+{"qid": "H0019", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1478, "out": 55, "usd": 0.001753, "cached": true}
+{"qid": "H0020", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1480, "out": 55, "usd": 0.001755, "cached": true}
+{"qid": "H0021", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1487, "out": 55, "usd": 0.0017620000000000001, "cached": true}
+{"qid": "H0022", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1489, "out": 55, "usd": 0.0017640000000000002, "cached": true}
+{"qid": "H0023", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1484, "out": 55, "usd": 0.0017590000000000001, "cached": true}
+{"qid": "H0024", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1488, "out": 55, "usd": 0.001763, "cached": true}
+{"qid": "H0025", "types": ["death", "burial"], "filter": ["Yarlwick"], "in": 1430, "out": 17, "usd": 0.001515, "cached": true}
+{"qid": "H0026", "types": ["death", "burial"], "filter": ["Duncombe"], "in": 1433, "out": 17, "usd": 0.001518, "cached": true}
+{"qid": "H0027", "types": ["death", "burial"], "filter": ["Torford", "river crossing"], "in": 1429, "out": 19, "usd": 0.001524, "cached": true}
+{"qid": "H0028", "types": ["death", "burial", "killing"], "filter": ["Wendcombe"], "in": 1424, "out": 19, "usd": 0.001519, "cached": true}
+{"qid": "H0029", "types": ["death", "burial"], "filter": ["Ostgate"], "in": 1426, "out": 16, "usd": 0.001506, "cached": true}
+{"qid": "H0030", "types": ["death", "burial"], "filter": ["Coldstead"], "in": 1429, "out": 16, "usd": 0.001509, "cached": true}
+{"qid": "H0031", "types": ["birth"], "filter": ["Larkton"], "in": 1428, "out": 18, "usd": 0.001518, "cached": true}
+{"qid": "H0032", "types": ["birth"], "filter": ["Coldstead"], "in": 1431, "out": 14, "usd": 0.001501, "cached": true}
+{"qid": "H0033", "types": ["birth"], "filter": ["Braeholt"], "in": 1429, "out": 18, "usd": 0.001519, "cached": true}
+{"qid": "H0034", "types": ["birth"], "filter": ["Kelford"], "in": 1426, "out": 17, "usd": 0.001511, "cached": true}
+{"qid": "H0035", "types": ["birth"], "filter": ["Brynford"], "in": 1429, "out": 15, "usd": 0.001504, "cached": true}
+{"qid": "H0036", "types": ["birth"], "filter": ["Yarlgate"], "in": 1426, "out": 18, "usd": 0.001516, "cached": true}
+{"qid": "H0000", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1480, "out": 55, "usd": 0.001755, "cached": true}
+{"qid": "H0001", "types": ["birth"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1483, "out": 55, "usd": 0.001758, "cached": true}
+{"qid": "H0002", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1491, "out": 55, "usd": 0.001766, "cached": true}
+{"qid": "H0003", "types": ["death"], "filter": ["Tallowoway"], "in": 1441, "out": 15, "usd": 0.001516, "cached": true}
+{"qid": "H0004", "types": ["death"], "filter": ["Holloway"], "in": 1440, "out": 14, "usd": 0.00151, "cached": true}
+{"qid": "H0005", "types": ["death"], "filter": ["Wexner"], "in": 1436, "out": 15, "usd": 0.001511, "cached": true}
+{"qid": "H0006", "types": ["death"], "filter": ["Hollford"], "in": 1441, "out": 14, "usd": 0.001511, "cached": true}
+{"qid": "H0007", "types": ["birth"], "filter": ["Brackenridge"], "in": 1441, "out": 15, "usd": 0.001516, "cached": true}
+{"qid": "H0008", "types": ["birth"], "filter": ["Brackick"], "in": 1439, "out": 14, "usd": 0.001509, "cached": true}
+{"qid": "H0009", "types": ["birth"], "filter": ["Ashworth"], "in": 1439, "out": 14, "usd": 0.001509, "cached": true}
+{"qid": "H0010", "types": ["birth"], "filter": ["Wexner"], "in": 1443, "out": 15, "usd": 0.001518, "cached": true}
+{"qid": "H0011", "types": ["birth"], "filter": ["Hollford"], "in": 1439, "out": 14, "usd": 0.001509, "cached": true}
+{"qid": "H0012", "types": ["birth"], "filter": ["Tallowoway"], "in": 1440, "out": 15, "usd": 0.001515, "cached": true}
+{"qid": "H0013", "types": ["marriage"], "filter": ["Wexner"], "in": 1447, "out": 15, "usd": 0.001522, "cached": true}
+{"qid": "H0014", "types": ["marriage"], "filter": ["Hollford"], "in": 1444, "out": 14, "usd": 0.001514, "cached": true}
+{"qid": "H0015", "types": ["marriage"], "filter": ["Tallowoway"], "in": 1445, "out": 15, "usd": 0.00152, "cached": true}
+{"qid": "H0016", "types": ["marriage"], "filter": ["Thornmere"], "in": 1447, "out": 15, "usd": 0.001522, "cached": true}
+{"qid": "H0017", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1477, "out": 55, "usd": 0.001752, "cached": true}
+{"qid": "H0018", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1479, "out": 55, "usd": 0.0017540000000000001, "cached": true}
+{"qid": "H0019", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1478, "out": 55, "usd": 0.001753, "cached": true}
+{"qid": "H0020", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1480, "out": 55, "usd": 0.001755, "cached": true}
+{"qid": "H0021", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1487, "out": 55, "usd": 0.0017620000000000001, "cached": true}
+{"qid": "H0022", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1489, "out": 55, "usd": 0.0017640000000000002, "cached": true}
+{"qid": "H0023", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1484, "out": 55, "usd": 0.0017590000000000001, "cached": true}
+{"qid": "H0024", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1488, "out": 55, "usd": 0.001763, "cached": true}
+{"qid": "H0025", "types": ["death", "burial"], "filter": ["Yarlwick"], "in": 1430, "out": 17, "usd": 0.001515, "cached": true}
+{"qid": "H0026", "types": ["death", "burial"], "filter": ["Duncombe"], "in": 1433, "out": 17, "usd": 0.001518, "cached": true}
+{"qid": "H0027", "types": ["death", "burial"], "filter": ["Torford", "river crossing"], "in": 1429, "out": 19, "usd": 0.001524, "cached": true}
+{"qid": "H0028", "types": ["death", "burial", "killing"], "filter": ["Wendcombe"], "in": 1424, "out": 19, "usd": 0.001519, "cached": true}
+{"qid": "H0029", "types": ["death", "burial"], "filter": ["Ostgate"], "in": 1426, "out": 16, "usd": 0.001506, "cached": true}
+{"qid": "H0030", "types": ["death", "burial"], "filter": ["Coldstead"], "in": 1429, "out": 16, "usd": 0.001509, "cached": true}
+{"qid": "H0031", "types": ["birth"], "filter": ["Larkton"], "in": 1428, "out": 18, "usd": 0.001518, "cached": true}
+{"qid": "H0032", "types": ["birth"], "filter": ["Coldstead"], "in": 1431, "out": 14, "usd": 0.001501, "cached": true}
+{"qid": "H0033", "types": ["birth"], "filter": ["Braeholt"], "in": 1429, "out": 18, "usd": 0.001519, "cached": true}
+{"qid": "H0034", "types": ["birth"], "filter": ["Kelford"], "in": 1426, "out": 17, "usd": 0.001511, "cached": true}
+{"qid": "H0035", "types": ["birth"], "filter": ["Brynford"], "in": 1429, "out": 15, "usd": 0.001504, "cached": true}
+{"qid": "H0036", "types": ["birth"], "filter": ["Yarlgate"], "in": 1426, "out": 18, "usd": 0.001516, "cached": true}
+{"qid": "H0000", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1480, "out": 55, "usd": 0.001755, "cached": true}
+{"qid": "H0003", "types": ["death"], "filter": ["Tallowoway"], "in": 1441, "out": 15, "usd": 0.001516, "cached": true}
+{"qid": "H0002", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1491, "out": 55, "usd": 0.001766, "cached": true}
+{"qid": "H0001", "types": ["birth"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1483, "out": 55, "usd": 0.001758, "cached": true}
+{"qid": "H0004", "types": ["death"], "filter": ["Holloway"], "in": 1440, "out": 14, "usd": 0.00151, "cached": true}
+{"qid": "H0005", "types": ["death"], "filter": ["Wexner"], "in": 1436, "out": 15, "usd": 0.001511, "cached": true}
+{"qid": "H0006", "types": ["death"], "filter": ["Hollford"], "in": 1441, "out": 14, "usd": 0.001511, "cached": true}
+{"qid": "H0007", "types": ["birth"], "filter": ["Brackenridge"], "in": 1441, "out": 15, "usd": 0.001516, "cached": true}
+{"qid": "H0008", "types": ["birth"], "filter": ["Brackick"], "in": 1439, "out": 14, "usd": 0.001509, "cached": true}
+{"qid": "H0009", "types": ["birth"], "filter": ["Ashworth"], "in": 1439, "out": 14, "usd": 0.001509, "cached": true}
+{"qid": "H0010", "types": ["birth"], "filter": ["Wexner"], "in": 1443, "out": 15, "usd": 0.001518, "cached": true}
+{"qid": "H0011", "types": ["birth"], "filter": ["Hollford"], "in": 1439, "out": 14, "usd": 0.001509, "cached": true}
+{"qid": "H0012", "types": ["birth"], "filter": ["Tallowoway"], "in": 1440, "out": 15, "usd": 0.001515, "cached": true}
+{"qid": "H0013", "types": ["marriage"], "filter": ["Wexner"], "in": 1447, "out": 15, "usd": 0.001522, "cached": true}
+{"qid": "H0014", "types": ["marriage"], "filter": ["Hollford"], "in": 1444, "out": 14, "usd": 0.001514, "cached": true}
+{"qid": "H0015", "types": ["marriage"], "filter": ["Tallowoway"], "in": 1445, "out": 15, "usd": 0.00152, "cached": true}
+{"qid": "H0016", "types": ["marriage"], "filter": ["Thornmere"], "in": 1447, "out": 15, "usd": 0.001522, "cached": true}
+{"qid": "H0017", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1477, "out": 55, "usd": 0.001752, "cached": true}
+{"qid": "H0018", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1479, "out": 55, "usd": 0.0017540000000000001, "cached": true}
+{"qid": "H0019", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1478, "out": 55, "usd": 0.001753, "cached": true}
+{"qid": "H0020", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1480, "out": 55, "usd": 0.001755, "cached": true}
+{"qid": "H0021", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1487, "out": 55, "usd": 0.0017620000000000001, "cached": true}
+{"qid": "H0022", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1489, "out": 55, "usd": 0.0017640000000000002, "cached": true}
+{"qid": "H0023", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1484, "out": 55, "usd": 0.0017590000000000001, "cached": true}
+{"qid": "H0024", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1488, "out": 55, "usd": 0.001763, "cached": true}
+{"qid": "H0025", "types": ["death", "burial"], "filter": ["Yarlwick"], "in": 1430, "out": 17, "usd": 0.001515, "cached": true}
+{"qid": "H0026", "types": ["death", "burial"], "filter": ["Duncombe"], "in": 1433, "out": 17, "usd": 0.001518, "cached": true}
+{"qid": "H0027", "types": ["death", "burial"], "filter": ["Torford", "river crossing"], "in": 1429, "out": 19, "usd": 0.001524, "cached": true}
+{"qid": "H0028", "types": ["death", "burial", "killing"], "filter": ["Wendcombe"], "in": 1424, "out": 19, "usd": 0.001519, "cached": true}
+{"qid": "H0029", "types": ["death", "burial"], "filter": ["Ostgate"], "in": 1426, "out": 16, "usd": 0.001506, "cached": true}
+{"qid": "H0030", "types": ["death", "burial"], "filter": ["Coldstead"], "in": 1429, "out": 16, "usd": 0.001509, "cached": true}
+{"qid": "H0031", "types": ["birth"], "filter": ["Larkton"], "in": 1428, "out": 18, "usd": 0.001518, "cached": true}
+{"qid": "H0032", "types": ["birth"], "filter": ["Coldstead"], "in": 1431, "out": 14, "usd": 0.001501, "cached": true}
+{"qid": "H0033", "types": ["birth"], "filter": ["Braeholt"], "in": 1429, "out": 18, "usd": 0.001519, "cached": true}
+{"qid": "H0034", "types": ["birth"], "filter": ["Kelford"], "in": 1426, "out": 17, "usd": 0.001511, "cached": true}
+{"qid": "H0035", "types": ["birth"], "filter": ["Brynford"], "in": 1429, "out": 15, "usd": 0.001504, "cached": true}
+{"qid": "H0036", "types": ["birth"], "filter": ["Yarlgate"], "in": 1426, "out": 18, "usd": 0.001516, "cached": true}
+{"qid": "H0000", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1480, "out": 55, "usd": 0.001755, "cached": true}
+{"qid": "H0004", "types": ["death"], "filter": ["Holloway"], "in": 1440, "out": 14, "usd": 0.00151, "cached": true}
+{"qid": "H0002", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1491, "out": 55, "usd": 0.001766, "cached": true}
+{"qid": "H0006", "types": ["death"], "filter": ["Hollford"], "in": 1441, "out": 14, "usd": 0.001511, "cached": true}
+{"qid": "H0005", "types": ["death"], "filter": ["Wexner"], "in": 1436, "out": 15, "usd": 0.001511, "cached": true}
+{"qid": "H0007", "types": ["birth"], "filter": ["Brackenridge"], "in": 1441, "out": 15, "usd": 0.001516, "cached": true}
+{"qid": "H0003", "types": ["death"], "filter": ["Tallowoway"], "in": 1441, "out": 15, "usd": 0.001516, "cached": true}
+{"qid": "H0001", "types": ["birth"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1483, "out": 55, "usd": 0.001758, "cached": true}
+{"qid": "H0000", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1480, "out": 55, "usd": 0.001755, "cached": true}
+{"qid": "H0001", "types": ["birth"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1483, "out": 55, "usd": 0.001758, "cached": true}
+{"qid": "H0002", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1491, "out": 55, "usd": 0.001766, "cached": true}
+{"qid": "H0004", "types": ["death"], "filter": ["Holloway"], "in": 1440, "out": 14, "usd": 0.00151, "cached": true}
+{"qid": "H0003", "types": ["death"], "filter": ["Tallowoway"], "in": 1441, "out": 15, "usd": 0.001516, "cached": true}
+{"qid": "H0005", "types": ["death"], "filter": ["Wexner"], "in": 1436, "out": 15, "usd": 0.001511, "cached": true}
+{"qid": "H0006", "types": ["death"], "filter": ["Hollford"], "in": 1441, "out": 14, "usd": 0.001511, "cached": true}
+{"qid": "H0007", "types": ["birth"], "filter": ["Brackenridge"], "in": 1441, "out": 15, "usd": 0.001516, "cached": true}
+{"qid": "H0008", "types": ["birth"], "filter": ["Brackick"], "in": 1439, "out": 14, "usd": 0.001509, "cached": true}
+{"qid": "H0008", "types": ["birth"], "filter": ["Brackick"], "in": 1439, "out": 14, "usd": 0.001509, "cached": true}
+{"qid": "H0009", "types": ["birth"], "filter": ["Ashworth"], "in": 1439, "out": 14, "usd": 0.001509, "cached": true}
+{"qid": "H0009", "types": ["birth"], "filter": ["Ashworth"], "in": 1439, "out": 14, "usd": 0.001509, "cached": true}
+{"qid": "H0010", "types": ["birth"], "filter": ["Wexner"], "in": 1443, "out": 15, "usd": 0.001518, "cached": true}
+{"qid": "H0010", "types": ["birth"], "filter": ["Wexner"], "in": 1443, "out": 15, "usd": 0.001518, "cached": true}
+{"qid": "H0011", "types": ["birth"], "filter": ["Hollford"], "in": 1439, "out": 14, "usd": 0.001509, "cached": true}
+{"qid": "H0012", "types": ["birth"], "filter": ["Tallowoway"], "in": 1440, "out": 15, "usd": 0.001515, "cached": true}
+{"qid": "H0013", "types": ["marriage"], "filter": ["Wexner"], "in": 1447, "out": 15, "usd": 0.001522, "cached": true}
+{"qid": "H0011", "types": ["birth"], "filter": ["Hollford"], "in": 1439, "out": 14, "usd": 0.001509, "cached": true}
+{"qid": "H0014", "types": ["marriage"], "filter": ["Hollford"], "in": 1444, "out": 14, "usd": 0.001514, "cached": true}
+{"qid": "H0015", "types": ["marriage"], "filter": ["Tallowoway"], "in": 1445, "out": 15, "usd": 0.00152, "cached": true}
+{"qid": "H0012", "types": ["birth"], "filter": ["Tallowoway"], "in": 1440, "out": 15, "usd": 0.001515, "cached": true}
+{"qid": "H0013", "types": ["marriage"], "filter": ["Wexner"], "in": 1447, "out": 15, "usd": 0.001522, "cached": true}
+{"qid": "H0016", "types": ["marriage"], "filter": ["Thornmere"], "in": 1447, "out": 15, "usd": 0.001522, "cached": true}
+{"qid": "H0014", "types": ["marriage"], "filter": ["Hollford"], "in": 1444, "out": 14, "usd": 0.001514, "cached": true}
+{"qid": "H0015", "types": ["marriage"], "filter": ["Tallowoway"], "in": 1445, "out": 15, "usd": 0.00152, "cached": true}
+{"qid": "H0017", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1477, "out": 55, "usd": 0.001752, "cached": true}
+{"qid": "H0016", "types": ["marriage"], "filter": ["Thornmere"], "in": 1447, "out": 15, "usd": 0.001522, "cached": true}
+{"qid": "H0017", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1477, "out": 55, "usd": 0.001752, "cached": true}
+{"qid": "H0018", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1479, "out": 55, "usd": 0.0017540000000000001, "cached": true}
+{"qid": "H0018", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1479, "out": 55, "usd": 0.0017540000000000001, "cached": true}
+{"qid": "H0019", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1478, "out": 55, "usd": 0.001753, "cached": true}
+{"qid": "H0019", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1478, "out": 55, "usd": 0.001753, "cached": true}
+{"qid": "H0020", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1480, "out": 55, "usd": 0.001755, "cached": true}
+{"qid": "H0020", "types": ["death"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1480, "out": 55, "usd": 0.001755, "cached": true}
+{"qid": "H0021", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1487, "out": 55, "usd": 0.0017620000000000001, "cached": true}
+{"qid": "H0022", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1489, "out": 55, "usd": 0.0017640000000000002, "cached": true}
+{"qid": "H0023", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1484, "out": 55, "usd": 0.0017590000000000001, "cached": true}
+{"qid": "H0024", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1488, "out": 55, "usd": 0.001763, "cached": true}
+{"qid": "H0021", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1487, "out": 55, "usd": 0.0017620000000000001, "cached": true}
+{"qid": "H0025", "types": ["death", "burial"], "filter": ["Yarlwick"], "in": 1430, "out": 17, "usd": 0.001515, "cached": true}
+{"qid": "H0022", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1489, "out": 55, "usd": 0.0017640000000000002, "cached": true}
+{"qid": "H0023", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1484, "out": 55, "usd": 0.0017590000000000001, "cached": true}
+{"qid": "H0026", "types": ["death", "burial"], "filter": ["Duncombe"], "in": 1433, "out": 17, "usd": 0.001518, "cached": true}
+{"qid": "H0024", "types": ["marriage"], "filter": ["Brackick", "Thornmere", "Brackenridge", "Tallowaby", "Holloway", "Stenley", "Ashworth", "Hollford", "Wexner", "Tallowoway"], "in": 1488, "out": 55, "usd": 0.001763, "cached": true}
+{"qid": "H0025", "types": ["death", "burial"], "filter": ["Yarlwick"], "in": 1430, "out": 17, "usd": 0.001515, "cached": true}
+{"qid": "H0027", "types": ["death", "burial"], "filter": ["Torford", "river crossing"], "in": 1429, "out": 19, "usd": 0.001524, "cached": true}
+{"qid": "H0028", "types": ["death", "burial", "killing"], "filter": ["Wendcombe"], "in": 1424, "out": 19, "usd": 0.001519, "cached": true}
+{"qid": "H0029", "types": ["death", "burial"], "filter": ["Ostgate"], "in": 1426, "out": 16, "usd": 0.001506, "cached": true}
+{"qid": "H0030", "types": ["death", "burial"], "filter": ["Coldstead"], "in": 1429, "out": 16, "usd": 0.001509, "cached": true}
+{"qid": "H0031", "types": ["birth"], "filter": ["Larkton"], "in": 1428, "out": 18, "usd": 0.001518, "cached": true}
+{"qid": "H0032", "types": ["birth"], "filter": ["Coldstead"], "in": 1431, "out": 14, "usd": 0.001501, "cached": true}
+{"qid": "H0026", "types": ["death", "burial"], "filter": ["Duncombe"], "in": 1433, "out": 17, "usd": 0.001518, "cached": true}
+{"qid": "H0027", "types": ["death", "burial"], "filter": ["Torford", "river crossing"], "in": 1429, "out": 19, "usd": 0.001524, "cached": true}
+{"qid": "H0033", "types": ["birth"], "filter": ["Braeholt"], "in": 1429, "out": 18, "usd": 0.001519, "cached": true}
+{"qid": "H0028", "types": ["death", "burial", "killing"], "filter": ["Wendcombe"], "in": 1424, "out": 19, "usd": 0.001519, "cached": true}
+{"qid": "H0029", "types": ["death", "burial"], "filter": ["Ostgate"], "in": 1426, "out": 16, "usd": 0.001506, "cached": true}
+{"qid": "H0030", "types": ["death", "burial"], "filter": ["Coldstead"], "in": 1429, "out": 16, "usd": 0.001509, "cached": true}
+{"qid": "H0034", "types": ["birth"], "filter": ["Kelford"], "in": 1426, "out": 17, "usd": 0.001511, "cached": true}
+{"qid": "H0031", "types": ["birth"], "filter": ["Larkton"], "in": 1428, "out": 18, "usd": 0.001518, "cached": true}
+{"qid": "H0032", "types": ["birth"], "filter": ["Coldstead"], "in": 1431, "out": 14, "usd": 0.001501, "cached": true}
+{"qid": "H0033", "types": ["birth"], "filter": ["Braeholt"], "in": 1429, "out": 18, "usd": 0.001519, "cached": true}
+{"qid": "H0035", "types": ["birth"], "filter": ["Brynford"], "in": 1429, "out": 15, "usd": 0.001504, "cached": true}
+{"qid": "H0036", "types": ["birth"], "filter": ["Yarlgate"], "in": 1426, "out": 18, "usd": 0.001516, "cached": true}
+{"qid": "H0034", "types": ["birth"], "filter": ["Kelford"], "in": 1426, "out": 17, "usd": 0.001511, "cached": true}
+{"qid": "H0035", "types": ["birth"], "filter": ["Brynford"], "in": 1429, "out": 15, "usd": 0.001504, "cached": true}
+{"qid": "H0036", "types": ["birth"], "filter": ["Yarlgate"], "in": 1426, "out": 18, "usd": 0.001516, "cached": true}

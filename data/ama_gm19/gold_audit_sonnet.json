@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "Step 36 right made 8+8=16 at (1,2) and 2+2=4 at (0,3), stacked over the existing 16 and 4, giving 32+8=40 at step 37.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "The 4 slid from (1,0) to (1,3), directly above the 4 at (2,3).",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "Up at step 81 would only merge the two 2s in column 0, so the reward would be 4. Right merged 8+8 and 2+2 for 16+4=20.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "Step 71 has 4s at (1,1) and (2,1); the 2 at (3,0) moved up and a new 2 spawned at (3,0), giving the pair merged at step 73.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "Right at step 36 stacked 16 over 16 in column 3 and 4 over 4 in column 4 (1-indexed columns).",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "Down earned 8 against 4 for right, and it left two 2s side by side in the bottom row, which step 14 merged for 4.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "The spawned 2 is at (3,1), making the bottom row [2,2,2,32]; the right merge of the 2s gave 4 of the 20.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "The 4 moved from (1,0) to (1,3), aligning with the 4 at (2,3).",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "Step 73 merged the 2s at (1,0) and (3,0) into a 4 under the 4 at (0,0), which step 74 merged into 8.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "Step 36 right created the aligned 16/16 and 4/4 pairs.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "Step 11 merged the adjacent 2s in [0,0,2,2], and step 12 moved the 4 to (1,3) above the 4 at (2,3).",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "8+8=16 at (1,2) and 2+2=4 at (0,3) are correct.",
+  "evidence": "whole trajectory"
+ }
+}

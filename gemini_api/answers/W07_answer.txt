@@ -1,0 +1,22 @@
+Based on the provided transcripts, here are the answers to the questions:
+
+Q01: \boxed{33}
+Q02: \boxed{92}
+Q03: \boxed{84}
+Q04: \boxed{16}
+Q05: \boxed{98}
+Q06: \boxed{1}
+Q07: \boxed{3, 9, 12}
+Q08: \boxed{2}
+Q09: \boxed{120}
+Q10: \boxed{68}
+Q11: \boxed{8}
+Q12: \boxed{123}
+Q13: \boxed{Spike Growth, Pass Without A Trace, Pass Without A Trace, Spike Growth, Hail Of Thorns, NONE, Conjure Barrage, Pass Without A Trace,Conjure Animals, NONE, Speak With Animals, Hail Of Thorns, NONE, Pass Without A Trace, Pass Without A Trace, Pass Without A Trace}
+Q14: \boxed{Cure Wounds, Dispel Magic,Guiding Bolt, Hail Of Thorns, Heroes' Feast, Insect Plague, Modify Memory, Scrying, Thunderwave}
+Q15: \boxed{Legend Lore}
+Q16: \boxed{Modify Memory}
+Q17: \boxed{Arcane Gate,Banishment,Beacon Of Hope,Beast Sense,Blindness/Deafness,Call Lightning,Chain Lightning,Charm Person,Cloudkill,Conjure Elemental,Control Flames,Detect Magic,Divine Word,Dominate Beast,Dominate Monster,Earthbind,Enhance Ability,Eyebite,Flame Strike,Forcecage,Freedom Of Movement,Greater Invisibility,Hold Monster,Hold Person,Hypnotic Pattern,Ice Storm,Legend Lore,Mass Suggestion,Message,Minor Illusion,Move Earth,Mordenkainen's Magnificent Mansion,Plant Growth,Poison Spray,Polymorph,Prismatic Wall,Reverse Gravity,Scorching Ray,Silent Image,Skywrite,Slow,Sunbeam,True Polymorph,Vampiric Touch,Wall Of Fire}
+Q18: \boxed{155}
+Q19: \boxed{888}
+Q20: \boxed{92}

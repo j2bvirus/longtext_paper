@@ -1,0 +1,57 @@
+{
+ "name": "saga_v5_s8_d16_mem-cmm4_ollama-gemma4-12b_b4000",
+ "n": 223,
+ "acc": 0.8430493273542601,
+ "by_qtype": {
+  "ALIVE": 0.84,
+  "BIRTHPLACE": 0.792,
+  "EVER_VISITED": 0.955,
+  "GRANDPARENT": 0.762,
+  "KNOWS": 0.737,
+  "LOC_AT_EVENT": 0.909,
+  "LOC_NOW": 0.909,
+  "OCCUPATION_NOW": 0.96,
+  "OWNER_NOW": 0.917,
+  "OWNER_PREV": 1.0,
+  "PROMISE": 0.632,
+  "RULE_BRIDGE": 1.0,
+  "RULE_VAULT": 1.0,
+  "SPOUSE_NOW": 0.733
+ },
+ "mean_ctx_tokens": 4084.982062780269,
+ "sum_in_tokens": 994197,
+ "sum_out_tokens": 50718,
+ "sum_usd": 0.0,
+ "sum_wall_s": 1615.6079788208008,
+ "build": {
+  "embed_tokens": 0,
+  "llm_in": 840123,
+  "llm_out": 125752,
+  "usd": 1.4688830000000008,
+  "wall_s": 12.04143738746643,
+  "llm_wall_s": 0.0,
+  "calls": 351,
+  "cached_build": true,
+  "idle": {
+   "llm_in": 0,
+   "llm_out": 0,
+   "usd": 0.0,
+   "calls": 0
+  },
+  "registry": 2111,
+  "persons": 922,
+  "refs_llm": 516,
+  "ungrounded": 106,
+  "refs_resolved": 341,
+  "refs_total": 773,
+  "lazy": {
+   "llm_in": 0,
+   "llm_out": 0,
+   "usd": 0.0,
+   "calls": 0
+  }
+ },
+ "record_tokens": 481753,
+ "n_chunks": 2019,
+ "mean_ev_recall": 0.9655244029075806
+}

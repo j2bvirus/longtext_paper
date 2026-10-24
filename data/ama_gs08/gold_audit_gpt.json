@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "wrong",
+  "reason": "Step 1 already identifies the likely journal as Fafnir, before Step 2.",
+  "evidence": "steps [1, 2, 3, 4, 5, 6, 44, 45]"
+ },
+ "Q0001": {
+  "label": "wrong",
+  "reason": "Step 6 fetched Emily Midkiff’s WordPress publications page, not the journal website.",
+  "evidence": "steps [5, 6, 7, 44, 45]"
+ },
+ "Q0002": {
+  "label": "wrong",
+  "reason": "Finding Stein’s PDF would not eliminate the separate searches for Blount’s book in steps 21–42.",
+  "evidence": "steps [19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45]"
+ },
+ "Q0003": {
+  "label": "ambiguous",
+  "reason": "Steps 40 and 41 both searched the specific 1968 article title, so the question does not uniquely identify one turn.",
+  "evidence": "steps [39, 40, 41, 44, 45]"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "Step 5 searches for “Fafnir,” showing the agent had already identified the journal named by the mythological clue.",
+  "evidence": "steps [4, 5, 6, 44, 45]"
+ },
+ "Q0005": {
+  "label": "not auditable",
+  "reason": "names no step",
+  "evidence": ""
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "Step 21 checks Margaret Blount and confirms Midkiff’s passage associates “fluffy” with both authors.",
+  "evidence": "steps [19, 20, 21, 44, 45]"
+ },
+ "Q0007": {
+  "label": "ambiguous",
+  "reason": "Step 16 is the last shown fetch before turn 30, but omitted steps 18–28 could contain another fetch.",
+  "evidence": "steps [15, 16, 17, 29, 30, 31, 44, 45]"
+ },
+ "Q0008": {
+  "label": "ambiguous",
+  "reason": "Step 17 is the last shown file save before turn 40, but omitted steps could contain a later save.",
+  "evidence": "steps [16, 17, 18, 39, 40, 41, 44, 45]"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "Step 20 explicitly gives 1968 for Ruth Stein and 1974 for Margaret Blount.",
+  "evidence": "steps [19, 20, 21, 44, 45]"
+ },
+ "Q0010": {
+  "label": "not auditable",
+  "reason": "names no step",
+  "evidence": ""
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "Step 43 states that Midkiff’s article and Fafnir PDF explicitly identify “fluffy,” sufficient to conclude despite missing direct primary-source quotes.",
+  "evidence": "steps [42, 43, 44, 45]"
+ }
+}

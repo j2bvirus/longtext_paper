@@ -1,0 +1,4608 @@
+[
+ {
+  "id": "E0000",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "In the hill farms of Mirecombe lived Islan Lindner, married to Dadette Lindner, with their children. In order of birth these were the eldest a daughter, Wevie Lindner; then a son, Feten Lindner; then a son, Ellan Lindner.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P000",
+  "mother": "P001",
+  "children": [
+   "P002",
+   "P003",
+   "P004"
+  ],
+  "place": "L07"
+ },
+ {
+  "id": "E0001",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Orlwood household lived in the hill farms of Coldcombe. Madrek Orlwood and his wife Fedette Orlwood had 3 children, all living at home: the eldest a daughter, Ilena Orlwood; then a daughter, Seena Orlwood; then a daughter, Breena Orlwood.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P005",
+  "mother": "P006",
+  "children": [
+   "P007",
+   "P008",
+   "P009"
+  ],
+  "place": "L01"
+ },
+ {
+  "id": "E0002",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Hollett household lived in the hill farms of Mirecombe. Conar Hollett and his wife Nyvie Hollett had 4 children, all living at home: the eldest a son, Halan Hollett; then a daughter, Orvie Hollett; then a daughter, Seena Hollett; then a daughter, Jolia Hollett.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P010",
+  "mother": "P011",
+  "children": [
+   "P012",
+   "P013",
+   "P014",
+   "P015"
+  ],
+  "place": "L07"
+ },
+ {
+  "id": "E0003",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Hollmere household lived in the harbor town of Salwick. Lutho Hollmere and his wife Brevie Hollmere had 2 children, all living at home: the eldest a son, Fetho Hollmere; then a daughter, Nynelle Hollmere.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P016",
+  "mother": "P017",
+  "children": [
+   "P018",
+   "P019"
+  ],
+  "place": "L12"
+ },
+ {
+  "id": "E0004",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "In the river crossing at Quenwick lived Cobin Corrett, married to Ilrine Corrett, with their children. In order of birth these were the eldest a daughter, Eldette Corrett; then a son, Thidrek Corrett; then a son, Ridan Corrett; then a son, Jotho Corrett.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P020",
+  "mother": "P021",
+  "children": [
+   "P022",
+   "P023",
+   "P024",
+   "P025"
+  ],
+  "place": "L09"
+ },
+ {
+  "id": "E0005",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "In the harbor town of Wilhaven lived Mazek Hollwood, married to Aessa Hollwood, with their children. In order of birth these were the eldest a son, Cotho Hollwood; then a son, Halan Hollwood; then a daughter, Ulvie Hollwood; then a daughter, Thiena Hollwood.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P026",
+  "mother": "P027",
+  "children": [
+   "P028",
+   "P029",
+   "P030",
+   "P031"
+  ],
+  "place": "L14"
+ },
+ {
+  "id": "E0006",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "In the hill farms of Fenmere lived Elnar Brackwood, married to Senelle Brackwood, with their children. In order of birth these were the eldest a son, Jovus Brackwood; then a son, Madan Brackwood; then a son, Cotho Brackwood; then a daughter, Tassa Brackwood.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P032",
+  "mother": "P033",
+  "children": [
+   "P034",
+   "P035",
+   "P036",
+   "P037"
+  ],
+  "place": "L04"
+ },
+ {
+  "id": "E0007",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Lindson household lived in the market town of Bryngate. Colan Lindson and his wife Islis Lindson had 3 children, all living at home: the eldest a daughter, Movie Lindson; then a son, Maric Lindson; then a daughter, Ridette Lindson.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P038",
+  "mother": "P039",
+  "children": [
+   "P040",
+   "P041",
+   "P042"
+  ],
+  "place": "L00"
+ },
+ {
+  "id": "E0008",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Stenworth household lived in the river crossing at Gulton. Orbin Stenworth and his wife Orrine Stenworth had 3 children, all living at home: the eldest a daughter, Feena Stenworth; then a daughter, Rira Stenworth; then a daughter, Nynelle Stenworth.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P043",
+  "mother": "P044",
+  "children": [
+   "P045",
+   "P046",
+   "P047"
+  ],
+  "place": "L05"
+ },
+ {
+  "id": "E0009",
+  "type": "INIT_FAMILY",
+  "chapter": 1,
+  "text": "The Wexwood household lived in the river crossing at Quenwick. Ilzek Wexwood and his wife Daena Wexwood had 2 children, all living at home: the eldest a daughter, Nyrine Wexwood; then a son, Pebin Wexwood.",
+  "where": null,
+  "ref_deps": [],
+  "father": "P048",
+  "mother": "P049",
+  "children": [
+   "P050",
+   "P051"
+  ],
+  "place": "L09"
+ },
+ {
+  "id": "E0010",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Ridan Corrett had married Thiena Hollwood some years before. The couple lived in Quenwick.",
+  "where": "L09",
+  "ref_deps": [],
+  "a": "P024",
+  "b": "P031",
+  "place": "L09"
+ },
+ {
+  "id": "E0011",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Wevie Lindner and Madan Brackwood were husband and wife. The couple lived in Mirecombe.",
+  "where": "L07",
+  "ref_deps": [],
+  "a": "P002",
+  "b": "P035",
+  "place": "L07"
+ },
+ {
+  "id": "E0012",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Maric Lindson and Seena Orlwood were husband and wife. The couple lived in Bryngate.",
+  "where": "L00",
+  "ref_deps": [],
+  "a": "P041",
+  "b": "P008",
+  "place": "L00"
+ },
+ {
+  "id": "E0013",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Pebin Wexwood and Breena Orlwood were husband and wife. The couple lived in Quenwick.",
+  "where": "L09",
+  "ref_deps": [],
+  "a": "P051",
+  "b": "P009",
+  "place": "L09"
+ },
+ {
+  "id": "E0014",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Jolia Hollett and Thidrek Corrett were husband and wife. The couple lived in Mirecombe.",
+  "where": "L07",
+  "ref_deps": [],
+  "a": "P015",
+  "b": "P023",
+  "place": "L07"
+ },
+ {
+  "id": "E0015",
+  "type": "MARRY",
+  "chapter": 1,
+  "text": "Nynelle Stenworth and Halan Hollwood were husband and wife. The couple lived in Gulton.",
+  "where": "L05",
+  "ref_deps": [],
+  "a": "P047",
+  "b": "P029",
+  "place": "L05"
+ },
+ {
+  "id": "E0016",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Islan Lindner worked as a brewer. Islan Lindner had been born in Yarlton.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P000",
+  "occupation": "brewer",
+  "birthplace": "L15",
+  "nick": null
+ },
+ {
+  "id": "E0017",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Dadette Lindner was a miller. Dadette Lindner was born at Miremere.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P001",
+  "occupation": "miller",
+  "birthplace": "L08",
+  "nick": null
+ },
+ {
+  "id": "E0018",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Wevie Lindner was a weaver. Wevie Lindner was born at Salmere.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P002",
+  "occupation": "weaver",
+  "birthplace": "L11",
+  "nick": null
+ },
+ {
+  "id": "E0019",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Feten Lindner worked as a mason.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P003",
+  "occupation": "mason",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0020",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Ellan Lindner had been born in Salwick. Folk called Ellan Lindner \"Old Ellan\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P004",
+  "occupation": null,
+  "birthplace": "L12",
+  "nick": "Old Ellan"
+ },
+ {
+  "id": "E0021",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Madrek Orlwood was a ferryman. Madrek Orlwood was born at Bryngate.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P005",
+  "occupation": "ferryman",
+  "birthplace": "L00",
+  "nick": null
+ },
+ {
+  "id": "E0022",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Fedette Orlwood was born at Salford.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P006",
+  "occupation": null,
+  "birthplace": "L10",
+  "nick": null
+ },
+ {
+  "id": "E0023",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Ilena Orlwood was a glazier. Ilena Orlwood had been born in Miremere.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P007",
+  "occupation": "glazier",
+  "birthplace": "L08",
+  "nick": null
+ },
+ {
+  "id": "E0024",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Seena Orlwood worked as a brewer.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P008",
+  "occupation": "brewer",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0025",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Breena Orlwood was a tanner. Breena Orlwood was born at Fenmere.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P009",
+  "occupation": "tanner",
+  "birthplace": "L04",
+  "nick": null
+ },
+ {
+  "id": "E0026",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Conar Hollett had been born in Quenwick.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P010",
+  "occupation": null,
+  "birthplace": "L09",
+  "nick": null
+ },
+ {
+  "id": "E0027",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Nyvie Hollett was a cooper. Nyvie Hollett had been born in Salmere.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P011",
+  "occupation": "cooper",
+  "birthplace": "L11",
+  "nick": null
+ },
+ {
+  "id": "E0028",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Halan Hollett worked as a ferryman. Halan Hollett was born at Bryngate. Folk called Halan Hollett \"Lame Halan\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P012",
+  "occupation": "ferryman",
+  "birthplace": "L00",
+  "nick": "Lame Halan"
+ },
+ {
+  "id": "E0029",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Orvie Hollett worked as a weaver. Orvie Hollett was born at Wilhaven.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P013",
+  "occupation": "weaver",
+  "birthplace": "L14",
+  "nick": null
+ },
+ {
+  "id": "E0030",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Seena Hollett was a weaver. Folk called Seena Hollett \"Lame Seena\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P014",
+  "occupation": "weaver",
+  "birthplace": null,
+  "nick": "Lame Seena"
+ },
+ {
+  "id": "E0031",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Jolia Hollett was a scribe. Folk called Jolia Hollett \"Quiet Jolia\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P015",
+  "occupation": "scribe",
+  "birthplace": null,
+  "nick": "Quiet Jolia"
+ },
+ {
+  "id": "E0032",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Folk called Lutho Hollmere \"Old Lutho\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P016",
+  "occupation": null,
+  "birthplace": null,
+  "nick": "Old Lutho"
+ },
+ {
+  "id": "E0033",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Brevie Hollmere was a fisher. Brevie Hollmere was born at Bryngate.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P017",
+  "occupation": "fisher",
+  "birthplace": "L00",
+  "nick": null
+ },
+ {
+  "id": "E0034",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Fetho Hollmere had been born in Miremere.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P018",
+  "occupation": null,
+  "birthplace": "L08",
+  "nick": null
+ },
+ {
+  "id": "E0035",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Nynelle Hollmere was a smith. Nynelle Hollmere had been born in Staveton.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P019",
+  "occupation": "smith",
+  "birthplace": "L13",
+  "nick": null
+ },
+ {
+  "id": "E0036",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Ilrine Corrett worked as a herbalist. Ilrine Corrett was born at Quenwick. Folk called Ilrine Corrett \"Old Ilrine\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P021",
+  "occupation": "herbalist",
+  "birthplace": "L09",
+  "nick": "Old Ilrine"
+ },
+ {
+  "id": "E0037",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Eldette Corrett was a cooper. Eldette Corrett was born at Gulton.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P022",
+  "occupation": "cooper",
+  "birthplace": "L05",
+  "nick": null
+ },
+ {
+  "id": "E0038",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Thidrek Corrett worked as a smith.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P023",
+  "occupation": "smith",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0039",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Ridan Corrett worked as a glazier. Ridan Corrett had been born in Coldcombe.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P024",
+  "occupation": "glazier",
+  "birthplace": "L01",
+  "nick": null
+ },
+ {
+  "id": "E0040",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Folk called Jotho Corrett \"Jotho the Younger\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P025",
+  "occupation": null,
+  "birthplace": null,
+  "nick": "Jotho the Younger"
+ },
+ {
+  "id": "E0041",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Aessa Hollwood worked as a ferryman. Aessa Hollwood had been born in Salwick.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P027",
+  "occupation": "ferryman",
+  "birthplace": "L12",
+  "nick": null
+ },
+ {
+  "id": "E0042",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Cotho Hollwood worked as a mason.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P028",
+  "occupation": "mason",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0043",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Halan Hollwood worked as a shepherd.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P029",
+  "occupation": "shepherd",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0044",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Ulvie Hollwood worked as a weaver. Ulvie Hollwood was born at Dunholt.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P030",
+  "occupation": "weaver",
+  "birthplace": "L02",
+  "nick": null
+ },
+ {
+  "id": "E0045",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Thiena Hollwood worked as a glazier. Thiena Hollwood had been born in Bryngate.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P031",
+  "occupation": "glazier",
+  "birthplace": "L00",
+  "nick": null
+ },
+ {
+  "id": "E0046",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Elnar Brackwood worked as a weaver.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P032",
+  "occupation": "weaver",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0047",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Senelle Brackwood was a ferryman.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P033",
+  "occupation": "ferryman",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0048",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Jovus Brackwood worked as a miller. Jovus Brackwood was born at Salmere. Folk called Jovus Brackwood \"Red Jovus\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P034",
+  "occupation": "miller",
+  "birthplace": "L11",
+  "nick": "Red Jovus"
+ },
+ {
+  "id": "E0049",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Madan Brackwood was a scribe. Madan Brackwood had been born in Staveton.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P035",
+  "occupation": "scribe",
+  "birthplace": "L13",
+  "nick": null
+ },
+ {
+  "id": "E0050",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Cotho Brackwood was a shepherd. Cotho Brackwood was born at Gulton.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P036",
+  "occupation": "shepherd",
+  "birthplace": "L05",
+  "nick": null
+ },
+ {
+  "id": "E0051",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Tassa Brackwood was a weaver.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P037",
+  "occupation": "weaver",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0052",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Colan Lindson was born at Quenwick.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P038",
+  "occupation": null,
+  "birthplace": "L09",
+  "nick": null
+ },
+ {
+  "id": "E0053",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Islis Lindson was a shepherd. Islis Lindson had been born in Quenwick.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P039",
+  "occupation": "shepherd",
+  "birthplace": "L09",
+  "nick": null
+ },
+ {
+  "id": "E0054",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Movie Lindson worked as a weaver.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P040",
+  "occupation": "weaver",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0055",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Maric Lindson worked as a mason. Maric Lindson was born at Quenwick. Folk called Maric Lindson \"Old Maric\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P041",
+  "occupation": "mason",
+  "birthplace": "L09",
+  "nick": "Old Maric"
+ },
+ {
+  "id": "E0056",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Ridette Lindson was a tanner.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P042",
+  "occupation": "tanner",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0057",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Orrine Stenworth worked as a mason.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P044",
+  "occupation": "mason",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0058",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Feena Stenworth was a miller.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P045",
+  "occupation": "miller",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0059",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Rira Stenworth worked as a cooper. Rira Stenworth was born at Wilhaven.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P046",
+  "occupation": "cooper",
+  "birthplace": "L14",
+  "nick": null
+ },
+ {
+  "id": "E0060",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Nynelle Stenworth worked as a ferryman.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P047",
+  "occupation": "ferryman",
+  "birthplace": null,
+  "nick": null
+ },
+ {
+  "id": "E0061",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "Ilzek Wexwood worked as a smith. Ilzek Wexwood had been born in Staveton.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P048",
+  "occupation": "smith",
+  "birthplace": "L13",
+  "nick": null
+ },
+ {
+  "id": "E0062",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Daena Wexwood was a mason. Daena Wexwood had been born in Salwick.",
+  "where": null,
+  "ref_deps": [],
+  "person": "P049",
+  "occupation": "mason",
+  "birthplace": "L12",
+  "nick": null
+ },
+ {
+  "id": "E0063",
+  "type": "INIT_PERSON",
+  "chapter": 1,
+  "text": "By trade Nyrine Wexwood was a glazier. Nyrine Wexwood was born at Bryngate. Folk called Nyrine Wexwood \"Red Nyrine\".",
+  "where": null,
+  "ref_deps": [],
+  "person": "P050",
+  "occupation": "glazier",
+  "birthplace": "L00",
+  "nick": "Red Nyrine"
+ },
+ {
+  "id": "E0064",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The iron chalice belonged to Nyrine Wexwood.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I04",
+  "owner": "P050"
+ },
+ {
+  "id": "E0065",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Ellan Lindner kept the pewter chalice in a cedar box.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I10",
+  "owner": "P004"
+ },
+ {
+  "id": "E0066",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Senelle Brackwood kept the iron ledger in a cedar box.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I05",
+  "owner": "P033"
+ },
+ {
+  "id": "E0067",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Tassa Brackwood kept the bone chalice in a cedar box.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I01",
+  "owner": "P037"
+ },
+ {
+  "id": "E0068",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Halan Hollwood kept the pewter comb in a cedar box.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I11",
+  "owner": "P029"
+ },
+ {
+  "id": "E0069",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Among the possessions of Fedette Orlwood was the jade mirror.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I07",
+  "owner": "P006"
+ },
+ {
+  "id": "E0070",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Among the possessions of Thidrek Corrett was the garnet mirror.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I02",
+  "owner": "P023"
+ },
+ {
+  "id": "E0071",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Among the possessions of Halan Hollett was the oak comb.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I09",
+  "owner": "P012"
+ },
+ {
+  "id": "E0072",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Among the possessions of Dadette Lindner was the glass comb.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I03",
+  "owner": "P001"
+ },
+ {
+  "id": "E0073",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The jade ring belonged to Orvie Hollett.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I08",
+  "owner": "P013"
+ },
+ {
+  "id": "E0074",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "Brevie Hollmere kept the amber mirror in a cedar box.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I00",
+  "owner": "P017"
+ },
+ {
+  "id": "E0075",
+  "type": "INIT_ITEM",
+  "chapter": 1,
+  "text": "The jade chalice belonged to Islan Lindner, head of the Lindner household.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I06",
+  "owner": "P000"
+ },
+ {
+  "id": "E0076",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Ridette Lindson alone carried the knowledge that the harbor master of Harrowgate takes bribes.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S00",
+  "person": "P042"
+ },
+ {
+  "id": "E0077",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Cotho Hollwood knew that the Lindson family once owed a blood debt to the Hollmere family.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S01",
+  "person": "P028"
+ },
+ {
+  "id": "E0078",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Breena Orlwood knew that the Lindson mill ledger was rewritten after the flood.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S02",
+  "person": "P009"
+ },
+ {
+  "id": "E0079",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Cotho Hollwood knew that the fire at the Salford granary was set on purpose.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S03",
+  "person": "P028"
+ },
+ {
+  "id": "E0080",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Breena Orlwood knew that the old abbey at Salford hides a second cellar.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S04",
+  "person": "P009"
+ },
+ {
+  "id": "E0081",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Nynelle Stenworth knew that the deed to the Bryngate pastures was forged.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S05",
+  "person": "P047"
+ },
+ {
+  "id": "E0082",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Only Feten Lindner knew that a chest of silver lies buried beneath the well at Mirecombe.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S06",
+  "person": "P003"
+ },
+ {
+  "id": "E0083",
+  "type": "INIT_SECRET",
+  "chapter": 1,
+  "text": "Thiena Hollwood alone carried the knowledge that the bridge toll at Salwick is skimmed every month.",
+  "where": null,
+  "ref_deps": [],
+  "secret": "S07",
+  "person": "P031"
+ },
+ {
+  "id": "E0084",
+  "type": "RULE_VAULT",
+  "chapter": 1,
+  "text": "It was an old law of Quenwick that the vault beneath its chapel would open only for a living person who held both the jade ring and the oak comb at once.",
+  "where": null,
+  "ref_deps": [],
+  "place": "L09",
+  "items": [
+   "I08",
+   "I09"
+  ]
+ },
+ {
+  "id": "E0085",
+  "type": "RULE_BRIDGE",
+  "chapter": 1,
+  "text": "The toll bridge at Dunholt belonged to the Wexwood family, and only those born a Wexwood, or presently married to one, were allowed to cross it.",
+  "where": null,
+  "ref_deps": [],
+  "place": "L02",
+  "surname": "Wexwood"
+ },
+ {
+  "id": "E0086",
+  "type": "RULE_HEIR",
+  "chapter": 1,
+  "text": "By custom, the jade chalice always passed, on the death of whoever held it, to the eldest living child of that holder; no will could change this, and it passed without ceremony.",
+  "where": null,
+  "ref_deps": [],
+  "item": "I06",
+  "surname": "Lindner"
+ },
+ {
+  "id": "E0087",
+  "type": "RUMOR",
+  "chapter": 2,
+  "text": "Gossip from Pebin Wexwood claimed Thidrek Corrett and Rira Stenworth had been wed in secret.",
+  "where": "L09",
+  "ref_deps": [],
+  "teller": "P051",
+  "claim": {
+   "kind": "married",
+   "target": "P023",
+   "other": "P046"
+  }
+ },
+ {
+  "id": "E0088",
+  "type": "TELL",
+  "chapter": 2,
+  "text": "Late one night the wife of Ridan Corrett confided to Ilzek Wexwood that the bridge toll at Salwick is skimmed every month.",
+  "where": "L09",
+  "ref_deps": [
+   "E0010"
+  ],
+  "secret": "S07",
+  "src": "P031",
+  "dest": "P048"
+ },
+ {
+  "id": "E0089",
+  "type": "TRAVEL",
+  "chapter": 2,
+  "text": "After the quarrel, Cotho Hollwood quit Wilhaven for good and took lodgings in Coldcombe.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P028",
+  "src": "L14",
+  "dest": "L01"
+ },
+ {
+  "id": "E0090",
+  "type": "GIVE",
+  "chapter": 2,
+  "text": "Thidrek sent the garnet mirror by carrier to Islis Lindson, who received it safely.",
+  "where": "L07",
+  "ref_deps": [
+   "E0004"
+  ],
+  "item": "I02",
+  "src": "P023",
+  "dest": "P039"
+ },
+ {
+  "id": "E0091",
+  "type": "TELL",
+  "chapter": 2,
+  "text": "Late one night Cotho Hollwood confided to Fedette that the Lindson family once owed a blood debt to the Hollmere family.",
+  "where": "L01",
+  "ref_deps": [
+   "E0001"
+  ],
+  "secret": "S01",
+  "src": "P028",
+  "dest": "P006"
+ },
+ {
+  "id": "E0092",
+  "type": "BIRTH",
+  "chapter": 2,
+  "text": "A son was born to Nynelle Stenworth and Halan Hollwood, and they called the child Rozek Hollwood. The family lived in Gulton.",
+  "where": "L05",
+  "ref_deps": [],
+  "child": "P052",
+  "mother": "P047",
+  "father": "P029",
+  "place": "L05"
+ },
+ {
+  "id": "E0093",
+  "type": "PLAN",
+  "chapter": 2,
+  "text": "The eldest daughter of Orrine Stenworth talked for weeks of going to Fenmere, yet in the end stayed where she was.",
+  "where": "L05",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P045",
+  "dest": "L04"
+ },
+ {
+  "id": "E0094",
+  "type": "GIVE",
+  "chapter": 2,
+  "text": "Islis gave the garnet mirror to the youngest daughter of Colan Lindson.",
+  "where": "L00",
+  "ref_deps": [
+   "E0007"
+  ],
+  "item": "I02",
+  "src": "P039",
+  "dest": "P042"
+ },
+ {
+  "id": "E0095",
+  "type": "GIVE",
+  "chapter": 3,
+  "text": "Cotho Hollwood won the jade mirror from Fedette Orlwood at cards, fairly, and kept it.",
+  "where": "L01",
+  "ref_deps": [],
+  "item": "I07",
+  "src": "P006",
+  "dest": "P028"
+ },
+ {
+  "id": "E0096",
+  "type": "PROMISE",
+  "chapter": 3,
+  "text": "Cobin Corrett swore to Pebin to repair the roof of the chapel at Wilhaven, and shook on it.",
+  "where": "L09",
+  "ref_deps": [
+   "E0009"
+  ],
+  "promise": "R00",
+  "a": "P020",
+  "b": "P051",
+  "act": "to repair the roof of the chapel at Wilhaven"
+ },
+ {
+  "id": "E0097",
+  "type": "BIRTH",
+  "chapter": 3,
+  "text": "A daughter was born to Jolia Hollett and Thidrek Corrett, and they called the child Nylis Corrett. The family lived in Mirecombe.",
+  "where": "L07",
+  "ref_deps": [],
+  "child": "P053",
+  "mother": "P015",
+  "father": "P023",
+  "place": "L07"
+ },
+ {
+  "id": "E0098",
+  "type": "GIVE",
+  "chapter": 3,
+  "text": "Seena Hollett won the glass comb from Dadette Lindner at cards, fairly, and kept it.",
+  "where": "L07",
+  "ref_deps": [],
+  "item": "I03",
+  "src": "P001",
+  "dest": "P014"
+ },
+ {
+  "id": "E0099",
+  "type": "TRAVEL",
+  "chapter": 3,
+  "text": "After the quarrel, Halan Hollett quit Mirecombe for good and took lodgings in Fenmere.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P012",
+  "src": "L07",
+  "dest": "L04"
+ },
+ {
+  "id": "E0100",
+  "type": "TELL",
+  "chapter": 4,
+  "text": "Fedette Orlwood could keep it no longer and told Madrek Orlwood that the Lindson family once owed a blood debt to the Hollmere family.",
+  "where": "L01",
+  "ref_deps": [],
+  "secret": "S01",
+  "src": "P006",
+  "dest": "P005"
+ },
+ {
+  "id": "E0101",
+  "type": "PROMISE",
+  "chapter": 4,
+  "text": "Ilena Orlwood gave Fedette Orlwood a solemn promise to repair the roof of the chapel at Coldcombe.",
+  "where": "L01",
+  "ref_deps": [],
+  "promise": "R01",
+  "a": "P007",
+  "b": "P006",
+  "act": "to repair the roof of the chapel at Coldcombe"
+ },
+ {
+  "id": "E0102",
+  "type": "PROMISE",
+  "chapter": 4,
+  "text": "Madrek Orlwood swore to Ilena Orlwood to rebuild the fallen wall at Fenmere, and shook on it.",
+  "where": "L01",
+  "ref_deps": [],
+  "promise": "R02",
+  "a": "P005",
+  "b": "P007",
+  "act": "to rebuild the fallen wall at Fenmere"
+ },
+ {
+  "id": "E0103",
+  "type": "OCCUPATION",
+  "chapter": 4,
+  "text": "Nyrine Wexwood gave up being a glazier and took work as a mason.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P050",
+  "old": "glazier",
+  "new": "mason"
+ },
+ {
+  "id": "E0104",
+  "type": "PROMISE",
+  "chapter": 4,
+  "text": "Breena gave Jotho Corrett a solemn promise to carry a sealed letter to Salwick.",
+  "where": "L09",
+  "ref_deps": [
+   "E0001"
+  ],
+  "promise": "R03",
+  "a": "P009",
+  "b": "P025",
+  "act": "to carry a sealed letter to Salwick"
+ },
+ {
+  "id": "E0105",
+  "type": "TELL",
+  "chapter": 4,
+  "text": "Late one night Fedette Orlwood confided to the eldest daughter of Madrek Orlwood that the Lindson family once owed a blood debt to the Hollmere family.",
+  "where": "L01",
+  "ref_deps": [
+   "E0001"
+  ],
+  "secret": "S01",
+  "src": "P006",
+  "dest": "P007"
+ },
+ {
+  "id": "E0106",
+  "type": "TELL",
+  "chapter": 4,
+  "text": "Fedette could keep it no longer and told Fetho Hollmere that the Lindson family once owed a blood debt to the Hollmere family.",
+  "where": "L01",
+  "ref_deps": [
+   "E0001"
+  ],
+  "secret": "S01",
+  "src": "P006",
+  "dest": "P018"
+ },
+ {
+  "id": "E0107",
+  "type": "MARRY",
+  "chapter": 4,
+  "text": "Before the spring was out, Jotho took Ridette Lindson in marriage at Quenwick. The couple lived in Quenwick from then on.",
+  "where": "L09",
+  "ref_deps": [
+   "E0004"
+  ],
+  "a": "P025",
+  "b": "P042",
+  "place": "L09"
+ },
+ {
+  "id": "E0108",
+  "type": "OCCUPATION",
+  "chapter": 5,
+  "text": "Mazek Hollwood gave up idleness and took work as a shepherd.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P026",
+  "old": null,
+  "new": "shepherd"
+ },
+ {
+  "id": "E0109",
+  "type": "PROMISE",
+  "chapter": 5,
+  "text": "Ulvie swore to Mazek to carry a sealed letter to Salford, and shook on it.",
+  "where": "L14",
+  "ref_deps": [
+   "E0005"
+  ],
+  "promise": "R04",
+  "a": "P030",
+  "b": "P026",
+  "act": "to carry a sealed letter to Salford"
+ },
+ {
+  "id": "E0110",
+  "type": "DEATH",
+  "chapter": 5,
+  "text": "That summer, a fall from the mill loft took Senelle Brackwood; she was buried at Fenmere.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P033",
+  "cause": "a fall from the mill loft",
+  "place": "L04"
+ },
+ {
+  "id": "E0111",
+  "type": "GIVE",
+  "chapter": 5,
+  "text": "The iron ledger, which Senelle Brackwood had owned, went to Elnar Brackwood.",
+  "where": "L04",
+  "ref_deps": [],
+  "item": "I05",
+  "src": "P033",
+  "dest": "P032",
+  "inherit": true
+ },
+ {
+  "id": "E0112",
+  "type": "GIVE",
+  "chapter": 5,
+  "text": "Tassa gave the bone chalice to Red Jovus.",
+  "where": "L04",
+  "ref_deps": [
+   "E0006",
+   "E0048"
+  ],
+  "item": "I01",
+  "src": "P037",
+  "dest": "P034"
+ },
+ {
+  "id": "E0113",
+  "type": "RUMOR",
+  "chapter": 5,
+  "text": "Gossip from Tassa Brackwood claimed Thiena Hollwood and Cotho Hollwood had been wed in secret.",
+  "where": "L04",
+  "ref_deps": [],
+  "teller": "P037",
+  "claim": {
+   "kind": "married",
+   "target": "P031",
+   "other": "P028"
+  }
+ },
+ {
+  "id": "E0114",
+  "type": "TRAVEL",
+  "chapter": 6,
+  "text": "Jovus Brackwood rode out of Fenmere; by the next market day he was living in Harrowgate.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P034",
+  "src": "L04",
+  "dest": "L06"
+ },
+ {
+  "id": "E0115",
+  "type": "TRAVEL",
+  "chapter": 6,
+  "text": "The wife of Cobin Corrett left Quenwick and settled in Yarlton.",
+  "where": "L09",
+  "ref_deps": [
+   "E0004"
+  ],
+  "person": "P021",
+  "src": "L09",
+  "dest": "L15"
+ },
+ {
+  "id": "E0116",
+  "type": "TRAVEL",
+  "chapter": 6,
+  "text": "Cobin Corrett followed her to Yarlton within the month.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P020",
+  "src": "L09",
+  "dest": "L15"
+ },
+ {
+  "id": "E0117",
+  "type": "DEATH",
+  "chapter": 6,
+  "text": "That autumn, a long wasting sickness took Nyvie Hollett; she was buried at Mirecombe.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P011",
+  "cause": "a long wasting sickness",
+  "place": "L07"
+ },
+ {
+  "id": "E0118",
+  "type": "TRAVEL",
+  "chapter": 6,
+  "text": "Islan Lindner left Mirecombe and settled in Coldcombe.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P000",
+  "src": "L07",
+  "dest": "L01"
+ },
+ {
+  "id": "E0119",
+  "type": "TRAVEL",
+  "chapter": 6,
+  "text": "Dadette Lindner went along to live in Coldcombe as well.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P001",
+  "src": "L07",
+  "dest": "L01"
+ },
+ {
+  "id": "E0120",
+  "type": "TRAVEL",
+  "chapter": 6,
+  "text": "Fedette Orlwood rode out of Coldcombe; by the next market day she was living in Mirecombe.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P006",
+  "src": "L01",
+  "dest": "L07"
+ },
+ {
+  "id": "E0121",
+  "type": "TRAVEL",
+  "chapter": 6,
+  "text": "Madrek Orlwood went along to live in Mirecombe as well.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P005",
+  "src": "L01",
+  "dest": "L07"
+ },
+ {
+  "id": "E0122",
+  "type": "TRAVEL",
+  "chapter": 6,
+  "text": "Orrine Stenworth packed a single trunk and moved from Gulton to Coldcombe.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P044",
+  "src": "L05",
+  "dest": "L01"
+ },
+ {
+  "id": "E0123",
+  "type": "TRAVEL",
+  "chapter": 6,
+  "text": "Orbin Stenworth followed her to Coldcombe within the month.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P043",
+  "src": "L05",
+  "dest": "L01"
+ },
+ {
+  "id": "E0124",
+  "type": "MARRY",
+  "chapter": 7,
+  "text": "Cotho Brackwood and Feena were wed at Fenmere, with half the parish looking on. The couple lived in Fenmere from then on.",
+  "where": "L04",
+  "ref_deps": [
+   "E0008"
+  ],
+  "a": "P036",
+  "b": "P045",
+  "place": "L04"
+ },
+ {
+  "id": "E0125",
+  "type": "TRAVEL",
+  "chapter": 7,
+  "text": "After the quarrel, the husband of Feena Stenworth quit Fenmere for good and took lodgings in Mirecombe.",
+  "where": "L04",
+  "ref_deps": [
+   "E0124"
+  ],
+  "person": "P036",
+  "src": "L04",
+  "dest": "L07"
+ },
+ {
+  "id": "E0126",
+  "type": "TRAVEL",
+  "chapter": 7,
+  "text": "Feena Stenworth followed him to Mirecombe within the month.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P045",
+  "src": "L04",
+  "dest": "L07"
+ },
+ {
+  "id": "E0127",
+  "type": "TRAVEL",
+  "chapter": 7,
+  "text": "Cotho Brackwood packed a single trunk and moved from Mirecombe to Dunholt.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P036",
+  "src": "L07",
+  "dest": "L02"
+ },
+ {
+  "id": "E0128",
+  "type": "TRAVEL",
+  "chapter": 7,
+  "text": "Feena Stenworth followed him to Dunholt within the month.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P045",
+  "src": "L07",
+  "dest": "L02"
+ },
+ {
+  "id": "E0129",
+  "type": "BIRTH",
+  "chapter": 7,
+  "text": "A daughter was born to Feena Stenworth and Cotho Brackwood, and they called the child Thivie Brackwood. The family lived in Dunholt.",
+  "where": "L02",
+  "ref_deps": [],
+  "child": "P054",
+  "mother": "P045",
+  "father": "P036",
+  "place": "L02"
+ },
+ {
+  "id": "E0130",
+  "type": "MARRY",
+  "chapter": 7,
+  "text": "Before the winter was out, Red Jovus took Rira Stenworth in marriage at Harrowgate. The couple lived in Harrowgate from then on.",
+  "where": "L06",
+  "ref_deps": [
+   "E0048"
+  ],
+  "a": "P034",
+  "b": "P046",
+  "place": "L06"
+ },
+ {
+  "id": "E0131",
+  "type": "PROMISE",
+  "chapter": 7,
+  "text": "Orvie Hollett gave Feten Lindner a solemn promise to rebuild the fallen wall at Dunholt.",
+  "where": "L07",
+  "ref_deps": [],
+  "promise": "R05",
+  "a": "P013",
+  "b": "P003",
+  "act": "to rebuild the fallen wall at Dunholt"
+ },
+ {
+  "id": "E0132",
+  "type": "RESOLVE",
+  "chapter": 8,
+  "text": "Ulvie Hollwood broke faith with Mazek Hollwood, and the promised work (carry a sealed letter to Salford) was never begun.",
+  "where": "L14",
+  "ref_deps": [],
+  "promise": "R04",
+  "kept": false
+ },
+ {
+  "id": "E0133",
+  "type": "RESOLVE",
+  "chapter": 8,
+  "text": "Cobin Corrett never did keep the promise made to Pebin Wexwood (repair the roof of the chapel at Wilhaven); the matter was abandoned.",
+  "where": "L15",
+  "ref_deps": [],
+  "promise": "R00",
+  "kept": false
+ },
+ {
+  "id": "E0134",
+  "type": "OCCUPATION",
+  "chapter": 8,
+  "text": "Ilrine Corrett gave up being a herbalist and took work as a glazier.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P021",
+  "old": "herbalist",
+  "new": "glazier"
+ },
+ {
+  "id": "E0135",
+  "type": "GIVE",
+  "chapter": 8,
+  "text": "Seena Hollett gave the glass comb to Madrek Orlwood.",
+  "where": "L07",
+  "ref_deps": [],
+  "item": "I03",
+  "src": "P014",
+  "dest": "P005"
+ },
+ {
+  "id": "E0136",
+  "type": "GIVE",
+  "chapter": 8,
+  "text": "Elnar Brackwood pressed the iron ledger into the hands of the only son of Nyvie Hollett and would take nothing for it.",
+  "where": "L04",
+  "ref_deps": [
+   "E0002"
+  ],
+  "item": "I05",
+  "src": "P032",
+  "dest": "P012"
+ },
+ {
+  "id": "E0137",
+  "type": "PLAN",
+  "chapter": 9,
+  "text": "Halan Hollwood talked for weeks of going to Mirecombe, yet in the end stayed where he was.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P029",
+  "dest": "L07"
+ },
+ {
+  "id": "E0138",
+  "type": "DEATH",
+  "chapter": 9,
+  "text": "That summer, the coughing sickness took the wife of Colan Lindson; she was buried at Bryngate.",
+  "where": "L00",
+  "ref_deps": [
+   "E0007"
+  ],
+  "person": "P039",
+  "cause": "the coughing sickness",
+  "place": "L00"
+ },
+ {
+  "id": "E0139",
+  "type": "TRAVEL",
+  "chapter": 9,
+  "text": "Maric rode out of Bryngate; by the next market day he was living in Gulton.",
+  "where": "L00",
+  "ref_deps": [
+   "E0007"
+  ],
+  "person": "P041",
+  "src": "L00",
+  "dest": "L05"
+ },
+ {
+  "id": "E0140",
+  "type": "TRAVEL",
+  "chapter": 9,
+  "text": "Seena Orlwood went along to live in Gulton as well.",
+  "where": "L00",
+  "ref_deps": [],
+  "person": "P008",
+  "src": "L00",
+  "dest": "L05"
+ },
+ {
+  "id": "E0141",
+  "type": "TELL",
+  "chapter": 9,
+  "text": "Cotho Hollwood could keep it no longer and told Orrine Stenworth that the fire at the Salford granary was set on purpose.",
+  "where": "L01",
+  "ref_deps": [],
+  "secret": "S03",
+  "src": "P028",
+  "dest": "P044"
+ },
+ {
+  "id": "E0142",
+  "type": "DEATH",
+  "chapter": 9,
+  "text": "That summer, old age, quietly in sleep took Brevie Hollmere; she was buried at Salwick.",
+  "where": "L12",
+  "ref_deps": [],
+  "person": "P017",
+  "cause": "old age, quietly in sleep",
+  "place": "L12"
+ },
+ {
+  "id": "E0143",
+  "type": "GIVE",
+  "chapter": 9,
+  "text": "Among the things left by Brevie Hollmere, the amber mirror was handed to Lutho Hollmere.",
+  "where": "L12",
+  "ref_deps": [],
+  "item": "I00",
+  "src": "P017",
+  "dest": "P016",
+  "inherit": true
+ },
+ {
+  "id": "E0144",
+  "type": "TRAVEL",
+  "chapter": 9,
+  "text": "The second son of Cobin Corrett found work in Salford, moved there, and did not return to Quenwick.",
+  "where": "L09",
+  "ref_deps": [
+   "E0004"
+  ],
+  "person": "P024",
+  "src": "L09",
+  "dest": "L10"
+ },
+ {
+  "id": "E0145",
+  "type": "TRAVEL",
+  "chapter": 9,
+  "text": "Thiena Hollwood followed him to Salford within the month.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P031",
+  "src": "L09",
+  "dest": "L10"
+ },
+ {
+  "id": "E0146",
+  "type": "GIVE",
+  "chapter": 10,
+  "text": "Lame Halan sent the iron ledger by carrier to Ridan, who received it safely.",
+  "where": "L04",
+  "ref_deps": [
+   "E0004",
+   "E0028"
+  ],
+  "item": "I05",
+  "src": "P012",
+  "dest": "P024"
+ },
+ {
+  "id": "E0147",
+  "type": "DEATH",
+  "chapter": 10,
+  "text": "That autumn, the coughing sickness took Mazek; he was buried at Wilhaven.",
+  "where": "L14",
+  "ref_deps": [
+   "E0005"
+  ],
+  "person": "P026",
+  "cause": "the coughing sickness",
+  "place": "L14"
+ },
+ {
+  "id": "E0148",
+  "type": "GIVE",
+  "chapter": 10,
+  "text": "Fetho Hollmere won the amber mirror from Lutho at cards, fairly, and kept it.",
+  "where": "L12",
+  "ref_deps": [
+   "E0003"
+  ],
+  "item": "I00",
+  "src": "P016",
+  "dest": "P018"
+ },
+ {
+  "id": "E0149",
+  "type": "BIRTH",
+  "chapter": 10,
+  "text": "Wevie Lindner gave birth to a son, named Daric Brackwood; the father was Madan Brackwood. The family lived in Mirecombe.",
+  "where": "L07",
+  "ref_deps": [],
+  "child": "P055",
+  "mother": "P002",
+  "father": "P035",
+  "place": "L07"
+ },
+ {
+  "id": "E0150",
+  "type": "TRAVEL",
+  "chapter": 10,
+  "text": "Fedette Orlwood left Mirecombe and settled in Gulton.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P006",
+  "src": "L07",
+  "dest": "L05"
+ },
+ {
+  "id": "E0151",
+  "type": "TRAVEL",
+  "chapter": 10,
+  "text": "Madrek Orlwood went along to live in Gulton as well.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P005",
+  "src": "L07",
+  "dest": "L05"
+ },
+ {
+  "id": "E0152",
+  "type": "BIRTH",
+  "chapter": 10,
+  "text": "Nynelle Stenworth gave birth to a son, named Isbin Hollwood; the father was Halan Hollwood. The family lived in Gulton.",
+  "where": "L05",
+  "ref_deps": [],
+  "child": "P056",
+  "mother": "P047",
+  "father": "P029",
+  "place": "L05"
+ },
+ {
+  "id": "E0153",
+  "type": "TRAVEL",
+  "chapter": 11,
+  "text": "Breena Orlwood left Quenwick and settled in Miremere.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P009",
+  "src": "L09",
+  "dest": "L08"
+ },
+ {
+  "id": "E0154",
+  "type": "TRAVEL",
+  "chapter": 11,
+  "text": "Pebin Wexwood went along to live in Miremere as well.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P051",
+  "src": "L09",
+  "dest": "L08"
+ },
+ {
+  "id": "E0155",
+  "type": "GIVE",
+  "chapter": 11,
+  "text": "Nyrine pressed the iron chalice into the hands of Eldette Corrett and would take nothing for it.",
+  "where": "L09",
+  "ref_deps": [
+   "E0009"
+  ],
+  "item": "I04",
+  "src": "P050",
+  "dest": "P022"
+ },
+ {
+  "id": "E0156",
+  "type": "TELL",
+  "chapter": 11,
+  "text": "Late one night Nynelle Stenworth confided to Madrek Orlwood that the deed to the Bryngate pastures was forged.",
+  "where": "L05",
+  "ref_deps": [],
+  "secret": "S05",
+  "src": "P047",
+  "dest": "P005"
+ },
+ {
+  "id": "E0157",
+  "type": "PROMISE",
+  "chapter": 11,
+  "text": "Madrek Orlwood swore to the husband of Seena Orlwood to pay the old debt owed to the Corrett family, and shook on it.",
+  "where": "L05",
+  "ref_deps": [
+   "E0012"
+  ],
+  "promise": "R06",
+  "a": "P005",
+  "b": "P041",
+  "act": "to pay the old debt owed to the Corrett family"
+ },
+ {
+  "id": "E0158",
+  "type": "TELL",
+  "chapter": 11,
+  "text": "Nynelle Stenworth could keep it no longer and told Fedette Orlwood that the deed to the Bryngate pastures was forged.",
+  "where": "L05",
+  "ref_deps": [],
+  "secret": "S05",
+  "src": "P047",
+  "dest": "P006"
+ },
+ {
+  "id": "E0159",
+  "type": "TRAVEL",
+  "chapter": 11,
+  "text": "Seena Orlwood left Gulton and settled in Mirecombe.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P008",
+  "src": "L05",
+  "dest": "L07"
+ },
+ {
+  "id": "E0160",
+  "type": "TRAVEL",
+  "chapter": 11,
+  "text": "Maric Lindson went along to live in Mirecombe as well.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P041",
+  "src": "L05",
+  "dest": "L07"
+ },
+ {
+  "id": "E0161",
+  "type": "BIRTH",
+  "chapter": 11,
+  "text": "Wevie Lindner gave birth to a daughter, named Brenelle Brackwood; the father was Madan Brackwood. The family lived in Mirecombe.",
+  "where": "L07",
+  "ref_deps": [],
+  "child": "P057",
+  "mother": "P002",
+  "father": "P035",
+  "place": "L07"
+ },
+ {
+  "id": "E0162",
+  "type": "DEATH",
+  "chapter": 11,
+  "text": "Seena Orlwood died of drowning in the flood at Mirecombe.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P008",
+  "cause": "drowning in the flood",
+  "place": "L07"
+ },
+ {
+  "id": "E0163",
+  "type": "PROMISE",
+  "chapter": 12,
+  "text": "Old Maric swore to Thidrek to teach the children of Quenwick their letters, and shook on it.",
+  "where": "L07",
+  "ref_deps": [
+   "E0004",
+   "E0055"
+  ],
+  "promise": "R07",
+  "a": "P041",
+  "b": "P023",
+  "act": "to teach the children of Quenwick their letters"
+ },
+ {
+  "id": "E0164",
+  "type": "BIRTH",
+  "chapter": 12,
+  "text": "A daughter was born to Feena Stenworth and Cotho Brackwood, and they called the child Dalde Brackwood. The family lived in Dunholt.",
+  "where": "L02",
+  "ref_deps": [],
+  "child": "P058",
+  "mother": "P045",
+  "father": "P036",
+  "place": "L02"
+ },
+ {
+  "id": "E0165",
+  "type": "GIVE",
+  "chapter": 12,
+  "text": "Ilena Orlwood won the jade mirror from Cotho Hollwood at cards, fairly, and kept it.",
+  "where": "L01",
+  "ref_deps": [],
+  "item": "I07",
+  "src": "P028",
+  "dest": "P007"
+ },
+ {
+  "id": "E0166",
+  "type": "PROMISE",
+  "chapter": 12,
+  "text": "Orrine gave Orbin Stenworth a solemn promise to teach the children of Staveton their letters.",
+  "where": "L01",
+  "ref_deps": [
+   "E0008"
+  ],
+  "promise": "R08",
+  "a": "P044",
+  "b": "P043",
+  "act": "to teach the children of Staveton their letters"
+ },
+ {
+  "id": "E0167",
+  "type": "PROMISE",
+  "chapter": 12,
+  "text": "Orrine swore to Islan to teach the children of Gulton their letters, and shook on it.",
+  "where": "L01",
+  "ref_deps": [
+   "E0000",
+   "E0008"
+  ],
+  "promise": "R09",
+  "a": "P044",
+  "b": "P000",
+  "act": "to teach the children of Gulton their letters"
+ },
+ {
+  "id": "E0168",
+  "type": "BIRTH",
+  "chapter": 13,
+  "text": "A son was born to Wevie Lindner and Madan Brackwood, and they called the child Isnar Brackwood. The family lived in Mirecombe.",
+  "where": "L07",
+  "ref_deps": [],
+  "child": "P059",
+  "mother": "P002",
+  "father": "P035",
+  "place": "L07"
+ },
+ {
+  "id": "E0169",
+  "type": "RESOLVE",
+  "chapter": 13,
+  "text": "Madrek Orlwood kept the promise made to Maric Lindson: the task (pay the old debt owed to the Corrett family) was done by harvest.",
+  "where": "L05",
+  "ref_deps": [],
+  "promise": "R06",
+  "kept": true
+ },
+ {
+  "id": "E0170",
+  "type": "BIRTH",
+  "chapter": 13,
+  "text": "A son was born to Thiena Hollwood and Ridan Corrett, and they called the child Ortho Corrett. The family lived in Salford.",
+  "where": "L10",
+  "ref_deps": [],
+  "child": "P060",
+  "mother": "P031",
+  "father": "P024",
+  "place": "L10"
+ },
+ {
+  "id": "E0171",
+  "type": "MARRY",
+  "chapter": 13,
+  "text": "Colan Lindson and Tassa Brackwood were wed at Bryngate, with half the parish looking on. The couple lived in Bryngate from then on.",
+  "where": "L00",
+  "ref_deps": [],
+  "a": "P038",
+  "b": "P037",
+  "place": "L00"
+ },
+ {
+  "id": "E0172",
+  "type": "GIVE",
+  "chapter": 13,
+  "text": "Fedette won the glass comb from Madrek Orlwood at cards, fairly, and kept it.",
+  "where": "L05",
+  "ref_deps": [
+   "E0001"
+  ],
+  "item": "I03",
+  "src": "P005",
+  "dest": "P006"
+ },
+ {
+  "id": "E0173",
+  "type": "TRAVEL",
+  "chapter": 13,
+  "text": "Aessa Hollwood left Wilhaven and settled in Salford.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P027",
+  "src": "L14",
+  "dest": "L10"
+ },
+ {
+  "id": "E0174",
+  "type": "TRAVEL",
+  "chapter": 13,
+  "text": "After the quarrel, Ulvie Hollwood quit Wilhaven for good and took lodgings in Salwick.",
+  "where": "L14",
+  "ref_deps": [],
+  "person": "P030",
+  "src": "L14",
+  "dest": "L12"
+ },
+ {
+  "id": "E0175",
+  "type": "TELL",
+  "chapter": 13,
+  "text": "In a letter that Daena Wexwood burned after reading, Ilzek Wexwood revealed that the bridge toll at Salwick is skimmed every month.",
+  "where": "L09",
+  "ref_deps": [],
+  "secret": "S07",
+  "src": "P048",
+  "dest": "P049"
+ },
+ {
+  "id": "E0176",
+  "type": "PROMISE",
+  "chapter": 14,
+  "text": "Tassa Brackwood swore to Colan Lindson to repair the roof of the chapel at Salmere, and shook on it.",
+  "where": "L00",
+  "ref_deps": [],
+  "promise": "R10",
+  "a": "P037",
+  "b": "P038",
+  "act": "to repair the roof of the chapel at Salmere"
+ },
+ {
+  "id": "E0177",
+  "type": "RESOLVE",
+  "chapter": 14,
+  "text": "Maric Lindson broke faith with Thidrek Corrett, and the promised work (teach the children of Quenwick their letters) was never begun.",
+  "where": "L07",
+  "ref_deps": [],
+  "promise": "R07",
+  "kept": false
+ },
+ {
+  "id": "E0178",
+  "type": "BIRTH",
+  "chapter": 14,
+  "text": "A daughter was born to Wevie Lindner and Madan Brackwood, and they called the child Aewyn Brackwood. The family lived in Mirecombe.",
+  "where": "L07",
+  "ref_deps": [],
+  "child": "P061",
+  "mother": "P002",
+  "father": "P035",
+  "place": "L07"
+ },
+ {
+  "id": "E0179",
+  "type": "TRAVEL",
+  "chapter": 14,
+  "text": "Islan found work in Staveton, moved there, and did not return to Coldcombe.",
+  "where": "L01",
+  "ref_deps": [
+   "E0000"
+  ],
+  "person": "P000",
+  "src": "L01",
+  "dest": "L13"
+ },
+ {
+  "id": "E0180",
+  "type": "TRAVEL",
+  "chapter": 14,
+  "text": "Dadette went along to live in Staveton as well.",
+  "where": "L01",
+  "ref_deps": [
+   "E0000"
+  ],
+  "person": "P001",
+  "src": "L01",
+  "dest": "L13"
+ },
+ {
+  "id": "E0181",
+  "type": "MARRY",
+  "chapter": 14,
+  "text": "Before the autumn was out, Ulvie Hollwood took Fetho in marriage at Salwick. The couple lived in Salwick from then on.",
+  "where": "L12",
+  "ref_deps": [
+   "E0003"
+  ],
+  "a": "P030",
+  "b": "P018",
+  "place": "L12"
+ },
+ {
+  "id": "E0182",
+  "type": "TRAVEL",
+  "chapter": 14,
+  "text": "Nynelle Hollmere found work in Miremere, moved there, and did not return to Salwick.",
+  "where": "L12",
+  "ref_deps": [],
+  "person": "P019",
+  "src": "L12",
+  "dest": "L08"
+ },
+ {
+  "id": "E0183",
+  "type": "TRAVEL",
+  "chapter": 15,
+  "text": "Ridan Corrett found work in Gulton, moved there, and did not return to Salford.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P024",
+  "src": "L10",
+  "dest": "L05"
+ },
+ {
+  "id": "E0184",
+  "type": "TRAVEL",
+  "chapter": 15,
+  "text": "Thiena Hollwood went along to live in Gulton as well.",
+  "where": "L10",
+  "ref_deps": [],
+  "person": "P031",
+  "src": "L10",
+  "dest": "L05"
+ },
+ {
+  "id": "E0185",
+  "type": "TELL",
+  "chapter": 15,
+  "text": "Thiena Hollwood could keep it no longer and told Fedette Orlwood that the bridge toll at Salwick is skimmed every month.",
+  "where": "L05",
+  "ref_deps": [],
+  "secret": "S07",
+  "src": "P031",
+  "dest": "P006"
+ },
+ {
+  "id": "E0186",
+  "type": "DEATH",
+  "chapter": 15,
+  "text": "Dadette Lindner died of a fall from the mill loft at Staveton.",
+  "where": "L13",
+  "ref_deps": [],
+  "person": "P001",
+  "cause": "a fall from the mill loft",
+  "place": "L13"
+ },
+ {
+  "id": "E0187",
+  "type": "GIVE",
+  "chapter": 15,
+  "text": "Fedette Orlwood sent the glass comb by carrier to Islan, who received it safely.",
+  "where": "L05",
+  "ref_deps": [
+   "E0000"
+  ],
+  "item": "I03",
+  "src": "P006",
+  "dest": "P000"
+ },
+ {
+  "id": "E0188",
+  "type": "OCCUPATION",
+  "chapter": 15,
+  "text": "Thiena Hollwood was apprenticed anew and became a cooper.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P031",
+  "old": "glazier",
+  "new": "cooper"
+ },
+ {
+  "id": "E0189",
+  "type": "GIVE",
+  "chapter": 16,
+  "text": "Jotho Corrett won the garnet mirror from Ridette Lindson at cards, fairly, and kept it.",
+  "where": "L09",
+  "ref_deps": [],
+  "item": "I02",
+  "src": "P042",
+  "dest": "P025"
+ },
+ {
+  "id": "E0190",
+  "type": "MARRY",
+  "chapter": 16,
+  "text": "Orvie Hollett and Rozek Hollwood were wed at Mirecombe, with half the parish looking on. The couple lived in Mirecombe from then on.",
+  "where": "L07",
+  "ref_deps": [],
+  "a": "P013",
+  "b": "P052",
+  "place": "L07"
+ },
+ {
+  "id": "E0191",
+  "type": "TELL",
+  "chapter": 16,
+  "text": "In a letter that Madrek Orlwood burned after reading, Thiena Hollwood revealed that the bridge toll at Salwick is skimmed every month.",
+  "where": "L05",
+  "ref_deps": [],
+  "secret": "S07",
+  "src": "P031",
+  "dest": "P005"
+ },
+ {
+  "id": "E0192",
+  "type": "OCCUPATION",
+  "chapter": 16,
+  "text": "Nynelle Stenworth was apprenticed anew and became a cooper.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P047",
+  "old": "ferryman",
+  "new": "cooper"
+ },
+ {
+  "id": "E0193",
+  "type": "BIRTH",
+  "chapter": 16,
+  "text": "A son was born to Nynelle Stenworth and Halan Hollwood, and they called the child Zanar Hollwood. The family lived in Gulton.",
+  "where": "L05",
+  "ref_deps": [],
+  "child": "P062",
+  "mother": "P047",
+  "father": "P029",
+  "place": "L05"
+ },
+ {
+  "id": "E0194",
+  "type": "TELL",
+  "chapter": 16,
+  "text": "In a letter that Thiena Hollwood burned after reading, Madrek revealed that the Lindson family once owed a blood debt to the Hollmere family.",
+  "where": "L05",
+  "ref_deps": [
+   "E0001"
+  ],
+  "secret": "S01",
+  "src": "P005",
+  "dest": "P031"
+ },
+ {
+  "id": "E0195",
+  "type": "PROMISE",
+  "chapter": 16,
+  "text": "The second son of Cobin Corrett swore to Madrek to repair the roof of the chapel at Gulton, and shook on it.",
+  "where": "L05",
+  "ref_deps": [
+   "E0001",
+   "E0004"
+  ],
+  "promise": "R11",
+  "a": "P024",
+  "b": "P005",
+  "act": "to repair the roof of the chapel at Gulton"
+ },
+ {
+  "id": "E0196",
+  "type": "BIRTH",
+  "chapter": 16,
+  "text": "Tassa gave birth to a daughter, named Rorine Lindson; the father was Colan Lindson. The family lived in Bryngate.",
+  "where": "L00",
+  "ref_deps": [
+   "E0006"
+  ],
+  "child": "P063",
+  "mother": "P037",
+  "father": "P038",
+  "place": "L00"
+ },
+ {
+  "id": "E0197",
+  "type": "TRAVEL",
+  "chapter": 17,
+  "text": "Lame Halan packed a single trunk and moved from Fenmere to Salwick.",
+  "where": "L04",
+  "ref_deps": [
+   "E0028"
+  ],
+  "person": "P012",
+  "src": "L04",
+  "dest": "L12"
+ },
+ {
+  "id": "E0198",
+  "type": "TELL",
+  "chapter": 17,
+  "text": "Late one night Ilzek Wexwood confided to Ridette that the bridge toll at Salwick is skimmed every month.",
+  "where": "L09",
+  "ref_deps": [
+   "E0007"
+  ],
+  "secret": "S07",
+  "src": "P048",
+  "dest": "P042"
+ },
+ {
+  "id": "E0199",
+  "type": "BIRTH",
+  "chapter": 17,
+  "text": "A daughter was born to Feena Stenworth and Cotho Brackwood, and they called the child Gamira Brackwood. The family lived in Dunholt.",
+  "where": "L02",
+  "ref_deps": [],
+  "child": "P064",
+  "mother": "P045",
+  "father": "P036",
+  "place": "L02"
+ },
+ {
+  "id": "E0200",
+  "type": "DEATH",
+  "chapter": 17,
+  "text": "That summer, the coughing sickness took Ilena Orlwood; she was buried at Coldcombe.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P007",
+  "cause": "the coughing sickness",
+  "place": "L01"
+ },
+ {
+  "id": "E0201",
+  "type": "GIVE",
+  "chapter": 17,
+  "text": "The jade mirror, which Ilena Orlwood had owned, went to Cotho Hollwood.",
+  "where": "L01",
+  "ref_deps": [],
+  "item": "I07",
+  "src": "P007",
+  "dest": "P028",
+  "inherit": true
+ },
+ {
+  "id": "E0202",
+  "type": "RUMOR",
+  "chapter": 17,
+  "text": "A rumor started by Orrine had it that Maric Lindson was dead of plague; Orrine had it from a peddler.",
+  "where": "L01",
+  "ref_deps": [
+   "E0008"
+  ],
+  "teller": "P044",
+  "claim": {
+   "kind": "dead",
+   "target": "P041"
+  }
+ },
+ {
+  "id": "E0203",
+  "type": "RESOLVE",
+  "chapter": 17,
+  "text": "Ridan Corrett broke faith with Madrek Orlwood, and the promised work (repair the roof of the chapel at Gulton) was never begun.",
+  "where": "L05",
+  "ref_deps": [],
+  "promise": "R11",
+  "kept": false
+ },
+ {
+  "id": "E0204",
+  "type": "PLAN",
+  "chapter": 18,
+  "text": "Nyrine meant to go to Miremere before the frost, but the roads flooded and the journey was put off.",
+  "where": "L09",
+  "ref_deps": [
+   "E0009"
+  ],
+  "person": "P050",
+  "dest": "L08"
+ },
+ {
+  "id": "E0205",
+  "type": "TRAVEL",
+  "chapter": 18,
+  "text": "Nynelle Stenworth found work in Coldcombe, moved there, and did not return to Gulton.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P047",
+  "src": "L05",
+  "dest": "L01"
+ },
+ {
+  "id": "E0206",
+  "type": "TRAVEL",
+  "chapter": 18,
+  "text": "Halan Hollwood followed her to Coldcombe within the month.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P029",
+  "src": "L05",
+  "dest": "L01"
+ },
+ {
+  "id": "E0207",
+  "type": "TELL",
+  "chapter": 18,
+  "text": "Madrek Orlwood could keep it no longer and told Ridan Corrett that the Lindson family once owed a blood debt to the Hollmere family.",
+  "where": "L05",
+  "ref_deps": [],
+  "secret": "S01",
+  "src": "P005",
+  "dest": "P024"
+ },
+ {
+  "id": "E0208",
+  "type": "TRAVEL",
+  "chapter": 18,
+  "text": "The husband of Jolia Hollett rode out of Mirecombe; by the next market day he was living in Dunwick.",
+  "where": "L07",
+  "ref_deps": [
+   "E0014"
+  ],
+  "person": "P023",
+  "src": "L07",
+  "dest": "L03"
+ },
+ {
+  "id": "E0209",
+  "type": "TRAVEL",
+  "chapter": 18,
+  "text": "Quiet Jolia went along to live in Dunwick as well.",
+  "where": "L07",
+  "ref_deps": [
+   "E0031"
+  ],
+  "person": "P015",
+  "src": "L07",
+  "dest": "L03"
+ },
+ {
+  "id": "E0210",
+  "type": "TELL",
+  "chapter": 18,
+  "text": "In a letter that the wife of Halan Hollwood burned after reading, Cotho Hollwood revealed that the Lindson family once owed a blood debt to the Hollmere family.",
+  "where": "L01",
+  "ref_deps": [
+   "E0015"
+  ],
+  "secret": "S01",
+  "src": "P028",
+  "dest": "P047"
+ },
+ {
+  "id": "E0211",
+  "type": "TELL",
+  "chapter": 19,
+  "text": "The only son of Lutho Hollmere could keep it no longer and told Lutho that the Lindson family once owed a blood debt to the Hollmere family.",
+  "where": "L12",
+  "ref_deps": [
+   "E0003"
+  ],
+  "secret": "S01",
+  "src": "P018",
+  "dest": "P016"
+ },
+ {
+  "id": "E0212",
+  "type": "TELL",
+  "chapter": 19,
+  "text": "Late one night Ridette Lindson confided to Eldette Corrett that the bridge toll at Salwick is skimmed every month.",
+  "where": "L09",
+  "ref_deps": [],
+  "secret": "S07",
+  "src": "P042",
+  "dest": "P022"
+ },
+ {
+  "id": "E0213",
+  "type": "TRAVEL",
+  "chapter": 19,
+  "text": "Feten Lindner left Mirecombe and settled in Quenwick.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P003",
+  "src": "L07",
+  "dest": "L09"
+ },
+ {
+  "id": "E0214",
+  "type": "BIRTH",
+  "chapter": 19,
+  "text": "A son was born to Feena Stenworth and Cotho Brackwood, and they called the child Votho Brackwood. The family lived in Dunholt.",
+  "where": "L02",
+  "ref_deps": [],
+  "child": "P065",
+  "mother": "P045",
+  "father": "P036",
+  "place": "L02"
+ },
+ {
+  "id": "E0215",
+  "type": "PLAN",
+  "chapter": 19,
+  "text": "Feena talked for weeks of going to Quenwick, yet in the end stayed where she was.",
+  "where": "L02",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P045",
+  "dest": "L09"
+ },
+ {
+  "id": "E0216",
+  "type": "TRAVEL",
+  "chapter": 19,
+  "text": "After the quarrel, Cotho Brackwood quit Dunholt for good and took lodgings in Bryngate.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P036",
+  "src": "L02",
+  "dest": "L00"
+ },
+ {
+  "id": "E0217",
+  "type": "TRAVEL",
+  "chapter": 19,
+  "text": "Feena Stenworth went along to live in Bryngate as well.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P045",
+  "src": "L02",
+  "dest": "L00"
+ },
+ {
+  "id": "E0218",
+  "type": "TELL",
+  "chapter": 20,
+  "text": "In a letter that Nynelle Hollmere burned after reading, Breena Orlwood revealed that the Lindson mill ledger was rewritten after the flood.",
+  "where": "L08",
+  "ref_deps": [],
+  "secret": "S02",
+  "src": "P009",
+  "dest": "P019"
+ },
+ {
+  "id": "E0219",
+  "type": "BIRTH",
+  "chapter": 20,
+  "text": "A daughter was born to Thiena Hollwood and Ridan Corrett, and they called the child Nelde Corrett. The family lived in Gulton.",
+  "where": "L05",
+  "ref_deps": [],
+  "child": "P066",
+  "mother": "P031",
+  "father": "P024",
+  "place": "L05"
+ },
+ {
+  "id": "E0220",
+  "type": "DEATH",
+  "chapter": 20,
+  "text": "Ridan Corrett died of old age, quietly in sleep at Gulton.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P024",
+  "cause": "old age, quietly in sleep",
+  "place": "L05"
+ },
+ {
+  "id": "E0221",
+  "type": "GIVE",
+  "chapter": 20,
+  "text": "The iron ledger, which Ridan Corrett had owned, went to Thiena Hollwood.",
+  "where": "L05",
+  "ref_deps": [],
+  "item": "I05",
+  "src": "P024",
+  "dest": "P031",
+  "inherit": true
+ },
+ {
+  "id": "E0222",
+  "type": "PROMISE",
+  "chapter": 20,
+  "text": "Pebin swore to Nynelle Hollmere to repair the roof of the chapel at Salford, and shook on it.",
+  "where": "L08",
+  "ref_deps": [
+   "E0009"
+  ],
+  "promise": "R12",
+  "a": "P051",
+  "b": "P019",
+  "act": "to repair the roof of the chapel at Salford"
+ },
+ {
+  "id": "E0223",
+  "type": "PROMISE",
+  "chapter": 20,
+  "text": "Pebin Wexwood swore to the wife of Pebin Wexwood to teach the children of Wilhaven their letters, and shook on it.",
+  "where": "L08",
+  "ref_deps": [
+   "E0013"
+  ],
+  "promise": "R13",
+  "a": "P051",
+  "b": "P009",
+  "act": "to teach the children of Wilhaven their letters"
+ },
+ {
+  "id": "E0224",
+  "type": "TRAVEL",
+  "chapter": 20,
+  "text": "Pebin left Miremere and settled in Harrowgate.",
+  "where": "L08",
+  "ref_deps": [
+   "E0009"
+  ],
+  "person": "P051",
+  "src": "L08",
+  "dest": "L06"
+ },
+ {
+  "id": "E0225",
+  "type": "TRAVEL",
+  "chapter": 20,
+  "text": "Breena went along to live in Harrowgate as well.",
+  "where": "L08",
+  "ref_deps": [
+   "E0001"
+  ],
+  "person": "P009",
+  "src": "L08",
+  "dest": "L06"
+ },
+ {
+  "id": "E0226",
+  "type": "TRAVEL",
+  "chapter": 21,
+  "text": "After the quarrel, Lame Halan quit Salwick for good and took lodgings in Dunholt.",
+  "where": "L12",
+  "ref_deps": [
+   "E0028"
+  ],
+  "person": "P012",
+  "src": "L12",
+  "dest": "L02"
+ },
+ {
+  "id": "E0227",
+  "type": "GIVE",
+  "chapter": 21,
+  "text": "Rira won the bone chalice from the husband of Rira Stenworth at cards, fairly, and kept it.",
+  "where": "L06",
+  "ref_deps": [
+   "E0008",
+   "E0130"
+  ],
+  "item": "I01",
+  "src": "P034",
+  "dest": "P046"
+ },
+ {
+  "id": "E0228",
+  "type": "GIVE",
+  "chapter": 21,
+  "text": "Fetho Hollmere sent the amber mirror by carrier to Conar Hollett, who received it safely.",
+  "where": "L12",
+  "ref_deps": [],
+  "item": "I00",
+  "src": "P018",
+  "dest": "P010"
+ },
+ {
+  "id": "E0229",
+  "type": "MARRY",
+  "chapter": 21,
+  "text": "Thiena Hollwood and Maric Lindson were wed at Gulton, with half the parish looking on. The couple lived in Gulton from then on.",
+  "where": "L05",
+  "ref_deps": [],
+  "a": "P031",
+  "b": "P041",
+  "place": "L05"
+ },
+ {
+  "id": "E0230",
+  "type": "TRAVEL",
+  "chapter": 21,
+  "text": "After the quarrel, Fedette Orlwood quit Gulton for good and took lodgings in Bryngate.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P006",
+  "src": "L05",
+  "dest": "L00"
+ },
+ {
+  "id": "E0231",
+  "type": "TRAVEL",
+  "chapter": 21,
+  "text": "Madrek Orlwood followed her to Bryngate within the month.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P005",
+  "src": "L05",
+  "dest": "L00"
+ },
+ {
+  "id": "E0232",
+  "type": "TRAVEL",
+  "chapter": 21,
+  "text": "Maric Lindson found work in Bryngate, moved there, and did not return to Gulton.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P041",
+  "src": "L05",
+  "dest": "L00"
+ },
+ {
+  "id": "E0233",
+  "type": "TRAVEL",
+  "chapter": 21,
+  "text": "Thiena Hollwood went along to live in Bryngate as well.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P031",
+  "src": "L05",
+  "dest": "L00"
+ },
+ {
+  "id": "E0234",
+  "type": "RESOLVE",
+  "chapter": 22,
+  "text": "Madrek Orlwood never did keep the promise made to Ilena Orlwood (rebuild the fallen wall at Fenmere); the matter was abandoned.",
+  "where": "L00",
+  "ref_deps": [],
+  "promise": "R02",
+  "kept": false
+ },
+ {
+  "id": "E0235",
+  "type": "BIRTH",
+  "chapter": 22,
+  "text": "A daughter was born to Orvie Hollett and Rozek Hollwood, and they called the child Hamira Hollwood. The family lived in Mirecombe.",
+  "where": "L07",
+  "ref_deps": [],
+  "child": "P067",
+  "mother": "P013",
+  "father": "P052",
+  "place": "L07"
+ },
+ {
+  "id": "E0236",
+  "type": "BIRTH",
+  "chapter": 22,
+  "text": "A son was born to Nynelle Stenworth and Halan Hollwood, and they called the child Ilrald Hollwood. The family lived in Coldcombe.",
+  "where": "L01",
+  "ref_deps": [],
+  "child": "P068",
+  "mother": "P047",
+  "father": "P029",
+  "place": "L01"
+ },
+ {
+  "id": "E0237",
+  "type": "RUMOR",
+  "chapter": 22,
+  "text": "Orrine Stenworth told everyone at the inn that Madan Brackwood had drowned crossing the estuary, though no body was ever seen.",
+  "where": "L01",
+  "ref_deps": [],
+  "teller": "P044",
+  "claim": {
+   "kind": "dead",
+   "target": "P035"
+  }
+ },
+ {
+  "id": "E0238",
+  "type": "TELL",
+  "chapter": 22,
+  "text": "Late one night Fedette Orlwood confided to the only daughter of Senelle Brackwood that the bridge toll at Salwick is skimmed every month.",
+  "where": "L00",
+  "ref_deps": [
+   "E0006"
+  ],
+  "secret": "S07",
+  "src": "P006",
+  "dest": "P037"
+ },
+ {
+  "id": "E0239",
+  "type": "TRAVEL",
+  "chapter": 22,
+  "text": "Tassa Brackwood left Bryngate and settled in Yarlton.",
+  "where": "L00",
+  "ref_deps": [],
+  "person": "P037",
+  "src": "L00",
+  "dest": "L15"
+ },
+ {
+  "id": "E0240",
+  "type": "TRAVEL",
+  "chapter": 22,
+  "text": "Colan Lindson followed her to Yarlton within the month.",
+  "where": "L00",
+  "ref_deps": [],
+  "person": "P038",
+  "src": "L00",
+  "dest": "L15"
+ },
+ {
+  "id": "E0241",
+  "type": "TELL",
+  "chapter": 22,
+  "text": "Fedette could keep it no longer and told Feena Stenworth that the Lindson family once owed a blood debt to the Hollmere family.",
+  "where": "L00",
+  "ref_deps": [
+   "E0001"
+  ],
+  "secret": "S01",
+  "src": "P006",
+  "dest": "P045"
+ },
+ {
+  "id": "E0242",
+  "type": "DEATH",
+  "chapter": 22,
+  "text": "Orrine Stenworth died of a kick from a cart horse at Coldcombe.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P044",
+  "cause": "a kick from a cart horse",
+  "place": "L01"
+ },
+ {
+  "id": "E0243",
+  "type": "GIVE",
+  "chapter": 22,
+  "text": "A parcel from Orvie reached Halan Hollett; inside was the jade ring, now his to keep.",
+  "where": "L07",
+  "ref_deps": [
+   "E0002"
+  ],
+  "item": "I08",
+  "src": "P013",
+  "dest": "P012"
+ },
+ {
+  "id": "E0244",
+  "type": "TELL",
+  "chapter": 23,
+  "text": "Late one night Daena confided to the husband of Ridette Lindson that the bridge toll at Salwick is skimmed every month.",
+  "where": "L09",
+  "ref_deps": [
+   "E0009",
+   "E0107"
+  ],
+  "secret": "S07",
+  "src": "P049",
+  "dest": "P025"
+ },
+ {
+  "id": "E0245",
+  "type": "BIRTH",
+  "chapter": 23,
+  "text": "Quiet Jolia gave birth to a daughter, named Manelle Corrett; the father was Thidrek Corrett. The family lived in Dunwick.",
+  "where": "L03",
+  "ref_deps": [
+   "E0031"
+  ],
+  "child": "P069",
+  "mother": "P015",
+  "father": "P023",
+  "place": "L03"
+ },
+ {
+  "id": "E0246",
+  "type": "TRAVEL",
+  "chapter": 23,
+  "text": "Thidrek Corrett packed a single trunk and moved from Dunwick to Fenmere.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P023",
+  "src": "L03",
+  "dest": "L04"
+ },
+ {
+  "id": "E0247",
+  "type": "TRAVEL",
+  "chapter": 23,
+  "text": "Jolia Hollett went along to live in Fenmere as well.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P015",
+  "src": "L03",
+  "dest": "L04"
+ },
+ {
+  "id": "E0248",
+  "type": "GIVE",
+  "chapter": 23,
+  "text": "Jotho the Younger won the iron chalice from Eldette Corrett at cards, fairly, and kept it.",
+  "where": "L09",
+  "ref_deps": [
+   "E0040"
+  ],
+  "item": "I04",
+  "src": "P022",
+  "dest": "P025"
+ },
+ {
+  "id": "E0249",
+  "type": "TELL",
+  "chapter": 23,
+  "text": "Late one night Lutho Hollmere confided to Ulvie that the Lindson family once owed a blood debt to the Hollmere family.",
+  "where": "L12",
+  "ref_deps": [
+   "E0005"
+  ],
+  "secret": "S01",
+  "src": "P016",
+  "dest": "P030"
+ },
+ {
+  "id": "E0250",
+  "type": "BIRTH",
+  "chapter": 23,
+  "text": "Jolia Hollett gave birth to a daughter, named Aera Corrett; the father was Thidrek Corrett. The family lived in Fenmere.",
+  "where": "L04",
+  "ref_deps": [],
+  "child": "P070",
+  "mother": "P015",
+  "father": "P023",
+  "place": "L04"
+ },
+ {
+  "id": "E0251",
+  "type": "MARRY",
+  "chapter": 23,
+  "text": "Before the winter was out, Elnar Brackwood took Nynelle Hollmere in marriage at Fenmere. The couple lived in Fenmere from then on.",
+  "where": "L04",
+  "ref_deps": [],
+  "a": "P032",
+  "b": "P019",
+  "place": "L04"
+ },
+ {
+  "id": "E0252",
+  "type": "TRAVEL",
+  "chapter": 23,
+  "text": "After the quarrel, Brenelle Brackwood quit Mirecombe for good and took lodgings in Dunholt.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P057",
+  "src": "L07",
+  "dest": "L02"
+ },
+ {
+  "id": "E0253",
+  "type": "OCCUPATION",
+  "chapter": 24,
+  "text": "Cotho Hollwood gave up being a mason and took work as a cooper.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P028",
+  "old": "mason",
+  "new": "cooper"
+ },
+ {
+  "id": "E0254",
+  "type": "TELL",
+  "chapter": 24,
+  "text": "Cotho Hollwood could keep it no longer and told Orbin Stenworth that the Lindson family once owed a blood debt to the Hollmere family.",
+  "where": "L01",
+  "ref_deps": [],
+  "secret": "S01",
+  "src": "P028",
+  "dest": "P043"
+ },
+ {
+  "id": "E0255",
+  "type": "RESOLVE",
+  "chapter": 24,
+  "text": "Pebin Wexwood broke faith with Nynelle Hollmere, and the promised work (repair the roof of the chapel at Salford) was never begun.",
+  "where": "L06",
+  "ref_deps": [],
+  "promise": "R12",
+  "kept": false
+ },
+ {
+  "id": "E0256",
+  "type": "TELL",
+  "chapter": 24,
+  "text": "Late one night Orbin Stenworth confided to Halan Hollwood that the Lindson family once owed a blood debt to the Hollmere family.",
+  "where": "L01",
+  "ref_deps": [],
+  "secret": "S01",
+  "src": "P043",
+  "dest": "P029"
+ },
+ {
+  "id": "E0257",
+  "type": "OCCUPATION",
+  "chapter": 24,
+  "text": "Thiena Hollwood was apprenticed anew and became a ferryman.",
+  "where": "L00",
+  "ref_deps": [
+   "E0229"
+  ],
+  "person": "P031",
+  "old": "cooper",
+  "new": "ferryman"
+ },
+ {
+  "id": "E0258",
+  "type": "TRAVEL",
+  "chapter": 24,
+  "text": "Maric Lindson rode out of Bryngate; by the next market day he was living in Coldcombe.",
+  "where": "L00",
+  "ref_deps": [],
+  "person": "P041",
+  "src": "L00",
+  "dest": "L01"
+ },
+ {
+  "id": "E0259",
+  "type": "TRAVEL",
+  "chapter": 24,
+  "text": "Thiena Hollwood went along to live in Coldcombe as well.",
+  "where": "L00",
+  "ref_deps": [],
+  "person": "P031",
+  "src": "L00",
+  "dest": "L01"
+ },
+ {
+  "id": "E0260",
+  "type": "TELL",
+  "chapter": 24,
+  "text": "In a letter that Old Maric burned after reading, the eldest son of Mazek Hollwood revealed that the Lindson family once owed a blood debt to the Hollmere family.",
+  "where": "L01",
+  "ref_deps": [
+   "E0005",
+   "E0055"
+  ],
+  "secret": "S01",
+  "src": "P028",
+  "dest": "P041"
+ },
+ {
+  "id": "E0261",
+  "type": "PLAN",
+  "chapter": 24,
+  "text": "Madan Brackwood talked for weeks of going to Bryngate, yet in the end stayed where he was.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P035",
+  "dest": "L00"
+ },
+ {
+  "id": "E0262",
+  "type": "GIVE",
+  "chapter": 25,
+  "text": "A parcel from the youngest son of Dadette Lindner reached Fetho Hollmere; inside was the pewter chalice, now his to keep.",
+  "where": "L07",
+  "ref_deps": [
+   "E0000"
+  ],
+  "item": "I10",
+  "src": "P004",
+  "dest": "P018"
+ },
+ {
+  "id": "E0263",
+  "type": "TRAVEL",
+  "chapter": 25,
+  "text": "Orbin Stenworth left Coldcombe and settled in Mirecombe.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P043",
+  "src": "L01",
+  "dest": "L07"
+ },
+ {
+  "id": "E0264",
+  "type": "MARRY",
+  "chapter": 25,
+  "text": "Before the summer was out, Daric Brackwood took Nyrine in marriage at Mirecombe. The couple lived in Mirecombe from then on.",
+  "where": "L07",
+  "ref_deps": [
+   "E0009"
+  ],
+  "a": "P055",
+  "b": "P050",
+  "place": "L07"
+ },
+ {
+  "id": "E0265",
+  "type": "OCCUPATION",
+  "chapter": 25,
+  "text": "Wevie was apprenticed anew and became a brewer.",
+  "where": "L07",
+  "ref_deps": [
+   "E0000"
+  ],
+  "person": "P002",
+  "old": "weaver",
+  "new": "brewer"
+ },
+ {
+  "id": "E0266",
+  "type": "GIVE",
+  "chapter": 25,
+  "text": "The husband of Ridette Lindson gave the garnet mirror to Feten Lindner.",
+  "where": "L09",
+  "ref_deps": [
+   "E0107"
+  ],
+  "item": "I02",
+  "src": "P025",
+  "dest": "P003"
+ },
+ {
+  "id": "E0267",
+  "type": "TRAVEL",
+  "chapter": 25,
+  "text": "Daena packed a single trunk and moved from Quenwick to Staveton.",
+  "where": "L09",
+  "ref_deps": [
+   "E0009"
+  ],
+  "person": "P049",
+  "src": "L09",
+  "dest": "L13"
+ },
+ {
+  "id": "E0268",
+  "type": "TRAVEL",
+  "chapter": 25,
+  "text": "Ilzek Wexwood followed her to Staveton within the month.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P048",
+  "src": "L09",
+  "dest": "L13"
+ },
+ {
+  "id": "E0269",
+  "type": "MARRY",
+  "chapter": 26,
+  "text": "In the chapel at Salford, Aessa Hollwood married Ellan Lindner. The couple lived in Salford from then on.",
+  "where": "L10",
+  "ref_deps": [],
+  "a": "P027",
+  "b": "P004",
+  "place": "L10"
+ },
+ {
+  "id": "E0270",
+  "type": "DEATH",
+  "chapter": 26,
+  "text": "That autumn, old age, quietly in sleep took Isbin Hollwood; he was buried at Gulton.",
+  "where": "L05",
+  "ref_deps": [],
+  "person": "P056",
+  "cause": "old age, quietly in sleep",
+  "place": "L05"
+ },
+ {
+  "id": "E0271",
+  "type": "MARRY",
+  "chapter": 26,
+  "text": "Nylis Corrett and Orbin Stenworth were wed at Mirecombe, with half the parish looking on. The couple lived in Mirecombe from then on.",
+  "where": "L07",
+  "ref_deps": [],
+  "a": "P053",
+  "b": "P043",
+  "place": "L07"
+ },
+ {
+  "id": "E0272",
+  "type": "BIRTH",
+  "chapter": 26,
+  "text": "Breena Orlwood gave birth to a son, named Orric Wexwood; the father was Pebin Wexwood. The family lived in Harrowgate.",
+  "where": "L06",
+  "ref_deps": [],
+  "child": "P071",
+  "mother": "P009",
+  "father": "P051",
+  "place": "L06"
+ },
+ {
+  "id": "E0273",
+  "type": "DEATH",
+  "chapter": 26,
+  "text": "Islan died of the coughing sickness at Staveton.",
+  "where": "L13",
+  "ref_deps": [
+   "E0000"
+  ],
+  "person": "P000",
+  "cause": "the coughing sickness",
+  "place": "L13"
+ },
+ {
+  "id": "E0274",
+  "type": "GIVE",
+  "chapter": 26,
+  "text": "Among the things left by Islan Lindner, the glass comb was handed to Wevie Lindner.",
+  "where": "L13",
+  "ref_deps": [],
+  "item": "I03",
+  "src": "P000",
+  "dest": "P002",
+  "inherit": true
+ },
+ {
+  "id": "E0275",
+  "type": "BIRTH",
+  "chapter": 26,
+  "text": "A son was born to Wevie Lindner and Madan Brackwood, and they called the child Lubin Brackwood. The family lived in Mirecombe.",
+  "where": "L07",
+  "ref_deps": [],
+  "child": "P072",
+  "mother": "P002",
+  "father": "P035",
+  "place": "L07"
+ },
+ {
+  "id": "E0276",
+  "type": "TRAVEL",
+  "chapter": 26,
+  "text": "Brenelle rode out of Dunholt; by the next market day she was living in Dunwick.",
+  "where": "L02",
+  "ref_deps": [
+   "E0161"
+  ],
+  "person": "P057",
+  "src": "L02",
+  "dest": "L03"
+ },
+ {
+  "id": "E0277",
+  "type": "TELL",
+  "chapter": 27,
+  "text": "Eldette Corrett could keep it no longer and told Feten that the bridge toll at Salwick is skimmed every month.",
+  "where": "L09",
+  "ref_deps": [
+   "E0000"
+  ],
+  "secret": "S07",
+  "src": "P022",
+  "dest": "P003"
+ },
+ {
+  "id": "E0278",
+  "type": "PLAN",
+  "chapter": 27,
+  "text": "Isnar meant to go to Gulton before the frost, but the roads flooded and the journey was put off.",
+  "where": "L07",
+  "ref_deps": [
+   "E0168"
+  ],
+  "person": "P059",
+  "dest": "L05"
+ },
+ {
+  "id": "E0279",
+  "type": "TRAVEL",
+  "chapter": 27,
+  "text": "After the quarrel, Wevie Lindner quit Mirecombe for good and took lodgings in Salmere.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P002",
+  "src": "L07",
+  "dest": "L11"
+ },
+ {
+  "id": "E0280",
+  "type": "TRAVEL",
+  "chapter": 27,
+  "text": "Madan Brackwood followed her to Salmere within the month.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P035",
+  "src": "L07",
+  "dest": "L11"
+ },
+ {
+  "id": "E0281",
+  "type": "GIVE",
+  "chapter": 27,
+  "text": "Isnar Brackwood won the amber mirror from Conar Hollett at cards, fairly, and kept it.",
+  "where": "L07",
+  "ref_deps": [],
+  "item": "I00",
+  "src": "P010",
+  "dest": "P059"
+ },
+ {
+  "id": "E0282",
+  "type": "TRAVEL",
+  "chapter": 27,
+  "text": "Orbin found work in Staveton, moved there, and did not return to Mirecombe.",
+  "where": "L07",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P043",
+  "src": "L07",
+  "dest": "L13"
+ },
+ {
+  "id": "E0283",
+  "type": "TRAVEL",
+  "chapter": 27,
+  "text": "Nylis Corrett went along to live in Staveton as well.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P053",
+  "src": "L07",
+  "dest": "L13"
+ },
+ {
+  "id": "E0284",
+  "type": "BIRTH",
+  "chapter": 28,
+  "text": "A daughter was born to Orvie Hollett and Rozek Hollwood, and they called the child Rimira Hollwood. The family lived in Mirecombe.",
+  "where": "L07",
+  "ref_deps": [],
+  "child": "P073",
+  "mother": "P013",
+  "father": "P052",
+  "place": "L07"
+ },
+ {
+  "id": "E0285",
+  "type": "TELL",
+  "chapter": 28,
+  "text": "Madrek could keep it no longer and told Cotho Brackwood that the bridge toll at Salwick is skimmed every month.",
+  "where": "L00",
+  "ref_deps": [
+   "E0001"
+  ],
+  "secret": "S07",
+  "src": "P005",
+  "dest": "P036"
+ },
+ {
+  "id": "E0286",
+  "type": "TELL",
+  "chapter": 28,
+  "text": "Late one night Madrek Orlwood confided to Rorine Lindson that the deed to the Bryngate pastures was forged.",
+  "where": "L00",
+  "ref_deps": [],
+  "secret": "S05",
+  "src": "P005",
+  "dest": "P063"
+ },
+ {
+  "id": "E0287",
+  "type": "TRAVEL",
+  "chapter": 28,
+  "text": "Feena Stenworth found work in Coldcombe, moved there, and did not return to Bryngate.",
+  "where": "L00",
+  "ref_deps": [],
+  "person": "P045",
+  "src": "L00",
+  "dest": "L01"
+ },
+ {
+  "id": "E0288",
+  "type": "TRAVEL",
+  "chapter": 28,
+  "text": "Cotho Brackwood went along to live in Coldcombe as well.",
+  "where": "L00",
+  "ref_deps": [],
+  "person": "P036",
+  "src": "L00",
+  "dest": "L01"
+ },
+ {
+  "id": "E0289",
+  "type": "TELL",
+  "chapter": 28,
+  "text": "Madrek Orlwood could keep it no longer and told Movie that the bridge toll at Salwick is skimmed every month.",
+  "where": "L00",
+  "ref_deps": [
+   "E0007"
+  ],
+  "secret": "S07",
+  "src": "P005",
+  "dest": "P040"
+ },
+ {
+  "id": "E0290",
+  "type": "PLAN",
+  "chapter": 28,
+  "text": "Fedette Orlwood meant to go to Miremere before the frost, but the roads flooded and the journey was put off.",
+  "where": "L00",
+  "ref_deps": [],
+  "person": "P006",
+  "dest": "L08"
+ },
+ {
+  "id": "E0291",
+  "type": "PROMISE",
+  "chapter": 28,
+  "text": "Thiena Hollwood swore to Halan Hollwood to plant an orchard on the slope above Quenwick, and shook on it.",
+  "where": "L01",
+  "ref_deps": [],
+  "promise": "R14",
+  "a": "P031",
+  "b": "P029",
+  "act": "to plant an orchard on the slope above Quenwick"
+ },
+ {
+  "id": "E0292",
+  "type": "GIVE",
+  "chapter": 29,
+  "text": "The youngest daughter of Aessa Hollwood pressed the iron ledger into the hands of Cotho Brackwood and would take nothing for it.",
+  "where": "L01",
+  "ref_deps": [
+   "E0005"
+  ],
+  "item": "I05",
+  "src": "P031",
+  "dest": "P036"
+ },
+ {
+  "id": "E0293",
+  "type": "PROMISE",
+  "chapter": 29,
+  "text": "Rorine gave Movie Lindson a solemn promise to teach the children of Coldcombe their letters.",
+  "where": "L00",
+  "ref_deps": [
+   "E0196"
+  ],
+  "promise": "R15",
+  "a": "P063",
+  "b": "P040",
+  "act": "to teach the children of Coldcombe their letters"
+ },
+ {
+  "id": "E0294",
+  "type": "TRAVEL",
+  "chapter": 29,
+  "text": "Rorine Lindson packed a single trunk and moved from Bryngate to Mirecombe.",
+  "where": "L00",
+  "ref_deps": [],
+  "person": "P063",
+  "src": "L00",
+  "dest": "L07"
+ },
+ {
+  "id": "E0295",
+  "type": "PROMISE",
+  "chapter": 29,
+  "text": "Fedette gave the husband of Fedette Orlwood a solemn promise to rebuild the fallen wall at Harrowgate.",
+  "where": "L00",
+  "ref_deps": [
+   "E0001"
+  ],
+  "promise": "R16",
+  "a": "P006",
+  "b": "P005",
+  "act": "to rebuild the fallen wall at Harrowgate"
+ },
+ {
+  "id": "E0296",
+  "type": "DEATH",
+  "chapter": 29,
+  "text": "They laid Ilzek Wexwood in the churchyard at Staveton, dead of a long wasting sickness.",
+  "where": "L13",
+  "ref_deps": [],
+  "person": "P048",
+  "cause": "a long wasting sickness",
+  "place": "L13"
+ },
+ {
+  "id": "E0297",
+  "type": "GIVE",
+  "chapter": 29,
+  "text": "Cotho Brackwood pressed the iron ledger into the hands of the wife of Halan Hollwood and would take nothing for it.",
+  "where": "L01",
+  "ref_deps": [
+   "E0015"
+  ],
+  "item": "I05",
+  "src": "P036",
+  "dest": "P047"
+ },
+ {
+  "id": "E0298",
+  "type": "MARRY",
+  "chapter": 29,
+  "text": "In the chapel at Bryngate, Movie Lindson married Ortho Corrett. The couple lived in Bryngate from then on.",
+  "where": "L00",
+  "ref_deps": [],
+  "a": "P040",
+  "b": "P060",
+  "place": "L00"
+ },
+ {
+  "id": "E0299",
+  "type": "GIVE",
+  "chapter": 30,
+  "text": "The eldest daughter of Nyvie Hollett won the amber mirror from Isnar Brackwood at cards, fairly, and kept it.",
+  "where": "L07",
+  "ref_deps": [
+   "E0002"
+  ],
+  "item": "I00",
+  "src": "P059",
+  "dest": "P013"
+ },
+ {
+  "id": "E0300",
+  "type": "BIRTH",
+  "chapter": 30,
+  "text": "Rira gave birth to a daughter, named Neena Brackwood; the father was Jovus Brackwood. The family lived in Harrowgate.",
+  "where": "L06",
+  "ref_deps": [
+   "E0008"
+  ],
+  "child": "P074",
+  "mother": "P046",
+  "father": "P034",
+  "place": "L06"
+ },
+ {
+  "id": "E0301",
+  "type": "GIVE",
+  "chapter": 30,
+  "text": "Eldette Corrett won the garnet mirror from Feten at cards, fairly, and kept it.",
+  "where": "L09",
+  "ref_deps": [
+   "E0000"
+  ],
+  "item": "I02",
+  "src": "P003",
+  "dest": "P022"
+ },
+ {
+  "id": "E0302",
+  "type": "TRAVEL",
+  "chapter": 30,
+  "text": "Ridette packed a single trunk and moved from Quenwick to Coldcombe.",
+  "where": "L09",
+  "ref_deps": [
+   "E0007"
+  ],
+  "person": "P042",
+  "src": "L09",
+  "dest": "L01"
+ },
+ {
+  "id": "E0303",
+  "type": "TRAVEL",
+  "chapter": 30,
+  "text": "Jotho Corrett followed her to Coldcombe within the month.",
+  "where": "L09",
+  "ref_deps": [],
+  "person": "P025",
+  "src": "L09",
+  "dest": "L01"
+ },
+ {
+  "id": "E0304",
+  "type": "PLAN",
+  "chapter": 30,
+  "text": "Feten Lindner talked for weeks of going to Dunwick, yet in the end stayed where he was.",
+  "where": "L09",
+  "ref_deps": [
+   "E0000"
+  ],
+  "person": "P003",
+  "dest": "L03"
+ },
+ {
+  "id": "E0305",
+  "type": "GIVE",
+  "chapter": 30,
+  "text": "Jotho Corrett gave the iron chalice to Halan Hollwood.",
+  "where": "L01",
+  "ref_deps": [],
+  "item": "I04",
+  "src": "P025",
+  "dest": "P029"
+ },
+ {
+  "id": "E0306",
+  "type": "GIVE",
+  "chapter": 30,
+  "text": "Rira Stenworth pressed the bone chalice into the hands of Red Jovus and would take nothing for it.",
+  "where": "L06",
+  "ref_deps": [
+   "E0048"
+  ],
+  "item": "I01",
+  "src": "P046",
+  "dest": "P034"
+ },
+ {
+  "id": "E0307",
+  "type": "RESOLVE",
+  "chapter": 30,
+  "text": "Fedette Orlwood broke faith with Madrek Orlwood, and the promised work (rebuild the fallen wall at Harrowgate) was never begun.",
+  "where": "L00",
+  "ref_deps": [],
+  "promise": "R16",
+  "kept": false
+ },
+ {
+  "id": "E0308",
+  "type": "PROMISE",
+  "chapter": 31,
+  "text": "Conar Hollett gave Daric a solemn promise to repair the roof of the chapel at Dunwick.",
+  "where": "L07",
+  "ref_deps": [
+   "E0149"
+  ],
+  "promise": "R17",
+  "a": "P010",
+  "b": "P055",
+  "act": "to repair the roof of the chapel at Dunwick"
+ },
+ {
+  "id": "E0309",
+  "type": "OCCUPATION",
+  "chapter": 31,
+  "text": "Cobin Corrett was apprenticed anew and became a scribe.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P020",
+  "old": null,
+  "new": "scribe"
+ },
+ {
+  "id": "E0310",
+  "type": "GIVE",
+  "chapter": 31,
+  "text": "Nynelle Stenworth gave the iron ledger to the wife of Cotho Brackwood.",
+  "where": "L01",
+  "ref_deps": [
+   "E0124"
+  ],
+  "item": "I05",
+  "src": "P047",
+  "dest": "P045"
+ },
+ {
+  "id": "E0311",
+  "type": "TELL",
+  "chapter": 31,
+  "text": "In a letter that Isnar Brackwood burned after reading, Feten Lindner revealed that the bridge toll at Salwick is skimmed every month.",
+  "where": "L09",
+  "ref_deps": [],
+  "secret": "S07",
+  "src": "P003",
+  "dest": "P059"
+ },
+ {
+  "id": "E0312",
+  "type": "MARRY",
+  "chapter": 31,
+  "text": "Halan Hollett and Eldette were wed at Dunholt, with half the parish looking on. The couple lived in Dunholt from then on.",
+  "where": "L02",
+  "ref_deps": [
+   "E0004"
+  ],
+  "a": "P012",
+  "b": "P022",
+  "place": "L02"
+ },
+ {
+  "id": "E0313",
+  "type": "RUMOR",
+  "chapter": 32,
+  "text": "Aessa Hollwood told everyone at the inn that Thidrek Corrett had drowned crossing the estuary, though no body was ever seen.",
+  "where": "L10",
+  "ref_deps": [],
+  "teller": "P027",
+  "claim": {
+   "kind": "dead",
+   "target": "P023"
+  }
+ },
+ {
+  "id": "E0314",
+  "type": "RESOLVE",
+  "chapter": 32,
+  "text": "Pebin Wexwood never did keep the promise made to Breena Orlwood (teach the children of Wilhaven their letters); the matter was abandoned.",
+  "where": "L06",
+  "ref_deps": [],
+  "promise": "R13",
+  "kept": false
+ },
+ {
+  "id": "E0315",
+  "type": "TELL",
+  "chapter": 32,
+  "text": "Late one night Fetho Hollmere confided to Brenelle that the Lindson family once owed a blood debt to the Hollmere family.",
+  "where": "L12",
+  "ref_deps": [
+   "E0161"
+  ],
+  "secret": "S01",
+  "src": "P018",
+  "dest": "P057"
+ },
+ {
+  "id": "E0316",
+  "type": "PROMISE",
+  "chapter": 32,
+  "text": "The only son of Brevie Hollmere gave Ulvie Hollwood a solemn promise to carry a sealed letter to Gulton.",
+  "where": "L12",
+  "ref_deps": [
+   "E0003"
+  ],
+  "promise": "R18",
+  "a": "P018",
+  "b": "P030",
+  "act": "to carry a sealed letter to Gulton"
+ },
+ {
+  "id": "E0317",
+  "type": "TRAVEL",
+  "chapter": 32,
+  "text": "After the quarrel, Ridette quit Coldcombe for good and took lodgings in Yarlton.",
+  "where": "L01",
+  "ref_deps": [
+   "E0007"
+  ],
+  "person": "P042",
+  "src": "L01",
+  "dest": "L15"
+ },
+ {
+  "id": "E0318",
+  "type": "TRAVEL",
+  "chapter": 32,
+  "text": "Jotho Corrett followed her to Yarlton within the month.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P025",
+  "src": "L01",
+  "dest": "L15"
+ },
+ {
+  "id": "E0319",
+  "type": "TRAVEL",
+  "chapter": 32,
+  "text": "After the quarrel, Cotho Brackwood quit Coldcombe for good and took lodgings in Fenmere.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P036",
+  "src": "L01",
+  "dest": "L04"
+ },
+ {
+  "id": "E0320",
+  "type": "TRAVEL",
+  "chapter": 32,
+  "text": "Feena followed him to Fenmere within the month.",
+  "where": "L01",
+  "ref_deps": [
+   "E0008"
+  ],
+  "person": "P045",
+  "src": "L01",
+  "dest": "L04"
+ },
+ {
+  "id": "E0321",
+  "type": "RESOLVE",
+  "chapter": 33,
+  "text": "The wife of Rozek Hollwood broke faith with Feten Lindner, and the promised work (rebuild the fallen wall at Dunholt) was never begun.",
+  "where": "L07",
+  "ref_deps": [
+   "E0190"
+  ],
+  "promise": "R05",
+  "kept": false
+ },
+ {
+  "id": "E0322",
+  "type": "BIRTH",
+  "chapter": 33,
+  "text": "Nylis Corrett gave birth to a son, named Garald Stenworth; the father was Orbin Stenworth. The family lived in Staveton.",
+  "where": "L13",
+  "ref_deps": [],
+  "child": "P075",
+  "mother": "P053",
+  "father": "P043",
+  "place": "L13"
+ },
+ {
+  "id": "E0323",
+  "type": "GIVE",
+  "chapter": 33,
+  "text": "Red Jovus gave the bone chalice to the wife of Jovus Brackwood.",
+  "where": "L06",
+  "ref_deps": [
+   "E0048",
+   "E0130"
+  ],
+  "item": "I01",
+  "src": "P034",
+  "dest": "P046"
+ },
+ {
+  "id": "E0324",
+  "type": "MARRY",
+  "chapter": 33,
+  "text": "Before the summer was out, Cotho Hollwood took Gamira Brackwood in marriage at Coldcombe. The couple lived in Coldcombe from then on.",
+  "where": "L01",
+  "ref_deps": [],
+  "a": "P028",
+  "b": "P064",
+  "place": "L01"
+ },
+ {
+  "id": "E0325",
+  "type": "PROMISE",
+  "chapter": 33,
+  "text": "The only son of Islis Lindson swore to Cotho Hollwood to teach the children of Wilhaven their letters, and shook on it.",
+  "where": "L01",
+  "ref_deps": [
+   "E0007"
+  ],
+  "promise": "R19",
+  "a": "P041",
+  "b": "P028",
+  "act": "to teach the children of Wilhaven their letters"
+ },
+ {
+  "id": "E0326",
+  "type": "BIRTH",
+  "chapter": 33,
+  "text": "A son was born to Nynelle Hollmere and Elnar Brackwood, and they called the child Nydan Brackwood. The family lived in Fenmere.",
+  "where": "L04",
+  "ref_deps": [],
+  "child": "P076",
+  "mother": "P019",
+  "father": "P032",
+  "place": "L04"
+ },
+ {
+  "id": "E0327",
+  "type": "BIRTH",
+  "chapter": 34,
+  "text": "A daughter was born to Thiena Hollwood and Maric Lindson, and they called the child Elnelle Lindson. The family lived in Coldcombe.",
+  "where": "L01",
+  "ref_deps": [],
+  "child": "P077",
+  "mother": "P031",
+  "father": "P041",
+  "place": "L01"
+ },
+ {
+  "id": "E0328",
+  "type": "TELL",
+  "chapter": 34,
+  "text": "Late one night Feten Lindner confided to Aessa Hollwood that a chest of silver lies buried beneath the well at Mirecombe.",
+  "where": "L09",
+  "ref_deps": [],
+  "secret": "S06",
+  "src": "P003",
+  "dest": "P027"
+ },
+ {
+  "id": "E0329",
+  "type": "TRAVEL",
+  "chapter": 34,
+  "text": "Rira Stenworth packed a single trunk and moved from Harrowgate to Yarlton.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P046",
+  "src": "L06",
+  "dest": "L15"
+ },
+ {
+  "id": "E0330",
+  "type": "TRAVEL",
+  "chapter": 34,
+  "text": "Red Jovus followed her to Yarlton within the month.",
+  "where": "L06",
+  "ref_deps": [
+   "E0048"
+  ],
+  "person": "P034",
+  "src": "L06",
+  "dest": "L15"
+ },
+ {
+  "id": "E0331",
+  "type": "PROMISE",
+  "chapter": 34,
+  "text": "Fedette Orlwood swore to Ortho Corrett to repair the roof of the chapel at Miremere, and shook on it.",
+  "where": "L00",
+  "ref_deps": [],
+  "promise": "R20",
+  "a": "P006",
+  "b": "P060",
+  "act": "to repair the roof of the chapel at Miremere"
+ },
+ {
+  "id": "E0332",
+  "type": "RUMOR",
+  "chapter": 34,
+  "text": "Ortho told everyone at the inn that Nynelle Stenworth had drowned crossing the estuary, though no body was ever seen.",
+  "where": "L00",
+  "ref_deps": [
+   "E0170"
+  ],
+  "teller": "P060",
+  "claim": {
+   "kind": "dead",
+   "target": "P047"
+  }
+ },
+ {
+  "id": "E0333",
+  "type": "RUMOR",
+  "chapter": 34,
+  "text": "A rumor started by Fedette had it that Daena Wexwood was dead of plague; Fedette had it from a peddler.",
+  "where": "L00",
+  "ref_deps": [
+   "E0001"
+  ],
+  "teller": "P006",
+  "claim": {
+   "kind": "dead",
+   "target": "P049"
+  }
+ },
+ {
+  "id": "E0334",
+  "type": "GIVE",
+  "chapter": 35,
+  "text": "Halan Hollwood gave the iron chalice to Cotho Hollwood.",
+  "where": "L01",
+  "ref_deps": [],
+  "item": "I04",
+  "src": "P029",
+  "dest": "P028"
+ },
+ {
+  "id": "E0335",
+  "type": "TRAVEL",
+  "chapter": 35,
+  "text": "After the quarrel, Daena quit Staveton for good and took lodgings in Dunholt.",
+  "where": "L13",
+  "ref_deps": [
+   "E0009"
+  ],
+  "person": "P049",
+  "src": "L13",
+  "dest": "L02"
+ },
+ {
+  "id": "E0336",
+  "type": "TELL",
+  "chapter": 35,
+  "text": "Ulvie could keep it no longer and told Hamira Hollwood that the Lindson family once owed a blood debt to the Hollmere family.",
+  "where": "L12",
+  "ref_deps": [
+   "E0005"
+  ],
+  "secret": "S01",
+  "src": "P030",
+  "dest": "P067"
+ },
+ {
+  "id": "E0337",
+  "type": "DEATH",
+  "chapter": 35,
+  "text": "That winter, old age, quietly in sleep took Wevie Lindner; she was buried at Salmere.",
+  "where": "L11",
+  "ref_deps": [],
+  "person": "P002",
+  "cause": "old age, quietly in sleep",
+  "place": "L11"
+ },
+ {
+  "id": "E0338",
+  "type": "GIVE",
+  "chapter": 35,
+  "text": "The glass comb, which Wevie Lindner had owned, went to Madan.",
+  "where": "L11",
+  "ref_deps": [
+   "E0006"
+  ],
+  "item": "I03",
+  "src": "P002",
+  "dest": "P035",
+  "inherit": true
+ },
+ {
+  "id": "E0339",
+  "type": "PROMISE",
+  "chapter": 35,
+  "text": "The eldest son of Aessa Hollwood swore to Halan Hollwood to teach the children of Fenmere their letters, and shook on it.",
+  "where": "L01",
+  "ref_deps": [
+   "E0005"
+  ],
+  "promise": "R21",
+  "a": "P028",
+  "b": "P029",
+  "act": "to teach the children of Fenmere their letters"
+ },
+ {
+  "id": "E0340",
+  "type": "OCCUPATION",
+  "chapter": 35,
+  "text": "Halan Hollwood gave up being a shepherd and took work as a weaver.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P029",
+  "old": "shepherd",
+  "new": "weaver"
+ },
+ {
+  "id": "E0341",
+  "type": "TRAVEL",
+  "chapter": 35,
+  "text": "Thiena Hollwood rode out of Coldcombe; by the next market day she was living in Gulton.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P031",
+  "src": "L01",
+  "dest": "L05"
+ },
+ {
+  "id": "E0342",
+  "type": "TRAVEL",
+  "chapter": 35,
+  "text": "Maric Lindson went along to live in Gulton as well.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P041",
+  "src": "L01",
+  "dest": "L05"
+ },
+ {
+  "id": "E0343",
+  "type": "PROMISE",
+  "chapter": 35,
+  "text": "Cotho Hollwood gave Nynelle Stenworth a solemn promise to repair the roof of the chapel at Harrowgate.",
+  "where": "L01",
+  "ref_deps": [],
+  "promise": "R22",
+  "a": "P028",
+  "b": "P047",
+  "act": "to repair the roof of the chapel at Harrowgate"
+ },
+ {
+  "id": "E0344",
+  "type": "TELL",
+  "chapter": 36,
+  "text": "Late one night Fedette Orlwood confided to Ortho Corrett that the Lindson family once owed a blood debt to the Hollmere family.",
+  "where": "L00",
+  "ref_deps": [],
+  "secret": "S01",
+  "src": "P006",
+  "dest": "P060"
+ },
+ {
+  "id": "E0345",
+  "type": "TELL",
+  "chapter": 36,
+  "text": "Late one night Isnar Brackwood confided to Hamira Hollwood that the bridge toll at Salwick is skimmed every month.",
+  "where": "L07",
+  "ref_deps": [],
+  "secret": "S07",
+  "src": "P059",
+  "dest": "P067"
+ },
+ {
+  "id": "E0346",
+  "type": "TRAVEL",
+  "chapter": 36,
+  "text": "Dalde Brackwood rode out of Dunholt; by the next market day she was living in Harrowgate.",
+  "where": "L02",
+  "ref_deps": [],
+  "person": "P058",
+  "src": "L02",
+  "dest": "L06"
+ },
+ {
+  "id": "E0347",
+  "type": "TELL",
+  "chapter": 36,
+  "text": "Late one night Cotho Hollwood confided to Gamira that the fire at the Salford granary was set on purpose.",
+  "where": "L01",
+  "ref_deps": [
+   "E0199"
+  ],
+  "secret": "S03",
+  "src": "P028",
+  "dest": "P064"
+ },
+ {
+  "id": "E0348",
+  "type": "TRAVEL",
+  "chapter": 36,
+  "text": "Halan Hollwood rode out of Coldcombe; by the next market day he was living in Gulton.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P029",
+  "src": "L01",
+  "dest": "L05"
+ },
+ {
+  "id": "E0349",
+  "type": "TRAVEL",
+  "chapter": 36,
+  "text": "Nynelle Stenworth went along to live in Gulton as well.",
+  "where": "L01",
+  "ref_deps": [],
+  "person": "P047",
+  "src": "L01",
+  "dest": "L05"
+ },
+ {
+  "id": "E0350",
+  "type": "OCCUPATION",
+  "chapter": 36,
+  "text": "Nylis Corrett was apprenticed anew and became a ferryman.",
+  "where": "L13",
+  "ref_deps": [],
+  "person": "P053",
+  "old": null,
+  "new": "ferryman"
+ },
+ {
+  "id": "E0351",
+  "type": "OCCUPATION",
+  "chapter": 36,
+  "text": "Orbin Stenworth gave up idleness and took work as a fisher.",
+  "where": "L13",
+  "ref_deps": [],
+  "person": "P043",
+  "old": null,
+  "new": "fisher"
+ },
+ {
+  "id": "E0352",
+  "type": "BIRTH",
+  "chapter": 36,
+  "text": "Movie Lindson gave birth to a son, named Karic Corrett; the father was Ortho Corrett. The family lived in Bryngate.",
+  "where": "L00",
+  "ref_deps": [],
+  "child": "P078",
+  "mother": "P040",
+  "father": "P060",
+  "place": "L00"
+ },
+ {
+  "id": "E0353",
+  "type": "TRAVEL",
+  "chapter": 37,
+  "text": "Pebin Wexwood left Harrowgate and settled in Bryngate.",
+  "where": "L06",
+  "ref_deps": [],
+  "person": "P051",
+  "src": "L06",
+  "dest": "L00"
+ },
+ {
+  "id": "E0354",
+  "type": "TRAVEL",
+  "chapter": 37,
+  "text": "Breena followed him to Bryngate within the month.",
+  "where": "L06",
+  "ref_deps": [
+   "E0001"
+  ],
+  "person": "P009",
+  "src": "L06",
+  "dest": "L00"
+ },
+ {
+  "id": "E0355",
+  "type": "PROMISE",
+  "chapter": 37,
+  "text": "Dalde gave Rorine a solemn promise to teach the children of Salwick their letters.",
+  "where": "L06",
+  "ref_deps": [
+   "E0164",
+   "E0196"
+  ],
+  "promise": "R23",
+  "a": "P058",
+  "b": "P063",
+  "act": "to teach the children of Salwick their letters"
+ },
+ {
+  "id": "E0356",
+  "type": "BIRTH",
+  "chapter": 37,
+  "text": "Ulvie Hollwood gave birth to a son, named Jonar Hollmere; the father was Fetho Hollmere. The family lived in Salwick.",
+  "where": "L12",
+  "ref_deps": [],
+  "child": "P079",
+  "mother": "P030",
+  "father": "P018",
+  "place": "L12"
+ },
+ {
+  "id": "E0357",
+  "type": "PROMISE",
+  "chapter": 37,
+  "text": "Orvie Hollett swore to Aewyn to plant an orchard on the slope above Yarlton, and shook on it.",
+  "where": "L07",
+  "ref_deps": [
+   "E0178"
+  ],
+  "promise": "R24",
+  "a": "P013",
+  "b": "P061",
+  "act": "to plant an orchard on the slope above Yarlton"
+ },
+ {
+  "id": "E0358",
+  "type": "BIRTH",
+  "chapter": 37,
+  "text": "A daughter was born to Ridette Lindson and Jotho Corrett, and they called the child Wewyn Corrett. The family lived in Yarlton.",
+  "where": "L15",
+  "ref_deps": [],
+  "child": "P080",
+  "mother": "P042",
+  "father": "P025",
+  "place": "L15"
+ },
+ {
+  "id": "E0359",
+  "type": "BIRTH",
+  "chapter": 37,
+  "text": "Eldette gave birth to a son, named Jozek Hollett; the father was Halan Hollett. The family lived in Dunholt.",
+  "where": "L02",
+  "ref_deps": [
+   "E0004"
+  ],
+  "child": "P081",
+  "mother": "P022",
+  "father": "P012",
+  "place": "L02"
+ },
+ {
+  "id": "E0360",
+  "type": "TRAVEL",
+  "chapter": 37,
+  "text": "After the quarrel, Daena quit Dunholt for good and took lodgings in Miremere.",
+  "where": "L02",
+  "ref_deps": [
+   "E0009"
+  ],
+  "person": "P049",
+  "src": "L02",
+  "dest": "L08"
+ },
+ {
+  "id": "E0361",
+  "type": "MARRY",
+  "chapter": 37,
+  "text": "Before the summer was out, Brenelle took Feten Lindner in marriage at Dunwick. The couple lived in Dunwick from then on.",
+  "where": "L03",
+  "ref_deps": [
+   "E0161"
+  ],
+  "a": "P057",
+  "b": "P003",
+  "place": "L03"
+ },
+ {
+  "id": "E0362",
+  "type": "RUMOR",
+  "chapter": 38,
+  "text": "Halan Hollett told everyone at the inn that Conar Hollett had drowned crossing the estuary, though no body was ever seen.",
+  "where": "L02",
+  "ref_deps": [],
+  "teller": "P012",
+  "claim": {
+   "kind": "dead",
+   "target": "P010"
+  }
+ },
+ {
+  "id": "E0363",
+  "type": "GIVE",
+  "chapter": 38,
+  "text": "The husband of Nynelle Stenworth pressed the pewter comb into the hands of Nynelle Stenworth and would take nothing for it.",
+  "where": "L05",
+  "ref_deps": [
+   "E0015"
+  ],
+  "item": "I11",
+  "src": "P029",
+  "dest": "P047"
+ },
+ {
+  "id": "E0364",
+  "type": "MARRY",
+  "chapter": 38,
+  "text": "Before the autumn was out, Ilrald Hollwood took Rorine Lindson in marriage at Coldcombe. The couple lived in Coldcombe from then on.",
+  "where": "L01",
+  "ref_deps": [],
+  "a": "P068",
+  "b": "P063",
+  "place": "L01"
+ },
+ {
+  "id": "E0365",
+  "type": "MARRY",
+  "chapter": 38,
+  "text": "Before the autumn was out, Thivie Brackwood took Lutho in marriage at Dunholt. The couple lived in Dunholt from then on.",
+  "where": "L02",
+  "ref_deps": [
+   "E0003"
+  ],
+  "a": "P054",
+  "b": "P016",
+  "place": "L02"
+ },
+ {
+  "id": "E0366",
+  "type": "BIRTH",
+  "chapter": 38,
+  "text": "A daughter was born to Nylis Corrett and Orbin Stenworth, and they called the child Rolde Stenworth. The family lived in Staveton.",
+  "where": "L13",
+  "ref_deps": [],
+  "child": "P082",
+  "mother": "P053",
+  "father": "P043",
+  "place": "L13"
+ },
+ {
+  "id": "E0367",
+  "type": "TRAVEL",
+  "chapter": 38,
+  "text": "After the quarrel, Manelle quit Dunwick for good and took lodgings in Salford.",
+  "where": "L03",
+  "ref_deps": [
+   "E0245"
+  ],
+  "person": "P069",
+  "src": "L03",
+  "dest": "L10"
+ },
+ {
+  "id": "E0368",
+  "type": "TRAVEL",
+  "chapter": 39,
+  "text": "Ridette Lindson found work in Mirecombe, moved there, and did not return to Yarlton.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P042",
+  "src": "L15",
+  "dest": "L07"
+ },
+ {
+  "id": "E0369",
+  "type": "TRAVEL",
+  "chapter": 39,
+  "text": "Jotho Corrett went along to live in Mirecombe as well.",
+  "where": "L15",
+  "ref_deps": [],
+  "person": "P025",
+  "src": "L15",
+  "dest": "L07"
+ },
+ {
+  "id": "E0370",
+  "type": "TRAVEL",
+  "chapter": 39,
+  "text": "Brenelle Brackwood left Dunwick and settled in Harrowgate.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P057",
+  "src": "L03",
+  "dest": "L06"
+ },
+ {
+  "id": "E0371",
+  "type": "TRAVEL",
+  "chapter": 39,
+  "text": "Feten Lindner followed her to Harrowgate within the month.",
+  "where": "L03",
+  "ref_deps": [],
+  "person": "P003",
+  "src": "L03",
+  "dest": "L06"
+ },
+ {
+  "id": "E0372",
+  "type": "RESOLVE",
+  "chapter": 39,
+  "text": "Dalde never did keep the promise made to Rorine Lindson (teach the children of Salwick their letters); the matter was abandoned.",
+  "where": "L06",
+  "ref_deps": [
+   "E0164"
+  ],
+  "promise": "R23",
+  "kept": false
+ },
+ {
+  "id": "E0373",
+  "type": "GIVE",
+  "chapter": 39,
+  "text": "A parcel from Eldette Corrett reached Colan; inside was the garnet mirror, now his to keep.",
+  "where": "L02",
+  "ref_deps": [
+   "E0007"
+  ],
+  "item": "I02",
+  "src": "P022",
+  "dest": "P038"
+ },
+ {
+  "id": "E0374",
+  "type": "PLAN",
+  "chapter": 39,
+  "text": "Tassa talked for weeks of going to Mirecombe, yet in the end stayed where she was.",
+  "where": "L15",
+  "ref_deps": [
+   "E0006"
+  ],
+  "person": "P037",
+  "dest": "L07"
+ },
+ {
+  "id": "E0375",
+  "type": "TELL",
+  "chapter": 39,
+  "text": "Ridette could keep it no longer and told the wife of Daric Brackwood that the harbor master of Harrowgate takes bribes.",
+  "where": "L07",
+  "ref_deps": [
+   "E0007",
+   "E0264"
+  ],
+  "secret": "S00",
+  "src": "P042",
+  "dest": "P050"
+ },
+ {
+  "id": "E0376",
+  "type": "MARRY",
+  "chapter": 39,
+  "text": "Daena Wexwood and Zanar Hollwood were wed at Miremere, with half the parish looking on. The couple lived in Miremere from then on.",
+  "where": "L08",
+  "ref_deps": [],
+  "a": "P049",
+  "b": "P062",
+  "place": "L08"
+ },
+ {
+  "id": "E0377",
+  "type": "GIVE",
+  "chapter": 40,
+  "text": "Fetho Hollmere pressed the pewter chalice into the hands of Ulvie Hollwood and would take nothing for it.",
+  "where": "L12",
+  "ref_deps": [],
+  "item": "I10",
+  "src": "P018",
+  "dest": "P030"
+ },
+ {
+  "id": "E0378",
+  "type": "PLAN",
+  "chapter": 40,
+  "text": "Ellan Lindner talked for weeks of going to Quenwick, yet in the end stayed where he was.",
+  "where": "L10",
+  "ref_deps": [
+   "E0020"
+  ],
+  "person": "P004",
+  "dest": "L09"
+ },
+ {
+  "id": "E0379",
+  "type": "RUMOR",
+  "chapter": 40,
+  "text": "Gossip from Nylis claimed Cotho Hollwood and Jolia Hollett had been wed in secret.",
+  "where": "L13",
+  "ref_deps": [
+   "E0097"
+  ],
+  "teller": "P053",
+  "claim": {
+   "kind": "married",
+   "target": "P028",
+   "other": "P015"
+  }
+ },
+ {
+  "id": "E0380",
+  "type": "RESOLVE",
+  "chapter": 40,
+  "text": "True to her word to Movie Lindson, Rorine finished what she had promised (teach the children of Coldcombe their letters).",
+  "where": "L01",
+  "ref_deps": [
+   "E0196"
+  ],
+  "promise": "R15",
+  "kept": true
+ },
+ {
+  "id": "E0381",
+  "type": "GIVE",
+  "chapter": 40,
+  "text": "Cotho Hollwood sent the iron chalice by carrier to Ortho Corrett, who received it safely.",
+  "where": "L01",
+  "ref_deps": [],
+  "item": "I04",
+  "src": "P028",
+  "dest": "P060"
+ },
+ {
+  "id": "E0382",
+  "type": "SEEN_ALIVE",
+  "chapter": 41,
+  "text": "Thidrek Corrett, whatever the gossips said, was seen hale and well at the summer fair in Fenmere.",
+  "where": "L04",
+  "ref_deps": [],
+  "person": "P023",
+  "place": "L04"
+ },
+ {
+  "id": "E0383",
+  "type": "SEEN_ALIVE",
+  "chapter": 41,
+  "text": "Conar Hollett, whatever the gossips said, was seen hale and well at the summer fair in Mirecombe.",
+  "where": "L07",
+  "ref_deps": [],
+  "person": "P010",
+  "place": "L07"
+ }
+]

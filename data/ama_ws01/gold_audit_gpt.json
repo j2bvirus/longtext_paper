@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "The command matches Step 5 exactly.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "The first observed “DEBUG: Fix executed” output appears at Step 77.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "Step 79 removes the debug condition and print statement.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "The escaping fix runs in the branch where the keyword is not in self._commentary_keywords.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ambiguous",
+  "reason": "Separate processes are reasonable, but the open-ended question supports other debugging steps too.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "wrong",
+  "reason": "Step 75 is the latest step showing failures before Step 82.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "Step 29 applied the escaping change between those observations.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "The original card value prints with two trailing single quotes.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "wrong",
+  "reason": "Step 75 runs a test script; the escaping replacement occurred at Step 29.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "wrong",
+  "reason": "Step 76 only adds debugging output; Step 29 introduced the escaping fix, and failures remain.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "These match the original observed failure lengths and the continuation-card explanation.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "The identified parsing cause and implemented escaping change match the trajectory, although full resolution was not demonstrated.",
+  "evidence": "whole trajectory"
+ }
+}

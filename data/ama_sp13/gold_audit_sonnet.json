@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "The step 20 query and the ages 12–18 match the trajectory.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "The timeouts at 14, 15, 19, 22 and 23, and the later EXISTS pivot at 26, are accurately described.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "The counterfactual reasoning is sound and consistent with the step 13 evidence.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "The step 12 sample values (Ids 519256 and 567011) are reported correctly.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "The preconditions are supported by steps 3, 4, 5, 12 and 13.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "The step 16 query counts rows per (death, code), so deaths with several matching codes would be overcounted, as the answer says.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "The observations match steps 20–24, and the proposed next plan is reasonable.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "Step 21 is the last step to return new size information, with COUNT(*) = 31185.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "The inference is supported by which queries succeeded and which timed out.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "The mapping of Black to code 2 (step 9) and the dropped RACE join in later queries are correct.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "wrong",
+  "reason": "The call counts are right, but the object count is wrong. The agent also opened DEATHRECORDS.json, ENTITYAXISCONDITIONS.json, ICD10CODE.json and RACE.json, so the total is 9, not 5, and DDL.csv is not the only file.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ambiguous",
+  "reason": "The minimal sequence ends with step 23 as sufficient, but step 23 timed out, so it is unproven.",
+  "evidence": "whole trajectory"
+ }
+}

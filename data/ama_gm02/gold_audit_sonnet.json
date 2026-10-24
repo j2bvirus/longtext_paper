@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "step 20 `left` reverses step 19 `right`; the step 20 state matches step 18.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "`down` then `right` is what the trajectory shows, and the step 10 position matches the described offset from the `stop` block. The strategic intent is speculative.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "wrong",
+  "reason": "the key is not pushable. At step 21→22 the agent walks onto the key's cell and the key stays put, so moving `down` would not push it.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "the step 38 and step 40 observations are identical.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ambiguous",
+  "reason": "there is no PUSH action, only moves, and the sequence also includes an extra `right` at step 21. The `is` block is 2 left at step 19, but the answer's framing is shaky.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ambiguous",
+  "reason": "the positions fit, but \"optimal\" and the key-manipulation strategy are speculation.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "wrong",
+  "reason": "the key is not a new object. At step 19 the agent stands on the key's cell, so it is hidden, and it reappears when the agent moves off.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "wrong",
+  "reason": "there is no diagonal-push mechanic. The step 10 shifts come from the agent's `right` move.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ambiguous",
+  "reason": "the \"policy value\" explanation is unsupported speculation, though the oscillation itself is real.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ambiguous",
+  "reason": "the sequence also includes `right` at step 21, so the agent does not end in its original position; the claim that nothing was relevant holds.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "wrong",
+  "reason": "the `left` at step 8 failed (the step 8 observation equals step 7), so it did not shift the agent into a new column.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "the paired opposite moves cancel out.",
+  "evidence": "whole trajectory"
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "The SQL quoted matches the step 11 query exactly.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "The step 21 query and its results (2796 and 90) are correct.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "Steps 11, 12 and 13 did surface the helmet strings in both equipment fields, including the passenger string.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "The counterfactual is reasoned correctly and notes that the sampled collisions had party_count = 1.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "The step 16 values 53, 18, 1 and 3 are correct.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "The four preconditions are consistent with the queries in the trajectory.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "ok",
+  "reason": "The preconditions listed are reasonable, and step 19 did introduce the mixed category.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "Deduplicating to one row per collision before summing is the sound approach.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ok",
+  "reason": "Step 22 gave the last coverage numbers (2791, 2252, 98).",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "The 53 versus 2796 and 2791 mismatch is supported by steps 16, 21 and 22.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "The counts match the trajectory: 16 SQL calls, 11 succeeded and 5 timed out, with PARTIES queried 15 times and COLLISIONS 9 times.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "wrong",
+  "reason": "The tiny denominators were not caused by party-level aggregation, since step 15 showed one party per collision. The cause was the join returning only 53 motorcycle collisions against 2796 in COLLISIONS.",
+  "evidence": "whole trajectory"
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "the left move at step 196 merges the two 8s in `[64,8,8,4]` into a 16 at (0,1).",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "the setup logic and the 8+4=12 reward are right, but the row labels for step 37 are off by one (it should be R1/R2).",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "down at step 12 would merge the column-3 4s for +8, and right set up the +8 merge at step 13.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "ok",
+  "reason": "the up at step 225 merged the two 4s in the last column into an 8 next to the existing 8, enabling the 16.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "the up at step 195 merged the 4s in column 2 (and the 2s in column 3, total 12), putting two 8s side by side.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "ok",
+  "reason": "same mechanism as Q0003, via the up at step 225.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "wrong",
+  "reason": "down gives +8 and right gives 0, but down is not the only rewarding move, because up also merges the column-3 4s for +8.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "same as Q0004; the 12 reward and the new 8 at (0,2) are correct.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "ambiguous",
+  "reason": "the new 2 at (0,2) is correct, but the justification is flawed because the spawn happens after the move and could not obstruct it.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "wrong",
+  "reason": "the set-up part is right, but the step 197 left was not fully compacted, since row 3 `[16,4,0,2]` shifted; it had no merge and so gave 0 reward.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "ok",
+  "reason": "step 38 had two vertical pairs (4,4 and 2,2) for 12, and step 40 had only the 4,4 pair for 8.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "a 4 spawned at (1,1) after step 39's move, and the right at step 40 slid it to (1,3).",
+  "evidence": "whole trajectory"
+ }
+}

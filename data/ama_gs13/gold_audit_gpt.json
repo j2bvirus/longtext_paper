@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "Step 0 contains the initial TikTok color search and identifies Razzmatazz and Splash, giving A=2 after excluding black and white.",
+  "evidence": "steps [0, 1, 13, 14]"
+ },
+ "Q0001": {
+  "label": "ok",
+  "reason": "Step 12 contains “Quick validation” and calculates Lx as 6202.4281.",
+  "evidence": "steps [11, 12, 13, 14]"
+ },
+ "Q0002": {
+  "label": "ambiguous",
+  "reason": "Both Steps 12 and 13 show differentiation yielding 2Ax, so the question does not identify a unique turn.",
+  "evidence": "steps [11, 12, 13, 14]"
+ },
+ "Q0003": {
+  "label": "ambiguous",
+  "reason": "Step 12 states L = 11 from 1811, whose first two digits are 18, but omitted earlier steps may have established L first.",
+  "evidence": "steps [11, 12, 13, 14]"
+ },
+ "Q0004": {
+  "label": "ok",
+  "reason": "Using C = 149.6 gives x = 3947.4/7 ≈ 563.9143, which rounds to 563.9.",
+  "evidence": "steps [4, 5, 6, 13, 14]"
+ },
+ "Q0005": {
+  "label": "not auditable",
+  "reason": "names no step",
+  "evidence": ""
+ },
+ "Q0006": {
+  "label": "ambiguous",
+  "reason": "Only one relevant search is shown; omitted steps prevent verifying the total of nine before the pivot.",
+  "evidence": "steps [0, 1, 2, 13, 14]"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "Step 11 saves the document at the stated path and cites the arXiv snippet returned by the search in Step 5.",
+  "evidence": "steps [4, 5, 6, 10, 11, 12, 13, 14]"
+ },
+ "Q0008": {
+  "label": "ambiguous",
+  "reason": "Step 13 completes Step 3, but the selected steps do not establish the total number of mark_step actions.",
+  "evidence": "steps [3, 13, 14]"
+ },
+ "Q0009": {
+  "label": "ok",
+  "reason": "The Key Findings section explicitly gives the average Filipino male height as 163.22 cm.",
+  "evidence": "steps [10, 11, 12, 13, 14]"
+ },
+ "Q0010": {
+  "label": "ambiguous",
+  "reason": "Shown sitemaps cover December 2023 and 2024 months, not July 2023; Step 12 confirms the fallback value but does not explicitly attribute it to Step 5’s arXiv snippet.",
+  "evidence": "steps [3, 5, 10, 12, 13, 14]"
+ },
+ "Q0011": {
+  "label": "ok",
+  "reason": "Step 11 documented the source gap and alternative height evidence; Step 12 justified using 150 cm to complete the equation and obtain 563.9.",
+  "evidence": "steps [10, 11, 12, 13, 14]"
+ }
+}

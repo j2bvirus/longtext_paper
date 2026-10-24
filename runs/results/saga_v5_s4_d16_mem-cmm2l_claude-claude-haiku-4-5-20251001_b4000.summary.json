@@ -1,0 +1,57 @@
+{
+ "name": "saga_v5_s4_d16_mem-cmm2l_claude-claude-haiku-4-5-20251001_b4000",
+ "n": 226,
+ "acc": 0.911504424778761,
+ "by_qtype": {
+  "ALIVE": 1.0,
+  "BIRTHPLACE": 0.958,
+  "EVER_VISITED": 1.0,
+  "GRANDPARENT": 0.471,
+  "KNOWS": 0.933,
+  "LOC_AT_EVENT": 0.941,
+  "LOC_NOW": 0.923,
+  "OCCUPATION_NOW": 1.0,
+  "OWNER_NOW": 0.75,
+  "OWNER_PREV": 1.0,
+  "PROMISE": 0.857,
+  "RULE_BRIDGE": 0.857,
+  "RULE_VAULT": 1.0,
+  "SPOUSE_NOW": 1.0
+ },
+ "mean_ctx_tokens": 3308.6283185840707,
+ "sum_in_tokens": 1070955,
+ "sum_out_tokens": 52850,
+ "sum_usd": 1.335205,
+ "sum_wall_s": 1198.3610632419586,
+ "build": {
+  "embed_tokens": 0,
+  "llm_in": 815228,
+  "llm_out": 123036,
+  "usd": 1.4304079999999995,
+  "wall_s": 9.522960424423218,
+  "llm_wall_s": 0.0,
+  "calls": 341,
+  "cached_build": true,
+  "idle": {
+   "llm_in": 0,
+   "llm_out": 0,
+   "usd": 0.0,
+   "calls": 0
+  },
+  "registry": 2076,
+  "persons": 883,
+  "refs_llm": 485,
+  "ungrounded": 110,
+  "refs_resolved": 569,
+  "refs_total": 732,
+  "lazy": {
+   "llm_in": 0,
+   "llm_out": 0,
+   "usd": 0.0,
+   "calls": 0
+  }
+ },
+ "record_tokens": 466845,
+ "n_chunks": 1960,
+ "mean_ev_recall": 0.922338043414818
+}

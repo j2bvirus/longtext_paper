@@ -1,0 +1,62 @@
+{
+ "Q0000": {
+  "label": "ok",
+  "reason": "The command exactly matches Step 7.",
+  "evidence": "whole trajectory"
+ },
+ "Q0001": {
+  "label": "wrong",
+  "reason": "Step 25 listed config references; Steps 14–15 located `_discover_files`, the method modified.",
+  "evidence": "whole trajectory"
+ },
+ "Q0002": {
+  "label": "ok",
+  "reason": "Before fixes, recursive mode processed `.a/foo.py` and reported lint violations, as Step 28 shows.",
+  "evidence": "whole trajectory"
+ },
+ "Q0003": {
+  "label": "wrong",
+  "reason": "Step 75 tested an already modified `_discover_files`; no `PyLinter.expand_files` method is shown.",
+  "evidence": "whole trajectory"
+ },
+ "Q0004": {
+  "label": "wrong",
+  "reason": "`_expand_files` was never modified, and recursive processing still used downstream expansion logic.",
+  "evidence": "whole trajectory"
+ },
+ "Q0005": {
+  "label": "wrong",
+  "reason": "Step 85 demonstrated regex `match` versus `search` behavior; discovery filtering had already been added.",
+  "evidence": "whole trajectory"
+ },
+ "Q0006": {
+  "label": "wrong",
+  "reason": "Step 85 revealed regex matching semantics, not that recursive mode bypassed ignore checks.",
+  "evidence": "whole trajectory"
+ },
+ "Q0007": {
+  "label": "ok",
+  "reason": "The agent inferred that recursive discovery used `_discover_files`, which lacked ignore filtering.",
+  "evidence": "whole trajectory"
+ },
+ "Q0008": {
+  "label": "wrong",
+  "reason": "Step 95 ran a direct test; the reused ignore helper was `_is_in_ignore_list_re`.",
+  "evidence": "whole trajectory"
+ },
+ "Q0009": {
+  "label": "wrong",
+  "reason": "Step 105 changed a reproduction script’s path pattern; it did not examine `should_analyze_file`.",
+  "evidence": "whole trajectory"
+ },
+ "Q0010": {
+  "label": "wrong",
+  "reason": "The agent modified `_discover_files` in `pylinter.py`, adding multiple checks using `_is_in_ignore_list_re`.",
+  "evidence": "whole trajectory"
+ },
+ "Q0011": {
+  "label": "wrong",
+  "reason": "No `_is_ignored` filter or edit to `expand_modules.py` occurred; the fix added filtering to `_discover_files`.",
+  "evidence": "whole trajectory"
+ }
+}
